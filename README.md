@@ -2,7 +2,7 @@
 
 Bu proje, **Microsoft Staj Programı - Aşama 1** kapsamında geliştirilmiş, tamamen yerel bilgisayar üzerinde (offline) çalışan bir **RAG (Retrieval-Augmented Generation)** belge soru-cevap asistanıdır.
 
-Proje, internet bağlantısına ihtiyaç duymadan, sağlanan seyahat, Wikipedia ve TripAdvisor verilerini analiz eder ve kullanıcı sorularına akıllı, bağlam tabanlı (context-aware) yanıtlar üretir.
+Proje, internet bağlantısına ihtiyaç duymadan, Wikipedia, Wikidata ve OpenStreetMap (Overpass API) üzerinden dinamik olarak çekilip derlenen geniş seyahat verilerini analiz eder ve kullanıcı sorularına akıllı, bağlam tabanlı (context-aware) yanıtlar üretir.
 
 ---
 
@@ -14,6 +14,12 @@ Bu proje, Microsoft'un modern yerel yapay zeka araçlarıyla klasik RAG mimarisi
 - **Sentence-Transformers (PyTorch & CUDA)**: Metnin anlamını sayısal vektörlerle (embedding) temsil etme ve RAG bellek aramasını sağlama.
 - **SQLite**: Belge metinlerini ve yüksek boyutlu embedding vektörlerini saklayan hafif, yerel veritabanı.
 - **Flask**: Modern, estetik ve kullanıcı dostu bir web sohbet arayüzü sunan Python kütüphanesi.
+
+### 🌐 Veri Toplama (Data Extraction)
+RAG sisteminin omurgasını oluşturan veriler, geliştirilen özel Python betikleriyle (script) dış kaynaklardan otomatik olarak çekilmiş ve temizlenmiştir:
+- **Wikipedia API (`wikipedia_loader.py`)**: Ülkelerin, şehirlerin ve turistik bölgelerin genel tarihi, kültürel ve coğrafi bilgilerini çekmek için kullanılmıştır.
+- **Wikidata (`test_wikidata.py`)**: Restoranlar, müzeler ve önemli lokasyonların yapılandırılmış (kategorik) verilerini sorgulamak için kullanılmıştır.
+- **OpenStreetMap / Overpass API (`fetch_overpass_data.py`)**: Dünya çapındaki spesifik turistik noktaların (Point of Interest) koordinat ve adres verilerini toplamak için kullanılmıştır.
 
 ### 📦 Kullanılan Python Kütüphaneleri
 Bu projenin çalışmasını sağlayan temel kütüphaneler şunlardır:
