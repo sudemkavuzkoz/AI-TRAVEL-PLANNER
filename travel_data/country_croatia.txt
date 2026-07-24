@@ -1,0 +1,989 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Croatia
+FILE_NAME: country_croatia.txt
+PROCESSED_DATE: 2026-07-22 15:45:07
+----------------
+
+# Croatia
+
+## General Overview
+Croatia, officially the Republic of Croatia, is a country in Central and Southeast Europe, on the coast of the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. The Croatian archipelago contains over 1,000 islands and islets, the largest overseas territory on the Adriatic Sea. Its capital, largest city and main cultural and economic centre is Zagreb. Major urban centers include Split, Rijeka, and Osijek. The country is composed of twenty counties spanning 56,594 square kilometres (21,851 square miles) within four administrative regions. Croatia has a population of nearly 3.9 million as of 2026.
+Croatian history began with the 6th century arrival of the Croats to Roman Illyria. Settled as two duchies a century later, Croatia was granted independence in 878 under Duke Branimir and elevated into a kingdom under King Tomislav in 925. The Trpimirović dynastic succession crisis placed Croatia into a personal union with Hungary in 1102. In 1527, amid Ottoman conflict, Croatia aligned with the Habsburg monarchy. It reorganized into the State of Slovenes, Croats, and Serbs before merging into the Kingdom of Yugoslavia in 1918. During World War II, most of Croatia was invaded by the Axis powers who installed a puppet state known as the Independent State of Croatia. A resistance movement restored sovereignty, emerging as the Socialist Republic of Croatia within the Socialist Federal Republic of Yugoslavia in 1943. Croatia declared independence from Yugoslavia in 1991, successfully fighting the War of Independence until 1995.
+Modern Croatia is a representative democracy with a prime minister, president, and unicameral parliament. Its constitution ensures separation of powers between the executive, legislative, and judicial branches. Croatian politics reflect a multi-party system. Croatia is part of many international organizations and forums including the European Union, United Nations, WTO, and NATO, among others. It exerts regional influence as a small power in Europe, particularly within neighboring Southeast Europe. Since 1999, the Croatian Armed Forces have deployed internationally for a variety of peacekeeping missions and military interventions. Croatia was elected to serve on the non-permanent seat of the UN Security Council from 2008 to 2009.
+A developed country, Croatia has an advanced economy considered high-income and dominated by its service, industrial, and agricultural sectors. Its tourism sector is prominent, generating significant economic activity across the country. Croatia has heavily invested in infrastructure, especially in transport routes and facilities along European corridors. An emerging energy power in Europe, it has strategic investments in liquefied natural gas, geothermal networks, and electric transport. It has extensive biodiversity, wildlife, and natural resources across its geography. Croatia provides social security, universal health care, and subsidized primary and secondary education while supporting culture through media and publishing.
+
+Etymology
+Croatia's non-native name derives from Medieval Latin Croātia, itself a derivation of North-West Slavic *Xərwate, by liquid metathesis from Common Slavic period *Xorvat, from proposed Proto-Slavic *Xъrvátъ which possibly comes from the 3rd-century Scytho-Sarmatian form attested in the Tanais Tablets as Χοροάθος (Khoroáthos.  Alternate forms are Khoróatos and Khoroúathos). The origin of the ethnonym is uncertain, but most probably is from Proto-Ossetian / Alanian *xurvæt- or *xurvāt-, in the meaning of "one who guards" ("guardian, protector").
+The oldest preserved record of the Croatian ethnonym's native variation *xъrvatъ is of the variable stem, attested in the Baška tablet in style zvъnъmirъ kralъ xrъvatъskъ ("Zvonimir, Croatian king"), while the Latin variation Croatorum is archaeologically confirmed on a church inscription found in Bijaći near Trogir dated to the end of the 8th or early 9th century. The presumably oldest stone inscription with fully preserved ethnonym is the 9th-century Branimir inscription found near Benkovac, where Duke Branimir is styled Dux Cruatorvm, likely dated between 879 and 892, during his rule. The Latin term Chroatorum is attributed to a charter of Duke Trpimir I of Croatia, dated to 852 in a 1568 copy of a lost original, but it is not certain if the original was found to be older than the Branimir inscription.
+
+History
+Prehistory and antiquity
+The area known as modern Croatia was inhabited throughout the prehistoric period. Neanderthal fossils dating to the middle Palaeolithic period were unearthed in northern Croatia, best presented at the Krapina site. Remnants of Neolithic and Chalcolithic cultures were found in all regions. The largest proportion of sites is in the valleys of northern Croatia. The most significant are Baden, Starčevo, and Vučedol cultures. Iron Age hosted the early Illyrian Hallstatt culture and the Celtic La Tène culture.
+The region of modern-day Croatia was settled by Illyrians and Liburnians, while the first Greek colonies were established on the islands of Hvar, Korčula, and Vis. In 9 AD, the territory of today's Croatia became part of the Roman Empire. Emperor Diocletian was native to the region. He had a large palace built in Split, to which he retired after abdicating in AD 305. During the 5th century, the last de jure Western Roman Emperor Julius Nepos ruled a small realm from the palace after fleeing Italy in 475.
+
+Middle Ages
+The Roman period ends with Avar and Croat invasions in the late 6th and first half of the 7th century and the destruction of almost all Roman towns. Roman survivors retreated to more favourable sites on the coast, islands, and mountains. The city of Dubrovnik was founded by such survivors from Epidaurum.
+The ethnogenesis of the Croats is a subject of scholarly discussion, reflecting the complexity of early medieval migrations and the integration of diverse populations. The predominant scholarly consensus, based on historical chronicles, proposes that the White Croats originated as a Slavic group that migrated from White Croatia during the Migration Period. Conversely, the Iranian theory proposes Sarmatian-Alanic origin of Proto-Croats, based on Tanais Tablets containing Ancient Greek inscriptions of given names Χορούαθος, Χοροάθος, and Χορόαθος (Khoroúathos, Khoroáthos, and Khoróathos) and their interpretation as anthroponyms related to the Croatian ethnonym.
+According to the work De Administrando Imperio written by 10th-century Byzantine Emperor Constantine VII, Croats settled in the Roman province of Dalmatia in the first half of the 7th century after they defeated the Avars. Although there exist some scholarly disputes about the account's reliability and interpretation, recent archaeological data has established that the migration and settlement of the Slavs/Croats was in the late 6th and early 7th century. Eventually, a dukedom was formed, Duchy of Croatia, ruled by Borna, as attested by chronicles of Einhard starting in 818. The record represents the first document of Croatian realms, vassal states of Francia at the time. Its neighbor to the North was Principality of Lower Pannonia, at the time ruled by duke Ljudevit who ruled the territories between the Drava and Sava rivers, centred from his fort at Sisak. This population and territory throughout history was tightly related and connected to Croats and Croatia.
+Christianisation of Croats began in the 7th century at the time of archon Porga of Croatia, initially probably encompassed only the elite and related people, but mostly finished by the 9th century. The Frankish overlordship ended during the reign of Mislav, or his successor Trpimir I. The native Croatian royal dynasty was founded by duke Trpimir I in the mid 9th century, who defeated the Byzantine and Bulgarian forces. The first native Croatian ruler recognised by the Pope was duke Branimir, who received papal recognition from Pope John VIII on 7 June 879. Tomislav was the first king of Croatia, noted as such in a letter of Pope John X in 925. Tomislav defeated Hungarian and Bulgarian invasions. The medieval Croatian kingdom reached its peak in the 11th century during the reigns of Petar Krešimir IV (1058–1074) and Dmitar Zvonimir (1075–1089). When Stjepan II died in 1091, ending the Trpimirović dynasty, Dmitar Zvonimir's brother-in-law Ladislaus I of Hungary claimed the Croatian crown. This led to a war and personal union with Hungary in 1102 under Coloman.
+
+Union with Hungary and Austria
+For the next four centuries, the Kingdom of Croatia was ruled by the Sabor (parliament) and a Ban (viceroy) appointed by the king. This period saw the rise of influential nobility such as the Frankopan and Šubić families to prominence, and ultimately numerous Bans from the two families. An increasing threat of Ottoman conquest and a struggle against the Republic of Venice for control of coastal areas ensued. The Venetians controlled most of Dalmatia by 1428, except the city-state of Dubrovnik, which became independent. Ottoman conquests led to the 1493 Battle of Krbava field and the 1526 Battle of Mohács, both ending in decisive Ottoman victories. King Louis II died at Mohács, and in 1527, the Croatian Parliament met in Cetin and chose Ferdinand I of the House of Habsburg as the new ruler of Croatia, under the condition that he protects Croatia against the Ottoman Empire while respecting its political rights.
+Following the decisive Ottoman victories, Croatia was split into civilian and military territories in 1538. The military territories became known as the Croatian Military Frontier and were under direct Habsburg control. Ottoman advances in Croatia continued until the 1593 Battle of Sisak, the first decisive Ottoman defeat, when borders stabilised. During the Great Turkish War (1683–1698), Slavonia was regained, but western Bosnia, which had been part of Croatia before the Ottoman conquest, remained outside Croatian control. The present-day border between the two countries is a remnant of this outcome. Dalmatia, the southern part of the border, was similarly defined by the Fifth and the Seventh Ottoman–Venetian Wars.
+The Ottoman wars drove demographic changes. During the 16th century, Croats from western and northern Bosnia, Lika, Krbava, the area between the rivers Una and Kupa, and especially from western Slavonia, migrated towards Austria. Present-day Burgenland Croats are direct descendants of these settlers. To replace the fleeing population, the Habsburgs encouraged Bosnians to provide military service in the Military Frontier. The Croatian Parliament supported King Charles III's Pragmatic Sanction and signed their own Pragmatic Sanction in 1712. Subsequently, the emperor pledged to respect all privileges and political rights of the Kingdom of Croatia, and Queen Maria Theresa made significant contributions to Croatian affairs, such as introducing compulsory education.
+
+Between 1797 and 1809, the First French Empire increasingly occupied the eastern Adriatic coastline and its hinterland, ending the Venetian and the Ragusan republics, establishing the Illyrian Provinces. In response, the Royal Navy blockaded the Adriatic Sea, leading to the Battle of Vis in 1811. The Illyrian provinces were captured by the Austrians in 1813 and absorbed by the Austrian Empire following the Congress of Vienna in 1815. This led to the formation of the Kingdom of Dalmatia and the restoration of the Croatian Littoral to the Kingdom of Croatia under one crown. The 1830s and 1840s featured romantic nationalism that inspired the Croatian National Revival, a political and cultural campaign advocating the unity of South Slavs within the empire. Its primary focus was establishing a standard language as a counterweight to Hungarian while promoting Croatian literature and culture. During the Hungarian Revolution of 1848, Croatia sided with Austria. Ban Josip Jelačić helped defeat the Hungarians in 1849 and ushered in a Germanisation policy. This is around the time that Nikola Tesla was born in Smiljan.
+By the 1860s, the failure of the policy became apparent, leading to the Austro-Hungarian Compromise of 1867. The creation of a personal union between the Austrian Empire and the Kingdom of Hungary followed. The treaty left Croatia's status to Hungary, which was resolved by the Croatian–Hungarian Settlement of 1868 when the kingdoms of Croatia and Slavonia were united. The Kingdom of Dalmatia remained under de facto Austrian control, while Rijeka retained the status of corpus separatum previously introduced in 1779. After Austria-Hungary occupied Bosnia and Herzegovina following the 1878 Treaty of Berlin, the Military Frontier was abolished. The Croatian and Slavonian sectors of the Frontier returned to Croatia in 1881, under provisions of the Croatian–Hungarian Settlement. Renewed efforts to reform Austria-Hungary, entailing federalisation with Croatia as a federal unit, were stopped by World War I.
+
+The World Wars and Yugoslavia
+On 29 October 1918, the Croatian Parliament (Sabor) declared independence and decided to join the newly formed State of Slovenes, Croats, and Serbs, which in turn entered into union with the Kingdom of Serbia on 4 December 1918 to form the Kingdom of Serbs, Croats, and Slovenes. The Croatian Parliament never ratified the union with Serbia and Montenegro. The 1921 constitution defining the country as a unitary state and abolition of Croatian Parliament and historical administrative divisions effectively ended Croatian autonomy.
+The new constitution was opposed by the most widely supported national political party—the Croatian Peasant Party (HSS) led by Stjepan Radić. The political situation deteriorated further as Radić was assassinated in the National Assembly by NRS member, Serbian nationalist politician Puniša Račić in 1928, culminating in King Alexander I's establishment of the 6 January Dictatorship in 1929. The dictatorship formally ended in 1931 when the king imposed a more unitary constitution. The HSS, now led by Vladko Maček, continued to advocate federalisation, resulting in the Cvetković–Maček Agreement of August 1939 and the autonomous Banovina of Croatia. The Yugoslav government retained control of defence, internal security, foreign affairs, trade, and transport while other matters were left to the Croatian Sabor and a crown-appointed Ban.
+
+In April 1941, Yugoslavia was invaded by Nazi Germany and Fascist Italy. Following the invasion, a German-Italian installed puppet state named the Independent State of Croatia (NDH) was established. Most of Croatia, Bosnia and Herzegovina, and the region of Syrmia were incorporated into this state. Parts of Dalmatia were annexed by Italy, Hungary annexed the northern Croatian regions of Baranja and Međimurje. The NDH regime was led by Ante Pavelić and the ultranationalist Ustaše, a fringe movement in pre-war Croatia. With German and Italian military and political support, the regime introduced racial laws and launched a genocide campaign against Serbs, Jews, and Roma. Many were imprisoned in concentration camps; the largest was the Jasenovac complex. Anti-fascist Croats were targeted by the regime as well. Several concentration camps (most notably the Rab, Gonars and Molat camps) were established in Italian-occupied territories, mostly for Slovenes and Croats. At the same time, the Yugoslav Royalist and Serbian nationalist Chetniks pursued a genocidal campaign against Croats and Muslims, aided by Italy. Nazi German forces committed crimes and reprisals against civilians in retaliation for Partisan actions, such as in the villages of Kamešnica and Lipa in 1944.
+
+A resistance movement emerged. On 22 June 1941, the 1st Sisak Partisan Detachment was formed near Sisak, the first military unit formed by a resistance movement in occupied Europe. That sparked the beginning of the Yugoslav Partisan movement, a communist, multi-ethnic anti-fascist resistance group led by Josip Broz Tito. In ethnic terms, Croats were the second-largest contributors to the Partisan movement after Serbs. In per capita terms, Croats contributed proportionately to their population within Yugoslavia. By May 1944 (according to Tito), Croats made up 30% of the Partisan's ethnic composition, despite making up 22% of the population. The movement grew fast, and at the Tehran Conference in December 1943, the Partisans gained recognition from the Allies.
+With Allied support in logistics, equipment, training and airpower, and with the assistance of Soviet troops taking part in the 1944 Belgrade Offensive, the Partisans gained control of Yugoslavia and the border regions of Italy and Austria by May 1945. Members of the NDH armed forces and other Axis troops, as well as civilians, were in retreat towards Austria. Following their surrender, many were killed in the Yugoslav death march of Nazi collaborators. In the following years, ethnic Germans faced persecution in Yugoslavia, and many were interned. The political aspirations of the Partisan movement were reflected in the State Anti-fascist Council for the National Liberation of Croatia, which developed in 1943 as the bearer of Croatian statehood and later transformed into the Parliament in 1945, and AVNOJ—its counterpart at the Yugoslav level.
+Based on the studies on wartime and post-war casualties by demographer Vladimir Žerjavić and statistician Bogoljub Kočović, a total of 295,000 people from the territory (not including territories ceded from Italy after the war) died, which amounted to 7.3% of the population, among whom were 125–137,000 Serbs, 118–124,000 Croats, 16–17,000 Jews, and 15,000 Roma. In addition, from areas joined to Croatia after the war, a total of 32,000 people died, among whom 16,000 were Italians and 15,000 were Croats. Approximately 200,000 Croats from the entirety of Yugoslavia (including Croatia) and abroad were killed in total throughout the war and its immediate aftermath, approximately 5.4% of the population.
+
+After World War II, Croatia became a single-party socialist federal unit of the SFR Yugoslavia, ruled by the Communists, but having a degree of autonomy within the federation. In 1967, Croatian authors and linguists published a Declaration on the Status and Name of the Croatian Standard Language demanding equal treatment for their language. The declaration contributed to a national movement seeking greater civil rights and redistribution of the Yugoslav economy, culminating in the Croatian Spring of 1971, which was suppressed by Yugoslav leadership. Still, the 1974 Yugoslav Constitution gave increased autonomy to federal units, basically fulfilling a goal of the Croatian Spring and providing a legal basis for independence of the federative constituents. At the same time, there was a substantial Croatian diaspora during the Cold War, which included efforts aimed at forming a government in exile.
+Following Tito's death in 1980, the political situation in Yugoslavia deteriorated. National tension was fanned by the 1986 SANU Memorandum and the 1989 coups in Vojvodina, Kosovo, and Montenegro. In January 1990, the Communist Party fragmented along national lines, with the Croatian faction demanding a looser federation. In the same year, the first multi-party elections were held in Croatia, while Franjo Tuđman's win exacerbated nationalist tensions. Some of the Serbs in Croatia left Sabor and declared autonomy of the unrecognised Republic of Serbian Krajina, intent on achieving independence from Croatia.
+
+Independence
+As tensions rose, Croatia declared independence on 25 June 1991. The full implementation of the declaration only came into effect after a three-month moratorium on the decision on 8 October 1991. In the meantime, tensions escalated into overt war when the Serbian-controlled Yugoslav People's Army (JNA) and various Serb paramilitary groups attacked Croatia. By the end of 1991, a high-intensity conflict fought along a wide front reduced Croatia's control to about two-thirds of its territory. Serb paramilitary groups then began a campaign of killing, terror, and expulsion of the Croats in the occupied territories, killing thousands of Croat civilians and expelling or displacing as many as 400,000–500,000 Croats and other non-Serbs from their homes. Serbs living in Croatian towns, especially those near the front lines, were subjected to various forms of discrimination. Croatian Serbs in Eastern and Western Slavonia and parts of the Krajina were forced to flee or were expelled by Croatian forces, though on a restricted scale and in lesser numbers. The Croatian Government publicly deplored these practices and sought to stop them, indicating that they were not a part of the Government's policy.
+On 15 January 1992, Croatia gained diplomatic recognition by the European Economic Community, followed by the United Nations. The war effectively ended in August 1995 with a decisive victory by Croatia; the event is commemorated each year on 5 August as Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders. Following the Croatian victory, about 200,000 Serbs from the self-proclaimed Republic of Serbian Krajina fled the region and hundreds of mainly elderly Serb civilians were killed in the aftermath of the military operation, often in revenge attacks, accompanied by looting, seizing or burning down of their property. Approximately half have returned since then. Some 19,000 Serb homes were subsequently settled by Croat refugees from Bosnia and Herzegovina. The remaining occupied areas were restored to Croatia following the Erdut Agreement of November 1995, concluding with the UNTAES mission in January 1998. Most sources number the war deaths at around 20,000.
+
+At the turn of the 21st century, Croatia experienced sustained economic growth as the nation democratized but struggled with public corruption and bouts of unemployment. The Croatian Parliament passed a set of constitutional amendments in November 2000 and March 2001 to convert from a bicameral to a unicameral body, later limiting presidential powers. Croatia joined the Partnership for Peace in May 2000 and the World Trade Organization in November 2000. It joined the military alliance NATO in April 2009. Croatia was elected to serve on the non-permanent seat of the UN Security Council from 2008 to 2009. Adversely impacted by the 2008 financial crisis, austerity measures led to widespread anti-government protests in 2009 and 2011. In the latter year, parliament was dissolved in May, with Croatian president Ivo Josipović calling for new elections to quell the protests by December. After successfully completing negotiations from 2004 to 2013, Croatia joined the European Union (EU) as its 28th member in July 2013.
+Croatia was affected by the 2015 European migrant crisis when Hungary's closure of borders with Serbia pushed over 700,000 refugees and migrants through Croatia. On 19 October 2016, Andrej Plenković began serving as the current Croatian Prime Minister. The most recent presidential elections, held on 12 January 2025, elected Zoran Milanović as president. In 2022, Croatia began the process to join the OECD, due to complete membership proceedings by 2026. The nation joined the Eurozone and Schengen Area in 2023, adopting the euro as its official currency.
+
+Geography
+Croatia is situated in Central and Southeast Europe, on the coast of the Adriatic Sea. Hungary is to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast and Slovenia to the northwest. It lies mostly between latitudes 42° and 47° N and longitudes 13° and 20° E. Part of the territory in the extreme south surrounding Dubrovnik is a practical exclave connected to the rest of the mainland by territorial waters, but separated on land by a short coastline strip belonging to Bosnia and Herzegovina around Neum. The Pelješac Bridge connects the exclave with mainland Croatia.
+The territory covers 56,594 square kilometres (21,851 square miles), consisting of 56,414 square kilometres (21,782 square miles) of land and 128 square kilometres (49 square miles) of water. It is the world's 127th largest country. Elevation ranges from the mountains of the Dinaric Alps with the highest point of the Dinara peak at 1,831 metres (6,007 feet) near the border with Bosnia and Herzegovina in the south to the shore of the Adriatic Sea which makes up its entire southwest border. Insular Croatia consists of over a thousand islands and islets varying in size, 48 of which are permanently inhabited. The largest islands are Cres and Krk, each of them having an area of around 405 square kilometres (156 square miles). It is the largest overseas territory on the Adriatic Sea.
+
+The hilly northern parts of Hrvatsko Zagorje and the flat plains of Slavonia in the east which is part of the Pannonian Basin are traversed by major rivers such as Danube, Drava, Kupa, and the Sava. The Danube, Europe's second longest river, runs through the city of Vukovar in the extreme east and forms part of the border with Vojvodina. The central and southern regions near the Adriatic coastline and islands consist of low mountains and forested highlands. Natural resources found in quantities significant enough for production include oil, coal, bauxite, low-grade iron ore, calcium, gypsum, natural asphalt, silica, mica, clays, salt, and hydropower. Karst topography makes up about half of Croatia and is especially prominent in the Dinaric Alps. Croatia hosts deep caves, 49 of which are deeper than 250 m (820.21 ft), 14 deeper than 500 m (1,640.42 ft) and three deeper than 1,000 m (3,280.84 ft). The  Plitvice lakes are a system of 16 lakes with waterfalls connecting them over dolomite and limestone cascades. The lakes are known for their distinctive colours, ranging from turquoise to mint green, grey or blue.
+
+Climate
+Most of Croatia has a moderately warm and rainy continental climate as defined by the Köppen climate classification. Mean monthly temperature ranges between −3 °C (27 °F) in January and 18 °C (64 °F) in July. The coldest parts of the country are Lika and Gorski Kotar featuring a snowy, forested climate at elevations above 1,200 metres (3,900 feet). The warmest areas are at the Adriatic coast and especially in its immediate hinterland characterised by Mediterranean climate, as the sea moderates temperature highs. Consequently, temperature peaks are more pronounced in continental areas.
+The lowest temperature of −35.5 °C (−31.9 °F) was recorded on 3 February 1919 in Čakovec, and the highest temperature of 42.8 °C (109.0 °F) was recorded on 4 August 1981 in Ploče. Mean annual precipitation ranges between 600 millimetres (24 inches) and 3,500 millimetres (140 inches) depending on geographic region and climate type. The least precipitation is recorded in the outer islands (Biševo, Lastovo, Svetac, Vis) and the eastern parts of Slavonia. However, in the latter case, rain occurs mostly during the growing season. The maximum precipitation levels are observed in the Dinaric Alps, in the Gorski Kotar peaks of Risnjak and Snježnik.
+Prevailing winds in the interior are light to moderate northeast or southwest, and in the coastal area, prevailing winds are determined by local features. Higher wind velocities are more often recorded in cooler months along the coast, generally as the cool northeasterly bura or less frequently as the warm southerly jugo. The sunniest parts are the outer islands, Hvar and Korčula, where more than 2700 hours of sunshine are recorded per year, followed by the middle and southern Adriatic Sea area in general, and northern Adriatic coast, all with more than 2,000 hours of sunshine per year.
+
+Biodiversity
+Croatia can be subdivided into ecoregions based on climate and geomorphology. The country is one of the richest in Europe in terms of biodiversity. Croatia has four types of biogeographical regions—the Mediterranean along the coast and in its immediate hinterland, Alpine in most of Lika and Gorski Kotar, Pannonian along Drava and Danube, and Continental in the remaining areas. The most significant are karst habitats which include submerged karst, such as Zrmanja and Krka canyons and tufa barriers, as well as underground habitats. The country contains three ecoregions: Dinaric Mountains mixed forests, Pannonian mixed forests, and Illyrian deciduous forests.
+The karst geology harbours approximately 7,000 caves and pits, some of which are the habitat of the only known aquatic cave vertebrate—the olm. Forests are abundant, covering 2,490,000 hectares (6,200,000 acres) or 44% of Croatian land area. Other habitat types include wetlands, grasslands, bogs, fens, scrub habitats, coastal and marine habitats.
+In terms of phytogeography, Croatia is a part of the Boreal Kingdom and is a part of Illyrian and Central European provinces of the Circumboreal Region and the Adriatic province of the Mediterranean Region. The World Wide Fund for Nature divides Croatia between three ecoregions—Pannonian mixed forests, Dinaric Mountains mixed forests and Illyrian deciduous forests.
+Croatia hosts 37,000 known plant and animal species, but their actual number is estimated to be between 50,000 and 100,000. More than a thousand species are endemic, especially in Velebit and Biokovo mountains, Adriatic islands and karst rivers. Legislation protects 1,131 species. The most serious threat is habitat loss and degradation. A further problem is presented by invasive alien species, especially Caulerpa taxifolia algae.
+Invasive algae are regularly monitored and removed to protect benthic habitat. Indigenous cultivated plant strains and domesticated animal breeds are numerous. They include five breeds of horses, five of cattle, eight of sheep, two of pigs, and one poultry. Indigenous breeds include nine that are endangered or critically endangered. Croatia has 444 protected areas, encompassing 9% of the country. Those include eight national parks, two strict reserves, and ten nature parks. The oldest national park in country is Plitvice Lakes National Park, a UNESCO World Heritage Site. Velebit Nature Park is a part of the UNESCO Man and the Biosphere Programme. The strict and special reserves, as well as the national and nature parks, are managed and protected by the central government, while other protected areas are managed by counties. In 2005, the National Ecological Network was set up, as the first step in the preparation of the EU accession and joining of the Natura 2000 network.
+
+Governance
+The Republic of Croatia is a unitary constitutional republic using a parliamentary system. Government powers in Croatia are legislative, executive, and judiciary powers. The president is the head of state, directly elected to a five-year term and is limited by the constitution to two terms. In addition to serving as commander-in-chief of the armed forces, the president has the procedural duty of appointing the prime minister with the parliament and has some influence on foreign policy.
+The government is headed by the prime minister, who is supported by deputy prime ministers and various ministers in charge of particular sectors. As the executive branch, it is responsible for proposing legislation and a budget, enforcing the laws, and guiding foreign and internal policies. The government is seated at Banski dvori in Zagreb.
+
+Law and judicial system
+A unicameral parliament – known as the Sabor – holds legislative power. The number of parliament members can vary from 100 to 160. They are elected by popular vote to serve four-year terms. Legislative sessions take place from 15 January to 15 July, and from 15 September to 15 December annually. The two largest political parties in Croatia are the Croatian Democratic Union (HDZ) and the Social Democratic Party of Croatia (SDP).
+Croatia has a civil law legal system in which law arises primarily from written statutes, with judges serving as implementers and not creators of law. Its development was largely influenced by German and Austrian legal systems. Croatian law is divided into two principal areas—private and public law. Before EU accession negotiations were completed, Croatian legislation had been fully harmonised with the community acquis.
+The main national courts are the Constitutional Court, which oversees violations of the Constitution, and the Supreme Court, which is the highest court of appeal. A variety of administrative, commercial, county, misdemeanor, and municipal courts handle cases in their respective domains. Cases falling within judicial jurisdiction are in the first instance decided by a single professional judge, while appeals are deliberated in mixed tribunals of professional judges. Lay magistrates also participate in trials. The State's Attorney Office is the judicial body constituted of public prosecutors empowered to instigate prosecution of perpetrators of offences. Law enforcement agencies are organised under the authority of the Ministry of the Interior which consist primarily of the national police force. Croatia's security service is the Security and Intelligence Agency (SOA).
+
+Foreign relations
+Croatia has established diplomatic relations with most world nations – 189 states in total – starting with Germany (1991) and most recently with Liberia (2024). It exerts influence as a small power in this region and within European international institutions. Since the 1990s, Croatia has had unresolved border disputes throughout Southeast Europe, namely with Serbia, Bosnia and Herzegovina, Montenegro, and Slovenia. It is a member of the United Nations (UN), the European Union, NATO, the Council of Europe, the Union for the Mediterranean, and the Schengen Area as well as the Eurozone. Modern Croatian foreign policy objectives include enhancing relations with neighbouring countries, developing international cooperation and promotion of the Croatian economy.
+It supports 57 embassies, 30 consulates and eight permanent diplomatic missions. Many international organisations have regional offices in Croatia, such as the European Bank for Reconstruction and Development (EBRD), International Organization for Migration (IOM), Organization for Security and Co-operation in Europe (OSCE), World Bank, World Health Organization (WHO), International Criminal Tribunal for the former Yugoslavia (ICTY), United Nations Development Programme (UNDP), United Nations High Commissioner for Refugees (UNHCR), and UNICEF.
+
+Croatian diaspora
+The diaspora consists of communities of ethnic Croats and Croatian citizens living outside Croatia. The largest diaspora is in the United States, with a large population across neighboring Southeast Europe. The country maintains extensive contact with Croatian communities abroad through administrative and financial support of cultural, sports activities, and economic initiatives. Croatia actively maintains foreign relations to strengthen and guarantee the rights of the Croatian minority abroad.
+
+Military
+The Armed Forces of Croatia (OSRH) consists of three service branches: the Croatian Army, the Croatian Navy and the Croatian Air Force. They are headed by the President of Croatia as commander-in-chief while defence policy is overseen by the Government of Croatia. The military supports the foreign policy of Croatia and international security initiatives. It is the sole military wing of the Military Security and Intelligence Agency (VSOA). The Armed Forces are spread across continental Croatia and capital city Zagreb, with the Navy largely based in Split. According to the 2025 Global Peace Index, Croatia is the 18th most peaceful country in the world.
+Since the Croatian War of Independence (1991–1995), the Armed Forces have played a key role in protecting territorial integrity. The military's first foreign deployment was in 2003 – the War in Afghanistan and Iraq War – later joining the military alliance NATO in 2009. Croatia maintains a close security and foreign intelligence relationship with NATO and the United States. The military has been deployed to various United Nations (UN), NATO and American-led missions around the world. Since joining the European Union (EU) in 2013, it became a part of the EU defence forces.
+The Armed Forces have seen significant militarization and modernization since the early 2020s due to regional geopolitical risk. Its deep integration within Europe and the U.S. has led to modern defence pacts and a robust defence industrial base. The Croatian military is among the most technologically advanced in Southeast Europe. Croatia has had military conscription since 2025, previously enacted from 1991 to 2008.
+
+Administrative divisions
+Croatia was first divided into counties in the Middle Ages. The divisions changed over time to reflect losses of territory to Ottoman conquest and subsequent liberation of the same territory, changes of the political status of Dalmatia, Dubrovnik, and Istria. The traditional division of the country into counties was abolished in the 1920s when the Kingdom of Serbs, Croats and Slovenes and the subsequent Kingdom of Yugoslavia introduced oblasts and banovinas respectively.
+Communist-ruled Croatia, as a constituent part of post-World War II Yugoslavia, abolished earlier divisions and introduced municipalities, subdividing Croatia into approximately one hundred municipalities. Counties were reintroduced in 1992 legislation, significantly altered in terms of territory relative to the pre-1920s subdivisions. In 1918, the Transleithanian part was divided into eight counties with their seats in Bjelovar, Gospić, Ogulin, Osijek, Požega, Varaždin, Vukovar, and Zagreb.
+Since 1992, Croatia has been divided into 20 counties and the capital city of Zagreb, the latter having the dual authority and legal status of a county and a city. County borders changed in some instances, last revised in 2006. The counties subdivide into 127 cities and 429 municipalities. Nomenclature of Territorial Units for Statistics (NUTS) division is performed in several tiers. NUTS 1 level considers the entire country in a single unit; three NUTS 2 regions come below that. Those are Northwest Croatia, Central and Eastern (Pannonian) Croatia, and Adriatic Croatia. The latter encompasses the counties along the Adriatic coast. Northwest Croatia includes Koprivnica-Križevci, Krapina-Zagorje, Međimurje, Varaždin, the city of Zagreb, and Zagreb counties and the Central and Eastern (Pannonian) Croatia includes the remaining areas—Bjelovar-Bilogora, Brod-Posavina, Karlovac, Osijek-Baranja, Požega-Slavonia, Sisak-Moslavina, Virovitica-Podravina, and Vukovar-Syrmia counties. Individual counties and the city of Zagreb also represent NUTS 3 level subdivision units in Croatia. The NUTS local administrative unit (LAU) divisions are two-tiered. LAU 1 divisions match the counties and the city of Zagreb in effect making those the same as NUTS 3 units, while LAU 2 subdivisions correspond to cities and municipalities.
+
+Economy
+Croatia has a highly developed mixed economy. It is one of the largest economies in Southeast Europe by nominal gross domestic product (GDP). It maintains a similarly high regional GDP-per-capita. It is an open economy with accommodative foreign policy, highly dependent on international trade in Europe. Within Croatia, economic development varies among its counties, with strongest growth in Central Croatia and its financial centre, Zagreb. It has a very high level of human development, low levels of income inequality, and a high quality of life. Croatia's labor market has been perennially inefficient, with an underdeveloped investment climate and an ineffective corporate and income tax system.
+
+Croatia's economic history is closely linked to its historic nation-building efforts. Its pre-industrial economy leveraged the country's geography and natural resources to guide agricultural growth. The 1800s saw a shipbuilding boom, railroading, and widespread industrialization. During the 1900s, Croatia entered into a planned economy (with socialism) in 1941 and a command economy (with communism) during World War II. It experienced rapid urbanization in the 1950s and decentralized in 1965, diversifying its economy before the independence of Croatia in 1990. The Croatian War of Independence (1991–95) curbed 21–25% of wartime GDP, leaving behind a developing transition economy.
+The modern Croatian economy is considered high-income, dominated by its tertiary service and industry sectors which account for 70% of GDP. Croatia is an emerging energy power in Europe, with strategic investments in liquefied natural gas (LNG), geothermal networks, and electric transport. It supports regional economic activity via transportation networks along the Adriatic Sea and throughout Pan-European corridors. Croatia has free-trade agreements with many world nations and is a part of the World Trade Organization (2000) and the EEA (2013). Croatia's largest trading partner was the rest of the European Union, led by Germany, Italy, and Slovenia. The nation has an emerging defence sector, with major manufacturers including HS Produkt and Đuro Đaković, among others.
+
+Tourism
+Tourism is a major industry and economic sector. It has historically represented a large component the country's economic output (GDP), routinely reaching 10% to 15% of total GDP. Croatia is deeply integrated with the European Union (EU), contributing to overall international tourism in Southeast Europe. Tourism is concentrated along the Adriatic coast and is strongly seasonal, peaking in July and August. The most frequented cities are Dubrovnik, Rovinj, Zagreb, Split, Poreč, Umag, and Zadar, respectively.
+The history of tourism in Croatia dates back to its time as part of Austria-Hungary when wealthy aristocrats would converge to the sea. Tourism expanded throughout the 1960s to the 1980s before the independence of Croatia in 1990 curbed tourism until the late-1990s. The 2000s saw a significant resurgence of Croatian tourism as it underwent nation-building with a particular emphasis on tourism revenue. By the late-2000s, Croatia became one of the most visited tourist destinations in the Mediterranean. A total of 20.2 million tourists visited Croatia in 2024.
+Eight areas in the country have been designated national parks and eleven as nature parks. There are ten World Heritage Sites and 116 Blue Flag beaches across the country. Factors of tourist interest are mainly culture, cuisine, history, fashion, architecture, art, religious sites and routes, nature, maritime access, and nightlife. Tourism has been partially supported by the Croatian film and television industries due to on-location filming. Inflation and overtourism has led to increased travel regulations and tourist costs since 2024. Eurostat estimated that nearly 55% of EU tourist accommodation is between Croatia (117,000) and neighboring Italy (230,000). In 2025, Croatia was the ninth-most-visited state in the EU and third-most-visited in Southern Europe.
+
+Infrastructure
+Motorways
+The motorway network was largely built in the late 1990s and the 2000s. As of December 2020, Croatia had completed 1,313.8 kilometres (816.4 miles) of motorways, connecting Zagreb to other regions and following various European routes and four Pan-European corridors. The busiest motorways are the A1, connecting Zagreb to Split and the A3, passing east to west through northwest Croatia and Slavonia.
+A widespread network of state roads in Croatia acts as motorway feeder roads while connecting major settlements. The high quality and safety levels of the Croatian motorway network were tested and confirmed by EuroTAP and EuroTest programmes.
+The construction of the 2.4-kilometre-long Pelješac Bridge connected the two-halves of Dubrovnik-Neretva County and shortened the route to the Pelješac peninsula and the islands of Korčula and Lastovo by more than 32 km. The construction of the bridge started in July 2018 after Croatian road operator Hrvatske ceste (HC) signed a 2.08 billion kuna deal for the works with a Chinese consortium led by China Road and Bridge Corporation (CRBC). The project was co-financed by the European Union with €357 million. The bridge was finished in July 2022, opening that same month.
+
+Railways
+Croatia has an extensive rail network spanning 2,604 kilometres (1,618 miles), including 984 kilometres (611 miles) of electrified railways and 254 kilometres (158 miles) of double track railways. The most significant railways in Croatia are within the Pan-European transport corridors Vb and X connecting Rijeka to Budapest and Ljubljana to Belgrade, both via Zagreb. In 2024, the European Investment Bank committed €400 million to support the revitalization of the railway system, focusing on green and digital transformations. In July 2024, a significant agreement was signed for the acquisition of six electro-diesel multiple units (EDMUs) to improve connectivity between Split and Zagreb. Valued at €57.3 million and financed through an EIB loan, this project is part of the broader initiative to modernize Croatia's railway infrastructure.
+
+Aviation
+Airports in Croatia are located and serves Dubrovnik, Osijek, Pula, Rijeka, Split, Zadar, and Zagreb. The largest and busiest is Franjo Tuđman Airport in Zagreb, followed by Saint Jerome Airport in Split, Ruđer Bošković Airport in Dubrovnik and Zadar Airport in Zadar, with annual passenger numbers exceeding one million respectively. Croatian airports in terms of passenger arrivals recorded more than 10 million tourists in 2018, 11 million in 2019 and 2023, 13 million in 2024. Airports in Croatia welcomed more than 14 million passengers in 2025. In July 2024, the airline took delivery of its first Airbus A220-300 aircraft, marking the beginning of a transition to a more modern and efficient fleet. This initiative includes the acquisition of 13 A220-300 and two A220-100 aircraft, aiming to enhance operational efficiency with 25% lower fuel consumption and reduced emissions. As of 2024, Croatia Airlines expanded its international network by introducing direct flights from Zagreb to Tirana, Berlin, and Stockholm. Additionally, the airline launched services connecting Hamburg to Zagreb starting 1 July 2024.
+
+Ports
+The busiest cargo seaport is the Port of Rijeka. The busiest passenger ports are Split and Zadar. Many minor ports serve ferries connecting numerous islands and coastal cities with ferry lines to several cities in Italy. The largest river port is port of Vukovar, located on the Danube in Vukovar, representing the nation's outlet to the Pan-European transport corridor VII.
+
+Energy
+610 kilometres (380 miles) of crude oil pipelines serve Croatia, connecting the Rijeka oil terminal with refineries in Rijeka and Sisak, and several transhipment terminals. The system has a capacity of 20 million tonnes per year. The natural gas transportation system comprises 2,113 kilometres (1,313 miles) of trunk and regional pipelines, and more than 300 associated structures, connecting production rigs, the Okoli natural gas storage facility, 27 end-users and 37 distribution systems. Croatia also plays an important role in regional energy security. The floating liquefied natural gas import terminal off Krk island LNG Hrvatska commenced operations on 1 January 2021, positioning Croatia as a regional energy leader and contributing to diversification of Europe's energy supply.
+In 2010, Croatian energy production covered 85% of nationwide natural gas and 19% of oil demand. In 2016, Croatia's primary energy production involved natural gas (24.8%), hydropower (28.3%), crude oil (13.6%), fuelwood (27.6%), and heat pumps and other renewable energy sources (5.7%). In 2017, net total electrical power production reached 11,543 GWh, while it imported 12,157 GWh or about 40% of its electric power energy needs. Croatia co-owns 50% of the Krško Nuclear Power Plant with neighboring Slovenia. This power plant supplies a large part of Croatian imports and provides 15% of the nation's electricity. According to Eurostat in 2026, Croatia has the highest quantity of water resources per capita in the EU (30,000 m3).
+
+Demographics
+With an estimated population of 3.87 million in 2024, Croatia ranks 128th by population in the world. Its 2018 population density was 72.9 inhabitants per square kilometre, making Croatia one of the more sparsely populated European countries. The overall life expectancy in Croatia at birth was 77.7 years in 2024.
+The total fertility rate of 1.46 children per mother, is one of the lowest in the world, far below the replacement rate of 2.1; it remains considerably below the high of 6.18 children rate in 1885. Croatia's death rate has continuously exceeded its birth rate since 1998. Croatia subsequently has one of the world's oldest populations, with an average age of 45.1 years. The population rose steadily from 2.1 million in 1857 until 1991, when it peaked at 4.7 million, with the exceptions of censuses taken in 1921 and 1948, i.e., following the world wars. The natural growth rate is negative with the demographic transition completed in the 1970s. In recent years, the Croatian government has been pressured to increase permit quotas for foreign workers, reaching an all-time high of 68.100 in 2019. In accordance with its immigration policy, Croatia is trying to entice emigrants to return. From 2008 to 2018, Croatia's population dropped by 10%.
+Historic demographic shifts are closely tied to Croatia's nation-building efforts and the related 1990s War of Independence. The war displaced large numbers of the population and emigration increased. In 1991, in predominantly occupied areas, more than 400,000 Croats were either removed from their homes by Serb forces or fled the violence. During the war's final days, about 150,000–200,000 Serbs fled before the arrival of Croatian forces during Operation Storm. After the war, the number of displaced persons fell to about 250,000. The Croatian government cared for displaced persons via the social security system and the Office of Displaced Persons and Refugees. Most of the territories abandoned during the war were settled by Croat refugees from Bosnia and Herzegovina, mostly from north-western Bosnia, while some displaced people returned to their homes.
+
+According to the 2024 Croatian Bureau of Statistics report, 12.5% to 14.6% of Croatia's population were immigrants. According to the 2021 census, the majority of inhabitants are Croats (91.6%), followed by Serbs (3.2%), Bosniaks (0.62%), Roma (0.46%), Albanians (0.36%), Italians (0.36%), Hungarians (0.27%), Czechs (0.20%), Slovenes (0.20%), Slovaks (0.10%), Macedonians (0.09%), Germans (0.09%), Montenegrins (0.08%), and others (1.56%). Approximately 4 million Croats live abroad.
+
+Religion
+Croatia has no official religion. Freedom of religion is a constitutional right that protects all religious communities as equal before the law and considers them separate from the state.
+According to the 2021 census, 87.39% of Croatians identify as Christian; of these, Catholics make up the largest group, accounting for 78.97% of the population, after which follows Eastern Orthodoxy (3.32%), Protestantism (0.26%), and other Christians (4.83%). The largest religion after Christianity is Islam (1.32%). 4.71% of the population describe itself as non-religious. In the Eurostat Eurobarometer Poll of 2010, 69% of the population responded that "they believe there is a God". In a 2009 Gallup poll, 70% answered yes to the question "Is religion an important part of your daily life?" Approximately 24% of the population attend religious services regularly.
+
+Languages
+Croatian is the official language of the Republic of Croatia and has been an official language of the European Union since Croatia's accession in 2013. Croatian replaced Latin as the official language of the Croatian government in the 19th century. Following the Vienna Literary Agreement in 1850, the language and its Latin alphabet underwent reforms to create an unified "Croatian or Serbian" or "Serbo-Croatian" standard, which under various names became the official language of Yugoslavia. In SFR Yugoslavia, from 1972 to 1989, the language was constitutionally designated as the "Croatian literary language" and the "Croatian or Serbian language". It was the result of a resistance to and secession from "Serbo-Croatian" in the form of the Declaration on the Status and Name of the Croatian Literary Language as part of the Croatian Spring. Since gaining independence in the early 1990s, the Republic of Croatia constitutionally designates the language as "Croatian language" and regulates it through linguistic prescription. The long-standing aspiration for development of its own expressions and thus enrichment of the language, as opposed to the adoption of foreign solutions in the form of loanwords, has been described by linguists as Croatian linguistic purism.
+
+Minority languages are in official use in local government units where more than a third of the population consists of national minorities or where local enabling legislation applies. Those languages are Czech, Hungarian, Italian, Serbian, and Slovak. The following minority languages are also recognised: Albanian, Bosnian, Bulgarian, German, Hebrew, Macedonian, Montenegrin, Polish, Romanian, Istro-Romanian, Romani, Russian, Rusyn, Slovene, Turkish, and Ukrainian.
+According to the 2021 Census, 95.25% of citizens declared Croatian as their native language, 1.16% declared Serbian as their native language, while no other language reaches 0.26%. Croatian is a member of the South Slavic languages and is written using the Latin alphabet. There are three major dialects spoken on the territory of Croatia, with standard Croatian based on the Shtokavian dialect. The Chakavian and Kajkavian dialects are distinguished from Shtokavian by their lexicon, phonology and syntax.
+A 2011 survey revealed that 78% of Croats claim knowledge of at least one foreign language. According to a 2005 EC survey, 49% of Croats speak English as the second language, 34% speak German, 14% speak Italian, 10% speak French, 4% speak Russian and 2% speak Spanish. However several large municipalities support minority languages. A majority of Slovenes (59%) have some knowledge of Croatian. The country is a part of various language-based international associations, most notably the European Union Language Association.
+
+Education
+As of 2024, the literacy rate in Croatia was 99.45%. Primary education in Croatia starts at the age of six or seven and consists of eight grades. In 2007 a law was passed to increase free, noncompulsory education until 18 years of age. Compulsory education consists of eight grades of elementary school. Secondary education is provided by gymnasiums and vocational schools. As of the 2022–23 school year, there were 2,073 elementary schools and 738 upper secondary schools in Croatia. Primary and secondary education are also available in languages of recognised minorities in Croatia, where classes are held in Czech, Hungarian, Italian, Serbian, German and Slovak languages.
+There are 133 elementary and secondary level music and art schools, as well as 83 elementary and 44 secondary schools for disabled children and youth and 11 elementary and 52 secondary schools for adults. Nationwide leaving exams (Croatian: državna matura) were introduced for secondary education students in the school year 2009–2010. It comprises three compulsory subjects (Croatian language, mathematics, and a foreign language) and optional subjects and is a prerequisite for university education. Croatia has eight public universities and two private universities. The University of Zadar, the first university in Croatia, was founded in 1396 and remained active until 1807, when other institutions of higher education took over until the foundation of the renewed University of Zadar in 2002. The University of Zagreb, founded in 1669, is the oldest continuously operating university in Southeast Europe. There are also 15 polytechnics, of which two are private, and 30 higher education institutions, of which 27 are private. In total, there are 131 institutions of higher education in Croatia, attended by more than 160 thousand students.
+In 2022, Croatia's research and development (R&D) expenditure was approximately 1.43% of GDP. Among the scientific institutes operating in Croatia, the largest is the Ruđer Bošković Institute in Zagreb. The Croatian Academy of Sciences and Arts in Zagreb is a learned society promoting language, culture, arts and science from its inception in 1866. Croatia was ranked 40th in the Global Innovation Index in 2025.
+The European Investment Bank provided digital infrastructure and equipment to around 150 primary and secondary schools in Croatia. Twenty of these schools got specialised assistance in the form of gear, software, and services to help them integrate the teaching and administrative operations. In 2024, the EIB extended a €207 million loan to the City of Zagreb for infrastructure upgrades, including investments in renewable energy, energy efficiency projects, social and affordable housing, schools, and kindergartens. Additionally, the EIB signed a €49 million loan with the City of Split to co-finance its 2023–2027 multi-sector investment programme, which includes refurbishing public buildings, increasing energy efficiency, and improving technical equipment for public information and communication.
+
+Healthcare
+Croatia has a universal health care system, whose roots can be traced back to the Hungarian-Croatian Parliament Act of 1891, providing a form of mandatory insurance of all factory workers and craftsmen. The population is covered by a basic health insurance plan provided by statute and optional insurance. In 2017, annual healthcare related expenditures reached 22.2 billion kuna (around €3.0 billion). Healthcare expenditures make up only 0.6% of private health insurance and public spending. In 2022, Croatia spent around 7.2% of its GDP on healthcare. In 2025, Croatia ranked 53rd in the world in life expectancy with 75.8 years for men and 81.9 years for women, and it had a low infant mortality rate of 3.3 per 1,000 live births.
+There are hundreds of healthcare institutions in Croatia, including 75 hospitals, and 13 clinics with 23,049 beds. The hospitals and clinics care for more than 700 thousand patients per year and employ 6,642 medical doctors, including 4,773 specialists. There is a total of 69,841 health workers. There are 119 emergency units in health centres, responding to more than a million calls. The principal cause of death in 2022 was cardiovascular disease at 34.3% for men and 43.8% for women, followed by hypertensive disease. In 2022 it was estimated that 37% of Croatians are smokers. According to 2022 data, 35.65% of the Croatian adult population is obese.
+
+Culture
+Because of its geographical position, Croatia represents a blend of four different cultural spheres. It has been a crossroads of influences from western culture and the east since the schism between the Western Roman Empire and the Byzantine Empire, and also from Central Europe and Mediterranean culture. The Illyrian movement was the most significant period of national cultural history, as the 19th century proved crucial to the emancipation of Croatians and saw unprecedented developments in all fields of art and culture, giving rise to many historical figures.
+The Ministry of Culture is tasked with preserving the nation's cultural and natural heritage and overseeing its development. Further activities supporting the development of culture are undertaken at the local government level. The UNESCO's World Heritage List includes ten sites in Croatia and a list of Intangible Cultural Heritage of Croatia. The country is rich with intangible culture and holds 15 of UNESCO's World's intangible culture masterpieces, ranking fourth in the world. A global cultural contribution from Croatia is the necktie, derived from the cravat originally worn by the 17th-century Croatian mercenaries in France.
+In 2019, Croatia had 95 professional theatres, 30 professional children's theatres, and 51 amateur theatres visited by more than 2.27 million viewers per year. Professional theatres employ 1,195 artists. There are 42 professional orchestras, ensembles, and choirs, attracting an annual attendance of 297 thousand. There are 75 cinemas with 166 screens and attendance of 5.026 million.
+Croatia has 222 museums, visited by more than 2.71 million people in 2023. Furthermore, there are 1,768 libraries, containing 26.8 million volumes, and 19 state archives. The book publishing market is dominated by several major publishers and the industry's centrepiece event—Interliber exhibition held annually at Zagreb Fair.
+
+Arts, literature, and music
+Architecture in Croatia reflects influences of bordering nations. Austrian and Hungarian influence is visible in public spaces and buildings in the north and the central regions, architecture found along coasts of Dalmatia and Istria exhibits Venetian influence. Squares named after culture heroes, parks, and pedestrian-only zones, are features of Croatian towns and cities, especially where large scale Baroque urban planning took place, for instance in Osijek (Tvrđa), Varaždin, and Karlovac. The subsequent influence of the Art Nouveau was reflected in contemporary architecture. The architecture is the Mediterranean with a Venetian and Renaissance influence in major coastal urban areas exemplified in works of Giorgio da Sebenico and Nicolas of Florence such as the Cathedral of St. James in Šibenik. The oldest preserved examples of Croatian architecture are the 9th-century churches, with the largest and the most representative among them being Church of St. Donatus in Zadar.
+
+Besides the architecture encompassing the oldest artworks, there is a history of artists in Croatia reaching the Middle Ages. In that period the stone portal of the Trogir Cathedral was made by Radovan, representing the most important monument of Romanesque sculpture from Medieval Croatia. The Renaissance had the greatest impact on the Adriatic Sea coast since the remainder was embroiled in the Hundred Years' Croatian–Ottoman War. With the waning of the Ottoman Empire, art flourished during the Baroque and Rococo. The 19th and 20th centuries brought affirmation of numerous Croatian artisans, helped by several patrons of the arts such as bishop Josip Juraj Strossmayer. Croatian artists of the period achieving renown were Vlaho Bukovac, Ivan Meštrović, and Ivan Generalić.
+The Baška tablet, a stone inscribed with the glagolitic alphabet found on the Krk island and dated to c. 1100, is considered to be the oldest surviving prose in Croatian. The beginning of more vigorous development of Croatian literature is marked by the Renaissance and Marko Marulić. Besides Marulić, Renaissance playwright Marin Držić, Baroque poet Ivan Gundulić, Croatian national revival poet Ivan Mažuranić, novelist, playwright, and poet August Šenoa, children's writer Ivana Brlić-Mažuranić, writer and journalist Marija Jurić Zagorka, poet and writer Antun Gustav Matoš, poet Antun Branko Šimić, expressionist and realist writer Miroslav Krleža, poet Tin Ujević and novelist, and short story writer Ivo Andrić are often cited as the greatest figures in Croatian literature.
+Croatian music varies from classical operas to modern-day rock. Vatroslav Lisinski created the country's first opera, Love and Malice, in 1846. Ivan Zajc composed more than a thousand pieces of music, including masses and oratorios. Pianist Ivo Pogorelić has performed across the world.
+
+Media
+In Croatia, the Constitution guarantees the freedom of the press and the freedom of speech. Croatia ranked 64th in the 2019 Press Freedom Index report compiled by Reporters Without Borders which noted that journalists who investigate corruption, organised crime or war crimes face challenges and that the Government was trying to influence the public broadcaster HRT's editorial policies. In its 2019 Freedom in the World report, the Freedom House classified freedoms of press and speech in Croatia as generally free from political interference and manipulation, noting that journalists still face threats and occasional attacks. The state-owned news agency HINA runs a wire service in Croatian and English on politics, economics, society, and culture.
+
+As of January 2021, there are thirteen nationwide free-to-air DVB-T television channels, with Croatian Radiotelevision (HRT) operating four, RTL Televizija three, and Nova TV operating two channels, and the Croatian Olympic Committee, Kapital Net d.o.o., and Author d.o.o. companies operate the remaining three. Also, there are 21 regional or local DVB-T television channels. The HRT is also broadcasting a satellite TV channel. In 2020, there were 147 radio stations and 27 TV stations in Croatia. Cable television and IPTV networks are gaining ground. Cable television already serves 450 thousand people, around 10% of the total population of the country.
+In 2010, 267 newspapers and 2,676 magazines were published in Croatia. The print media market is dominated by the Croatian-owned Hanza Media and Austrian-owned Styria Media Group who publish their flagship dailies Jutarnji list, Večernji list and 24sata. Other influential newspapers are Novi list and Slobodna Dalmacija. In 2020, 24sata was the most widely circulated daily newspaper, followed by Večernji list and Jutarnji list.
+Croatia competed in the Eurovision Song Contest as part of Yugoslavia since 1961. The first and only victory Yugoslavia achieved in the competition was accomplished by the Croatian pop band Riva in 1989. Since its debut at the 1993 contest, Croatia won two fourth places at the 1996 and 1999 contests, and one second place at the 2024 contest, marking the country's best result to date as an independent nation.
+
+Film industry
+Croatia's film industry is small and heavily subsidised by the government, mainly through grants approved by the Ministry of Culture with films often being co-produced by HRT. Croatian cinema produces between five and ten feature films per year. Pula Film Festival, the national film awards event held annually in Pula, is the most prestigious film event featuring national and international productions. Animafest Zagreb, founded in 1972, is the prestigious annual film festival dedicated to the animated film. The first greatest accomplishment by Croatian filmmakers was achieved by Dušan Vukotić when he won the 1961 Academy Award for Best Animated Short Film for Ersatz (Croatian: Surogat). Croatian film producer Branko Lustig won the Academy Awards for Best Picture for Schindler's List and Gladiator. In addition to that, Croatian filmmaker Nebojša Slijepčević got nominated for 97th Academy Awards in category for Best Live Action Short Film for his 2024 movie The Man Who Could Not Remain Silent (Croatian: Čovjek koji nije mogao šutjeti), making it first Croatian nomination in that category, and first since its independence.
+Before and since its independence, Croatia has become a popular filming destination amongs international filming productions, and a lot of blockbuster films and TV series have been filmed in Croatia including: Game of Thrones, Star Wars: The Last Jedi, Robin Hood in Dubrovnik, Speak No Evil, Season of the Witch and Titius in Istria, Infinity Pool in Šibenik, Canary Black, Hitman's Wife's Bodyguard, Sophie's Choice, Citizen Vigilante, Armour of God and Fiddler on the roof in Zagreb, Mamma Mia! Here We Go Again on island of Vis, Succession on the island of Korčula, Hercules, The Weekend Away, Bliss in Split, The Peacemaker, Lee and many others. Croatia became an international filming location thanks to its biodiversity, natural landscape and cheaper filming costs. In last 11 years there has been 122 projects for international films in Croatia, and €263 million spent as part of the Filming in Croatia which increased in last years due to high demand for its location.
+
+Cuisine
+Croatian traditional cuisine varies from one region to another. Dalmatia and Istria have culinary influences of Italian and other Mediterranean cuisines which prominently feature various seafood, cooked vegetables and pasta, and condiments such as olive oil and garlic. Austrian, Hungarian, Turkish, and Balkan culinary styles influenced continental cuisine. In that area, meats, freshwater fish, and vegetable dishes are predominant.
+There are two distinct wine-producing regions in Croatia. The continental in the northeast of the country, especially Slavonia, produces premium wines, particularly whites. Along the north coast, Istrian and Krk wines are similar to those in neighbouring Italy, while further south in Dalmatia, Mediterranean-style red wines are the norm. Annual production of wine exceeds 72 million litres as of 2017. Croatia was almost exclusively a wine-consuming country up until the late 18th century when a more massive beer production and consumption started.
+There are 11 restaurants in Croatia with a Michelin star and 89 restaurants bearing some of the Michelin's marks.
+
+Sports
+Croatia has a long tradition of sports dating back to Roman times, followed by popular medieval knights' tournaments. Modern organized sports began in the late 19th century with the founding of sports associations like Hrvatski Sokol in 1874. By the early 20th century, many sports organizations emerged, including the Croatian Sports Association established in 1909. Croatian sports' development has been closely related to the Olympic movement, with Franjo Bučar playing a key role in promoting sports for Croatian independence. Sport is part of the school curriculum, and many children engage in extracurricular activities. To support sports development, Croatia enacted the National Sport Programme in 2019. Funding for sports comes from the state budget, sponsorship, and membership fees. The Croatian Olympic Committee, established in 1991, oversees over 80 national sports associations.
+The most popular sports in Croatia are football, basketball, handball, and water polo. In 2024, there were over 4,500 chess association members. With about 12,500 sports associations, football is the most popular sport, hosting nearly 1,500 clubs and 110,000 players, achieving significant milestones, including bronze at the 1998 World Cup, silver at the 2018 World Cup and another bronze at 2022 World Cup. Croatians have participated in the Olympics since 1992 and have won 59 Olympic medals, including 20 gold. The national tennis team has won two Davis Cup titles and won a gold medal at the 2020 Summer Olympics in men's doubles. The national handball and water polo teams are also been successful, each achieving multiple championships and medals. Rowing has seen success as well, winning multiple Olympic and World Championship medals. In gymnastics, athletes have also made their mark, winning medals in European and World Championships.
+Croatia hosted several major sports competitions, including the 2009 World Men's Handball Championship, the 2007 World Table Tennis Championships, the 2010 European Individual Chess Championship, the 2000 World Rowing Championships, the 1987 Summer Universiade, the 1979 Mediterranean Games, and several European Championships, including the 2000, 2018 and 2025 World Men's Handball Championship, 2024 Men's European Water Polo Championship.
+
+See also
+Outline of Croatia
+
+Notes
+Citations
+References
+External links
+
+ Wikimedia Atlas of Croatia
+ Geographic data related to Croatia at OpenStreetMap
+Key Development Forecasts for Croatia from International Futures
+
+## Tourism in Croatia
+Tourism in Croatia (Croatian: Turizam u Hrvatskoj) is a major industry and economic sector of Croatia and its coastal inhabited islands along the Adriatic Sea. It has historically represented a large component the country's economic output (GDP), routinely reaching 10% to 15% of total GDP. Croatia is deeply integrated with the European Union (EU), contributing to overall international tourism in Southeast Europe. Tourism is concentrated along the Adriatic coast and is strongly seasonal, peaking in July and August. The most frequented cities are Dubrovnik, Rovinj, Zagreb, Split, Poreč, Umag, and Zadar, respectively.
+The history of tourism in Croatia dates back to its time as part of Austria-Hungary when wealthy aristocrats would converge to the sea. Tourism expanded throughout the 1960s to the 1980s before the independence of Croatia in 1990 curbed tourism until the late-1990s. The 2000s saw a significant resurgence of Croatian tourism as it underwent nation-building with a particular emphasis on tourism revenue. By the late-2000s, Croatia became one of the most visited tourist destinations in the Mediterranean. A total of 20.2 million tourists visited Croatia in 2024.
+Eight areas in the country have been designated national parks and eleven as nature parks. There are ten World Heritage Sites across the country. Factors of tourist interest are mainly culture, cuisine, history, fashion, architecture, art, religious sites and routes, nature, maritime access, and nightlife. Tourism has been partially supported by the Croatian film and television industries due to on-location filming. Inflation and overtourism has led to increased travel regulations and tourist costs since 2024. Eurostat estimated that nearly 55% of EU tourist accommodation is between Croatia (117,000) and neighboring Italy (230,000). In 2025, Croatia was the ninth-most-visited state in the EU and third-most-visted in Southern Europe.
+
+History
+Since the late-1990s, Croatia has significantly expanded its tourism sector. From 2012 to 2019, the number of annual tourist arrivals increased by 8 million. Over 16 million foreign tourists – four times the country’s population – visited Croatia in 2018. Economists argue that accession of Croatia in 2013 into the European Union, made them a more desirable tourist location due to reinvestment in their economy, open trade barriers, and looser customs control.
+Croatia maintains a 1,104-mile-long Mediterranean coastline plus 1,185 islands. Only 15% of the coast, the main tourist destination in Croatia, is urbanized, and plans are in progress to further develop Croatia's coastline tourism sector. The Croatian Tourism Development Strategy finances the construction luxury accommodations, including hotels and tourist services, along with renovating older ones. Croatia has one of the UNWTO's Sustainable Tourism Observatories, part of the organization's International Network of Sustainable Tourism Observatories (INSTO). The observatory is considered a commitment to monitoring and building sustainable tourism.
+
+Tourist regions
+Tourism is largely concentrated on the coastal areas, which are shared among seven counties. Tourism has high level of seasonality. The Croatian National Tourist Board has divided Croatia into six distinct tourist regions.
+
+Istria
+The west coast of the peninsula of Istria has several historical towns dating from Roman times, such as the city of Umag, which hosts the yearly Croatia Open ATP tennis tournament on clay courts. The city of Poreč is known for the UNESCO-protected Euphrasian Basilica, which includes 6th-century mosaics depicting Byzantine art. The city plan still shows the ancient Roman Castrum structure with main streets Decumanus and Cardo Maximus still preserved in their original forms. Marafor is a Roman square with two temples attached. One of them, erected in the 1st century, is dedicated to the Roman god Neptune. Originally a Gothic Franciscan church built in the 13th century, the 'Dieta Istriana' hall was remodeled in the Baroque style in the 18th century.
+The region's largest city Pula has one of the oldest amphitheatres in the world, which is still used for festivals and events. It is surrounded by hotel complexes, resorts, camps, and sports facilities. Nearby is Brijuni national park, formerly the summer residence of late Yugoslav president Josip Broz Tito. The coastal waters offer beaches, fishing, wreck dives to ancient Roman galleys and World War I warships, cliff diving, and sailing. Pula is the end point of the EuroVelo 9 cycle route that runs from Gdańsk on the Baltic Sea through Poland, Czechia, Austria, Slovenia and Croatia.
+
+The town of Rovinj contains coastal areas with a number of small bays hidden within dense vegetation, open to naturists. Although the beaches are not specified as naturist, naturists frequent them. The interior is green and wooded, with small stone towns on hills, such as Motovun. On the other side of the river lies Motovun forest, an area of about 10 square kilometres in the valley of the river Mirna, of which 280 hectares (2.8 km2) are specially protected. This area differs not only from the nearby forests, but also from those of the entire surrounding karst region because of its wildlife, moist soil, and truffles (Tuber magnatum) that grow there. Since 1999, Motovun has hosted the international Motovun Film Festival for independent films from the U.S. and Europe. Grožnjan, another hill town, hosts a three-week jazz festival every July.
+
+Olive tourism is mainly centered around this region. Olive oil is among the most important agricultural activities in Istria and this region has therefore received a large part of the nation's effort in rejuvenating the olive oil manufacturing that began around the turn of the new millennium. This includes renovating and renewing of olive groves (18,683 ha of olive groves in Croatia in 2018, most of it near the coast yielding 5,000 tonnes olive oil annually). Introduction of modern technologies in the production and processing of olives, storage of olive oil also took place. A 1,600 year-old olive tree sits on the island of Veli Brijun (Brijuni National Park). Olive tourism is common in rural areas where it generates additional income for olive growers who market their produce directly to consumers; it also has a multifaceted education value; and it extends the seasonality of tourism – and of associated seasonal labour – into the Autumn season.
+
+Kvarner and Highlands
+The Kvarner Gulf sits below tall mountains overlooking large islands in the sea. Opatija is the oldest tourist resort in Croatia, its tradition of tourism ranging from the 19th century. The former Venetian island towns of Rab and Lošinj are tourist destinations. The island of Rab has many monuments. With around 2,600 hours of sunshine a year, the island of Lošinj is a tourist destination for Slovenians, Italians, and Germans in the summer months. Average air humidity is 70%, and the average summer temperature is 24 °C (75 °F) and 7 °C (45 °F) during the winter.
+The interior regions Gorski Kotar, Velebit and Lika have mountain peaks, forests and fields, many animal species including bears, and the national parks of Risnjak and Plitvice Lakes. The Plitvice Lakes National Park lies in the Plitvice plateau which is surrounded by three mountains part of the Dinaric Alps: Plješivica (Gornja Plješevica peak 1,640 m), Mala Kapela (Seliški Vrh peak at 1,280 m), and Medveđak (884 m). The national Park is underlain by karstic rock, mainly dolomite and limestone with associated lakes and caves, this has given rise to the most distinctive feature of its lakes. The lakes are separated by natural dams of travertine, which is deposited by the action of moss, algae, and bacteria. The sixteen lakes are separated into an upper and lower cluster formed by runoff from the mountains, descending from an altitude of 636 to 503 m (2,087 to 1,650 ft) over a distance of some eight km, aligned in a south–north direction.
+The lakes collectively cover an area of about two square kilometers, with the water exiting from the lowest lake to form the Korana River. The lakes are divided into the 12 Upper Lakes (Gornja jezera) and the four Lower Lakes (Donja jezera): Limestone caves are present as well. Fauna such as the European brown bear, wolf, eagle, owl, lynx, wild cat, and capercaillie can be found there, along with many more common species.
+
+Dalmatia
+Zadar
+The Kornati National Park has hundreds of mostly uninhabited islands. Kornat, the biggest of the islands with a total area of 32,525,315 m2 (350,099,577 sq ft), comprises two-thirds of the park's land area. Although the island is 25.2 km long, it is no wider than 2.5 km. The park is managed from the town of Murter, on the island of Murter, and is connected to the mainland by a drawbridge.
+Zadar, the largest city in the region, gained its urban structure in Roman times; during the time of Julius Caesar and Augustus, the town was fortified and the city walls with towers and gates were built. On the western side of the town were the forum, the basilica and the temple, while outside the town were the amphitheatre and cemeteries. The aqueduct which supplied the town with water is partially preserved. Inside the ancient town, a medieval town had developed with a series of churches and monasteries being built.
+
+The interior has mixed plains and mountains, with the Paklenica canyon as the main attraction. The park area contains 150–200 km of trails and paths intended either for tourists or mountaineers. The island of Pag as well as the town of Novalja and Zrće have all-hours discothèques and beach bars operating during summer months.
+
+Šibenik
+Based in this region is the Cathedral of St James, a UNESCO World Heritage site. Several fortresses, remnants of the Renaissance era (which includes St. Nicholas Fortress) surround the city. The interior has the Krka National Park with waterfalls and religious monasteries. Inside the park is the island of Visovac which was founded during the reign of Louis I of Hungary, home to the Roman Catholic Visovac Monastery founded by the Franciscans in 1445 near Miljevci village. The park also includes the Serbian Orthodox Krka monastery founded in 1345.
+The area around the city of Knin has medieval fortresses and archeological remains. The recently discovered Roman town Burnum is 18 km far from Knin in direction of Kistanje, which has the ruins of the biggest amphitheatre in Dalmatia built in 77 AD, which held 8,000 people, during the rule of Vespasian. The nearby villages Biskupija and Kapitul are archaeological sites from the 10th century where remains of medieval Croatian culture are found including churches, graves, decorations, and epigraphs.
+
+Split
+The coastal city of Split is the second largest city in Croatia, and is known for its Roman heritage which includes UNESCO-protected Diocletian's Palace. The city was built around a palace on the Croatian Adriatic coast. The Split Cathedral stems from the palace. The Makarska Riviera is a stretch of coastline. Makarska, Brela, Omiš, and Baška Voda are the most popular.
+The large islands of this region, include the town of Hvar, known for its fishing and tourism industries. Hvar has a mild Mediterranean climate and Mediterranean vegetation. The island has over 2715 hours of sunlight in an average year. Cultural and artistic events within the Hvar Summer Festival take place throughout the summer, from late June to late September.
+
+The Cathedral of St. Stephen and the Bishop's Palace have a Renaissance-baroque style, and a façade with three-cornered gable and a Renaissance Bell Tower in Romanesque style from the 16th century, created by Venetian artists. Notable islands in the region include Brač, Čiovo, Šolta, and Vis.
+ The old city of Trogir is a UNESCO World Heritage Site and contains a mixture of influence from the Hellenistic period, Romans, and Venetians with its Greek architecture, Romanesque churches, Renaissance and Baroque buildings. Trogir is a preserved Romanesque-Gothic complex in Central Europe. Trogir's medieval core, surrounded by walls, comprises a preserved castle and tower and a series of dwellings and palaces. The Cathedral of St. Lawrence is in this town, whose main west portal was constructed by Radovan. Another notable attraction is the Kamerlengo Castle.
+
+Dubrovnik
+The fortified city of Dubrovnik is a coastal area in Southern Croatia. The Sponza Palace is located here, which dates from the 16th century and is currently used to house the National Archives. The Rector's Palace is a Gothic-Renaissance structure that now houses a museum.
+The St. Saviour Church is another remnant of the Renaissance period, next to the Franciscan Monastery. Dubrovnik's is home to St Blaise's Church, built in the 18th century in honor of Dubrovnik's patron saint. Dubrovnik's baroque Cathedral houses relics of Saint Blaise. The city's Dominican Monastery resembles a fortress on the outside but the interior contains an art museum and a Gothic-Romanesque church. The Dominican monastery is its library with over 220 incunabula, numerous illustrated manuscripts, an archive with manuscripts and documents and an extensive art collection. A feature of Dubrovnik is its walls that run 2 km around the city. The walls run from four to six metres thick on the landward side but are thinner on the seaward side. The system of turrets and towers were intended to protect the city. Just off the coast of Dubrovnik is the forested island of Lokrum. The small island has a castle, a thousand-year-old Benedictine monastery, and a botanical garden initially started by Maximilian I of Mexico in the 19th century. 
+
+ 
+The nearby islands include the historical island of Korčula. The Catholic inhabitants of Korčula demonstrate a weapon dance, the Moreška, dating back to the Middle Ages, during ceremonies. The main town's historic sites include the central Romanesque-Gothic Cathedral of St Mark (built from 1301 to 1806), the 15th-century Franciscan monastery with Venetian Gothic cloister, the civic council chambers, the palace of the former Venetian governors, grand 15th and 16th-century palaces of the local merchant nobles, and the city fortifications.
+Further along the Adriatic are the forests of Mljet island. Over 72% of the island of 98.01 square kilometres (37.84 sq mi) is forest. Its geological structure consists of limestone and dolomite forming ridges, crests and slopes. A few depressions on the island of Mljet are below sea level and are known as blatine ("mud-lakes") or slatine ("salt-lakes"). During the rain seasons, all blatine are filled with water and turn to brackish during dry seasons.
+
+Central and Northern Croatia
+The northern part, with the hilly area of Zagorje and Međimurje, maintains castles and spas, and the old city of Varaždin. In Međimurje, there are mineral springs in Vučkovec and around Sveti Martin na Muri, both in the northern part of the county and near the Mura. 
+In Čakovec Castle, are the Međimurje County Museum and an art gallery. In the chapel of Sveta Jelena in Šenkovec, and in the Church of St Jerome in Štrigova, there are Baroque frescoes of Ivan Ranger dating between 1776 and 1786. Prelog is home to the Church of St James, built in 1761.
+
+Varaždin is in continental Croatia. The Varaždin Old Town (a fortress) is a medieval defensive building originating in the 14th century. Varaždin's Cathedral, a former Jesuit church, was built in 1647, 18th-century altar, and paintings. Varaždin is the host of the "Radar festival", which hosts concerts at the end of summer. 
+
+The Marian shrine of Marija Bistrica is the country's largest pilgrimage spot. Hundreds of thousands of pilgrims visit the site every year where the 14th-century church has stood. The church is known for the statue known as Black Madonna with Child, dating to the Ottoman invasion in the 16th century when the statue was hidden in the church and then lost for decades until its discovery. Behind the church is the process of "the Way of the Cross", in which pilgrims begin the trek that leads to Calvary Hill. Pope John Paul II visited the site in 1998 in his second tour of Croatia. Central Croatia has some natural highlights, such as the Lonjsko Polje Nature Park.
+
+Slavonia
+The area of Baranja has the Kopački Rit National Park, a large swamp with a variety of fauna and birds. It is one of the largest intact wetlands in Europe, hosting about 260 various bird species such as wild geese and ducks, great white egret, white stork, black stork, white-tailed eagle, crows, Eurasian coot, gulls, terns, common kingfisher, and European green woodpecker. The cultural center is the historical city of Osijek, with its baroque style buildings, such as the Church of St. Peter and Paul, a neo-Gothic structure with the second highest tower in Croatia after the Zagreb Cathedral.
+The Cathedral of St. Peter and Paul in Đakovo is the town of Đakovo's primary landmark and sacral object throughout the region of Slavonia. There are three major yearly events celebrating folklore in Slavonia and Baranja: Đakovački vezovi, Vinkovačke jeseni and Brodsko kolo. They present traditional folk costumes, folklore dancing and singing groups, customs, with a parade of horses and wedding wagons. During the Đakovački vezovi, the Đakovo Cathedral hosts choirs, opera artists, and art exhibitions are organized in the exhibition salon. Ilok and the war-torn city of Vukovar are also points of interest in the area.
+
+Zagreb
+Zagreb is the capital city of Croatia. It is the country's largest cultural center, with many museums and galleries. The historical part of the city to the north of Ban Jelačić Square is composed of the Gornji Grad and Kaptol, a medieval urban complex of churches, palaces, museums, galleries and government buildings, along with a major city symbol, the Zagreb Cathedral.
+
+Around thirty collections in museums and galleries comprise more than 3.6 million various exhibits, excluding church and private collections. The Archaeological Museum consists of nearly 400,000 varied artifacts and monuments, have been gathered over the years from many different sources. The Croatian Natural History Museum holds a collection of Neanderthal remains found at one site. These are the remains, stone weapons and tools of prehistoric "Krapina man". The holdings of the Croatian Natural History Museum comprise more than 250,000 specimens distributed among various different collections.
+There are about 20 permanent or seasonal theaters and stages. The Croatian National Theater in Zagreb was built in 1895 and opened by Franz Joseph I of Austria. A concert hall, the Vatroslav Lisinski Concert Hall, named after the composer of the first Croatian opera, was built in 1973. Animafest, the World Festival of Animated Films, takes place every even-numbered year, and the Music Bienniale, the international festival of avant-garde music, every odd-numbered year. The Festival of the Zagreb Philharmonic and the flowers exhibition Floraart, the Old-timer Rally annual events. Zagreb is the host of Zagrebfest, the oldest Croatian pop-music festival, as well as of several traditional international sports events and tournaments. The Day of the City of Zagreb on 16 November is celebrated every year with special festivities, especially on the Jarun Lake near the southwestern part of the city.
+
+Primary destinations
+North Croatia
+Trakošćan Castle is a castle built in the 13th century atop a hill in Trakošćan.
+
+Central Croatia
+Plitvice Lakes National Park is a forest reserve with terraced lakes connected by waterfalls.
+
+South Croatia
+Paklenica is a national park in Starigrad featuring the karst river canyon.
+Walls of Dubrovnik are defensive historic walls lining the city of Dubrovnik.
+St. Blaise's Church is a Baroque church in Dubrovnik dedicated to the patron saint of Dubrovnik.
+
+Secondary destinations
+North Croatia
+St Mark's Church is a 13th-century styled church in Zagreb with medieval architecture.
+Museum of Broken Relationships is an exhibit located in a baroque palace in Zagreb showcasing objects of former couples.
+Mimara Museum is an art museum in Zagreb.
+Croatian Museum of Naïve Art is an art museum in Zagreb showcasing pieces in the naïve art style.
+
+Central Croatia
+Pula Arena is a Roman amphitheatre in the city of Pula
+Euphrasian Basilica is a cathedral in Poreč.
+
+South Croatia
+Krka National Park is a national park along the Krka River with travertine waterfalls.
+Ivan Meštrović Gallery is an art museum in Split showcasing the work of Ivan Meštrović.
+Diocletian's Palace is a ruin from Roman emperor Diocletian located in the city of Split.
+Cathedral of Saint Domnius is a Catholic cathedral in Split built from a Roman mausoleum and with a bell tower.
+Lovrijenac is a 16th-century fortress and theater along the Walls of Dubrovnik.
+Rector's Palace is a palace built in the Gothic style in Dubrovnik.
+War Photo Limited is a gallery in Dubrovnik dedicated to pictures depicting war.
+Dubrovnik Cathedral is a Catholic cathedral. It is the seat of the Diocese of Dubrovnik.
+Dominican Monastery is a religious complex founded in 1225 in Dubrovnik.
+Trsteno Arboretum is a 15th-century arboretum in Trsteno.
+Zlatni Rat is a spit of land near the city of Bol.
+Blue Grotto is a water logged sea cave.
+Telašćica is a nature park on the Dugi Otok island.
+Church of St Donatus is a church in Zadar constructed in the 9th century.
+Šibenik Cathedral is a Catholic cathedral in Šibenik.
+
+World Heritage Sites
+The United Nations Educational, Scientific and Cultural Organization (UNESCO) has included the following 10 Croatian sites on its World Heritage List:
+
+Overtourism in Dubrovnik
+Overtourism is a significant issue in Dubrovnik's Old Town. The city is reported to be the most touristed in Europe, receiving 36 overnight tourists per resident per year as of 2023. In 2019, the city received almost 1.5 million overnight tourists against a population of just 41,000 people. Excessive visitors damage infrastructure and heritage sites, cause traffic jams and pollution, price out residents, and change neighborhood dynamics.
+The HBO series Game of Thrones, for which Dubrovnik was a major filming location, has attracted around 60,000 people to the city per year according to the Zagreb Institute of Economics. In 2017, the city received 742,000 cruise tourists from 538 ships – and the rise during the 2010s of European low-cost flights and related Airbnb listings.
+In response to overcrowding concerns, in 2016, UNESCO threatened to remove Dubrovnik Old Town’s World Heritage status unless it started to curb tourism numbers. In 2018 in an attempt to solve the overtourism problem, the city introduced staggered arrivals for cruise ships – allowing only two to be in dock at one time – and limiting cruise arrivals into the historic core of the city to 4,000 per day, half the number recommended by UNESCO. Measures to limit overcrowding introduced in 2018 included cutting 80% of souvenir stands and reducing outdoor seating at restaurants by 20%.
+
+Tourism statistics
+Arrivals by country
+Most visitors arriving to Croatia on short-term basis were from the following countries of nationality:
+
+Tourist arrivals to Croatia in the 2020s
+See also
+List of museums in Croatia
+Protected areas of Croatia
+List of World Heritage Sites in Croatia
+Industry of Croatia
+
+References
+External links
+
+Croatia at the Lonely Planet website
+
+## Culture of Croatia
+The culture of Croatia has historically been influenced by Central European, Mediterranean, and Balkan cultures. Croatia's unique culture and identity can be traced back to the historical llyricum. The early Croatian cultural and political identity developed through the integration of the ancient Roman heritage of Dalmatia, the traditions of early Slavic groups who settled in the region during the Migration period, and the emergence of a distinct Croatian polity by the 9th century. The Croatian language is believed to have been formed in the 6th or 7th century, with the written language present in Glagolitic texts from the 11th century.
+In terms of Croatian national emancipation, the 19th-century Illyrian movement led by Ljudevit Gaj was a key driver for emergence of Croatian romantic nationalism. In 1842, the Matica ilirska organization (renamed Matica hrvatska in 1872) was established as part of the Zagreb Reading Room. The organization's mission was to promote Croatian national and cultural identity in fields of arts, science spiritual creation, economy, and public life. In 1847-1848 Croatian language replaced Latin as official language in Croatia.
+Croatia has a place in the history of Mediterranean architecture and urbanism and clothing as place of origin of the cravat, a precursor of the modern necktie. Modern and contemporary arts, music, urban, independent, and youth culture in Croatia have grown due to numerous festivals and frequent manifestations, as well as the re-emergence of new cultural infrastructure around the country.
+
+History
+Pre-historic heritage
+Ancient monuments from the Paleolithic era consist of simple stone and bone objects. Some of the earliest remaining historical features include 100,000-year-old bones of a Neandertal man on Krapina Neanderthal site, in Hrvatsko Zagorje. The most interesting Copper Age or Eneolithic findings are from Vučedol culture. Out of that culture, the Bronze Age Vinkovci culture (named after the city of Vinkovci) developed, which is recognizable by bronze fibulas that were replacing objects like needles and buttons.
+Bronze Age culture of Illyrians, ethnic group with distinct culture and art form started to organize itself in 7th century BC. Numerous monumental sculptures are preserved, as well as walls of citadel, Nezakcij near Pula, one of numerous Istrian cities from Iron Age.
+
+Ancient heritage
+During Greek colonisation period, Greeks from Syracuse arrived to islands of Vis (Issa), Hvar (Pharos), and Korčula (Corcyra Nigra) in 390 BC and founded their city-states on Adriatic parts of modern Croatia, where they lived quite isolated.
+
+While the Greek colonies were flourishing on the island, on the continent, the Illyrians were organizing their centers. Their art was greatly influenced by Greek art, and they have even copied some elements. Illyrians sometimes attacked Greek colonies on Dalmatian islands. One such example was queen Teuta of Ardiaei, whose pirating activities drew the attention of the Roman Republic to Eastern Adriatic Coast in 229 BC. After this initial contact, Rome gradually managed to subdue the Illyrians by the 1st century and Great Iliryan Revolt. These lands were in the meantime organized into Roman provinces of Ilyricum and subsequently Dalmatia and Pannonia, while Ilirians and other native tribes living in these areas gradually became romanized. The Romans organized the entire coastal territory by transforming citadels to urban cities. There have been at least thirty cities in Istria, Liburnia and Dalmatia with Roman citizenship (civitas). The best-preserved networks of Roman streets (decumanus/cardo) are those in Epetion (Poreč) and Jader (Zadar). The best preserved Roman monuments are in Pola (Pula) including an Amphitheater (an arena) from the 2nd century.
+In the 3rd century AD, the city of Salona was the largest (with 40,000 inhabitants) and most important city of Dalmatia. Near the city, emperor Diocletian, born in Salona, built Diocletian's Palace (around year 300 AD), which is the largest and most important monument of late antique architecture in the World. In the 4th century, Salona became the center of Christianity for entire western Balkans. It had numerous basilicas and necropolises, and even two saints: Domnius (Duje) and Anastasius (Staš).
+One of few preserved basilicas in western Europe (beside ones in Ravenna) from the time of early Byzantium is Euphrasian Basilica in Poreč from the 6th century.
+
+Medieval heritage
+The early Middle Ages brought the great migration of the Slavs and this period was perhaps a Dark Age in the cultural sense until the successful formation of the Slavic states which coexisted with Italic cities that remained on the coast, each of them were modelled like Venice.
+In the 7th century the Croats, along with other Slavs and Avars, migrated from Eastern Europe to the area of Dalmatian hinterland. Here, the Croats came into contact with Roman art, culture, and most of all with Christianity. Before adopting Christianity Croats used to worship Slavic paganism, traces of which can be found on certain toponyms in Croatia, named after Slavic gods Perun and Veles. Some of these are located near Podstrana and on Učka mountain. Nevertheless, in first few centuries after their arrival, Croats converted to Christianity which had spread from old Roman cities in Dalmatia and from Frankish missionaries. In following centuries both Latin language, Church Slavonic and Glagolitic script were in use in Church liturgy among Croats, while pre-Romanesque period is considered foundational period of Croatian medieval culture. The monuments created in this period are associated with arrival of Benedictine monks to Croatia, who first came from Frankish monasteries and subsequently from Monte Cassino. In later periods, the new monasteries were mostly founded by local monks. The first benedictine monastery in Dalmatia was constructed during the reign of 9th century duke Trpimir in Rižinice between modern day Solin and Klis.
+In later period the rule of duke Branimir, in particular, is considered as a time of "cultural blossom" of Croatia due to construction of new churches, reconstruction of already existing churches, as well as five stone inscriptions mentioning Branimir's name which remain preserved until this day.
+In second half of 10th century, Croatian queen Helen of Zadar, built a royal mausoleum in church of St. Stephen on the Island in what is today Solin.
+
+Another period of cultural blossom of Croatian kingdom came with the rule of 11th century king Demetruis Zvonimir. Since his rule was relatively stable, he donated many churches and monasteries. The most famous of his donations is recorded in Baška tablet, 11th-century inscription written in Glagolitic script and Croatian language. It was discovered in village of Baška, on the island of Krk. It represents the earliest mention of Croatian royal name and royal title in Croatian language (Zvonimir, kralj hrvatski) for which it has a great significance in study of Croatian language. Original documents issued by Croatian medieval rulers were also written in Latin language and in either Beneventan, Carolingian minuscule or Gothic minuscule script. During the 13th century Croatian provost Dobroslav launched the construction of a romanesque Knin cathedral on a site of the earlier Benedictine monastery in Kapitul near Knin. Upon completion the cathedral became a seat of Knin bishop (previously Croatian bishop) until Ottoman invasions forced high clergy to move their seats elsewhere. During the archeological excavations in the 19th century, this site became a place where ornaments from Trpimirović dynasty were recovered.
+
+Renaissance heritage
+The Renaissance period among Croats was influenced by wars against expanding Ottoman Empire, which slowed down Croatian cultural development. The downfall of the homeland left impression on Croatian writers, who expressed their mood in their oeuvres. Some examples of this are Petar Zoranić in his novel Planine (English: "The Mountains"), Šimun Kožičić Benja in his publication De Corvatiae desolatione (English: "On the desolation of Croatia"), Marko Marulić in his Molitva suprotiva Turkom ("A Prayer Against the Turks") or Brne Karnarutić's Vazetje Sigeta grada (English: "The Taking of the City of Siget"). Some other artists known for their works in Croatian lands at a time include sculptor Giorgio da Sebenico (known in Croatian as Juraj Dalmatinac), best known for his works on renaissance Šibenik Cathedral, or perhaps Giulio Clovo (known in Croatian as Julije Klović) who is best known for his miniature paintings.
+
+Enlightenment heritage
+The enlightenment period of Croatian history correlates with enlightened despotism rule of empress Maria Theresa and emperor Joseph II. Some of the literary works of Croatian enlightenment period authors are Satir iliti divlji čovik ("Satyr or the wild man") by Matija Antun Relković, Matijaš grabancijaš dijak by Tituš Brezovački, Razgovor ugodni naroda slovinskog ("Pleasant Conversation of Slavic People") by Andrija Kačić Miošić as well as those of Baltazar Adam Krčelić, Matija Petar Katančić or Antun Kanižlić.
+
+Fine arts
+Sculpture
+The altar enclosure and windows of early medieval churches were highly decorated with a transparent shallow string-like ornament that is called Croatian interlace because the strings were threaded and rethreaded through themselves. Sometimes the engravings in early Croatian script–Glagolitic appear. Soon, the Glagolitic writings were replaced with Latin ones on altar boundaries and architraves of old-Croatian churches.
+
+In Croatian Romanesque sculpture, we have a transformation from decorative interlace relief (Croatian interlace) to figurative relief. The best examples of Romanesque sculpture are: the wooden doors of the Split cathedral made by Andrija Buvina (c. 1220) and the stone portal of the Trogir cathedral by the artisan Radovan (c. 1240).
+Zadar was an independent Venetian city. The most beautiful examples of Gothic humanism in Zadar represent reliefs in gilded metal on Chest of St Simeon, made by artisans from Milan in around 1380.
+Most Croatian prominent sculptors of modern include Ivan Meštrović, Antun Augustinčić, Frano Kršinić and others.
+
+Painting
+Gothic painting is less well-preserved, and the finest works are in Istria such as the fresco-cycle of Vincent from Kastav in the Church of Holy Mary in Škriljinah near Beram, from 1474. From that time are two of the best and most decorated illuminated liturgical books made by monks from Split, Hvals’ Zbornik (today in Zagreb) and the Missal of the Bosnian Duke Hrvoje Vukčić Hrvatinić (now in Istanbul).
+The most prominent painter from Croatia was Federiko Benković who worked almost his entire life in Italy, while an Italian, Francesco Robba, did the best Baroque sculptures in Croatia.
+In Austrian countries at the beginning of the 19th century the Romantic movement in Croatia was sentimental, gentle and subtle.  Vlaho Bukovac brought the spirit of impressionism from Paris, and he strongly influenced the young artists (including the authors of "Golden Hall"). On the Millennium Exhibition in Budapest they were able to set aside all other artistic options in Austro-Hungary.
+
+Modern art in Croatia began with the Secession ideas spreading from Vienna and Munich, and post-Impressionism from Paris. Young artists would study the latest trends and integrate them into their own work. Many strove to bring a native cultural identity into their art, for example themes of national history and legends, and some of the artwork during and following the First World War contained a strong political message against the ruling Austro-Hungarian state. As Croatian lands joined the Kingdom of Yugoslavia after the war, a change was noticeable in 1919 with a move to flatter forms, and signs of cubism and expressionism were evident. In the 1920s, the Earth Group sought to reflect reality and social issues in their art, a movement that also saw the development of naive art. By the 1930s there was a return to more simple, classical styles.
+Following the Second World War, artists everywhere were searching for meaning and identity, leading to abstract expressionism in the U.S. and art informel in Europe. The early split with the rest of the Eastern Bloc in the new Socialist Yugoslavia which Croatia was a constituent republic of allowed for greater artistic freedom, with socialist realism style never truly taking hold. Bauhaus ideas led to geometric abstraction in paintings and simplified spaces in architecture. In the 1960s, non-conventional forms of visual expression took hold along with a more analytical approach to art, and a move towards new media, such as photography, video, computer art, performance art and installations, focusing more on the artists' process. Art of the 1970s was more conceptual, figurative and expressionist. However, the 1980s brought a return to more traditional painting and images.
+
+Architecture
+The oldest preserved examples of architecture in Croatia are the 9th century churches, with the largest and the most representative among them being Donatus of Zadar and Church of Holy Trinity, Split. Some of the first churches build by the Croats were royal sanctuaries, and the influences of Roman art were the strongest in Dalmatia where urbanization was most dense, and there were the largest number of monuments.
+Along the coast, the architecture is Mediterranean with a strong influence of renaissance architecture in major urban areas best exemplified in works of Venetian Giorgio da Sebenico and Niccolò di Giovanni Fiorentino.
+Architecture in Croatia reflects influences of bordering nations. Austrian and Hungarian influence is visible in public spaces and buildings in the north and in the central regions. Large squares named after culture heroes, well-groomed parks, and pedestrian-only zones, are features of these orderly towns and cities, especially where large scale Baroque urban planning took place, for instance in Varaždin and Karlovac. Subsequent influence of the Art Nouveau was reflected in contemporary architecture.
+
+Design
+A group of painters and architects that set the foundations of Croatian modern design was called Exat 51 (Experimental atelier). It existed in Croatian capital Zagreb between 1950 and 1956 and it consisted of architects: Bernardo Bernardi, Zdravko Bregovac, Zvonimir Radić, Božidar Rašica, Vjenceslav Richter, Vladimir Zarahović as well as painters: Vlado Kristl, Ivan Picelj and Aleksandar Srnec. Exat 51 advocated: abstract art, contemporary visual communications and synthesis of all forms of artistic creativity. It's work influenced Croatian culture, art and even social relations. Out of forementioned Exat 51 members; Bernardo Bernardi is considered one of the greatest Croatian designers and an award awarded by Association of Croatian architects for design and decoration of the interior bears his name.
+By 1970's and 1980's as country became industrialised, its industry increasingly relied on its house design departments. However, as Croatia became ravaged by Croatian War of Independence and badly done privatization in the 1990's, Croatian design stagnated until the turn of the century. That's when new generation of designers designed new products which found their way on the international markets.
+
+Music and Performing arts
+Music
+Music in Croatia has two major influences: Central European, present in the central and northern parts of the country including Slavonia, and Mediterranean, particularly present in the coastal regions of Dalmatia and Istria.
+In Croatia, both pop and rock are popular, and often incorporates Dalmatian or Slavonian folk elements. Since the mid-20th century, schlagers and chanson-inspired music have formed the backbone of the Croatian popular music. During 1990's marked by Croatian War of Independence; Cro dance, or Cro trash music dominated in Croatian nightclubs. According to Croatian music producer Zoran Škugor, when the war started he received a call from then president Tuđman, who told him that despite the war people need to have fun, so he and other producers launched a Cro dance scene which eventually grew into a movement. In recent times, the most popular music genre (especially among young Croatians) became Turbo folk. According to the 2018 sociological research conducted on high school students in six Croatian cities, the most common consumers of Turbo folk are students with right wing leaning and conservative values. It is more popular among females as well as among those enrolled in lower level educational programs.
+Traditional humorous folk song of eastern Croatian region of Slavonia is called bećarac. It was recorded for the first time in the 18th century by Croatian Enlightment author Matija Antun Relković. Since 2011, it is listed on UNESCO Intangible Cultural Heritage List.
+Porin is Croatian music award, named after Vatroslav Lisinski's opera of the same name and inspired by an American Grammy award. It has been awarded each year since 1994. Croatian national television usually also organizes national song contest – Dora, whose winner represents Croatia on Eurovision. This contest was named after Croatian first, distinguished female composer Dora Pejačević.
+
+Theatre
+Croatian theatre dates back at least as far as the Middle Ages, with a combination of religious liturgical dramas, and secular performances of travelling entertainers. During the Renaissance, there was a flowering of dramatic writing and performances in Dalmatia, especially in Dubrovnik and on the island of Hvar. Notable playwrights of the time were Marin Držić and Hanibal Lucić.
+In other parts of Croatia, theatres started to appear in the late 18th, early 19th century in cities such as Split, Dubrovnik, Šibenik, Zadar, Osijek, Varaždin, Pula, Rijeka, and Zagreb. The development of a Croatian National Theatre evolved from Zagreb's first city theatre on St Mark's Square. Beginning in the 1860s, performances were increasingly written and given in Croatian.
+Today, Croatia boasts a strong tradition of theatres and theatrical companies all round the country. Performances range from dramas and musicals for adults or children, youth theatre and puppet theatre. Croatia is also home to the world's oldest Theatre of the Blind. Festivals are held in several locations in the summer.
+
+Literature
+The first known printing shop in Croatia was founded in late 15th century in Kosinj under financial support of Croatian magnate Ivan VIII Frankopan of Brinje, while its first known press operator was Ambroz Kacitić of Kolunić tribe. The oldest printed book in Croatian language is 1483 Missale Romanum Glagolitice (Misal po zakonu rimskog dvora), likey also printed in Kosinj. It was printed in Glagolitic script. It is the oldest European missale printed in non-Latin language and in non-Latin script. Other examples of Croatian incunabulae written on Glagolitic script could include: Missale of Senj (Senjski misal) from 1494 or General Confessions (Spovid općena) from 1496. The latter two were printed by a Glagolitic printing shop of Senj (Senjska glagoljska tiskara), which operated between 1494 and 1508.
+
+Some of Croatian book fairs incluce Interliber held annually on Zagreb Fair (Velesajam) in November or Book Fair in Istria (Sa(n)jam knjige u Istri) held annually in Pula.  According to a research conducted in 2022 among Croatians, the number of Croatians who read books is in decline. Among Croatian readers, 70% are highly educated. People living near Zagreb make 52% of Croatian readers, while 48% are females.
+
+Media
+Cinema
+First Croatian production company was called "Croatia" and in 1917, this company produced first Croatian feature film called Brcko in Zagreb. This film, as well as all other films made in Zagreb in interwar period are lost to this day. First film screening in Zagreb was held on 8 October 1896, when Lumiere brothers films were shown.
+From 1960's to 1990's Croatian production company Jadran Film became one of the largest film producers in Central Europe, for which it was called "Croatian Hollywood". Some of well known international movie productions filmed in Croatia in that time were: Austerlitz, The Valley of Death, Death Train etc. However, Croatian War of Independence, and subsequent bad privatization led to company's downfall, as Croatia lost the competitive advantage it had over other socialist block countries during Cold War. The sixties in particular are known as a "golden age" of film in Croatia.
+In 1989/1990 and 1999/2000 One Song a Day Takes Mischief Away was proclaimed as best Croatian feature film of all time. However, in 2020, a 1958 movie H-8 was proclaimed as best Croatian feature film of all time. The same election proclaimed Oscar winning Surogat as best Croatian animated film of all time, while Od 3 do 22 was proclaimed the best Croatian documentary film of all times. Since 1992, Croatian society of film critics gives annual award "Okatavijan", named after Croatian film pioneer Oktavijan Miletić.
+Modern film production in Croatia is subsidized by Croatian Audiovisual Center (HAVC). Some of the well known film festivals held in Croatia are: Pula Film Festival, Zagreb Film Festival, Vukovar Film Festival, Motovun Film Festival, Animafest Zagreb or ZagrebDox.
+In recent years, indie cinemas of Zagreb started closing down. Out of 24 indie cinemas which used to operate in Zagreb, only 6 remained opened by 2018. First multiplex cinema in Croatia was opened in 2003 by German company CineStar. During summer period in Zagreb, outdoor cinema in Tuškanac forest is open. This cinema was originally opened back in 1954. After it was shut down for several decades after 1970, it was again refurbished and reopened in 2012.
+
+Television
+Television in Croatia was first introduced in 1956. As of 2012 there are 10 nationwide and 21 regional DVB-T (Digital Video Broadcasting – Terrestrial) television channels, and more than 30 other channels either produced in the Republic of Croatia or produced for the Croatian market and broadcast via IPTV (Internet Protocol television), cable or satellite television. The electronic communications market in Croatia is regulated by the Croatian Regulatory Authority for Network Industries (HAKOM), which issues broadcast licenses and monitors the market. The DVB-T and satellite transmission infrastructure is developed and maintained by the state-owned company Odašiljači i veze (OiV).
+The first television signal broadcast in Croatia occurred in 1939 during the Zagreb Fair, where Philips showcased its television system. The first regular broadcasts started in 1956, when Television Zagreb was established as the first TV station in the Yugoslav Radio Television system. Color broadcasts began in 1972. Coverage and number of channels grew steadily, and by the 2000s there were four channels with nationwide coverage in Croatia. DVB-T signal broadcasts began in 2002, and in 2010 a full digital switchover was completed. During that period the IPTV, cable and satellite television markets grew considerably, and by 2011 only 60.7 percent of households received DVB-T television only; the remainder were subscribed to IPTV, cable and satellite TV in addition, or as the sole source of TV reception. As of January 2012 DVB-T is broadcast in three multiplexes, while the territory of Croatia is divided into nine main allotment regions and smaller local allotments corresponding to major cities. High-definition television (HDTV) is broadcast only through IPTV, although HDTV DVB-T test programming was broadcast from 2007 to 2011. A DVB-T2 test broadcast was conducted in 2011.
+As of November 2019 all national channels are transmitted via three DVB-T and one DVB-T2 (HEVC/H.265) MUXes. After June 2020 DVB-T MUXes will be switched off and all channels will be distributed via two DVB-T2 (HEVC/H.265) MUXes.
+Television in Croatia, as all other media in the country are criticised for lack of balance of global issues and trends on one hand and national topics covered on the other. All major television networks in Croatia are generally thought to be under excessive influence of commercialism. State owned Croatian Radiotelevision is required to produce and broadcast educational programmes, documentaries, and programmes aimed at the diaspora and national minorities in Croatia. The television in Croatia is considered to be important in avenue for non-governmental organizations communicating their concerns to the public and to criticising the authorities. Television is the primary source of information for 57% of the population of Croatia.
+
+Croatian radiotelevision
+
+Radio
+Croatian Radio (Croatian: Hrvatski radio) is the official broadcasting service of Croatia. Founded on 15 May 1926 as Zagreb Radio, it was the first radio station in Southeast Europe, now part of Croatian Radiotelevision.
+The broadcast, which began with just one channel that could be listened to only in Zagreb and northern Croatia, today makes 16 radio channels sent out on short wave, medium wave, FM, satellite and the Internet.
+On 25 May 2012, the television and radio program archive and a collection of music production were given the status of Croatia's cultural heritage.
+
+List of radio stations in Croatia
+List of Croatian language television channels
+
+Video games
+Some video games created by Croatian developers include: Serious Sam franchise, Talos Principle, Gas Guzzlers Extreme, Doodle Jump, I Hate Running Backwards, SEUM: Speedrunners from Hell, Inked, The Ward, etc. According to 2023 research results published in Croatian daily Jutarnji list; 92% of Croatian citizens play video games.
+
+Education
+People in Croatia enjoy free government-sponsored education at the primary and secondary level, and partially free university education. There are over 800 primary schools and over 400 secondary schools in the country.
+The higher education is also government-sponsored, and mostly free for students who enroll with better results. There are thirty two various polytechnic schools, as well as seven universities in seven larger cities: Zagreb, Split, Rijeka, Osijek, Zadar, Dubrovnik, and Pula. Each of the universities in Croatia is composed of many independent "faculties" (Croatian fakultet, meaning college or department), which focus on specific areas of learning: Natural Sciences, Philosophy, Law, Engineering, Economy, Architecture, Medicine, and so on.
+There are also a number of other educational and scientific institutions, such as institutes (most notably the Ruđer Bošković Institute) or the Croatian Academy of Sciences and Arts, a learned society promoting language, culture, and science from its first conception in 1866.
+The Roman Catholic Church was instrumental in the founding of many educational facilities in Croatia. One such example is University of Zagreb which traces its roots back to the 1669 Academy founded by the Jesuits. The Catholic Church in Croatia continues to maintain numerous seminaries and theological faculties in the country, as well as the Pontifical Croatian College of St. Jerome for Croatian students in Rome.
+
+Philosophy
+Between 1964 and 1974 Praxis School of Marxist philosophy used to exist inside Socialist Republic of Croatia as well as wider Socialist Yugoslavia. During its existence, the movement organized a Summer school on island of Korčula.
+
+Places
+The UNESCO has marked seven places in Croatia and three transnational sites as World Heritage Sites:
+
+Episcopal complex of the Euphrasian Basilica in Poreč
+The Cathedral of St. James in Šibenik
+Historic city of Trogir
+Diocletian's Palace, in Split
+Old city of Dubrovnik
+Plitvice Lakes
+Stari Grad Plain on the Croatian island of Hvar
+Stećci Medieval Tombstones Graveyards in Cista Provo
+Venetian Works of defence in Zadar
+Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe in Paklenica and Northern Velebit National Park
+Regarding conservation and natural beauty, Croatia has eight national parks, mostly situated along the Adriatic coast.
+
+Fashion
+Croatian fashion represents a distinctive cultural continuum shaped by geography, history, and intercultural exchange. Positioned at the crossroads of Central Europe, the Mediterranean, and the Balkans, Croatia has absorbed and transformed diverse influences into a recognizable sartorial identity. From ancient Illyrian adornments and richly symbolic folk costumes to modern high-fashion designers and the global legacy of the necktie, Croatian fashion reflects both regional diversity and a strong sense of national heritage.
+According to Dubravka Prpić Znaor, main editor of ItGirl.hr magazine, modern Croatians do not have its own unique dressing style, but instead combine elements of Italian, American, Japanese and French style. According global survey results published by US news, Croatia is 45th most fashionable country in the world.
+One of Croatia’s most significant contributions to global fashion is the necktie, known internationally as the cravat, originating from a style worn by members of the 17th century military unit known as the Cravats from Croatia. During the Thirty Years' War the Croats came in contact with French who were impressed by their outfit and soon adopted the scarf, naming it after the Croats, cravat  (French: cravate), which evolved into the modern-day cravat and necktie. The Cravat Regiment is a guard of honour established in 2010 in Zagreb, Croatia, which wears uniforms that are replicas of those worn by the Croats. The cravat spread rapidly across Europe as a symbol of elegance and masculinity.
+Over time, it evolved into the modern necktie and Croatia officially recognizes the necktie as part of its national heritage, and Cravat Day is celebrated annually on October 18. Besides cravat, the other Croatian fashion items are Lika cap, Opanci, Pag lace and others.
+During the 19th century, Croatian urban fashion aligned increasingly with Viennese and Budapest styles, particularly among the bourgeoisie. Tailoring became more refined, and fashion magazines circulated among the educated classes. Since its independence in the 1990s, Croatian fashion has developed a distinct contemporary voice. Zagreb soon became countries fashion capital. In late 2000s, Zagreb started opening luxury fashion house boutiques of Givenchy, Kenzo, Armani, Chanel and Burberry. The opening of flagship boutiques has established Zagreb as a regional center of high fashion, reflecting the maturation of Croatia’s luxury market and its economic stability. These brands enter only after extensive market analysis and under strict conditions regarding location, interior design, and brand consistency, making their presence a strong indicator of Croatia’s growing integration into global fashion and luxury retail networks. In addition to international luxury brands, Croatia is home to several domestic brands, including ELFS, Image Haddad, Zigman, Jolie Petite, Damir Doma, Galileo and many more. Notable Croatian designers include: Irena Grahovac, Miranda Vidak, Boris Banović, Žuži Jelinek, Matija Vuica, Vinka Lucas, Boris Pavlin & Tomislav Vrdoljak (BiteMyStyle), Olja Luetić, Mandali Mendrilla, Damir Doma, XD Xenia Design and Juraj Zigman – known Internationally for his costumes made for world known pop-stars like Beyoncé, Cardi B, Lizzo, Nicki Minaj, Tate McRae and many others. Croatian models include: Ljupka Gojić, Kristie Jandric, Dinka Džubur, Slavica Ecclestone, Faretta, Nina Morić, Tatjana Jurić and many more.
+
+Festivities and traditions
+Some of the festivities held in Croatia include:
+Sinjska alka – held in memory of victory Siege of Sinj in 1715
+Koprivnica Renaissance Festival
+Špancirfest in Varaždin
+Dubrovnik Summer Festival
+Đakovački vezovi
+Neretva Boat Marathon
+Music Biennale Zagreb
+Vinkovačke jeseni
+Rijeka Carnival
+Samobor fašnik (Samobor Carnival)
+Rapska fjera
+Chivalry Tournament of Franjo Tahy in Donja Stubica (VIteški turnir Franje Tahija)
+Susreti za Rudija – the annual airshow in Gornja Stubica, held in memory of Rudolf Perešin
+Večernjakova ruža (Rose of Večernji list) – Croatia's oldest and most prestigious media award
+Varaždin Baroque Evenings
+Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders
+Vukovar and Škabrnja Remembrance Day
+Vladimir Nazor Award – an annual award given by Croatian Ministry of Culture and Media for best artistic achievements in: literature, music, architecture, film, theatre and visual and applied arts
+Zagreb Classic – festival of classical music on King Tomislav Square in Zagreb
+
+Food and drink
+Cuisine
+Croatian cuisine is heterogeneous, and is therefore known as "the cuisine of regions". Its modern roots date back to proto-Slavic and ancient periods and the differences in the selection of foodstuffs and forms of cooking are most notable between those on the mainland and those in coastal regions. Mainland cuisine is more characterized by the earlier proto-Slavic and the more recent contacts with the more famous gastronomic orders of today, Hungarian, Viennese and Turkish, while the coastal region bears the influences of the Greek, Roman and Illyrian, as well as of the later Mediterranean cuisine, including Italian and French.
+A large body of books bears witness to the high level of gastronomic culture in Croatia, which in European terms dealt with food in the distant past, such as the Gazophylacium by Belostenec, a Latin-Kajkavian dictionary dating from 1740 that preceded a similar French dictionary. There is also Beletristic literature by Marulić, Hektorović, Držić and other writers, down to the work written by Ivan Bierling in 1813 containing recipes for the preparation of 554 various dishes (translated from the German original), and which is considered to be the first Croatian cookbook.
+
+Wine
+Croatian wine (vino, pl. vina) has a history dating back to the Ancient Greek settlers, and their wine production on the southern Dalmatian islands of Vis, Hvar and Korčula some 2,500 years ago. Like other Old World wine producers, many traditional grape varieties still survive in Croatia, perfectly suited to their local wine hills. Modern wine-production methods have taken over in the larger wineries and EU-style wine regulations
+ have been adopted, guaranteeing the quality of the wine.
+There are currently over 300 geographically defined wine regions and a strict classification system to ensure quality and origin. The majority of Croatian wine is white, with most of the remainder being red and only a small percentage being rosé wines. In 2014, Croatia ranked 32nd in wine production by country with an estimated 45,272 tonnes.
+Wine is a popular drink in Croatia, and locals traditionally like to drink wine with their meals. Quite often, the wine is diluted with either still or sparkling water—producing a drinks known as gemišt (a combination of white wine and carbonated water) and bevanda (a combination of red wine and still water).
+
+Coffee
+Drinking coffee is a ritual and a mean of socialising for Croatians. If they want to socialise with someone, they invite this person for a coffee. This is the reason why in Croatian towns coffee bar terraces can always be seen crawling with locals drinking their cappuccino and hanging out. Average coffee drinking time among Croatians tends to extend to between 40 and 45 minutes. According to the research done by Gfk Agency, 80% of Croatians older than 15 drink coffee on a daily basis. During the COVID-19 pandemic, 44% of Croatian citizens reported that they miss drinking coffee in their caffe bars. Among Dalmatians, 65% reported that the first thing they will do when the lockdown ends is go to their coffee bar and order coffee. In Croatian culture, the person who invites for a coffee usually pays the bill. Exception is if another person wants to make a nice gesture and pays instead.
+
+Croatian domestic animals
+Croatian Sheepdog
+Dalmatian dog
+Istrian Shorthaired Hound
+Hrvatica chicken
+Posavac (horse)
+
+Sports
+Since independence Croatia has been a fairly successful sporting country. The most popular team sports have been association football (soccer). In 2022 Croatian Football Federation (Croatian: Hrvatski nogometni savez) had between 130,000 and 130,000 registered players, and making it the largest sporting association in the country. According to a research conducted by CIES Football Observatory in 2017, Croatia was the single largest exporter of football players per capita, in the world. It was also ranked eight globally by the number of football players who play abroad. Since its existence, Croatian male national football team achieved notable results on worldwide scale by winning 3rd place in FIFA 1998 World Cup, 2nd place in FIFA 2018 World Cup and 3rd place in FIFA 2022 World Cup.
+Croatian male handball team also achieved some notable  successes by winning gold medal on summer Olympics in 1996 and 2004, gold medal on 2003 World Championship and silver medal on 2008, 2010 and 2020 European Championship.
+
+Other popular sports are basketball and to some extent water polo. The most popular sports played mainly by individuals are tennis, skiing, swimming, and to some extent table tennis and chess. The nation's arenas are primarily used for handball and basketball games.
+Some notable Croatian martial artists include Mirko "Cro Cop" Filipović, Željko Mavrović, Mate Parlov, Branko Cikatić, Ana Zaninović, Lucija Zaninović, Ivana Habazin and Maša Martinović.
+A female member of Illyrian movement Dragojla Jarnević is generally considered to be a founder of mountaineering in Croatia, as she climbed the steep rocks of Okić in 1843. In modern period, one of the most prominent Croatian mountaneers is Stipe Božić.
+
+See also
+Libraries in Croatia
+List of museums in Croatia
+Natural and Cultural Heritage of Croatia
+Public holidays in Croatia
+Register of Cultural Goods of Croatia
+
+References
+Sources
+Frucht, Richard C. (2004). Eastern Europe: an introduction to the people, lands, and culture. Vol. 2. ABC-CLIO. ISBN 978-1-57607-800-6. Archived from the original on 29 July 2020. Retrieved 7 February 2016.
+
+External links
+Republic of Croatia Ministry of Culture and Media
+Croatian Cultural Center of Greater Los Angeles
+Croatian Cultural
+International Trust for Croatian Monuments
+Heritage – digital collection of Croatian cultural heritage]
+
+Arts and literature
+Prehistory art in Croatia
+Antiquity in Croatia
+Croatian Culture Links
+Preromanesque art of coastal Croatia
+Croatia Arts and Literature
+Croatian cultural heritage
+Online library of major Croatian literary works from Renaissance to Modernism. In Croatian only
+Education
+Ministry of Science: the list of institutes and general survey
+Higher Education: Complete directory of higher education institutes in Croatia
+History
+Museum of Croatian Archaeological Monuments home page
+Institute for Ethnology and Folklore
+Lado National Folklore Ansamble
+The History of Necktie
+Nature Protection
+State Institute for Nature Protection – Croatia
+
+## Cuisine of Croatia
+Croatian cuisine (Croatian: Hrvatska kuhinja) is heterogeneous and is known as a cuisine of the regions, since every region of Croatia has its own distinct culinary tradition. Its roots date back to ancient times. The differences in the selection of foodstuffs and forms of cooking are most notable between those in mainland and those in coastal regions. Mainland cuisine is more characterized by Slavic features and influences from the more recent contacts with Turkish, Hungarian and Austrian cuisine, using lard for cooking, and spices such as black pepper, paprika, and garlic. The coastal region bears the influences of Greek and Roman cuisine, as well as of the later Mediterranean cuisine, in particular Italian (especially Venetian). Coastal cuisines use olive oil, herbs and spices such as rosemary, sage, bay leaf, oregano, marjoram, cinnamon, clove, nutmeg, and lemon and orange rind. Peasant cooking traditions are based on imaginative variations of several basic ingredients (cereals, dairy products, meat, fish, vegetables, nuts) and cooking procedures (stewing, grilling, roasting, baking), while bourgeois cuisine involves more complicated procedures and use of selected herbs and spices. Charcuterie is part of the Croatian culinary tradition in all regions. Food and recipes from other former Yugoslav countries are also popular in Croatia.
+Croatian cuisine can be divided into several distinct cuisines (Dalmatia, Dubrovnik, Gorski Kotar, Istria, Lika,  Međimurje, Podravina, Slavonija, Zagorje) each of which has specific cooking traditions, characteristic of the area and not necessarily well known in other parts of Croatia. Most dishes, however, can be found all across the country, with local variants.
+
+Meat and game
+Specialities from the grill are called s roštilja, those roasted on the spit s ražnja
+pečeno means roasted
+prženo means fried
+pod pekom means that the dish has been put into a stone oven under a metal cover. The cook puts hot coals on the cover so that the meal is cooked slowly in its own juices. Specialties cooked pod pekom include lamb, veal, and octopus.
+na lešo means boiled in broth or water (lamb, beef, fish)
+
+Croatian meat-based dishes include:
+
+Seafood
+Croatian seafood dishes include:
+
+Stews
+Stewed vegetables with a small amount of meat or sausages (varivo or čušpajz) is perceived as a healthy, traditional meal. Sour cream (in Northern Croatia) or olive oil (on the coast) can be added to the plate just before serving. Stewed meat dishes are often prepared by men in open spaces, following hunting and shepherding traditions. In Dalmatian urban cuisine, spices such as cinnamon and clove, Swiss chard (known as "blitva"), dried plums, dried figs, apples and other fruit are sometimes added to meat stews.
+
+Pasta
+Pasta is one of the most popular food items in Croatian cuisine, especially in the region of Dalmatia. Manistra na pome (pasta with tomato sauce) is a staple. The other popular sauces include creamy mushroom sauce, minced meat sauce and many others. Fresh pasta (rezanci, krpice) is added to soups and stews, or prepared with cottage cheese, cabbage, even with walnuts or poppy seed. Potato dough is popular, not only for making njoki (gnocchi), but also for making plum or cheese dumplings which are boiled, and then quickly fried in breadcrumbs and butter.
+
+Soups
+Soup is an integral part of a meal in Croatia and no Sunday family meal or any special occasion will go without it. The most popular soups are broth-based, with added pasta or semolina dumplings. They are usually light in order to leave space for the main course and dessert to follow. However, cream or roux-based soups are also popular, and there are many local variations of traditional soups.
+In Dalmatia, fish soup with fish chunks, carrots and rice is commonly served.
+
+Side dishes
+Other
+Sausages and ham
+Cheese (sir)
+Paški sir – sheep's milk cheese from the island of Pag
+Farmers' cheese (škripavac) and curd cheese from the regions of Kordun and Lika
+Cheese from the Cetina region (Cetinski sir)
+Cheese from the Island of Krk (Krčki sir)
+Cheese from Međimurje (turoš)
+Cheese from Podravina (prga)
+Cottage cheese (eaten with cream, vrhnje) from Zagorje (sir i vrhnje, often seen as quintessential Croatian traditional food)
+
+Savoury pies
+Viška pogača is a salted sardine-filled focaccia from the island of Vis.
+Soparnik is a Dalmatian chard-filled pie.
+Duvanjska pita, made from thin phyllo dough wraps filled with potato and meat.
+
+Pastry
+Zagrebačka and Samoborska kremšnita
+Pita
+Pogača (farmers' bread)
+Povitica
+
+Bučnica (summer squash and cottage cheese pie, can be savory or sweet)
+Zagorski štrukli (made with cottage cheese, sour cream and eggs, can be savory or sweet, boiled or baked)
+Zlevanka, simple baked cornmeal pastry with various fillings (e.g. cheese, sour cream, cherries, plum jam, walnuts, nettle)
+Varaždinski klipići
+
+Sweets and desserts
+Palačinke (crepes) with sweet filling (Hungarian: palacsinta, German: Palatschinken)
+Piškote/Piškoti — thin, light, sweet delicate, crispy cookie
+Baklava
+Kremšnita – vanilla slice or custard slice, is a custard and chantilly cream cream cake dessert
+Doboš — sponge cake layered with chocolate buttercream and topped with caramel (Hungarian: Dobos torta)
+Šaumšnita –
+Zagorski štrukli – sweet pastry from northern Croatia
+Uštipci
+Fritule
+Knedle – also known as gomboce are potato dough dumplings, usually filled with plums and rolled into buttered breadcrumbs
+Strudel (Croatian: savijača or štrudla) with apple or curd cheese fillings
+Orahnjača and Makovnjača – sweet breads with walnut or poppy seeds
+Croatian honey
+Bear's paw
+Farmer's cheese (quark) cakes (cream cake)
+Krafne, pokladnice – a type of doughnut
+Croatian pancakes (with wine and egg sauce)
+Šnenokli, paradižot (meringue in custard cream, floating island (dessert))
+Almond filled ravioli (rafioli)
+Homemade fruit preserves, jams, compotes
+Čupavci (lamingtons)
+Tiramisu
+
+Cakes (kolači)
+Rožata or Rozata (flan, creme caramel)
+Easter pastry Pinca
+Kroštule (crunchy, deep-fried pastry)
+Fritule (deep-fried dough, festive pastry, particularly for Christmas)
+Bishop's bread
+Guglhupf ring cake (Croatian kuglof)
+Rapska torta (Rab cake)
+Međimurska gibanica (Međimurje County layer cake with apple, poppyseed, walnut and cottage cheese fillings)
+Makarana torta
+Imotska torta
+Mađarica (Croatian layer cake)
+
+Drinks
+Wines
+Croatia has 3 main wine regions: Continental (Kontinetska), Coastal (Primorska)  which includes the islands and Slavonia, Croatia’s northeastern-most region. The old wine cellars in Ilok date back to the 15th and 18th centuries. It is interesting that the famous Ilok Traminac was ordered by the English Court for the coronation of Queen Elizabeth II. Also, one interesting story coming from one of the employees who save a place during the Homeland War, more precisely during the Serbian occupation of Ilok, when he decided to enclose the wall of one part of the Old Cellar and store it as many as 8,000 most valuable archival wines.
+Each of the main regions is divided into sub-regions which are divided yet further into smaller vinogorje, (literally "wine hills") and districts. Altogether, there are more than 300 geographically defined wine-producing areas in Croatia.Istria, Konavle and Pelješac were recognised by Vogue as the best ones in Croatia. There are numerous enological events (fairs) throuought the year (for ex. Vinistra).
+In parts of Croatia, wine, either red or white, is sometimes consumed mixed with sparkling water or juice. For example, in Hrvatsko Zagorje and Međimurje, popular combination is white wine and mineral water (mostly Jamnica), called gemišt (German: gemischt, ”mixed”, "mixture"). On the other hand, in Dalmatia is popular bevanda (Italian: bevanda, "drink"), mix of vine and still water. Bevanda is common gastronomical motif in cultural representations of Dalmatia and its people in popular culture.
+
+Dessert wines
+Sweet Malvazija
+Muškat Ottonel (see: Muscat grape)
+Prošek
+Traminac
+
+White wines
+Rajnski Rizling
+Žlahtina, Vitis vinifera from Vrbnik (Vrbnik polje) at the Krk island, also known as "Vrbnička žlahtina”
+Malvazija
+Graševina
+
+Red wines
+Babić
+Plavac Mali
+Postup
+Frankovka
+
+Beers (pivo)
+Apart from imported beers (Heineken, Tuborg, Gösser, Stella Artois, etc.), there are home-brewed and locally brewed beers in Croatia. A brewery based in Split produces Bavarian Kaltenberg beer by licence of the original brewery in Germany.
+
+Karlovačko: brewed in Karlovac [1]
+Ožujsko: brewed in Zagreb (the name refers to the month of March)
+Pan
+Favorit: from Buzet, Istria
+Vukovarsko: from Vukovar
+Osječko: from Osijek (oldest brewery in Croatia)
+Tars pivo: from the seaport city of Rijeka
+Tomislav: dark beer from Zagreb
+Velebitsko pivo: brewed near Gospić on the Velebit mountain, the dark beer has been voted best beer by an English beer fan website.
+Recent craft beer breweries are:
+
+Medvedgrad Brewery, from Zagreb, established in 1994
+Grif microbrewery, Zagreb
+
+Liqueurs and spirits
+Maraschino
+Rakija (Croatian name for spirits), commonly made from: Lozovača / Loza (grapes) (it.: Grappa),Travarica (Loza with herbs), Šljivovica (plums), Kruškovac (pears), Drenovac (cherries)
+Pelinkovac
+Orahovac (walnut liqueur)
+Medovina (honey)
+Gvirc (as Medovina, only more alcohol).
+
+Coffee
+Croatia is a country of coffee drinkers (on average 5kg per person annually), not only because it was formerly part of the Austrian-Hungarian Empire, but also because it bordered the former Ottoman Empire. Traditional coffee houses similar to those in Vienna are located throughout Croatia.
+
+Mineral water
+Regarding its water resources, Croatia has a leading position in Europe. Concerning water quality, Croatian water is greatly appreciated all over the world. Due to a lack of established industries there have also been no major incidents of water pollution.
+
+Jamnica – Winner of the Paris AquaExpo for best mineral water of 2003 [2]
+Lipički studenac
+Jana – also belongs to Jamnica, best aromatized mineral water (Eauscar 2004)
+
+Juices and syrups
+Protected products
+There are 46 Croatian agricultural and food products registered in the European Union as a protected designation of origin. or a protected designation of geographical origin.
+They include cheese, honey, meat, fruits and vegetables, olive and other oils, pastry and sea products.
+
+See also
+List of Croatian dishes
+Croatian wine
+Croatian brands
+
+References
+Further reading
+
+"Hrvatska za stolom – mirisi i okusi Hrvatske", Ivanka Biluš et al., Zagreb:Alfa, Koprivnica: Podravka, 1996, 192 p., illustrated in color, (Biblioteka Anima Croatarum, 2) ISBN 953-168-104-X
+"Hrvatska vina" (Croatian wines), Fazinić Nevenko, Milat Vinko, illustrated, 159 p., 1994, ISBN 953-173-061-X
+"Nova hrvatska kuhinja" (New Croatian cuisine), Davor Butković, Ana Ugarković, Profil international, Zagreb, 2005, 272 p., ISBN 953-12-0164-1
+Callec, Christian (2003),  written at The Netherlands, Wine: A Comprehensive Look at the World's Best Wine, New York: Random House (published 2002), ISBN 0-517-22165-9.
+
+## List of museums in Croatia
+Croatia is home to a rich and diverse museum scene, with over 200 institutions scattered across the country, showcasing its history, culture, and art. In 2018, Croatia saw record visits to the museums across country, with over 5,4 million visitors. The oldest museum, the Archaeological Museum in Split, dates back to 1820, while the capital, Zagreb, has the highest number of museums (54), offering everything from contemporary art to historical exhibitions. Cities followed with museum numbers are, Split (18), Dubrovnik (16), Rijeka (5) and Osijek (4).
+
+Zagreb
+Museums in Zagreb:
+
+Archaeological Museum
+Antimuseum Bus
+Croatian History Museum
+Croatian Hunting Museum
+Croatian Museum of Telecommunications and Post
+Croatian Natural History Museum
+Croatian Railway Museum
+Croatian State Archives
+Cannabis Museum
+Chocolate Museum
+Cortugli Business Museum
+Cravaticum Museum
+Hrvatski muzej arhitekture HAZU
+Hrvatski školski muzej
+Hrvatski športski muzej
+Ethnographic Museum
+Ferdinand Budicki Automobile Museum
+History of video games Museum
+Hangover Museum
+HaHaHouse Museum
+Židovski muzej u Zagrebu
+Memorial Centre of Bombing of Zagreb 1991/1995
+Muzejski dokumentacijski centar
+Moneterra - Museum of Money currency
+Museum of Arts and Crafts
+Museum of blessed Aloysius Stepinac
+Museum of Broken Relationships
+Museum of Contemporary Art
+Museum of Forgotten Stories
+Museum of Franjo Schneider
+Museum of Illusions
+Košarkaški centar Dražen Petrović
+Museum of Unfinished Art
+Museum of New Wave
+Museum of Prigorje
+Museum of Selfies and Memories
+Museum of Serbian Orthodox Church
+Museum of Trešnjevka neighbourhood
+Mushroom Museum
+Nikola Tesla Technical Museum
+Muzej policije
+Sacral Museum
+Tiflološki muzej
+Travel Museum
+Muzej putovanja u Zagrebu
+Zagreb City Museum
+Zagreb 80s Museum
+Art galleries in Zagreb:
+
+Art Pavilion
+HAZU Glyptotheque
+Institute for Contemporary Art
+Klovićevi dvori
+Lauba
+Meštrović Atelier
+Meštrović Pavilion
+Galerija Miroslav Kraljević
+Mimara Museum
+Modern Gallery
+Strossmayer Gallery of Old Masters
+
+Split
+List of Museums and Galleries in Split:
+
+Archaeological Museum
+Archaeological collection of ancient Salona
+Croatian Maritime Museum
+Etnografski muzej Split
+Diocletian's Palace
+Etnographic Museum
+Froggyland
+Gallery of Fine Arts
+Gallery of Croatian sacred art Laudato
+Gallery of Vinko Draganja, of the Dominican monastery in Split
+Game of Thrones Museum
+Homeland War Museum
+Ivan Meštrović Gallery
+Museum of Illusions
+Museum in the church of St. Francis
+Museum of Sacred Art
+Museum of Croatian Archaeological Monuments
+Selfie Experience Split
+Salon Galić
+Split Hall of Fame
+Muzej grada Splita
+Split Science Museum and Zoo
+Treasury of Split Cathedral
+The Archbishop's Seminary
+The Franciscan Monastery of Saint Anthony
+
+Dubrovnik
+List of Museums and Galleries in Dubrovnik:
+
+Arheološki muzej
+Akvarij i Institut za more i priobalje
+Kulturno-povijesni muzej
+Muzej Dominikanskog samostana
+Franciscan monastery museum
+Etnografski muzej
+Muzej Domovinskog rata
+Dom Marina Držića
+Pomorski muzej
+Muzej crvene povijesti
+Muzej suvremene povijesti
+Rector's Palace
+Memorijalna kuća Ronalda Browna
+Synagogue Museum
+Muzej samostana Sigurata
+Treasury of Dubrovnik Cathedral
+
+Rijeka
+List of Museum and Galleries in Rijeka:
+
+Muzej grada Rijeke
+Muzej moderne i suvremene umjetnosti
+Pomorski i povijesni muzej Hrvatskog primorja
+Prirodoslovni muzej Rijeka
+PEEK&POKE
+
+Osijek
+List of Museums and Galleries in Osijek:
+
+Archaeological Museum
+Gallery of Fine Arts
+Gallery Waldinger
+Museum of Slavonia
+
+Others
+List of Museums and Galleries in Croatia, listed under counties
+
+Bjelovar-Bilogora County
+Galerija "Barutana 1991.", Bjelovar
+Gradski muzej Bjelovar, Bjelovar
+Čazma City Museum, Čazma
+Daruvar City Museum, Daruvar
+
+Brod-Posavina County
+Gallery Slavonski Brod, Slavonski Brod
+Muzej Brodskog Posavlja, Slavonski Brod
+Muzej tambure, Slavonski Brod
+City Museum Nova Gradiška, Nova Gradiška
+
+Dubrovnik-Neretva County
+Arheološki muzej Narona, Vid
+
+Istria County
+Arheološki muzej Istre, Pula, Pula
+Povijesni i pomorski muzej Istre, Pula
+City Gallery Pula, Pula
+Pazin Castle, Pazin
+Pazin City Museum, Pazin
+Ethnographical Museum of Istria, Pazin
+Umag City Museum, Umag
+Muzej Lapidarium, Novigrad
+
+Karlovac County
+Ozalj Castle, Ozalj
+Karlovac City Museum, Karlovac
+
+Krapina-Zagorje County
+Krapina Neanderthal Museum, Krapina
+Krapina City Gallery, Krapina
+Oršić Castle in Gornja Stubica, Gornja Stubica
+Veliki Tabor Castle, Desinić
+Galerija izvorne umjetnosti, Zlatar
+Muzej Staro selo Kumrovec, Kumrovec
+
+Koprivnica-Križevci County
+Muzej prehrane "Podravka", Koprivnica
+
+Lika-Senj County
+Nehaj Fortress, Senj
+Nikola Tesla Memorial Center, Smiljan
+Muzej Like Gospić, Gospić
+
+Međimurje County
+Međimurje County Museum, Čakovec Castle
+
+Osijek-Baranja County
+Cultural and Scientific Center "Milutin Milanković", Dalj
+Valpoovo City Museum, Valpovo
+
+Požega-Slavonia County
+Gradski muzej Požega, Požega
+Pakrac City Museum, Pakrac
+
+Primorje-Gorski Kotar County
+Cres Museum, Cres
+City Museum Bakar, Bakar
+Lošinjski muzej, Mali Lošinj
+Muzej grada Crikvenice, Crikvenica
+National Museum, Novi Vinodolski
+
+Šibenik-Knin County
+Muzej grada Šibenika, Šibenik
+Museum of Saint Barbara, Šibenik
+Drniš City Museum, Drniš
+Knin City Museum, Knin
+
+Sisak-Moslavina County
+Sisak Fortress, Sisak
+Sisak City Museum, Sisak
+Galerija Krsto Hegedušić, Petrinja
+Muzej Moslavine, Kutina
+
+Split-Dalmatia County
+Museum of the Cetinska Krajina Region, Sinj
+Museum of the Sinjska alka, Sinj
+Bishop Museum, Hvar
+Galerija umjetnina "Branislav Dešković", Bol
+Muzej grada Kaštela, Kaštela
+Antun Gojak Gallery, Makarska
+Malacology Museum, Makarska
+Korčula City Museum, Korčula
+Omiš City Museum, Omiš
+Trogir City Museum, Trogir
+Trilj City Museum, Trilj
+
+Varaždin County
+Trakošćan Castle, Bednja
+Varaždin Castle, Varaždin
+Gradski muzej Varaždin, Varaždin
+
+Virovitica-Podravina County
+Pejačević Castle in Virovitica - Virovitica City Museum, Virovitica
+Orahovica City Museum, Orahovica
+
+Vukovar-Srijem County
+Eltz Manor - Vukovar City Museum, Vukovar
+Vučedol Culture Museum, Vukovar
+City Museum of Vinkovci, Vinkovci
+Šumarski muzej Bošnjaci, Bošnjaci
+
+Zadar County
+Arheološki muzej Zadar, Zadar
+Museum of Antic glass, Zadar
+Narodni muzej Zadar, Zadar
+
+Zagreb County
+Marton Museum, Samobor
+Samovar City Museum, Samobor
+Jastrebarsko City Museum, Jastrebarsko
+Sveti Ivan Zelina Museum, Sveti Ivan Zelina
+Muzej Turopolja, Velika Gorica
+
+Defunct
+Museum of Serbs of Croatia (1946–1963, became part of Croatian History Museum)
+
+List of most-visited museums in Croatia
+This is a list of the most-visited museums in Croatia in 2024 by annual attendance statistics.
+
+See also
+
+List of museums
+Tourism in Croatia
+
+
+== References ==

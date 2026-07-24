@@ -1,0 +1,1027 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Canada
+FILE_NAME: country_canada.txt
+PROCESSED_DATE: 2026-07-22 15:44:25
+----------------
+
+# Canada
+
+## General Overview
+Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the second-largest country by total area, with the longest coastline of any country. Its border with the United States is the longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. With a population of over 41 million, it has widely varying population densities, with the majority residing in its urban areas and large areas being sparsely populated. Its capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.
+Indigenous peoples have continuously inhabited what is now Canada for thousands of years. Beginning in the 16th century, British and French expeditions explored and later settled along the Atlantic coast. As a consequence of various armed conflicts, France ceded nearly all of its colonies in North America in 1763. In 1867, with the union of three British North American colonies through Confederation, Canada was formed as a federal dominion of four provinces. This began an accretion of provinces and territories resulting in the displacement of Indigenous populations, and a process of increasing autonomy from the United Kingdom. This increased sovereignty was highlighted by the Statute of Westminster, 1931, and culminated in the Canada Act 1982, which severed the vestiges of legal dependence on the Parliament of the United Kingdom.
+Canada is a parliamentary democracy and a constitutional monarchy in the Westminster tradition. The country's head of government is the prime minister, who holds office by virtue of their ability to command the confidence of the elected House of Commons and is appointed by the governor general, representing the monarch of Canada, the ceremonial head of state. The country is a Commonwealth realm and is officially bilingual (English and French) in the federal jurisdiction. It is very highly ranked in international measurements of government transparency, quality of life, economic competitiveness, innovation, education and human rights. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration. Canada's long and complex relationship with the United States has had a significant impact on its history, economy, and culture.
+A developed country, Canada's advanced economy has a high nominal per capita GDP globally and ranks among the largest in the world by nominal GDP, relying chiefly upon its abundant natural resources and well-developed international trade networks. Canada is recognized as a middle power; its support for multilateralism and internationalism has been closely related to its foreign policies of peacekeeping and aid for developing countries. Canada promotes its domestically shared values through participation in multiple international organizations and forums.
+
+Etymology
+While a variety of theories have been postulated for the etymological origins of Canada, the name is now accepted as coming from the St. Lawrence Iroquoian word kanata, meaning 'village' or 'settlement'. In 1535, Indigenous inhabitants of the present-day Quebec City region used the word to direct French explorer Jacques Cartier to the village of Stadacona. Cartier later used the word Canada to refer not only to that particular village but to the entire area subject to Donnacona (the chief at Stadacona); by 1545, European books and maps had begun referring to this small region along the Saint Lawrence River as Canada.
+From the 16th to the early 18th century, Canada referred to the part of New France that lay along the Saint Lawrence River. Following the British conquest of New France, this area was known as the British Province of Quebec from 1763 to 1791. In 1791, the area became two British colonies called Upper Canada and Lower Canada. These two colonies were collectively referred to as the Canadas until their union as the Province of Canada in 1841.
+Upon Confederation in 1867, Canada was adopted as the legal name for the new country at the London Conference and the word dominion was conferred as the country's title, reflecting its status as a self-governing nation within the British Empire. Following the London Declaration of 1949, where it was agreed that India could be a full member of the Commonwealth as a republic, not a dominion, the leaders of the Commonwealth countries agreed that the other members of the Commonwealth should not continue to be referred to as dominions. In 1951, Prime Minister Louis St. Laurent announced in the Canadian House of Commons that in light of the Statute of Westminster, 1931, and the changes to the Commonwealth, dominion was no longer an accurate term to use to refer to Canada and would no longer be used by the federal government. Similarly, the United Kingdom no longer used the term dominions to refer to Canada or other members of the Commonwealth, instead beginning to use the term a realm of the Commonwealth.
+The Canada Act 1982, which brought the Constitution of Canada fully under Canadian control, referred only to Canada. Later that year, the name of the national holiday was changed from Dominion Day to Canada Day.
+
+History
+Indigenous peoples
+The first inhabitants of North America are generally hypothesized to have migrated from Siberia by way of the Bering land bridge and arrived at least 14,000 years ago. The Paleo-Indian archeological sites at Old Crow Flats and Bluefish Caves are two of the oldest sites of human habitation in Canada. The characteristics of Indigenous societies included permanent settlements, agriculture, complex societal hierarchies, and trading networks. Some of these cultures had collapsed by the time European explorers arrived in the late 15th and early 16th centuries and have only been discovered through archeological investigations. Indigenous peoples in present-day Canada include the First Nations, Inuit, and Métis, the last being of mixed descent who originated in the mid-17th century when First Nations people married European settlers and their offspring subsequently developed their own identity.
+The Indigenous population at the time of the first European settlements is estimated to have been between 200,000 and two million, with a figure of 500,000 accepted by Canada's Royal Commission on Aboriginal Peoples. As a consequence of European colonization, the Indigenous population declined by forty to eighty percent. The decline is attributed to several causes, including the transfer of European diseases, to which they had no natural immunity, conflicts over the fur trade, conflicts with the colonial authorities and settlers, and the loss of Indigenous lands to settlers and the subsequent collapse of several nations' self-sufficiency.
+Although not without conflict, European Canadians' early interactions with First Nations and Inuit populations were relatively peaceful. First Nations and Métis peoples played a critical part in the development of European colonies in Canada, particularly for their role in assisting European coureurs des bois and voyageurs in their explorations of the continent during the North American fur trade. These early European interactions with First Nations would change from friendship and peace treaties to the dispossession of Indigenous lands through treaties. From the late 18th century, European Canadians forced Indigenous peoples to assimilate into a western Canadian society. Settler colonialism reached a climax in the late 19th and early 20th centuries. A period of redress began with the formation of a reconciliation commission by the Government of Canada in 2008. This included acknowledgment of cultural genocide, settlement agreements, and betterment of racial discrimination issues, such as addressing the plight of missing and murdered Indigenous women.
+
+European colonization
+It is believed that the first documented European to explore the east coast of Canada was Norse explorer Leif Erikson. In approximately 1000 AD, the Norse built a small short-lived encampment that was occupied sporadically for perhaps 20 years at L'Anse aux Meadows on the northern tip of Newfoundland. No further European exploration occurred until 1497, when seafarer John Cabot explored and claimed Canada's Atlantic coast in the name of Henry VII of England. In 1534, French explorer Jacques Cartier explored the Gulf of Saint Lawrence where, on July 24, he planted a 10-metre (33 ft) cross bearing the words, "long live the King of France", and took possession of the territory New France in the name of King Francis I. The early 16th century saw European mariners with navigational techniques pioneered by the Basque and Portuguese establish seasonal whaling and fishing outposts along the Atlantic coast. In general, early settlements during the Age of Discovery appear to have been short-lived due to a combination of the harsh climate, problems with navigating trade routes and competing outputs in Scandinavia.
+In 1583, Sir Humphrey Gilbert, by the royal prerogative of Queen Elizabeth I, founded St John's, Newfoundland, as the first North American English seasonal camp. In 1600, the French established their first seasonal trading post at Tadoussac along the Saint Lawrence. French explorer Samuel de Champlain arrived in 1603 and established the first permanent year-round European settlements at Port Royal (in 1605) and Quebec City (in 1608). Among the colonists of New France, Canadiens extensively settled the Saint Lawrence River valley and Acadians settled the present-day Maritimes, while fur traders and Catholic missionaries explored the Great Lakes, Hudson Bay, and the Mississippi watershed to Louisiana. The Beaver Wars broke out in the mid-17th century over control of the North American fur trade.
+The English established additional settlements in Newfoundland in 1610 along with settlements in the Thirteen Colonies to the south. A series of four wars erupted in colonial North America between 1689 and 1763; the later wars of the period constituted the North American theatre of the Seven Years' War. Mainland Nova Scotia came under British rule with the 1713 Treaty of Utrecht and Canada and most of New France came under British rule in 1763 after the Seven Years' War.
+
+British North America
+The Royal Proclamation of 1763 established First Nation treaty rights, created the Province of Quebec out of New France, and annexed Cape Breton Island to Nova Scotia. St John's Island (now Prince Edward Island) became a separate colony in 1769. To avert conflict in Quebec, the British Parliament passed the Quebec Act 1774, expanding Quebec's territory to the Great Lakes and Ohio Valley. More importantly, the Quebec Act afforded Quebec special autonomy and rights of self-administration at a time when the Thirteen Colonies were increasingly agitating against British rule. It re-established the French language, Catholic faith, and French civil law there, staving off the growth of an independence movement in contrast to the Thirteen Colonies. The Proclamation and the Quebec Act in turn angered many residents of the Thirteen Colonies, further fuelling anti-British sentiment in the years prior to the American Revolution.
+After the American War of Independence, the 1783 Treaty of Paris recognized the independence of the United States and set the terms of peace, ceding British North American territories south of the Great Lakes and east of the Mississippi River to the new country. The American war of independence also caused a large out-migration of Loyalists, the settlers who had fought against American independence. Many moved to Canada, particularly Atlantic Canada, where their arrival changed the demographic distribution of the existing territories. New Brunswick was in turn split from Nova Scotia as part of a reorganization of Loyalist settlements in the Maritimes, which led to the incorporation of Saint John, New Brunswick, as Canada's first city. To accommodate the influx of English-speaking Loyalists in Central Canada, the Constitutional Act of 1791 divided the province of Canada into French-speaking Lower Canada (later Quebec) and English-speaking Upper Canada (later Ontario), granting each its own elected legislative assembly.
+
+The Canadas were the main front in the War of 1812 between the United States and the United Kingdom. Peace came in 1815; no boundaries were changed. Immigration resumed at a higher level, with over 960,000 arrivals from Britain between 1815 and 1850. New arrivals included refugees escaping the Great Irish Famine as well as Gaelic-speaking Scots displaced by the Highland Clearances. Infectious diseases killed between 25 and 33 percent of Europeans who immigrated to Canada before 1891.
+The desire for responsible government resulted in the abortive Rebellions of 1837. The Durham Report subsequently recommended responsible government and the assimilation of French Canadians into English culture. The Act of Union 1840 merged the Canadas into a united Province of Canada and responsible government was established for all provinces of British North America east of Lake Superior by 1855. The signing of the Oregon Treaty by Britain and the United States in 1846 ended the Oregon boundary dispute, extending the border westward along the 49th parallel. This paved the way for British colonies on Vancouver Island (1849) and in British Columbia (1858). The Anglo-Russian Treaty of Saint Petersburg (1825) established the border along the Pacific coast, but, even after the US Alaska Purchase of 1867, disputes continued about the exact demarcation of the Alaska–Yukon and Alaska–British Columbia border.
+
+Confederation and expansion
+Following three constitutional conferences, the British North America Act, 1867 officially proclaimed Canadian Confederation on July 1, 1867, initially with four provinces: Ontario, Quebec, Nova Scotia, and New Brunswick. Canada assumed control of Rupert's Land and the North-Western Territory to form the Northwest Territories, where the Métis' grievances ignited the Red River Rebellion and the creation of the province of Manitoba in July 1870. British Columbia and Vancouver Island (which had been united in 1866) joined the confederation in 1871 on the promise of a transcontinental railway extending to Victoria in the province within 10 years, while Prince Edward Island joined in 1873. In 1898, during the Klondike Gold Rush in the Northwest Territories, Parliament created the Yukon Territory. Alberta and Saskatchewan became provinces in 1905. Between 1871 and 1896, almost one quarter of the Canadian population emigrated south to the US.
+To settle the West and attract European immigrants, Canada sponsored the construction of three transcontinental railways, enacted the Dominion Lands Act and founded the North-West Mounted Police to maintain regional authority. This period of westward expansion and nation building resulted in the displacement of many Indigenous peoples of the Canadian Prairies to "Indian reserves", clearing the way for ethnic European block settlements. This caused the collapse of the Plains Bison in western Canada and the introduction of European cattle farms and wheat fields dominating the land. The Indigenous peoples saw widespread famine and disease due to the loss of the bison and their traditional hunting lands. The federal government did provide emergency relief, on condition of the Indigenous peoples moving to the reserves. During this time, Canada introduced the Indian Act extending its control over the First Nations to education, government and legal rights.
+
+Early 20th century
+Because Britain still maintained control of Canada's foreign affairs under the British North America Act, 1867, its declaration of war in 1914 automatically brought Canada into the First World War. Volunteers sent to the Western Front later became part of the Canadian Corps, which played a substantial role in the Battle of Vimy Ridge and other major engagements of the war. The Conscription Crisis of 1917 erupted when the Unionist Cabinet's proposal to augment the military's dwindling number of active members with conscription was met with vehement objections from French-speaking Quebecers. In 1919, Canada joined the League of Nations independently of Britain. After the 1926 King–Byng affair raised concerns over the governor general's use of reserve powers, the Balfour Declaration that year put Canada on a legal path to full sovereignty equal to Britain's, and the Statute of Westminster, 1931, which implemented the declaration, affirmed Canada's independence.
+The Great Depression in Canada during the early 1930s saw an economic downturn, leading to hardship across the country. In response to the downturn, the Co-operative Commonwealth Federation (CCF) in Saskatchewan introduced many elements of a welfare state (as pioneered by Tommy Douglas) in the 1940s and 1950s. On the advice of Prime Minister William Lyon Mackenzie King, war with Germany was declared effective September 10, 1939, by King George VI, seven days after the United Kingdom. The delay underscored Canada's independence.
+The first Canadian Army units arrived in Britain in December 1939. In all, over a million Canadians served in the armed forces during the Second World War. Canadian troops played important roles in many key battles of the war, including the failed 1942 Dieppe Raid, the Allied invasion of Italy, the Normandy landings, the Battle of Normandy, and the Battle of the Scheldt in 1944. Canada provided asylum for the Dutch monarchy while that country was occupied and is credited by the Netherlands for major contributions to its liberation from Nazi Germany. Despite another conscription crisis in Quebec in 1944, Canada finished the war with a large army and strong economy.
+
+Contemporary era
+The financial crisis of the Great Depression led the Dominion of Newfoundland to relinquish responsible government in 1934 and become a Crown colony ruled by a British governor. After two referendums, Newfoundlanders voted to join Canada in 1949 as a province.
+Canada's post-war economic growth, combined with the policies of successive Liberal governments, led to the emergence of a new Canadian identity, marked by the adoption of the maple leaf flag in 1965, the implementation of official bilingualism (English and French) in 1969, and the institution of official multiculturalism in 1971. Socially democratic programs were also instituted, such as Medicare, the Canada Pension Plan, and Canada Student Loans; though, provincial governments, particularly Quebec and Alberta, opposed many of these as incursions into their jurisdictions.
+
+Finally, another series of constitutional conferences resulted in the Canada Act 1982, the patriation of Canada's constitution from the United Kingdom, concurrent with the creation of the Canadian Charter of Rights and Freedoms. Canada had established complete sovereignty as an independent country under its own monarchy. In 1999, Nunavut became Canada's third territory after a series of negotiations with the federal government.
+At the same time, Quebec underwent profound social and economic changes through the Quiet Revolution of the 1960s, giving birth to a secular nationalist movement. The radical Front de libération du Québec (FLQ) ignited the October Crisis with a series of bombings and kidnappings in 1970, and the sovereigntist Parti Québécois was elected in 1976, organizing an unsuccessful referendum on sovereignty-association in 1980. Attempts to accommodate Quebec nationalism constitutionally through the Meech Lake Accord failed in 1990. This led to the formation of the Bloc Québécois in Quebec and the invigoration of the Reform Party of Canada in the West. A second referendum followed in 1995, in which sovereignty was rejected by a slimmer margin of 50.6 to 49.4 percent. In 1997, the Supreme Court ruled unilateral secession by a province would be unconstitutional, and the Clarity Act was passed by Parliament, outlining the terms of a negotiated departure from Confederation.
+In addition to the issues of Quebec sovereignty, a number of crises shook Canadian society in the late 1980s and early 1990s. These included the explosion of Air India Flight 182 in 1985, the largest mass murder in Canadian history; the École Polytechnique massacre in 1989, a university shooting targeting female students; and the Oka Crisis of 1990, the first of a number of violent confrontations between provincial governments and Indigenous groups. Canada joined the Gulf War in 1990 and was active in several peacekeeping missions in the 1990s, including operations in the Balkans during and after the Yugoslav Wars, and in Somalia, resulting in an incident that has been described as "the darkest era in the history of the Canadian military". After the September 11 attacks in the United States, Canada sent troops to Afghanistan in 2001, resulting in the largest amount of Canadian deaths for any single military mission since the Korean War in the early 1950s.
+In 2011, Canadian forces participated in the NATO-led intervention into the Libyan Civil War and also became involved in battling the Islamic State insurgency in Iraq in the mid-2010s. The COVID-19 pandemic in Canada began on January 27, 2020, causing widespread social and economic disruption. In 2021, possible gravesites of Indigenous children were found near former Canadian residential schools, highlighting the cultural genocide against Indigenous peoples. A trade war involving the United States began on February 1, 2025, when U.S. president Donald Trump signed orders imposing tariffs on goods entering the United States, alongside rhetoric suggesting the annexation of Canada.
+
+Geography
+By total area (including its waters), Canada is the second-largest country. By land area alone, Canada ranks fourth, due to having the world's largest area of fresh water lakes. Stretching from the Atlantic Ocean in the east, along the Arctic Ocean to the north, and to the Pacific Ocean in the west, the country encompasses 9,984,670 square kilometres (3,855,100 sq mi) of territory. Canada also has vast maritime terrain, with the world's longest coastline of 243,042 kilometres (151,019 mi) In addition to sharing the world's largest land border with the United States—spanning 8,891 kilometres (5,525 mi)—Canada shares a short (1,280 metres (4,200 ft)) land border with Greenland (and hence the Kingdom of Denmark) to the northeast, on Hans Island, and a maritime boundary with France's overseas collectivity of Saint Pierre and Miquelon to the southeast. Canada is also home to the world's northernmost settlement, Canadian Forces Station Alert, on the northern tip of Ellesmere Island—latitude 82.5°N—which lies 817 kilometres (508 mi) from the North Pole. In latitude, Canada's most northerly point of land is Cape Columbia in Nunavut at 83°6′41″N, with its southern extreme at Middle Island in Lake Erie at 41°40′53″N. In longitude, Canada's land extends from Cape Spear, Newfoundland, at 52°37′W, to Mount St. Elias, Yukon Territory, at 141°W.
+Canada can be divided into seven physiographic regions: the Canadian Shield, the Interior Plains, the Great Lakes–St. Lawrence Lowlands, the Appalachian region, the Western Cordillera, Hudson Bay Lowlands, and the Arctic Archipelago. Boreal forests prevail throughout the country, ice is prominent in northern Arctic regions and through the Rocky Mountains, and the relatively flat Canadian Prairies in the southwest facilitate productive agriculture. The Great Lakes feed the St. Lawrence River (in the southeast) where the lowlands host much of Canada's economic output. Canada has over 2,000,000 lakes—563 of which are larger than 100 square kilometres (39 sq mi)—containing much of the world's fresh water. There are also fresh-water glaciers in the Canadian Rockies, the Coast Mountains, and the Arctic Cordillera. Canada is geologically active, having many earthquakes and potentially active volcanoes.
+
+Climate
+Average winter and summer high temperatures across Canada vary from region to region. Winters can be harsh in many parts of the country, particularly in the interior and Prairie provinces, which experience a continental climate, where daily average temperatures are near −15 °C (5 °F), but can drop below −40 °C (−40 °F) with severe wind chills. In non-coastal regions, snow can cover the ground for almost six months of the year, while in parts of the north snow can persist year-round. Coastal British Columbia has a temperate climate, with a mild and rainy winter. On the east and west coasts, average high temperatures are generally in the low 20s °C (70s °F), while between the coasts, the average summer high temperature ranges from 25 to 30 °C (77 to 86 °F), with temperatures in some interior locations occasionally exceeding 40 °C (104 °F).
+Much of Northern Canada is covered by ice and permafrost. The future of the permafrost is uncertain because the Arctic has been warming at three times the global average as a result of climate change in Canada. Canada's annual average temperature over land has risen by 1.7 °C (3.1 °F), with changes ranging from 1.1 to 2.3 °C (2.0 to 4.1 °F) in various regions, since 1948. The rate of warming has been higher across the North and in the Prairies. In the southern regions of Canada, air pollution from both Canada and the United States—caused by metal smelting, burning coal to power utilities, and vehicle emissions—has resulted in acid rain, which has severely impacted waterways, forest growth, and agricultural productivity. Canada is one of the largest greenhouse gas emitters globally, with emissions increased by 16.5 percent between 1990 and 2022.
+
+Biodiversity
+Canada is divided into 15 terrestrial and five marine ecozones. These ecozones encompass over 80,000 classified species of Canadian wildlife, with an equal number yet to be formally recognized or discovered. Although Canada has a low percentage of endemic species compared to other countries, due to human activities, invasive species, and environmental issues in the country, there are currently more than 800 species at risk of being lost. About 65 percent of Canada's resident species are considered "Secure". Over half of Canada's landscape is intact and relatively free of human development. The boreal forest of Canada is considered to be the largest intact forest on Earth, with approximately 3,000,000 square kilometres (1,200,000 sq mi) undisturbed by roads, cities or industry. Since the end of the last glacial period, Canada has consisted of eight distinct forest regions.
+Approximately 12.1 percent of the nation's landmass and freshwater are conservation areas, including 11.4 percent designated as protected areas. Approximately 13.8 percent of its territorial waters are conserved, including 8.9 percent designated as protected areas. Canada's first National Park, Banff National Park was established in 1885. Canada's oldest provincial park, Algonquin Provincial Park was established in 1893. Established in 2015, Lake Superior National Marine Conservation Area is the world's largest freshwater protected area. Canada's largest national wildlife region, established in 2018, is the Scott Islands Marine National Wildlife Area.
+
+Government and politics
+Canada is described as a "full democracy", with a tradition of liberalism, and an egalitarian, moderate political ideology. Since the 1960s, an emphasis on social justice has been a distinguishing element of Canada's political culture. Peace, order, and good government, alongside an Implied Bill of Rights, are founding principles of Canadian federalism.
+At the federal level, Canada has been dominated by two relatively centrist parties practising "brokerage politics": the centre-left leaning Liberal Party of Canada and the centre-right leaning Conservative Party of Canada (or its predecessors). The historically predominant Liberals position themselves at the centre of the political scale. Five parties had representatives elected to Parliament in the 2025 election—the Liberals, who formed a minority government that transitioned into a majority government in April 2026 owing to defections from other parties; the Conservatives, who became the Official Opposition; the Bloc Québécois; the New Democratic Party (occupying the left); and the Green Party. Far-right and far-left politics have never been a prominent force in Canadian society.
+Canada has a parliamentary system within the context of a constitutional monarchy—the monarchy of Canada being the foundation of the executive, legislative, and judicial branches. The reigning monarch is also monarch of 14 other sovereign Commonwealth countries and Canada's 10 provinces. The monarch appoints a representative, the governor general, on the advice of the prime minister, to carry out most of their ceremonial royal duties.
+
+The monarchy is the source of sovereignty and authority in Canada. However, while the governor general or monarch may exercise their power without ministerial advice in rare crisis situations, the use of the executive powers (or royal prerogative) is otherwise directed by the Cabinet, a committee of ministers of the Crown responsible to the elected House of Commons and chosen and headed by the prime minister, the head of government. To ensure the stability of government, the governor general will usually appoint as prime minister the person who is the current leader of the political party that can obtain the confidence of a majority of members in the House. The Prime Minister's Office (PMO) is one of the most powerful institutions in government, initiating most legislation for parliamentary approval and selecting for appointment by the Crown the governor general, lieutenant governors, senators, federal court judges, and heads of Crown corporations and government agencies. The leader of the party with the second-most seats usually becomes the leader of the Official Opposition and is part of an adversarial parliamentary system intended to keep the government in check.
+
+The Parliament of Canada passes all federal statute laws. It comprises the monarch, the House of Commons, and the Senate. While Canada inherited the British concept of parliamentary supremacy, this was later, with the enactment of the Constitution Act, 1982, all but completely superseded by the American notion of the supremacy of the law.
+Each of the 343 members of Parliament in the House of Commons is elected by simple plurality in an electoral district or riding. The Constitution Act, 1982, requires that no more than five years pass between elections, although the Canada Elections Act limits this to four years with a "fixed" election date in October; general elections still must be called by the governor general and can be triggered by either the advice of the prime minister or a lost confidence vote in the House. The 105 members of the Senate, whose seats are apportioned on a regional basis, serve until age 75.
+Canadian federalism divides government responsibilities between the federal government and the 10 provinces. Provincial legislatures are unicameral and operate in parliamentary fashion similar to the House of Commons. Canada's three territories also have legislatures, but these are not sovereign, have fewer constitutional responsibilities than the provinces, and differ structurally from their provincial counterparts.
+
+Law
+The Constitution of Canada is the supreme law of the country and consists of written text and unwritten conventions. The Constitution Act, 1867 (known as the British North America Act, 1867 prior to 1982), affirmed governance based on parliamentary precedent and divided powers between the federal and provincial governments. The Statute of Westminster, 1931, granted full autonomy, and the Constitution Act, 1982, ended all legislative ties to Britain, as well as adding a constitutional amending formula and the Canadian Charter of Rights and Freedoms. The Charter guarantees basic rights and freedoms that usually cannot be overridden by any government; a notwithstanding clause allows Parliament and the provincial legislatures to override certain sections of the Charter for a period of five years.
+
+Canada's judiciary interprets laws and has the power to strike down acts of Parliament that violate the constitution. The Supreme Court of Canada is the highest court, final arbiter, and has been led since 2017 by Richard Wagner, the Chief Justice of Canada. The governor general appoints the court's nine members on the advice of the prime minister and minister of justice. The federal Cabinet also appoints justices to superior courts in the provincial and territorial jurisdictions.
+Common law prevails everywhere except Quebec, where civil law predominates. Criminal law is solely a federal responsibility and is uniform throughout Canada. Law enforcement, including criminal courts, is officially a provincial responsibility, conducted by provincial and municipal police forces. In most rural and some urban areas, policing responsibilities are contracted to the federal Royal Canadian Mounted Police.
+Canadian Aboriginal law provides certain constitutionally recognized rights to land and traditional practices for Indigenous groups in Canada. Various treaties and case laws were established to mediate relations between Europeans and many Indigenous peoples. The role of Aboriginal law and the rights they support were reaffirmed by section 35 of the Constitution Act, 1982. These rights may include provision of services, such as healthcare through the Indian Health Transfer Policy, and exemption from taxation.
+
+Provinces and territories
+Canada is a federation composed of 10 federated states, called provinces, and three federal territories. These may be grouped into four main regions: Western Canada, Central Canada, Atlantic Canada, and Northern Canada (Eastern Canada refers to Central Canada and Atlantic Canada together). Provinces and territories have responsibility for social programs such as healthcare, education, and social programs, as well as administration of justice (but not criminal law). Although the provinces collect more revenue than the federal government, equalization payments are made by the federal government to ensure reasonably uniform standards of services and taxation are kept between the richer and poorer provinces.
+The major difference between a Canadian province and a territory is that provinces receive their sovereignty from the Crown and power and authority from the Constitution Act, 1867, whereas territorial governments have powers delegated to them by the Parliament of Canada and the commissioners represent the King in his federal Council, rather than the monarch directly. The powers flowing from the Constitution Act, 1867, are divided between the federal government and the provincial governments to exercise exclusively and any changes to that arrangement require a constitutional amendment, while changes to the roles and powers of the territories may be performed unilaterally by the Parliament of Canada.
+
+Foreign relations
+Canada is recognized as a middle power for its role in global affairs with a tendency to pursue multilateral and international solutions. Globalization has significantly influenced Canadian foreign policies, with the country known for its promotion of peace and security through mediation, and for providing aid to developing countries.
+Canada and the United States have a long and complex relationship; historically close allies, they co-operate regularly on military campaigns and humanitarian efforts. Canada also maintains historic and traditional ties to the United Kingdom and to France, along with both countries' former colonies through its membership in the Commonwealth of Nations and the Organisation internationale de la Francophonie. Canada is noted for having a positive relationship with the Netherlands, owing, in part, to its contribution to the Dutch liberation during the Second World War. Canada has diplomatic and consular offices in over 270 locations in approximately 180 foreign countries.
+Canada promotes its domestically shared values through participating in multiple international organizations. Canada was a founding member of the United Nations (UN) in 1945 and formed the North American Aerospace Defense Command together with the United States in 1958. The country has membership in the World Trade Organization, the Five Eyes, the G7 and the Organisation for Economic Co-operation and Development (OECD). The country was a founding member of the Asia-Pacific Economic Cooperation forum (APEC) in 1989 and joined the Organization of American States (OAS) in 1990. Canada ratified the Universal Declaration of Human Rights (UDHR) in 1948, and seven principal UN human rights conventions and covenants since then.
+
+Military
+Alongside many domestic obligations, more than 3,000 Canadian Armed Forces (CAF) personnel are deployed in multiple foreign military operations. The Canadian unified forces comprise the Royal Canadian Navy, Canadian Army, and Royal Canadian Air Force. The nation employs a professional, volunteer force of approximately 68,000 active personnel and 27,000 reserve personnel. In March 2026, Canada achieved the NATO target of spending 2% of its GDP on defence for the 2026 fiscal year. This marks a significant increase from previous years—roughly 1.3% to 1.4% between 2021 and 2024.
+Canada's role in developing peacekeeping and its participation in initiatives during the 20th century has played a major role in its positive global image. Peacekeeping is deeply embedded in Canadian culture and a distinguishing feature that Canadians feel sets their foreign policy apart from the United States. Canada has long been reluctant to participate in military interventions that are not sanctioned by the United Nations, such as the Vietnam War, the 2003 invasion of Iraq and 2026 Iran war. Since the 21st century, Canadian direct participation in UN peacekeeping efforts has greatly declined. The large decrease was a result of Canada directing its participation to UN-sanctioned military operations through the North Atlantic Treaty Organization, rather than directly through the UN. The change to participation via NATO has resulted in a shift towards more militarized and deadly missions rather than traditional peacekeeping duties.
+
+Economy
+Canada's mixed-market economy is highly developed, ranking as the world's ninth-largest by nominal GDP as of 2023, at approximately US$2.221 trillion. The country is one of the world's largest trading nations, with a highly globalized economy. In 2021, Canadian trade in goods and services reached $2.016 trillion. Canada's exports totalled over $637 billion, while its imported goods were worth over $631 billion, of which approximately $391 billion originated from the United States. In 2018, Canada had a trade deficit in goods of $22 billion and a trade deficit in services of $25 billion. The Toronto Stock Exchange is the ninth-largest stock exchange in the world by market capitalization, listing over 1,500 companies with a combined market capitalization of over US$2 trillion.
+The Bank of Canada is the central bank of the country. The minister of finance and minister of innovation, science, and industry use data from Statistics Canada to enable financial planning and develop economic policy. Canada has a strong cooperative banking sector, with the world's highest per-capita membership in credit unions. It ranks low in the Corruption Perceptions Index (14th in 2023) and "is widely regarded as among the least corrupt countries of the world". It ranks high in the Global Competitiveness Report (19th in 2024). Canada's economy ranks above most Western nations on the Heritage Foundation's Index of Economic Freedom and experiences a relatively low level of income disparity. The country's average household disposable income per capita is "well above" the OECD average. Canada ranks among the lowest of the most developed countries for housing affordability and foreign direct investment. The unemployment rate in 2025 was 6.8 percent.
+Since the early 20th century, the growth of Canada's manufacturing, mining, and service sectors has transformed the nation from a largely rural economy to an urbanized, industrial one. The Canadian economy is dominated by the service industry, which employs about three-quarters of the country's workforce. Canada has an unusually important primary sector, of which the forestry and petroleum industries are the most prominent components. Many towns in northern Canada, where agriculture is difficult, are sustained by nearby mines or sources of timber. 
+
+Canada's economic integration with the United States has increased significantly since the Second World War. The Canada – United States Free Trade Agreement (FTA) of 1988 eliminated tariffs between the two countries, while the North American Free Trade Agreement (NAFTA) expanded the free-trade zone to include Mexico in 1994 (later replaced by the Canada–United States–Mexico Agreement). As of 2023, Canada is a signatory to 15 free trade agreements with 51 different countries.
+Canada is one of the few developed nations that are net exporters of energy. Atlantic Canada possess vast offshore deposits of natural gas, and Alberta hosts the fourth-largest oil reserves in the world. The vast Athabasca oil sands and other oil reserves give Canada 13 percent of global oil reserves, constituting the world's third- or fourth-largest. Canada is additionally one of the world's largest suppliers of agricultural products; the Canadian Prairies region is one of the most important global producers of wheat, canola, and other grains. Canada's main exports are zinc, uranium, gold, nickel, platinoids, aluminum, steel, iron ore, coking coal, lead, copper, molybdenum, cobalt, and cadmium. Canada has a sizeable manufacturing sector centred in southern Ontario and Quebec, with automobiles and aeronautics representing particularly important industries. The country's fishing and tourism industries are also a key contributor to the economy.
+
+Science and technology
+In 2020, Canada spent approximately $41.9 billion on domestic research and development, with supplementary estimates for 2022 at $43.2 billion. As of 2023, the country has produced 15 Nobel laureates in physics, chemistry, and medicine. The country ranks seventh in the worldwide share of articles published in scientific journals, according to the Nature Index, and is home to the headquarters of a number of global technology firms. Canada has one of the highest levels of Internet access in the world, with approximately 95 percent of its population aged 15 and above.
+
+Canada's achievements in science and technology include the creation of the modern alkaline battery, the discovery of insulin, the development of the polio vaccine, and discoveries about the interior structure of the atomic nucleus. Other major Canadian scientific contributions include the artificial cardiac pacemaker, mapping the visual cortex, the development of the electron microscope, plate tectonics, deep learning, multi-touch technology, and the identification of the first black hole, Cygnus X-1. Canada has a long history of discovery in genetics, which include stem cells, site-directed mutagenesis, T-cell receptor, and the identification of the genes that cause Fanconi anemia, cystic fibrosis, and early-onset Alzheimer's disease, among numerous other diseases.
+The Canadian Space Agency runs an active space program focused on deep-space, planetary, and aviation research, along with rockets and satellites. Canada launched its first satellite, Alouette 1, in 1962. It contributes to the International Space Station and is known for its robotic tools, such as multiple Canadarms. Canada has initiated many long-term projects, including the Radarsat satellite series and the Black Brant rocket series.
+
+Demographics
+The 2021 Canadian census enumerated a total population of 36,991,981, an increase of around 5.2 percent over the 2016 figure. It is estimated that Canada's population surpassed 40,000,000 in 2023. The main drivers of population growth are immigration and, to a lesser extent, natural growth. Canada has one of the highest per-capita immigration rates in the world, driven mainly by economic policy and family reunification. A record 483,390 immigrants were admitted in 2024. Canada leads the world in refugee resettlement; it resettled more than 47,600 in 2022. New immigrants settle mostly in major urban areas, such as Toronto, Montreal, and Vancouver.
+Canada's population density, at 4.2 inhabitants per square kilometre (11/sq mi), is among the lowest in the world, with approximately 95 percent of the population residing south of the 55th parallel north. About 80 percent of the population lives within 150 kilometres (93 mi) of the border with the contiguous United States. Canada is highly urbanized, with over 80 percent of the population living in urban centres. The majority of Canadians (over 70 percent) live below the 49th parallel, with 50 percent of Canadians living south of 45°42′ (45.7 degrees) north. The most densely populated part of the country is the Quebec City–Windsor Corridor in Southern Quebec and Southern Ontario along the Great Lakes and the St. Lawrence River.
+The majority of Canadians (81.1 percent) live in family households, 12.1 percent report living alone, and 6.8 percent live with other relatives or unrelated persons. Fifty-one percent of households are couples with or without children, 8.7 percent are single-parent households, 2.9 percent are multigenerational households, and 29.3 percent are single-person households.
+
+Ethnicity
+Respondents in the 2021 Canadian census self-reported over 450 "ethnic or cultural origins". The major panethnic groups chosen were: European (52.5 percent), North American (22.9 percent), Asian (19.3 percent), North American Indigenous (6.1 percent), African (3.8 percent), Latin, Central and South American (2.5 percent), Caribbean (2.1 percent), Oceanian (0.3 percent), and other (6 percent). Over 60 percent of Canadians reported a single origin, and 36 percent reported having multiple ethnic origins, thus the overall total is greater than 100 percent.
+
+The country's ten largest self-reported ethnic or cultural origins in 2021 were Canadian (accounting for 15.6 percent of the population), followed by English (14.7 percent), Irish (12.1 percent), Scottish (12.1 percent), French (11.0 percent), German (8.1 percent), Chinese (4.7 percent), Italian (4.3 percent), Indian (3.7 percent), and Ukrainian (3.5 percent).
+Of the 36.3 million people enumerated in 2021, approximately 25.4 million reported being "White", representing 69.8 percent of the population. The Indigenous population representing 5 percent or 1.8 million people, grew by 9.4 percent compared to the non-Indigenous population, which grew by 5.3 percent from 2016 to 2021. One out of every four Canadians or 26.5 percent of the population belonged to a non-White and non-Indigenous visible minority, the largest of which in 2021 were South Asian (2.6 million people; 7.1 percent), Chinese (1.7 million; 4.7 percent), Black (1.5 million; 4.3 percent), Filipinos (960,000 2.6 percent), Arabs (690,000; 1.9 percent), Latin Americans (580,000; 1.6 percent), Southeast Asians (390,000; 1.1 percent), West Asians (360,000; 1.0 percent), Koreans (220,000; 0.6 percent) and Japanese (99,000; 0.3 percent).
+Between 2011 and 2016, the visible minority population rose by 18.4 percent. In 1961, about 300,000 people, less than two percent of Canada's population, were members of visible minority groups. The 2021 census indicated that 8.3 million people, or almost one-quarter (23.0 percent) of the population, reported themselves as being or having been a landed immigrant or permanent resident in Canada—above the 1921 census previous record of 22.3 percent. In 2021, India, China, and the Philippines were the top three countries of origin for immigrants moving to Canada.
+
+Languages
+A multitude of languages are used by Canadians, with English and French (the official languages) being the mother tongues of approximately 54 percent and 19 percent of Canadians, respectively. Canada's official bilingualism policies give citizens the right to receive federal government services in either English or French with official-language minorities guaranteed their own schools in all provinces and territories.
+Quebec's 1974 Official Language Act established French as the only official language of the province. Although more than 82 percent of French-speaking Canadians live in Quebec, there are substantial Francophone populations in New Brunswick, Alberta, and Manitoba, with Ontario having the largest French-speaking population outside Quebec. New Brunswick, the only officially bilingual province, has an Acadian French minority constituting 33 percent of the population. There are also clusters of Acadians in southwestern Nova Scotia, on Cape Breton Island, and in central and western Prince Edward Island.
+Other provinces have no official languages as such, but French is used as a language of instruction, in courts, and for other government services, in addition to English. Manitoba, Ontario, and Quebec allow for both English and French to be spoken in the provincial legislatures and laws are enacted in both languages. In Ontario, French has some legal status, but is not fully co-official. There are 11 Indigenous language groups, composed of more than 65 distinct languages and dialects. Several Indigenous languages have official status in the Northwest Territories. Inuktitut is the majority language in Nunavut and is one of three official languages in the territory.
+As of the 2021 census, just over 7.8 million Canadians listed a non-official language as their first language. Some of the most common non-official first languages include Mandarin (679,255 first-language speakers), Punjabi (666,585), Cantonese (553,380), Spanish (538,870), Arabic (508,410), Tagalog (461,150), Italian (319,505), German (272,865), and Tamil (237,890). The country is also home to many sign languages, some of which are Indigenous. American Sign Language (ASL) is used across the country due to the prevalence of ASL in primary and secondary schools. Quebec Sign Language (LSQ) is used primarily in Quebec.
+
+Religion
+Canada is religiously diverse, encompassing a wide range of beliefs and customs. The Constitution of Canada refers to God; however, Canada has no official church and the government is officially committed to religious pluralism. Freedom of religion in Canada is a constitutionally protected right.
+Rates of religious adherence have steadily decreased since the 1970s. With Christianity in decline after having once been central and integral to Canadian culture and daily life, Canada has become a post-Christian, secular state. Although the majority of Canadians consider religion to be unimportant in their daily lives, they still believe in God. The practice of religion is generally considered a private matter.
+According to the 2021 census, Christianity is the largest religion in Canada, with Roman Catholics representing 29.9 percent of the population having the most adherents. Christians overall representing 53.3 percent of the population, are followed by people reporting irreligion or having no religion at 34.6 percent. Other faiths include Islam (4.9 percent), Hinduism (2.3 percent), Sikhism (2.1 percent), Buddhism (1.0 percent), Judaism (0.9 percent), and Indigenous spirituality (0.2 percent). Canada has the second-largest national Sikh population, behind India.
+
+Health
+Healthcare in Canada is delivered through the provincial and territorial systems of publicly funded health care, informally called Medicare. It is guided by the provisions of the Canada Health Act of 1984 and is universal. Universal access to publicly funded health services "is often considered by Canadians as a fundamental value that ensures national healthcare insurance for everyone wherever they live in the country". Around 30 percent of Canadians' healthcare is paid for through the private sector. This mostly pays for services not covered or partially covered by Medicare, such as prescription drugs, dentistry and optometry. Approximately 65 to 75 percent of Canadians have some form of supplementary health insurance; many receive it through their employers or access secondary social service programs.
+
+In common with many other developed countries, Canada is experiencing an increase in healthcare expenditures due to a demographic shift toward an older population, with more retirees and fewer people of working age. In 2021, the average age in Canada was 41.9 years. Life expectancy is 81.1 years. A 2016 report by the chief public health officer found that 88 percent of Canadians, one of the highest proportions of the population among G7 countries, indicated that they "had good or very good health". Eighty percent of Canadian adults self-report having at least one major risk factor for chronic disease: smoking, physical inactivity, unhealthy eating or excessive alcohol use. Canada has one of the highest rates of adult obesity among OECD countries, contributing to approximately 2.7 million cases of diabetes. Four chronic diseases—cancer (leading cause of death), cardiovascular diseases, respiratory diseases, and diabetes—account for 65 percent of deaths in Canada. There are approximately 8 million people aged 15 and older with one or more disabilities in Canada.
+In 2024, the Canadian Institute for Health Information estimated that healthcare spending reached $372 billion, or 12.4 percent of Canada's GDP for that year. In 2022, Canada's per-capita spending on health expenditures ranked 12th among health-care systems in the OECD. The Commonwealth Fund's 2021 report comparing the healthcare systems of the 11 most developed countries ranked Canada second-to-last. Identified weaknesses were comparatively higher infant mortality rate, the prevalence of chronic conditions, long wait times, poor availability of after-hours care, and a lack of prescription drugs and dental coverage. An increasing problem in Canada's health system is a lack of healthcare professionals and hospital capacity.
+
+Education
+Education in Canada is for the most part provided publicly, funded and overseen by federal, provincial, and local governments. Education is within provincial jurisdiction and a province's curriculum is overseen by its government. Education in Canada is generally divided into primary education, followed by secondary and post-secondary education. Education in both English and French is available in most places across Canada. Canada has a large number of universities, almost all of which are publicly funded. Established in 1663, Université Laval is the oldest post-secondary institution in Canada. The nation's three top ranking universities are the University of Toronto, McGill, and the University of British Columbia. The largest university is the University of Toronto, which has over 85,000 students.
+According to a 2022 report by the OECD, Canada is one of the most educated countries in the world; the country ranks first worldwide in the percentage of adults having tertiary education, with over 56 percent of Canadian adults having attained at least an undergraduate college or university degree. Canada spends an average of 5.3 percent of its GDP on education. The country invests heavily in tertiary education (more than US$20,000 per student). As of 2022, 89 percent of adults aged 25 to 64 have earned the equivalent of a high-school degree, compared to an OECD average of 75 percent.
+
+Culture
+Canada is influenced by British, French and Indigenous cultures and traditions. During the 20th century, Canadians with African, Caribbean, and Asian heritages have added to Canadian identity. Canada's culture draws influences from its broad range of constituent nationalities, and policies that promote a just society are constitutionally protected. Since the 1960s, Canada has emphasized human rights and inclusiveness for all its people. Canadian identity shifted from primarily British-based to multicultural between the 1960s and 1970s.
+The official state policy of multiculturalism is often cited as one of Canada's significant accomplishments and a key distinguishing element of Canadian identity. In Quebec, cultural identity is strong and there is a French Canadian culture that is distinct from English Canadian culture. As a whole, Canada is in theory a cultural mosaic of regional ethnic subcultures with diverse areas and ethnic enclaves.
+Canada's approach to governance emphasizing multiculturalism, which is based on selective immigration, social integration, and suppression of far-right politics, has wide public support. Government policies such as publicly funded health care, higher taxation to redistribute wealth, the outlawing of capital punishment, strong efforts to eliminate poverty, strict gun control, a social liberal attitude toward women's rights (like pregnancy termination) and LGBT rights, and legalized euthanasia and cannabis use are indicators of Canada's political and cultural values. Canadians also identify with the country's foreign aid policies, peacekeeping roles, the national park system, and the Canadian Charter of Rights and Freedoms.
+
+Symbols
+Themes of nature, pioneers, trappers, and traders played an important part in the early development of Canadian symbolism. Modern symbols emphasize the country's geography, northern climate, lifestyles, and the Canadianization of traditional European and Indigenous symbols. The use of the maple leaf as a symbol dates to the early 18th century in New France. The maple leaf is depicted on Canada's current and previous flags and on the arms of Canada. Canada's official tartan, known as the "maple leaf tartan", reflects the colours of the maple leaf through the seasons—green in the spring, gold in the early autumn, red at the first frost, and brown after falling. The arms of Canada are closely modelled after those of the United Kingdom, with French and distinctive Canadian elements replacing or added to those derived from the British version.
+Other prominent symbols include the national motto, "A mari usque ad mare" ("from sea to sea"), the sports of ice hockey and lacrosse, the beaver, Canada goose, common loon, Canadian horse, the Royal Canadian Mounted Police, the Canadian Rockies, and, more recently, the Indigenous totem pole and Inuksuk. Canadian cuisine items such as Canadian beer, maple syrup, Nanaimo bars, butter tarts, and the Quebec dishes of poutine and tourtière, alongside material items such as tuques, canoes and Hudson's Bay point blanket are considered as uniquely Canadian. Canadian coins feature many of these symbols: the loon on the $1 coin, the coat of arms on the 50¢ piece, and the beaver on the nickel. An image of the monarch appears on $20 bank notes and the obverse of coins.
+
+Literature
+Canadian literature is often divided into French- and English-language literatures, which are rooted in the literary traditions of France and Britain, respectively. The earliest Canadian narratives were of travel and exploration. This developed into three major themes of historical Canadian literature: nature, frontier life, and Canada's position within the world, all of which tie into the garrison mentality. The evolution of Canadian literature is intricately linked to the country's historical and social contexts, often mirroring the challenges and changes in Canadian society. As Canadian literature progressed into the 20th and 21st centuries, it began to address a broader array of subjects and themes, such as women's rights, LGBTQ rights, immigrant experiences, environmental issues, the relationship with Indigenous peoples, and Canadian values and identity.
+Financial support from governmental bodies, such as the Canada Council for the Arts and various provincial grant programs, facilitates the creation, publication, and promotion of works by Canadian authors. Numerous Canadian authors have received international literary awards including the Nobel Prize in Literature, the Booker Prize, and the Pulitzer Prize for Fiction. Canadian literary awards and prizes include the Governor General's Literary Awards, the Giller Prize, the Latner Griffin Writers' Trust Poetry Prize, the Burt Award for First Nations, Inuit and Métis Literature and several accolades for literature aimed at children.
+
+Visual arts
+Art in Canada is marked by thousands of years of habitation by Indigenous peoples, and, in later times, artists have combined British, French, Indigenous, and American artistic traditions, at times embracing European styles while working to promote nationalism. The nature of Canadian art reflects these diverse origins, as artists have taken their traditions and adapted these influences to reflect the reality of their lives in Canada. The Group of Seven is often considered the first uniquely Canadian artistic group and style of painting. Inuit art since the 1950s has been the traditional gift given to foreign dignitaries by the Canadian government.
+Historically, the Catholic Church was the primary patron of art in early Canada, especially Quebec. The Government of Canada has played a role in the development of art, through the department of Canadian Heritage by giving grants to art galleries, as well as by establishing and funding art schools and colleges across the country, and through the Canada Council for the Arts. The Canada Council Art Bank also helps artists by buying and publicizing their work. Great achievements in art in Canada are recognized through various awards and prizes, such as the Molson Prize, the Audain Prize for the Visual Arts, and the Governor General's Visual and Media Arts Awards.
+
+Music
+Canadian music reflects a variety of regional scenes. Canada has developed a vast music infrastructure that includes church halls, chamber halls, conservatories, academies, performing arts centres, record companies, radio stations, music charts, and television music video channels. Government support programs, such as the Canada Music Fund, assist a wide range of musicians and entrepreneurs who create, produce and market original and diverse Canadian music. As a result of its cultural importance, as well as government initiatives and regulations, the Canadian music industry is one of the largest in the world, producing internationally renowned composers, musicians, and ensembles. Achievements in music are recognized through various awards and prizes, most notably, the  Juno Awards presented by the Canadian Academy of Recording Arts and Sciences. The country also hosts numerous music halls of fame with the Canadian Music Hall of Fame honouring musicians at the national level for their lifetime achievements.
+"God Save the King" has been used in Canada since the late 1700s and is the country's de facto royal anthem. Patriotic music by Canadians dates back over 200 years, with "The Bold Canadian", written in 1812, popular throughout the 19th century. "The Maple Leaf Forever", written in 1866, was popular and served as an unofficial national anthem of English Canada. "O Canada", originally composed in French in 1880, also served as an unofficial national anthem during the 20th century and was adopted as the country's official anthem in 1980.
+
+Media
+Canada's media is highly autonomous, diverse, and very regionalized. The Broadcasting Act declares "the system should serve to safeguard, enrich, and strengthen the cultural, political, social, and economic fabric of Canada". Canada has a well-developed media sector, but its cultural output—particularly in English films, television shows, and magazines—is often overshadowed by imports from the United States. As a result, the preservation of a distinctly Canadian culture is supported by federal government programs, laws, and institutions such as the Canadian Broadcasting Corporation (CBC), the National Film Board of Canada (NFB), and the Canadian Radio-television and Telecommunications Commission (CRTC).
+Canadian mass media, both print and digital, and in both official languages, is largely dominated by a "handful of corporations". The largest of these corporations is the country's national public broadcaster, the Canadian Broadcasting Corporation, which also plays a significant role in producing domestic cultural content, operating its own radio and TV networks in both English and French. In addition to the CBC, some provincial governments offer their own public educational TV broadcast services as well, such as TVOntario and Télé-Québec.
+Non-news media content in Canada, including film and television, is influenced both by local creators as well as by imports from the United States, the United Kingdom, Australia, and France. In an effort to reduce the amount of foreign-made media, government interventions in television broadcasting can include both regulation of content and public financing. Canadian tax laws limit foreign competition in magazine advertising.
+
+Sports
+Canada's official national sports are ice hockey and lacrosse. Other major professional games include curling, basketball, baseball, soccer, and football. Great achievements in Canadian sports are recognized by numerous "Halls of Fame" and museums, such as Canada's Sports Hall of Fame.
+Canada shares several major professional sports leagues with the United States. Canadian teams in these leagues include seven franchises in the National Hockey League, three Major League Soccer teams, and one team in each of Major League Baseball and the National Basketball Association. Other popular professional competitions include the Canadian Football League, National Lacrosse League, the Canadian Premier League, and the curling tournaments hosted by Curling Canada. Canadians identified hockey as their preferred sport for viewing, followed by soccer and then basketball.
+In terms of participation, swimming was the most commonly reported sport by over one-third (35 percent) of Canadians in 2023. This was closely followed by cycling (33 percent) and running (27 percent). The popularity of specific sports varies; in general, the Canadian-born population was more likely to have participated in winter sports such as ice hockey (the most popular young adult team sport), skating, skiing and snowboarding, compared with immigrants, who were more likely to have played soccer (the most popular youth team sport), tennis or basketball. Sports such as golf, volleyball, badminton, bowling, and martial arts are also widely enjoyed at the youth and amateur levels.
+Canada has enjoyed success both at the Winter Olympics and at the Summer Olympics—particularly the Winter Games as a "winter sports nation"—and has hosted high-profile international sporting events such as the 1976 Summer Olympics, the 1988 Winter Olympics, the 2010 Winter Olympics, the 2015 FIFA Women's World Cup, the 2015 Pan American Games and 2015 Parapan American Games. The country co-hosted the 2026 FIFA World Cup alongside Mexico and the United States.
+
+See also
+Bibliography of Canada
+List of Canada-related topics by provinces and territories
+Outline of Canada
+
+Notes
+References
+This article incorporates content that is under an open licence from Statistics Canada (FAQ).
+
+External links
+
+Government
+
+Official website of the Government of Canada
+Governor General of Canada, as Head of State
+Prime Minister of Canada, as Head of Government
+King and Queen's website, as Chief of State
+Global Affairs Canada, Foreign Affairs
+National Parliament
+Sources
+
+ Wikimedia Atlas of Canada
+Statistics Canada, Canada's national statistical agency
+Travel
+
+Canada's official website for travel and tourism
+
+## Tourism in Canada
+Tourism in Canada is a major economic driver in the service sector, attracting millions of visitors and supporting approximately 10% of the national labor force. In recent years, statistics show that Canada has received over 20 million international tourists annually. The summer months are especially popular for travellers both domestically and internationally. Tourism and supporting industries contributed over $100 billion to the Canadian national economy in 2024. The sector supports nearly 1.8 million Canadians working in tourism-related fields.
+Domestic tourism in Canada is the principal economic driver of the sector, with statistics indicating that, in 2024, about 70% of all tourism spending came from Canadian residents exploring their own country. Domestic statistics also indicate that travel within provinces is prevalent, with residents supporting local businesses and attractions. Land border crossings by United States citizens has historically been the largest source of inbound tourists, followed by international airline travel from the United Kingdom and other European countries. Visitors from Asia have become more popular in recent decades. Passport holders from over 50 visa-exempt countries and nationals who require a visa can visit Canada for up to six months at a time.
+Federal, provincial, municipal and local government initiatives aimed at promoting sustainable tourism and attracting foreign tourists play a major role in the industry. Canada is known for its safety and security, attracting tourists through its natural features (e.g., Niagara Falls), festivals (e.g., Calgary stampede), arts (e.g., Toronto International Film Festival), heritage sites, (e.g., Quebec city) sporting events (e.g.,Grey Cup), amusement parks (e.g., Canada's Wonderland) and its diverse culture (e.g., Caribbean Carnival).
+Canada's national parks like Banff and Jasper see millions of visitors annually, drawn by their landscapes and outdoor activities. Provincial parks including Algonquin Provincial Park, Bow Valley Provincial Park and Cabot Beach Provincial Park also attract a multitude of visitors annually. Natural wonders such as,  Great Bear Rainforest, the  Northern Lights,  Hopewell Rocks, Sandbanks and Moraine Lake attract a variety of international and domestic tourist throughout the year. The country is home to numerous historical and cultural national museums and galleries, such as the Canadian Museum of History, Canadian Museum for Human Rights and National Gallery of Canada. Provincial museums that attract significance amount of tourist include, the Royal Ontario Museum, the Royal British Columbia Museum and the Nova Scotia museum system.
+
+Statistics
+Canada ranks among the safest countries in the world for tourists by multiple indexes. According to the  Travel and Tourism Competitiveness Index, that measure the attractiveness and potential of countries for investment and development in the travel and tourism sector,  ranks Canada 11th out of 116 countries studied. The index also shows that Canada has a low standing when it comes to price competitiveness, coming in at 101 out of 116 countries looked at globally.
+According to various sources tourism related industries contributed between $104.4 billion, to $129.7 billion to the Canadian economy. Resulting in GDP contributions of approximately $41.0 billion to $50.8 billion.
+In 2024, total spending by visitors from the U. S. was $15.6 billion (78.7% of trips), while overseas visitors spent $12.9 billion (21.3% of trips). Canadians spent a total of $74.8 billion while travelling within Canada, with the highest spending on transportation (34.3%), followed by food and beverages (25.8%), accommodations (21.6%), recreation and entertainment (9.4%), clothing and gifts (3.7%), and other expenses (5.2%). Conversely, visitors from abroad spent most on accommodations (35.8%), food and beverages (26.6%), and transportation (13.2%).
+Ontario was the most visited province in Canada, receiving 39.8% of Canadian visitors and 41.8% of visitors from abroad. Quebec followed with 20.3% of Canadian visitors and 14.8% of international visitors, while British Columbia received 11.9% of Canadian visitors and 26.7% of visitors from abroad.
+Canadians made a total of 42.9 million visits abroad, with the top five countries visited being the United States (30.2 million visits), Mexico (2.2 million), the Dominican Republic (1.0 million), the United Kingdom (829,000), and Italy (784,000). Visitors from other countries made 29.8 million trips to Canada, primarily from the United States (23.5 million), followed by the United Kingdom (843,000), France (642,000), India (439,000), and Mexico (432,000).
+
+In 2023, non-Canadian visitors made 27.2 million trips to Canada, with U.S. residents contributing the most, accounting for 21.2 million of those trips. The total spending by tourists reached $12.9 billion for U.S. residents and $12.6 billion for overseas visitors.
+
+Historical data
+Historically, tourists to Canada were predominantly Americans, making up 98% of visitors in 1947. By 2015, this number dropped to 70%, reflecting a rise in overseas tourists. The number of overseas visitors grew faster than U. S. tourists over the decades. Between 1960 and 1970, there was a notable increase of over six times in overseas tourists, while American tourist numbers decreased during the 1970s.
+In 1946, around 4 million tourists visited Canada, and this number grew to over 15 million by 1967, largely due to the rise in commercial air travel. The visitor count continued to increase until 2002 when it topped 20 million, before experiencing a decline largely caused by a drop in American tourists. Factors that contributed to this downturn included the SARS outbreak in 2003, the rise in the Canadian dollar, stricter ID laws introduced in 2009, and the global recession of 2008–2009. After these challenges, tourism numbers rebounded to nearly 18 million in 2015.
+From 1960 to 1970, the number of overseas tourists increased more than sixfold. Conversely, American tourist numbers grew by only 55% during the 1960s and fell by 16% in the 1970s. The trend of increasing overseas tourists continued into the late 1990s, reaching 4 million for the first time during that decade.
+The number of trips taken by Canadians abroad also increased significantly. From 1946 to 1960, trips to both the U. S. and overseas more than tripled. This growth continued, peaking at nearly 35 million trips by 2014. Travel trends for Canadians have often mirrored the value of the Canadian dollar; when the dollar depreciated in the 1990s, trips abroad declined, but this figure rose again after 2002 as the dollar appreciated.
+
+Canada welcomed 32 million visitors in 2019, with Toronto and Vancouver drawing the most attention. However, the COVID-19 epidemic had a significant influence on the tourism sector. April 2020 was the first complete month when countries around the world started to limit border access, which nearly halted international travel to and from Canada. The count of arrivals from countries other than the United States dropped by 96.6%, and those coming from the United States decreased by 96.8%. By June 2022, over two years later, and the number of international travellers arriving at Canadian airports was almost back to what it was before the pandemic hit. It was estimated that 846,700 non-resident visitors came in, which was a big jump from the 26,200 arrivals seen in June 2021. Canadians accounted for 85.8% of all tourism spending in early 2022, including 315,400 foreign visitors to Canada in May 2022. Almost ten times as many American tourists visited Canada in May compared to the year before, and similar increases were seen from other countries. In May 2019, 73.6% of all air travel comprised 593,200 Canadians who travelled to the United States.
+
+Government initiatives
+The Canadian government and private businesses have a long tradition of promoting tourism from abroad. Destination Canada was created in 1995 and reports to the Minister of Small Business and Tourism and the Minister of Innovation, Science and Economic Development. It sponsors marketing campaigns domestically and in Australia, China, France, Germany, Japan, Mexico, South Korea, United Kingdom and the United States.
+In 2023 the federal government allocated  $108 million over three years to support tourism initiatives across the country. This financing is intended to help small businesses, non-profits, and both Indigenous and non-Indigenous communities improve their tourism products.  The distribution of funds are directed to "provincial and regional tourism associations, government agencies, hoteliers, tour operators, airlines and attractions managers".
+
+Provincial and municipal governments also have programs to assist in the promotion of tourism, such as "The Experience Ontario program", which helps coordinate community events and offers financial support to festival organizers, non-profits, and municipalities for impactful celebrations, such as Canada Day. Small grants are also available through various provincial and municipal initiatives to support environmental and sustainability projects related to ecotourism.
+
+Ecotourism
+Ecotourism, which emphasizes low-impact appreciation of nature, is gaining traction, with 82% of Canadians showing interest in it. A survey by Deloitte - Future of Canada centre found that 54% of Canadians are interested in Indigenous experiences, such as cultural workshops and traditional accommodations. Canada made up 2.2% of the world's ecotourism market in 2023. The ecotourism industry in Canada brought in a total of US$5,296.3 million in 2023.
+Organizations like Parks Canada and the Indigenous Tourism Association of Canada (ITAC)  support local communities to bolster tourism. Destination Canada joined the Global Sustainable Tourism Council (GSTC) in late 2023. Ecotourism hotspots include Grasslands National Park in Saskatchewan, Manitoulin Island in Ontario, the Bay of Fundy in New Brunswick, Torngat Mountains National Park in Newfoundland and Labrador for Inuit culture, and Wanuskewin in Saskatchewan for Plains Cree culture and bison restoration efforts.
+
+National parks
+Provincial parks
+World Heritage Sites
+National Historic Sites
+Festivals, sporting events and amusement parks
+Canada  has a long tradition of hosting festivals and events throughout the year. The industry adds over $33 billion to the country's economy and provides jobs for more than 229,000 people in areas like business events, trade fairs, festivals, and meetings. Popular festivals include the summer's Montreal Jazz Festival and Calgary Stampede, Winterlude in Ottawa-Gatineau during the winter, and nationwide celebrations for Canada Day. Other notable festivals include the Toronto International Film Festival (TIFF), Vancouver Pride Parade and  Just For Laughs comedy festival.  The Canadian National Exhibition is an annual fair that takes place at Exhibition Place in Toronto with approximately 1.6 million visitors each year, it's Canada's largest annual community event and one of the top fairs in North America. 
+Canada hosts numerous top level sporting events, from annual professional championships like the Grey Cup (CFL), and occasionally hosting the  World Series (MLB), NBA playoffs and Stanley Cup Playoffs (NHL) to international multi-sport games such as the Canada Games, the Commonwealth Games, Olympic Games, and the FIFA World Cup. Other notable events include those in motorsports (Formula 1 Canadian Grand Prix), golf (National Bank Open), tennis (National Bank Open), and curling (The Brier). The spectator sports industry generated an operating revenue of approximately $4.4 billion in 2023.
+
+Canada is also home to multiple large amusement parks such as Canada's Wonderland in Ontario, Canada's largest amusement park with approximately 3.8 million visitors annually.  La Ronde in Quebec is the country's second largest amusement park originally built as the entertainment complex for Expo 67, the 1967 world's fair. Calaway Park  is western Canada's largest amusement park with approximately 160 acres (65 ha) of land. Galaxyland in the West Edmonton Mall in Alberta is an indoor amusement centre, alongside World Waterpark,  attracts visitors all year round. Businesses in the amusement and recreation subsector reported earnings of approximately $15.6 billion in 2023.
+
+Museums and art galleries
+There are nine national museums in Canada, including seven located in the National Capital Region, one in Western Canada, and another in Atlantic Canada. Four of these museums are independent Crown corporations reporting to the  Canadian Heritage Minister. The national museums include: the Canada Agriculture and Food Museum, Canada Aviation and Space Museum, Canada Science and Technology Museum, Canadian Museum of History, Canadian War Museum, Canadian Museum for Human Rights, Canadian Museum of Immigration at Pier 21, Canadian Museum of Nature, and the National Gallery of Canada.
+Provincial and territorial museums are similar to national museums and are operated by provincial and territorial governments. In Quebec, the term "national" is used for provincial museums. The Manitoba Museum in Winnipeg covers both human and natural history and had over 303,000 visitors in 2017. The Royal Ontario museum in Toronto is Canada's largest museum, attracting 1.4 million visitors in 2017 and features art, human history, and natural history. The Ontario Science Centre in Toronto is an interactive science museum that saw nearly 900,000 visitors in 2019. Notable galleries include the Art Gallery of Ontario, recognized for its extensive collection of Canadian art, and the Musée national des beaux-arts du Québec, which holds around 40,000 works created in or by Quebec artists since the 18th century. Some galleries, like The Rooms in Newfoundland and Labrador, serve multiple functions.
+
+Provinces and territories
+Alberta
+British Columbia
+British Columbia is one of the most-visited parts of Canada, with tourism ranking as the province's second-largest industry.  British Columbia's tourism reached approximately  $22.1 billion in revenue in 2023, supporting over 125,000 jobs with $5.9B in wages. The province is home to vast mountains, large forests, and a diverse coastline. The Rocky Mountains in the interior attract skiers in the winter and bikers and hikers in the summer. The Pacific coastline attracts tourists with its beaches and for kayaking and whale watching, particularly around places like Vancouver Island.
+Vancouver, the largest city in British Columbia, is an urban centre that offers a mix of culture, history, and entertainment. Tourists are attracted to Stanley Park, Granville Island, and the Capilano Suspension Bridge. Events like the Vancouver International Film Festival and the Vancouver Folk Music Festival attract tourist from around the world and domestically.
+
+Manitoba
+Manitoba, a province located in central Canada, welcomed over 10.6 million visitors spending approximately $1.89 billion in 2024. The province national parks like Riding Mountain National Park and Wapusk National Park, attract ecotourist for hiking, wildlife viewing, and camping. Assiniboine River attracts tourists for its water activities such as boating and fishing.
+Winnipeg, the provincial capital, is home to numerous museums and cultural institutions, such as the Canadian Museum for Human Rights and the Manitoba Museum. Events like Folklorama and Festival du Voyageur. Both  provincial government a municipal governments have invested in infrastructure, including hotels, transportation, and tourism promotion, making the province more accessible to travellers.
+
+New Brunswick
+In 2024, tourism in New Brunswick generated $2.5 billion in visitor spending, attracted by natural features such as the Bay of Fundy, known for its tides. Sites such as Hopewell Rocks, Fundy National Park, and the old Roosevelt Campobello International Park are popular destinations
+The city of Saint John  historic Loyalist areas feature colonial architecture of the first English settlers. Attractions include the New Brunswick Museum and Saint John Jewish Historical Museum. Fredericton, the capital city, hosts various cultural festivals such as the Harvest Jazz and Blues Festival, celebrating local music and food, which draws many visitors each year.
+
+Newfoundland and Labrador
+Newfoundland and Labrador tourism contributed over $1.14 billion to the economy in 2023.  Natural wonders like Gros Morne National Park (fjords, Tablelands), lighthouses at Cape Spear  and Signal Hill alongside the Viking archaeological site at L'Anse aux Meadows and puffins, whale and iceberg viewing attract a wide array of visitors.
+The province's capital, St. John's, is the oldest city in North America, founded in 1497 by John Cabot. It contains many historical locations, such as Cabot Tower, receiver of the first wireless trans-Atlantic message in 1901. St. John's has become a popular stop for cruise ships originating from ports in Canada, the United States and Europe. The cruise industry has brought tens of thousands of tourists to the St. John's area. In the city's downtown core, George Street, renowned for its nightlife, is home to the most bars and pubs per square foot in North America.
+
+Northwest Territories
+The Northwest Territories has one of the lowest population densities in Canada, but still saw approximately 120,000 visitors spending more than $210 million in 2022. Its tourism is centred around activities like seeing the Northern Lights, hiking in national parks, and exploring pristine lakes and rivers. Key attractions include Great Slave Lake, Nahanni National Park Reserve, Wood Buffalo National Park, and cities like Yellowknife which provide urban amenities.
+The Indigenous culture tourism with  guided tours to archaeological sites, traditional fishing, and dog sledding has become popular. Festivals like the National Indigenous Peoples Day exhibit music, storytelling, and dance, Sacred sites like  Nááts'ihch'oh, Nahanni National Park Reserve, and Thaidene Nëné National Park Reserve. are open to the public.
+
+Nova Scotia
+Nunavut Territory
+It is estimated that Nunavut sees about 50,000 visitors each year, with around 8,000 being international travellers, mostly arriving on cruise ships. The number of cruise ship visits doubled in 2023, bringing over 5,200 passengers to 14 communities. The tourism sector currently employs about 3,000 workers.
+Nunavut tourism centres feature activities including wildlife viewing (polar bears, whales, muskox), hiking, and experiencing local traditions like igloo building. Top tourism destinations include Auyuittuq National Park for hiking, Quttinirpaaq National Park for its northernmost status, and the capital city of Iqaluit for cultural events like the Toonik Tyme festival. Other destinations like Cape Dorset are known for Inuit art, while Kugluktuk  for wildlife viewing.
+
+Ontario
+Prince Edward Island
+In 2024, Prince Edward Island tourism generated $87.9 million in tax revenue and $520.7 million in visitor spending. Prince Edward Island, often referred to as the "Garden of the Gulf",  tourism is based on its historical scenery, seafood cuisine, and literary tradition centred around the iconic Anne of Green Gables.
+Attractions include Victoria Row, West Point Lighthouse, and the Confederation Bridge, one of the longest bridges in the world. Other popular attractions include Charlottetown's Victorian era street and Confederation Trail. The island is also renowned for its beaches, such as Cavendish Beach and Brackley Beach. The annual Charlottetown Festival focuses on the arts and features performances.
+
+Quebec
+Saskatchewan
+Yukon Territory
+Visitor visa
+Holders of ordinary passports issued by over 50 "Visa-exempt countries and territories" are able to visit Canada without a visa for a period of up to 6 months. Other nationals will need a visitor visa to enter Canada, even if they are only going through Canadian airports. Visa officers can give one either a visa for one entry or a visa that lets one enter multiple times, and these can last up to ten years or until one's passport or biometrics run out. Generally, all visitors are allowed to stay in Canada for up to six months. However, a border services officer at the entry point can decide on a shorter or longer visit, marking the end date in one's passport or giving one a visitor record. If one does not get a stamp, the six-month period starts from when one arrives or until one's passport or biometrics expire. Those with a super visa who arrive after June 22, 2023, can stay for five years.
+
+To enter Canada or obtain a visitor visa requirements include, a valid passport, a clear purpose for the visit, proof of financial support, and ties to their home country and a clean criminal record. In some cases, an invitation letter,  or a medical examination and biometric information may also be required. ArriveCAN is a mobile app provided by the Canada Border Services Agency (CBSA) that allows travellers entering Canada to electronically submit travel documents and customs declarations. Information on travelling to Canada, border wait times, customs and immigration, insurance, and visa requirements can be acquired through multiple official Canadian government sites.
+
+See also
+List of hotels in Canada
+To display all subcategories below click on the ►
+
+References
+This article incorporates content that is under an open licence from Statistics Canada (FAQ).
+
+External links
+
+Travel and tourism (travel.gc.ca) - government of Canada's official tourism site
+Canadian Tourism Commission - Ministries of Tourism, Culture and Gaming and Sport
+Canadian Tourism Data Collective - Destination Canada
+Tourism statistics - Statistics Canada
+
+## Culture of Canada
+The culture of Canada embodies the artistic, culinary, literary, humour, musical, political and social elements that are representative of Canadians. Throughout Canada's history, its culture has been influenced firstly by its indigenous cultures, and later by European culture and traditions, mostly by the British and French. Over time, elements of the cultures of Canada's immigrant populations have become incorporated to form a Canadian cultural mosaic. Certain segments of Canada's population have, to varying extents, also been influenced by American culture due to shared language (in English-speaking Canada), significant media penetration, and geographic proximity.
+Canada is often characterized as being "very progressive, diverse, and multicultural". Canada's federal government has often been described as the instigator of multicultural ideology because of its public emphasis on the social importance of immigration. Canada's culture draws from its broad range of constituent nationalities, and policies that promote a just society are constitutionally protected. Canadian policies—such as abortion, euthanasia, same-sex marriage, and cannabis; an emphasis on cultural diversity; significant immigration; abolishing capital punishment; publicly funded health care; higher and more progressive taxation; efforts to eliminate poverty; and strict gun control are social indicators of the country's political and cultural values. Canadians view the country's institutions of health care, military peacekeeping, the national park system, and the Canadian Charter of Rights and Freedoms as integral to their national identity.
+The Canadian government has influenced culture with programs, laws and institutions. It has created crown corporations to promote Canadian culture through media, such as the Canadian Broadcasting Corporation (CBC) and the National Film Board of Canada (NFB), and promotes many events which it considers to promote Canadian traditions. It has also tried to protect Canadian culture by setting legal minimums on Canadian content in many media using bodies like the Canadian Radio-television and Telecommunications Commission (CRTC).
+
+Cultural components
+History
+Influences
+For thousands of years, Canada has been inhabited by indigenous peoples from a variety of different cultures and of several major linguistic groupings. Although not without conflict and bloodshed, early European interactions with First Nations and Inuit populations in what is now Canada were arguably peaceful. First Nations and Métis peoples played a critical part in the development of European colonies in Canada, particularly for their role in assisting European coureur des bois and voyageurs in the exploration of the continent during the North American fur trade. Over the course of three centuries, countless North American Indigenous words, inventions, concepts, and games have become an everyday part of Canadian language and use. Many places in Canada, both natural features and human habitations, use indigenous names. The name "Canada" itself derives from the St. Lawrence Huron-Iroquoian word "Kanata" meaning "village" or "settlement". The name of Canada's capital city Ottawa comes from the Algonquin language term "adawe" meaning "to trade".
+
+In the 17th-century, French colonials settled New France in Acadia, in the present-day Maritimes, and in Canada, along the St. Lawrence River in present-day Quebec and Ontario. These regions were under French control from 1534 to 1763. However, the British conquered Acadia in 1710 and conquered Canada in 1760. The British were able to deport most of the Acadians, but they were unable to deport the Canadiens of Canada because they severely outnumbered the British forces. The British therefore had to make deals with Canadiens and hope they would one day become assimilated. The American Revolution, from 1775 to 1783, provoked the migration of 40,000 to 50,000 United Empire Loyalists from the Thirteen Colonies to the newly conquered British lands, which brought American influences to Canada for the first time. Following the War of 1812, many Scottish and English people settled in Upper Canada and Lower Canada. Many Irish people fleeing the Great Famine also arrived between 1845 and 1852.
+The Canadian Forces and overall civilian participation in the First World War and Second World War helped to foster Canadian nationalism; however, in 1917 and 1944, conscription crises highlighted the considerable rift along ethnic lines between Anglophones and Francophones. As a result of the First and Second World Wars, the Government of Canada became more assertive and less deferential to British authority. Canada, until the 1940s, was often described as "binational", with the 2 components being the cultural, linguistic and political identities of English Canadians and of French Canadians.
+Legislative restrictions on immigration (such as the Continuous journey regulation and Chinese Immigration Act) that had favoured British, American and other European immigrants (such as Dutch, German, Italian, Polish, Swedish and Ukrainian) were amended during the 1960s, resulting in an influx of people of many different ethnicities. By the end of the 20th century, immigrants were increasingly Chinese, Indian, Vietnamese, Jamaican, Filipino, Lebanese, Pakistani and Haitian. By the 21st century Canada had thirty four ethnic groups with at least one hundred thousand members each, of which eleven have over 1,000,000 people and numerous others are represented in smaller numbers. As of 2006, 16.2% of the population self-identify as a visible minority.
+
+Development of popular culture
+Themes and symbols of pioneers, trappers, and traders played an important part in the early development of Canadian culture. Modern Canadian culture as it is understood today can be traced to its time period of westward expansion and nation building. Contributing factors include Canada's unique geography, climate, and cultural makeup. Being a cold country with long winter nights for most of the year, certain unique leisure activities developed in Canada during this period including ice hockey and embracement of the summer indigenous game of lacrosse.
+By the 19th century, Canadians came to believe themselves possessed of a unique "northern character," due to the long, harsh winters that only those of hardy body and mind could survive. This hardiness was claimed as a Canadian trait, and sports that reflected this, such as snowshoeing and cross-country skiing, were asserted as characteristically Canadian. During this period, the churches tried to influence leisure activities by preaching against drinking, and scheduling annual revivals and weekly club activities. In a society in which most middle-class families now owned a harmonium or piano, and standard education included at least the rudiments of music, the result was often an original song. Such stirrings frequently occurred in response to noteworthy events, and few local or national excitements were allowed to pass without some musical comment.
+By the 1930s, radio played a major role in uniting Canadians behind their local or regional teams. Rural areas were especially influenced by sports coverage and the propagation of national myths. Outside the sports and music arena, Canadians expressed a national character of being hard working, peaceful, orderly and polite. "Roughing it" in cottage country a nostalgic "wilderness" activity where families connect with nature and pass-down traditions, has long been a part of Canadian identity, representing a shared cultural  lifestyle.
+
+Political culture
+Cultural legislation
+French Canada's early development was relatively cohesive during the 17th and 18th centuries, and this was preserved by the Quebec Act 1774, which allowed Roman Catholics to hold offices and practice their faith. The Constitution Act, 1867 was thought to meet the growing calls for Canadian autonomy while avoiding the overly strong decentralization that contributed to the Civil War in the United States. The compromises reached during this time between the English- and French-speaking Fathers of Confederation set Canada on a path to bilingualism which in turn contributed to an acceptance of diversity. The English and French languages have had limited constitutional protection since 1867 and full official status since 1969. Section 133 of the Constitution Act, 1867 (BNA Act) guarantees that both languages may be used in the Parliament of Canada. Canada adopted its first Official Languages Act in 1969, giving English and French equal status in the government of Canada. Doing so makes them "official" languages, having preferred status in law over all other languages used in Canada.
+Prior to the advent of the Canadian Bill of Rights in 1960 and its successor the Canadian Charter of Rights and Freedoms in 1982, the laws of Canada did not provide much in the way of civil rights and this issue was typically of limited concern to the courts. Canada since the 1960s has placed emphasis on equality and inclusiveness for all people. Multiculturalism in Canada was adopted as the official policy of the Canadian government and is enshrined in Section 27 of the Canadian Charter of Rights and Freedoms. In 1995, the Supreme Court of Canada ruled in Egan v. Canada that sexual orientation should be "read in" to Section Fifteen of the Canadian Charter of Rights and Freedoms, a part of the Constitution of Canada guaranteeing equal rights to all Canadians. Following a series of decisions by provincial courts and the Supreme Court of Canada, on July 20, 2005, the Civil Marriage Act (Bill C-38) became law, legalizing same-sex marriage in Canada. Furthermore, sexual orientation was included as a protected status in the human-rights laws of the federal government and of all provinces and territories.
+
+Contemporary politics
+Canadian governments at the federal level have a tradition of liberalism, and govern with a moderate, centrist political ideology. Canada's egalitarian approach to governance emphasizing social justice and multiculturalism, is based on selective immigration, social integration, and suppression of far-right politics that has wide public and political support. Peace, order, and good government are constitutional goals of the Canadian government.
+Canada has a multi-party system in which many of its legislative customs derive from the unwritten conventions of and precedents set by the Westminster parliament of the United Kingdom. The country has been dominated by two parties, the centre-left Liberal Party of Canada and the centre-right Conservative Party of Canada. The historically predominant Liberals position themselves at the centre of the political scale, with the Conservatives sitting on the right and the New Democratic Party occupying the left. Smaller parties like the Quebec nationalist Bloc Québécois and the Green Party of Canada have also been able to exert their influence over the political process by representation at the federal level.
+
+Nationalism and protectionism
+In general, Canadian nationalists are concerned about the protection of Canadian sovereignty and loyalty to the Canadian State, placing them in the civic nationalist category. It has likewise often been suggested that anti-Americanism plays a prominent role in Canadian nationalist ideologies. A unified, bi-cultural, tolerant and sovereign Canada remains an ideological inspiration to many Canadian nationalists. Alternatively Quebecois nationalism and support for maintaining French Canadian culture many of whom were supporters of the Quebec sovereignty movement during the late-20th century.
+Cultural protectionism in Canada has, since the mid-20th century, taken the form of conscious, interventionist attempts on the part of various Canadian governments to promote Canadian cultural production. Sharing a large border, a common language (for the majority), and being exposed to massive diffusions of American media makes it difficult for Canada to preserve its own culture versus being assimilated to American culture. While Canada tries to maintain its cultural differences, it also must balance this with responsibility in trade arrangements such as the General Agreement on Tariffs and Trade (GATT) and the United States–Mexico–Canada Agreement (USMCA).
+
+Foreign relations
+The notion of peacekeeping is deeply embedded in Canadian culture and a distinguishing feature that Canadians feel sets their foreign policy apart from its closest ally, the United States. Canada's foreign policy of peacekeeping, peace enforcement, peacemaking, and peacebuilding has been intertwined with its tendency to pursue multilateral and international solutions since the end of World War II.
+Canada's central role in the development of peacekeeping in the mid-1950s gave it credibility and established it as a country fighting for the "common good" of all nations. Canada has since been engaged with the United Nations, NATO and the European Union (EU) in promoting its middle power status into an active role in world affairs.
+Canada has long been reluctant to participate in military operations that are not sanctioned by the United Nations, such as the Vietnam War or the 2003 Invasion of Iraq. Canada has participated in US-led, UN-sanctioned operations such as the first Gulf War, in Afghanistan and Libya. The country also participates with its NATO allies in UN-sanctioned missions, such as the Kosovo Conflict and in Haiti.
+
+Values
+Canadian values are the perceived commonly shared ethical and human values of Canadians. Canadians generally value freedom and individuality, often making personal decisions based on family interests rather than collective Canadian identity. Tolerance and sensitivity hold significant importance in Canada's multicultural society, as does politeness and fairness Canadians typically tend to embrace liberal views on social and political issues.  A majority of Canadians shared the values of human rights, respect for the law and gender equality. Universal access to publicly funded health services "is often considered by Canadians as a fundamental value that ensures national health care insurance for everyone wherever they live in the country."  
+The major political parties have claimed explicitly that they uphold Canadian values, but use generalities to specify them. Historian Ian MacKay argues that, thanks to the long-term political impact of "Rebels, Reds, and Radicals", and allied leftist political elements, "egalitarianism, social equality, and peace... are now often simply referred to...as 'Canadian values.'" 
+
+The Canadian Charter of Rights and Freedoms, was intended to be a source for Canadian values and national unity. The 15th Prime Minister Pierre Trudeau wrote in his Memoirs that:Canada itself could now be defined as a "society where all people are equal and where they share some fundamental values based upon freedom", and that all Canadians could identify with the values of liberty and equality.
+Numerous scholars, beginning in the 1940s with American sociologist Seymour Martin Lipset; have tried to identify, measure and compare them with other countries, especially the United States. However, there are critics who say that such a task is practically impossible.
+Denis Stairs a professor of political Science at Dalhousie University; links the concept of Canadian values with nationalism. [Canadians typically]...believe, in particular, that they subscribe to a distinctive set of values – Canadian values – and that those values are special in the sense of being unusually virtuous.
+
+Identity
+Canada's large geographic size, the presence of a significant number of indigenous peoples, the conquest of one European linguistic population by another and relatively open immigration policy have led to an extremely diverse society. As a result, the issue of Canadian identity remains under scrutiny.
+Canada has constitutional protection for policies that promote multiculturalism rather than cultural assimilation or a single national myth. In Quebec, cultural identity is strong, and many commentators speak of a French Canadian culture as distinguished from English Canadian culture. However, as a whole, Canada is in theory, a cultural mosaic—a collection of several regional, and ethnic subcultures.
+As Professor Alan Cairns noted about the  Canadian Charter of Rights and Freedoms , "the initial federal government premise was on developing a pan-Canadian identity"'. Pierre Trudeau himself later wrote in his Memoirs (1993) that "Canada itself" could now be defined as a "society where all people are equal and where they share some fundamental values based upon freedom", and that all Canadians could identify with the values of liberty and equality.
+Political philosopher Charles Blattberg suggests that Canada is a "multinational country"; as all Canadians are members of Canada as a civic or political community, a community of citizens, and this is a community that contains many other kinds within it. These include not only communities of ethnic, regional, religious, and civic (the provincial and municipal governments) sorts, but also national communities, which often include or overlap with many of the other kinds.
+Journalist and author Richard Gwyn has suggested that "tolerance" has replaced "loyalty" as the touchstone of Canadian identity. Journalist and professor Andrew Cohen wrote in 2007:
+
+The Canadian Identity, as it has come to be known, is as elusive as the Sasquatch and Ogopogo. It has animated—and frustrated—generations of statesmen, historians, writers, artists, philosophers, and the National Film Board ... Canada resists easy definition.
+Canada's 15th prime minister Pierre Trudeau in regards to uniformity stated:
+
+Uniformity is neither desirable nor possible in a country the size of Canada. We should not even be able to agree upon the kind of Canadian to choose as a model, let alone persuade most people to emulate it. There are few policies potentially more disastrous for Canada than to tell all Canadians that they must be alike. There is no such thing as a model or ideal Canadian. What could be more absurd than the concept of an "all-Canadian" boy or girl? A society which emphasizes uniformity is one which creates intolerance and hate.
+In 2015, Prime Minister Justin Trudeau defined the country as the world's first postnational state: "There is no core identity, no mainstream in Canada".
+The question of Canadian identity was traditionally dominated by three fundamental themes: first, the often conflicted relations between English Canadians and French Canadians stemming from the French Canadian imperative for cultural and linguistic survival; secondly, the generally close ties between English Canadians and the British Empire, resulting in a gradual political process towards complete independence from the imperial power; and finally, the close proximity of English-speaking Canadians to the United States. Much of the debate over contemporary Canadian identity is argued in political terms, and defines Canada as a country defined by its government policies, which are thought to reflect deeper cultural values.
+In 2013, nearly nine in ten (87%) Canadians were proud to identify as Canadian, with over half (61%) expressing they were very proud. The highest pride levels were for Canadian history (70%), the armed forces (64%), the health care system (64%), and the Constitution (63%). However, pride in Canada’s political influence was lower at 46%. Outside Quebec, pride ranged from 91% in British Columbia to 94% in Prince Edward Island, while 70% of Quebec residents felt proud. Seniors and women showed the most pride, especially among first- and second-generation immigrants, who valued both Canadian identity and achievements.
+
+Inter-provincial interactions
+Western alienation is the notion that the western provinces have historically been alienated, and in extreme cases excluded, from mainstream Canadian political affairs in favour of Eastern Canada or more specifically the central provinces. Western alienation claims that these latter two are politically represented, and economically favoured, more significantly than the former, which has given rise to the sentiment of alienation among many western Canadians. Likewise; the Quebec sovereignty movement that lead to the Québécois nation and the province of Quebec being recognized as a "distinct society" within Canada, highlights the sharp divisions between the Anglo and Francophone population.
+Though more than half of Canadians live in just two provinces (Ontario and Quebec), each province is largely self-contained due to provincial economic self-sufficiency. Only 15 percent of Canadians live in a different province from where they were born, and only 10 percent go to another province for university. Canada has always been like this, and stands in sharp contrast to the United States' internal mobility which is much higher. For example 30 percent live in a different state from where they were born, and 30 percent go away for university. Scott Gilmore in Maclean's argues that "Canada is a nation of strangers", in the sense that for most individuals, the rest of Canada outside their province is little-known.  Another factor is the cost of internal travel. Intra-Canadian airfares are high—it is cheaper and more common to visit the United States than to visit another province. Gilmore argues that the mutual isolation makes it difficult to muster national responses to major national issues.
+
+Humour
+Canadian humour is an integral part of the Canadian Identity. There are several traditions in Canadian humour in both English and French. While these traditions are distinct and at times very different, there are common themes that relate to Canadians' shared history and geopolitical situation in the Western Hemisphere and the world. Various trends can be noted in Canadian comedy. One trend is the portrayal of a "typical" Canadian family in an ongoing radio or television series. Other trends include outright absurdity, and political and cultural satire. Irony, parody, satire, and self-deprecation are arguably the primary characteristics of Canadian humour.
+
+The beginnings of Canadian national radio comedy date to the late 1930s with the debut of The Happy Gang, a long-running weekly variety show that was regularly sprinkled with corny jokes in between tunes. Canadian television comedy begins with Wayne and Shuster, a sketch comedy duo who performed as a comedy team during the Second World War, and moved their act to radio in 1946 before moving on to television. Second City Television, otherwise known as SCTV, Royal Canadian Air Farce, This Hour Has 22 Minutes,  The Kids in the Hall, Trailer Park Boys, Corner Gas  and more recently Schitt's Creek are regarded as television shows which were very influential on the development of Canadian humour. Canadian comedians have had great success in the film industry and are amongst the most recognized in the world.
+Humber College in Toronto and the École nationale de l'humour in Montreal offer post-secondary programmes in comedy writing and performance. Montreal is also home to the bilingual (English and French) Just for Laughs festival and to the Just for Laughs Museum, a bilingual, international museum of comedy. Canada has a national television channel, The Comedy Network, devoted to comedy. Many Canadian cities feature comedy clubs and showcases, most notable, The Second City branch in Toronto (originally housed at The Old Fire Hall) and the Yuk Yuk's national chain. The Canadian Comedy Awards were founded in 1999 by the Canadian Comedy Foundation for Excellence, a not-for-profit organization.
+
+Public holidays
+Holidays officially observed in Canada are colloquially known as statutory holidays, and are legislated at the federal as well as provincial and territorial levels. Canada's national holiday Dominion Day, later renamed Canada Day, was officially legislated in 1879 under the Dominion Day Act. Labour Day was first legislated in 1894, after various labour organizations petitioned the government. The internationally-recognized New Year's Day, Good Friday, and Christmas Day were traditionally observed in colonial Canada and had been legislated under pre-existing colonial statutes in pre-Confederation Canada, and have been retained to the present day as legal holidays federally and in all provinces and territories, being officially listed in the Canada Labour Code as of 1967 as well as in equivalent legislation across all 13 provinces and territories.
+
+While the above holidays are legislated nationwide, Canada's remaining federal holidays are not observed by all provinces and territories equally, and in their capacity as mandated holidays only apply to the federal government and its workers. These holidays include Easter Monday, Victoria Day, Civic Holiday, Thanksgiving, Remembrance Day, and Boxing Day. Additionally, the most recent federal holiday added is National Day of Truth and Reconciliation, derived from Orange Shirt Day, which was legislated under Bill C-5, the National Day for Truth and Reconciliation Act in June 2021. Due to a lack of statutory holidays between New Year's Day and Good Friday, beginning in the early 1990s and through to the 2010s many provinces have independently added a new holiday on the third Monday in February (coinciding with Presidents' Day in the US), variably called Family Day, Islander Day, Louis Riel Day, and Nova Scotia Heritage Day.
+In addition to legislated holidays, many other holidays are publicly celebrated to a significant degree in Canada, including the longstanding Valentine's Day, St. Patrick's Day, Mother's Day, Father's Day and Halloween, as well as increasingly visible observances introduced by minority populations such as Diwali, Eid, and Lunar New Year. The federal government additionally lists various observances that it deems to be "important and commemorative days" as part of the Department of Canadian Heritage, which include Sir John A. Macdonald Day (January 11), the National Flag of Canada Day (February 15), Commonwealth Day (second Monday in March), National Indigenous Peoples Day (June 21), National Acadian Day (August 15), and the Anniversary of the Statute of Westminster (December 11).
+
+Symbols
+Predominant symbols of Canada include the maple leaf, beaver, and the Canadian horse. Many official symbols of the country such as the Flag of Canada have been changed or modified over the past few decades to Canadianize them and deemphasize or remove references to the United Kingdom. Other prominent symbols include the sports of hockey and lacrosse, the Canada goose, the Royal Canadian Mounted Police, the Canadian Rockies, and more recently the totem pole and Inuksuk; material items such as Canadian beer, maple syrup, tuques, canoes, nanaimo bars, butter tarts and the Quebec dish of poutine have also been defined as uniquely Canadian. Symbols of the Canadian monarchy continue to be featured in, for example, the Arms of Canada, the armed forces, and the prefix His Majesty's Canadian Ship. The designation Royal remains for institutions as varied as the Royal Canadian Armed Forces, Royal Canadian Mounted Police and the Royal Winnipeg Ballet.
+
+Arts
+Visual arts
+Indigenous artists were producing art in the territory that is now called Canada for thousands of years prior to the arrival of European settler colonists and the eventual establishment of Canada as a nation state. Like the peoples that produced them, indigenous art traditions spanned territories that extended across the current national boundaries between Canada and the United States. The majority of indigenous artworks preserved in museum collections date from the period after European contact and show evidence of the creative adoption and adaptation of European trade goods such as metal and glass beads. Canadian sculpture has been enriched by the walrus ivory, muskox horn and caribou antler and soapstone carvings by the Inuit artists. These carvings show objects and activities from the daily life, myths and legends of the Inuit. Inuit art since the 1950s has been the traditional gift given to foreign dignitaries by the Canadian government.
+The works of most early Canadian painters followed European trends. During the mid-19th century, Cornelius Krieghoff, a Dutch-born artist in Quebec, painted scenes of the life of the habitants (French-Canadian farmers). At about the same time, the Canadian artist Paul Kane painted pictures of indigenous life in western Canada. A group of landscape painters called the Group of Seven developed the first distinctly Canadian style of painting, inspired by the works of the legendary landscape painter Tom Thomson. All these artists painted large, brilliantly coloured scenes of the Canadian wilderness.
+Since the 1930s, Canadian painters have developed a wide range of highly individual styles. Emily Carr became famous for her paintings of totem poles in British Columbia. Other noted painters have included the landscape artist David Milne, the painters Jean-Paul Riopelle, Harold Town and Charles Carson and multi-media artist Michael Snow. The abstract art group Painters Eleven, particularly the artists William Ronald and Jack Bush, also had an important impact on modern art in Canada. Government support has played a vital role in their development enabling visual exposure through publications and periodicals featuring Canadian art, as has the establishment of numerous art schools and colleges across the country.
+
+Literature
+Canadian literature is often divided into French- and English-language literatures, which are rooted in the literary traditions of France and Britain, respectively. Canada's early literature, whether written in English or French, often reflects the Canadian perspective on nature, frontier life, and Canada's position in the world, for example the poetry of Bliss Carman or the memoirs of Susanna Moodie and Catherine Parr Traill. These themes, and Canada's literary history, inform the writing of successive generations of Canadian authors, from Leonard Cohen to Margaret Atwood.
+By the mid-20th century, Canadian writers were exploring national themes for Canadian readers. Authors were trying to find a distinctly Canadian voice, rather than merely emulating British or American writers. Canadian identity is closely tied to its literature. The question of national identity recurs as a theme in much of Canada's literature, from Hugh MacLennan's Two Solitudes (1945) to Alistair MacLeod's No Great Mischief (1999). Canadian literature is often categorized by region or province; by the socio-cultural origins of the author (for example, Acadians, indigenous peoples, LGBT, and Irish Canadians); and by literary period, such as "Canadian postmoderns" or "Canadian Poets Between the Wars".
+Canadian authors have accumulated numerous international awards. In 1992, Michael Ondaatje became the first Canadian to win the Booker Prize for The English Patient. Margaret Atwood won the Booker in 2000 for The Blind Assassin and Yann Martel won it in 2002 for the Life of Pi. Carol Shields's The Stone Diaries  won the Governor General's Awards in Canada in 1993, the 1995 Pulitzer Prize for Fiction, and the 1994 National Book Critics Circle Award. In 2013, Alice Munro was the first Canadian to be awarded the Nobel Prize in Literature for her work as "master of the modern short story". Munro is also a recipient of the Man Booker International Prize for her lifetime body of work, and three-time winner of Canada's Governor General's Award for fiction.
+
+Theatre
+Canada has had a thriving stage theatre scene since the late 1800s. Theatre festivals draw many tourists in the summer months, especially the Stratford Shakespeare Festival in Stratford, Ontario, and the Shaw Festival in Niagara-on-the-Lake, Ontario. The Famous People Players are only one of many touring companies that have also developed an international reputation. Canada also hosts one of the largest fringe festivals, the Edmonton International Fringe Festival.
+
+Canada's largest cities host a variety of modern and historical venues. The Toronto Theatre District is Canada's largest, as well as being the third largest English-speaking theatre district in the world. In addition to original Canadian works, shows from the West End and Broadway frequently tour in Toronto. Toronto's Theatre District includes the venerable Roy Thomson Hall; the Princess of Wales Theatre; the Tim Sims Playhouse; The Second City; the Canon Theatre; the Panasonic Theatre; the Royal Alexandra Theatre; historic Massey Hall; and the city's new opera house, the Sony Centre for the Performing Arts. Toronto's Theatre District also includes the Theatre Museum Canada.
+Montreal's theatre district ("Quartier des Spectacles") is the scene of performances that are mainly French-language, although the city also boasts a lively anglophone theatre scene, such as the Centaur Theatre. Large French theatres in the city include Théâtre Saint-Denis and Théâtre du Nouveau Monde.
+Vancouver is host to, among others, the Vancouver Fringe Festival, the Arts Club Theatre Company, Carousel Theatre, Bard on the Beach, Theatre Under the Stars and Studio 58.
+Calgary is home to Theatre Calgary, a mainstream regional theatre; Alberta Theatre Projects, a major centre for new play development in Canada; the Calgary Animated Objects Society; and One Yellow Rabbit, a touring company.
+There are three major theatre venues in Ottawa; the Ottawa Little Theatre, originally called the Ottawa Drama League at its inception in 1913, is the longest-running community theatre company in Ottawa. Since 1969, Ottawa has been the home of the National Arts Centre, a major performing-arts venue that houses four stages and is home to the National Arts Centre Orchestra, the Ottawa Symphony Orchestra and Opera Lyra Ottawa. Established in 1975, the Great Canadian Theatre Company specializes in the production of Canadian plays at a local level.
+
+Television
+Canadian television, especially supported by the Canadian Broadcasting Corporation, is the home of a variety of locally produced shows. French-language television, like French Canadian film, is buffered from excessive American influence by the fact of language, and likewise supports a host of home-grown productions. The success of French-language domestic television in Canada often exceeds that of its English-language counterpart. In recent years nationalism has been used to prompt products on television. The  I Am Canadian campaign by Molson beer, most notably the commercial featuring Joe Canadian, infused domestically brewed beer and nationalism.
+Canada's television industry is in full expansion as a site for Hollywood productions. Since the 1980s, Canada, and Vancouver in particular, has become known as Hollywood North. The American TV series Queer as Folk was filmed in Toronto. Canadian producers have been very successful in the field of science fiction since the mid-1990s, with such shows as The X-Files, Stargate SG-1, Highlander: The Series, the new Battlestar Galactica, My Babysitter's a Vampire, Smallville, and The Outer Limits all filmed in Vancouver.
+The CRTC's Canadian content regulations dictate that a certain percentage of a domestic broadcaster's transmission time must include content that is produced by Canadians, or covers Canadian subjects. These regulations also apply to US cable television channels such as MTV and the Discovery Channel, which have local versions of their channels available on Canadian cable networks. Similarly, BBC Canada, while showing primarily BBC shows from the United Kingdom, also carries Canadian output.
+
+Film
+A number of Canadian pioneers in early Hollywood significantly contributed to the creation of the motion picture industry in the early days of the 20th century. Over the years, many Canadians have made enormous contributions to the American entertainment industry, although they are frequently not recognized as Canadians.
+
+Canada has developed a vigorous film industry that has produced a variety of well-known films and actors. In fact, this eclipsing may sometimes be creditable for the bizarre and innovative directions of some works, such as auteurs Atom Egoyan (The Sweet Hereafter, 1997) and David Cronenberg (The Fly, Naked Lunch, A History of Violence) and the avant-garde work of Michael Snow and Jack Chambers. Also, the distinct French-Canadian society permits the work of directors such as Denys Arcand and Denis Villeneuve, while First Nations cinema includes the likes of Atanarjuat: The Fast Runner. At the 76th Academy Awards, Arcand's The Barbarian Invasions became Canada's first film to win the Academy Award for Best Foreign Language Film.
+The National Film Board of Canada is a public agency that produces and distributes films and other audiovisual works which reflect Canada to Canadians and the rest of the world'. Canada has produced many popular documentaries such as The Corporation, Nanook of the North, Final Offer, and Canada: A People's History. The Toronto International Film Festival (TIFF) is considered by many to be one of the most prevalent film festivals for Western cinema. It is the première film festival in North America from which the Oscars race begins.
+
+Music
+The music of Canada has reflected the multi-cultural influences that have shaped the country. Indigenous, the French, and the British have all made historical contributions to the musical heritage of Canada. The country has produced its own composers, musicians and ensembles since the mid-1600s. From the 17th century onward, Canada has developed a music infrastructure that includes church halls; chamber halls; conservatories; academies; performing arts centres; record companies; radio stations, and television music-video channels. The music has subsequently been heavily influenced by American culture because of its proximity and migration between the two countries. Canadian rock has had a considerable impact on the development of modern popular music and the development of the most popular subgenres.
+Patriotic music in Canada dates back over 200 years as a distinct category from British patriotism, preceding the first legal steps to independence by over 50 years. The earliest known song, "The Bold Canadian", was written in 1812. The national anthem of Canada, "O Canada" adopted in 1980, was originally commissioned by the Lieutenant Governor of Quebec, the Honourable Théodore Robitaille, for the 1880 Saint-Jean-Baptiste Day ceremony. Calixa Lavallée wrote the music, which was a setting of a patriotic poem composed by the poet and judge Sir Adolphe-Basile Routhier. The text was originally only in French, before English lyrics were written in 1906.
+Music broadcasting in the country is regulated by the Canadian Radio-television and Telecommunications Commission (CRTC). The Canadian Academy of Recording Arts and Sciences presents Canada's music industry awards, the Juno Awards, which were first awarded in a ceremony during the summer of 1970.
+
+Media
+Canada's media is highly autonomous, uncensored, diverse, and very regionalized. The Broadcasting Act declares "the system should serve to safeguard, enrich, and strengthen the cultural, political, social, and economic fabric of Canada". Canada has a well-developed media sector, but its cultural output—particularly in English films, television shows, and magazines—is often overshadowed by imports from the United States and the United Kingdom. As a result, the preservation of a distinctly Canadian culture is supported by federal government programs, laws, and institutions such as the Canadian Broadcasting Corporation (CBC), the National Film Board of Canada (NFB), and the Canadian Radio-television and Telecommunications Commission (CRTC).
+Canadian mass media, both print and digital, and in both official languages, is largely dominated by a "handful of corporations". The largest of these corporations is the country's national public broadcaster, the Canadian Broadcasting Corporation, which also plays a significant role in producing domestic cultural content, operating its own radio and TV networks in both English and French. In addition to the CBC, some provincial governments offer their own public educational TV broadcast services as well, such as TVOntario and Télé-Québec.
+Non-news media content in Canada, including film and television, is influenced both by local creators as well as by imports from the United States, the United Kingdom, Australia, and France. In an effort to reduce the amount of foreign-made media, government interventions in television broadcasting can include both regulation of content and public financing. Canadian tax laws limit foreign competition in magazine advertising.
+
+Sports
+Sports in Canada consists of a variety of games. Although there are many contests that Canadians value, the most common are ice hockey, box lacrosse, Canadian football, basketball, soccer, curling and ringette. All but curling and soccer are considered domestic sports as they were either invented by Canadians or trace their roots to Canada.
+
+Ice hockey, referred to as simply "hockey", is Canada's most prevalent winter sport, its most popular spectator sport, and its most successful sport in international competition. It is Canada's official national winter sport. Lacrosse, a sport with indigenous origins, is Canada's oldest and official summer sport. Canadian football is Canada's second most popular spectator sport, and the Canadian Football League's annual championship, the Grey Cup, is the country's largest annual sports event.
+While other sports have a larger spectator base, association football, known in Canada as soccer in both English and French, has the most registered players of any team sport in Canada, and is the most played sport with all demographics, including ethnic origin, ages and genders. Professional teams exist in many cities in Canada – with a trio of teams in North America's top pro league, Major League Soccer – and international soccer competitions such as the FIFA World Cup, UEFA Euro and the UEFA Champions League attract some of the biggest audiences in Canada. Other popular team sports include curling, street hockey, rugby league, rugby union, softball and Ultimate frisbee. Popular individual sports include auto racing, boxing, karate, kickboxing, hunting, sport shooting, fishing, cycling, golf, hiking, horse racing, ice skating, skiing, snowboarding, swimming, triathlon, disc golf, water sports, and several forms of wrestling.
+As a country with a generally cool climate, Canada has enjoyed greater success at the Winter Olympics than at the Summer Olympics, although significant regional variations in climate allow for a wide variety of both team and individual sports. Great achievements in Canadian sports are recognized by Canada's Sports Hall of Fame, while the Lou Marsh Trophy is awarded annually to Canada's top athlete by a panel of journalists. There are numerous other Sports Halls of Fame in Canada.
+
+Cuisine
+Canadian cuisine varies widely depending on the region. The former Canadian prime minister Joe Clark has been paraphrased to have noted: "Canada has a cuisine of cuisines. Not a stew pot, but a smorgasbord." While there are considerable overlaps between Canadian food and the rest of the cuisine in North America, many unique dishes (or versions of certain dishes) are found and available only in the country. Common contenders for the Canadian national food include poutine and butter tarts. Other popular Canadian made foods include indigenous fried bread bannock, French tourtière, Kraft Dinner, ketchup chips, date squares, nanaimo bars, back bacon, the caesar cocktail and many many more. The Canadian province of Quebec is the birthplace and world's largest producer of maple syrup, The Montreal-style bagel and Montreal-style smoked meat are both food items originally developed by Jewish communities living in Quebec
+The three earliest cuisines of Canada have First Nations, English, and French roots. The indigenous population of Canada often have their own traditional cuisine. The cuisines of English Canada are closely related to British and American cuisine. Finally, the traditional cuisines of French Canada have evolved from 16th-century French cuisine because of the tough conditions of colonial life and the winter provisions of Coureur des bois. With subsequent waves of immigration in the 18th and 19th century from Central, Southern, and Eastern Europe, and then from Asia, Africa and Caribbean, the regional cuisines were subsequently affected.
+
+Public opinion data
+A 2022 web survey by the Association for Canadian Studies found that an absolute majority of respondents in all provinces except Alberta disagreed with the statement that "there is only one Canadian culture".  Most respondents didn't choose what music to listen to based on whether or not the artist was Canadian.  While half of Quebeckers and more than one third of respondents in the rest of Canada agreed that "I worry about preserving my culture" at the same time 60% of respondents agreed that "If a Canadian artist is good enough, they will become discovered without the need for specific Canadian content rules".  Forty-six percent of respondents had no favourite Canadian musical artist.  Rock, pop, and country music were the most popular genres of music, with above twenty percent fan bases in all age categories, but with hip-hop also appealing to more than twenty percent in the youngest cohort (18–35 years old).  Film genre preferences were largely as the same across age categories, with comedies and action films the most popular, except that only one percent of older people (>55 years old) were fans of animated movies compared to eleven percent in young adults, while older adults showed a strong preference for dramas compared to younger people.  Three out of four respondents could not name a single Canadian visual artist, living or dead.
+
+Outside views
+In a 2002 interview with the Globe and Mail, Aga Khan, the 49th Imam of the Ismaili Muslims, described Canada as "the most successful pluralist society on the face of our globe", citing it as "a model for the world". A 2007 poll ranked Canada as the country with the most positive influence in the world. 28,000 people in 27 countries were asked to rate 12 countries as either having a positive or negative worldwide influence. Canada's overall influence rating topped the list with 54 per cent of respondents rating it mostly positive and only 14 per cent mostly negative. A global opinion poll for the BBC saw Canada ranked the second most positively viewed nation in the world (behind Germany) in 2013 and 2014.
+The United States is home to a number of perceptions about Canadian culture, due to the countries' partially shared heritage and the relatively large number of cultural features common to both the US and Canada. For example, the average Canadian may be perceived as more reserved than his or her American counterpart. Canada and the United States are often inevitably compared as sibling countries, and the perceptions that arise from this oft-held contrast have gone to shape the advertised worldwide identities of both nations: the United States is seen as the rebellious child of the British Crown, forged in the fires of violent revolution; Canada is the calmer offspring of the United Kingdom, known for a more relaxed national demeanour.
+
+See also
+Canadiana
+Canadian folklore
+Inuit culture#Inuit in Canada
+Culture of Quebec
+Acadian culture
+Architecture of Canada
+Freedom of expression in Canada
+Public holidays in Canada
+Canadian French
+Lists of Canadians
+
+References
+This article incorporates content that is under an open licence from Statistics Canada (FAQ).
+
+Further reading
+External links
+
+Canadian Heritage Archived December 19, 2008, at the Wayback Machine
+Culture.CA – Canadian cultural portal online
+Cultural Information – Canada – Global Affairs Canada
+
+## Cuisine of Canada
+Canadian cuisine consists of the cooking traditions and practices of Canada, with regional variances around the country. First Nations and Inuit have practiced their culinary traditions in what is now Canada for at least 15,000 years. The advent of European explorers and settlers, first on the east coast and then throughout the wider territories of New France, British North America and Canada, saw the melding of foreign recipes, cooking techniques, and ingredients with indigenous flora and fauna. Modern Canadian cuisine has maintained this dedication to local ingredients and terroir, as exemplified in the naming of specific ingredients based on their locale, such as Malpeque oysters or Alberta beef. Accordingly, Canadian cuisine privileges the quality of ingredients and regionality, and may be broadly defined as a national tradition of "creole" culinary practices, based on the complex multicultural and geographically diverse nature of both historical and contemporary Canadian society.
+Divisions within Canadian cuisine can be traced along regional lines and have a direct connection to the historical immigration patterns of each region or province. The earliest cuisines of Canada are based on Indigenous, English, Scottish and French roots. The traditional cuisines of both French- and English-Canada have evolved from those carried over to North America from France and the British Isles respectively, and from their adaptation to Indigenous customs, labour-intensive and/or mobile lifestyles, and hostile environmental conditions. French Canadian cuisine can also be divided into Québécois cuisine and Acadian cuisine. Regional cuisines have continued to develop with subsequent waves of immigration during the 19th, 20th, and 21st centuries, such as from Central Europe, Southern Europe, Eastern Europe, South Asia, East Asia, and the Caribbean. There are many culinary practices and dishes that can be either identified as particular to Canada, such as fish and brewis, peameal bacon, pot roast and meatloaf, or sharing an association with countries from which immigrants to Canada carried over their cuisine, such as fish and chips, roast beef, and bannock.
+
+Definitions
+Though certain dishes may be identified as "Canadian" due to the ingredients used or the origin of their inception, an overarching style of Canadian cuisine may be more difficult to define. Some commentators, such as former prime minister Joe Clark, believe Canadian cuisine to be a collage of dishes from a variety of cultures. Clark has been paraphrased to have noted that "Canada has a cuisine of cuisines. Not a stew pot, but a smorgasbord." Canadian food culture writer and author Jennifer Cochrall-King has said that "there is no single definition of Canadian cuisine. It starts with ingredients that spring from the landscape and with traditional dishes steeped in the region's history and culture."
+While the immense size of Canada, and the diversity of its inhabitants, compounds the difficulty in identifying a monolithic Canadian culinary tradition, Hersch Jacobs acknowledges that the lack of a hegemonic definition does not preclude the existence of Canadian cuisine. Lenore Newman argues that there is a distinctly Canadian creole cuisine, and identifies five key properties that together define Canadian cuisine: its reliance on seasonality, multiculturalism, wild foods, regional dishes, and the privileging of ingredients over recipes. This adaptation, preparation, and emphasis on specific local ingredients is of particular note, and a common theme in Canadian food is the use of foreign recipes, introduced by immigrants and their descendants, that have been modified for use of local products. Tourtière, for example, is a Canadian meat pie of French origin that can be cooked with beef, pork or fish. The sections on regionality and national foods below illustrate this tradition of diversity and emphasis on local elements, such as dulse and lobster in the Maritimes, deer meats in the Northern Territories, salmon and crab in British Columbia, or maple syrup in Central Canada.
+Indigenous food may be considered uniquely Canadian, and the influence of Métis culture can be considered to have played a particularly important role in the origin of a distinct Canadian cuisine. Foods such as bannock, moose, deer, bison, pemmican, maple taffy, and Métis stews, such as barley stew, are all either traditional Indigenous foods, or originate from Canada with roots in Indigenous cuisines, and are eaten throughout the country.
+There are many foods of foreign origin that are eaten commonly and considered integrated constituents of Canadian cuisine. Pierogi (dumplings of Central and Eastern European origin) are an example, due to the large number of early Ukrainian and Polish immigrants, while the ubiquity of roast beef and Yorkshire pudding are an example of the heavy English influence. As much of Canadian cuisine is coloured by the adaptation and development of dishes brought over by European, and later Asian, settlers, there is a variety of noteworthy Canadian variations on pre-established templated food and drink, with their own nationally defined particularities, such as Canadian Cheddar cheese, whisky, bread, wine, bacon, and pancakes.
+In general, much of what is considered to be traditional Canadian cuisine contains strong elements of richness, breads and starches, game meat, and often stews and soups. Certain culinary traditions in Canada, such as the frying of dough, which developed out of the country's voyaging and frontier culture, have seen to both the creation of distinct national foods and the flourishing of a broader national association with certain types of dishes. In the case of frying dough, for example, particular foods originating from Canada would include beavertails, apple fritters and toutons, whilst foods such as doughnuts, cronuts, bannock, bagels, and pancakes, though not physically originating from Canada, have nonetheless developed within a broader tradition of nationally recognized cuisine.
+
+History
+Canadian cuisine has been shaped by the historical and ongoing influences of Indigenous peoples, settlers and immigrants. Indigenous influences remain prevalent in Canada's contemporary food scene, alongside those of the three major immigrant groups of the 17th and 18th centuries: English, Scottish, and French. This diversity has been further expanded by subsequent waves of immigration in later centuries.
+
+Indigenous
+The traditional Indigenous cuisine of Canada is based on a mixture of wild game, foraged foods, and farmed agricultural products. Indigenous peoples are known to gather more than five-hundred plant species for food. They cultivate and forage a variety of plants, hunt a diversity of animals, and use various tools to boil, smoke/preserve and roast their food. Each region of Canada, with its own First Nations and Inuit, utilizes local resources and distinct preparation techniques for their cuisines.
+Maple syrup was first collected and used by the Indigenous peoples of Eastern Canada and the north-eastern United States, and Canada remains the world's largest producer. Though the origin of maple syrup production is not clear, the earliest known syrups were made by repeatedly freezing the collected maple sap and removing the ice to concentrate the sugar in the remaining sap. Maple syrup is one of the most commonly consumed Canadian food of Indigenous origin.
+Dried meat products such as pânsâwân and pemmican are commonly consumed by the Indigenous peoples of the plains. In particular, the former was a predecessor for North American-style beef jerky, with the processing methods adapted for beef.
+In most of the Canadian West Coast and Pacific Northwest, Pacific salmon is an important food resource to the First Nations peoples, along with certain marine mammals. Salmon are consumed fresh during the spawning season, or smoked dry to create a jerky-like food that can be stored year-round. The latter food is commonly known and sold as "salmon jerky".
+Whipped soapberry, known as sxusem (sk-HOO-shum, "Indian ice cream") in the Interior Salish languages of British Columbia, is consumed similarly to ice cream or as a cranberry-cocktail-like drink. It is known for being a kidney tonic, which are called agutak in Arctic Canada (with animal/fish fat).
+
+In the Arctic, Inuit traditionally survived on a diet consisting of land and marine mammals, fish, and foraged plant products. Meats were consumed fresh, but also often prepared, cached, and allowed to ferment into igunaq or kiviak. These fermented meats have the consistency and smell of certain soft aged cheeses. Snacks such as muktuk, which consist of whale skin and blubber is eaten plain, though occasionally dipped in soy sauce. Chunks of muktuk are sliced with an ulu prior to or during consumption.
+Fish are eaten boiled, fried, and prior to today's settlements, often in dried forms. The so-called "Eskimo potato", (Inuit: oak-kuk: Claytonia tuberosa) and other "mousefoods", are some of the plants consumed in the Arctic.
+Foods such as "bannock", popular with First Nations and Inuit, reflect the historic exchange of these cultures with European fur traders, who brought with them new ingredients and foods. Common contemporary consumption of bannock, powdered milk, and bologna by Indigenous Canadians reflects the legacy of Canadian colonialism in the prohibition of hunting and fishing, and the institutional food rations provided to Indian reserves. Due to similarities in treatment under colonialism, many Native American communities throughout the continent consume similar food items, with some emphasis on local ingredients.
+
+North and West European
+Settlers and traders from the British Isles account for the culinary influences of early English Canada in the Maritime provinces and Southern Ontario (Upper Canada). Cuisines found in Newfoundland and the Maritimes derive largely from British and Irish cooking, with a preference for salt-cured fish, beef, and pork. Ontario, Manitoba and British Columbia also maintain strong British culinary traditions. The French settlers of New France, who would become the Canadiens and Acadians, account for much of the cuisine of southern Quebec (Lower Canada), Northeastern Ontario, and New Brunswick.
+Seafood had an important influence on the early European settlers and explorers of Atlantic Canada, which continues to be expressed in Maritime cuisine and culture to this day. In the late 15th-century, John Cabot's journey to the shores of what would become Newfoundland brought England knowledge of the Grand Banks and their abundance in cod. He is reported to have told King Henry VII that "the sea was covered with fish which could be caught not merely by nets, but weighted basket lowered into the water." Fleets of fishermen from England, France, Portugal, and Spain flocked to Newfoundland to return with fish, filling a market need in Europe and cutting out the necessity of importing from Iceland. The English, Scottish, Irish, and French settlers of what would become the Atlantic provinces frequently built their communities beside the ocean and rivers for easy access, and the fishing industry along the Canadian east coast steadily expanded until it became the region's major industry. Accounts from early settlers list fish that were caught, sold, and incorporated into local meals, such as trout, eels, mackerel, oysters, lobsters, salmon, cod and herring. Meals that incorporated such fish included, and continue to include, fried cod roe, fried or baked cod tongues, stewed or fried cod heads, fish hash, codfish balls, cod sounds, toast and fish, roasted scrawn, fish and brewis, salt fish and potatoes, and boiled rounders, among others. The abundance of seafood and the ease by which it could be obtained made the British and French colonies of Nova Scotia, New Brunswick, Acadia, Prince Edward Island, and Newfoundland and Labrador attractive destinations for settlers.
+
+The influx of United Empire Loyalists into British North America in the 18th century, and the subsequent establishment of Upper Canada, saw the wider expansion of British cooking with indigenous ingredients in the future province of Ontario. These settlers established customs similar to their compatriots in England, but with a particular focus on dietary staples, such as meat, bread, and tea. Local forage and game were typically incorporated into the cooking of early English-Canadians in Upper Canada, such as wild berries, maple sugar, venison, partridge, waterfowl, maize, pumpkin, and turkey. Meals often contained more meat than was typical in England and were particularly reliant on pork and potatoes during early settlement, although these meals began to include beef and mutton as farming became more established in the region. Roasting was a common method of cooking for Upper Canadians, and Scottish immigration, largely onset by the Highland Clearances, brought a wider emphasis on mutton.
+
+The Victorian era saw a greater swell of British immigration to Upper Canada, Lower Canada, and the Atlantic colonies; further, the urban and rural development that followed encouraged the spread of eating establishments, local cookbooks, and a busier ingredients market. By the mid-19th century, there was a tavern every couple odd miles along the major roads of Upper Canada; reportedly, there were 29 such establishments along the route between Halifax and Digby, Nova Scotia alone. The larger urban centres, such as Toronto, Kingston, and Coburg in Upper Canada, Montreal and Quebec City in Lower Canada, and Halifax in Nova Scotia, saw the opening of hotels that could better serve a burgeoning upper class of Victorian patrons. These hotels, broadly, provided beef steak, fried pork, buckwheat cakes, roast beef and pork, wild game and fowl, vegetables, pudding, and tea. Cookbooks published during this period include The Home Cookbook (1877) and The Galt Cook Book (1898). Traditions that developed out of the Victorian era in Canada include the Victorian cooking fireplace, which saw continued use in homes and restaurants even after the metal stove was introduced, and picnics, which often involved ham, fowl, meat pies, tarts, and cakes.
+In the territory of Rupert's Land, the development of communities throughout the 17th, 18th, and early 19th centuries, which centred around Hudson's Bay Company and North West Company trading posts, saw to the intermingling of European (largely Scottish and French) traders, clerks, guides, and canoers with the local Indigenous population. The resulting genesis of the Métis culture saw to the development of cuisine in the Canadian West which combined the culinary traditions of these previously separate groups.
+With the arrival of the Earl of Selkirk and his Scottish retinue (people largely displaced by the Highland Clearances), as well as the purchase of forty-five million acres of land in the Red River Valley, many Scottish culinary traditions were brought to the region. These foods included black bun, haggis, honey cakes, and rowies. Cooperation with the local Métis saw Scottish immigrants hunting buffalo and incorporating game into their meals.
+The completion of the Canadian Pacific Railway in the late 19th-century led to a significant influx of not just settlers of British origin, but of also a multitude of different backgrounds, notably Ukrainian, Polish, German, Scandinavian, Belgian, Dutch, Greek, Czech, Slovak, Chinese, American, Mennonite, and Jewish. It is in this way that the Canadian Prairies, or the future provinces of Alberta, Saskatchewan, and Manitoba, were a frontier of multicultural community-building in Canada, and the creation of a regional cuisine which absorbed influences from a variety of ethnic, national, and religious backgrounds.
+Icelandic immigration has a particular influence on the cuisine of Manitoba, which, besides Iceland itself, has a larger Icelandic population than anywhere else in the world. One example is vinarterta, a layer cake filled with prune jam and flavoured with cardamom, and a popular Christmas treat in Manitoba. Bakeries in the province often include other pastries brought over and adapted from Iceland, including kleinur (similar to doughnuts), laufabrauð (flatbread decorated with patterns), kransakaka (a type of cake with almonds), and ugbraud (a rye bread).
+Ontario's southwestern regions also have strong Dutch and Scandinavian influences.
+
+Central and East European
+In Canada's Prairie provinces, which saw significant immigration from Eastern and Northern Europe in the pre-WWI era, Ukrainian, German, and Polish cuisines are strong culinary influences. Such examples include perogi, kielbasa, and babka. Emigration from Russia to Western Canada in the late 19th and early 20th centuries also established a Doukhobor influence, noted in particular for its emphasis on vegetarian recipes on the cuisine of the British Columbia Interior and the Prairies.
+The Waterloo, Ontario, region and the southern portion of Manitoba have traditions of Mennonite and German cookery.
+Jewish immigrants to Canada during the late 1800s played a significant culinary role within Canada, chiefly renowned for Montreal-style bagels and Montreal-style smoked meat. A regional variation of both emerged within Winnipeg, Manitoba's Jewish community, which also derived Winnipeg-style cheesecake from New York City recipes. Winnipeg has given birth to numerous other unique dishes, such as the schmoo torte, smoked goldeye and "co-op style" rye bread and cream cheese.
+
+East Asian
+Chinese immigration to Canada, beginning predominantly in the 1850s, saw to the local modification of dishes imported from Qing China. Much of what are considered to be "Chinese dishes" in Canada are largely Canadian or North American inventions, with Chinese restaurants having tailored their traditional cuisine to local tastes, local ingredients, and a largely non-Chinese clientele. This "Canadian Chinese cuisine" is widespread across the country, with great variation from place to place. Examples of such variation are seen in unique regional dishes, including Calgary ginger beef, Montreal peanut-butter dumplings, Newfoundland chow mein, and Thunder Bay bon bons.
+The "Chinese buffet", although found in other parts of North America, traces its origins to early Gastown, Vancouver, c. 1870. This meal format developed from the practice of Chinese restaurateurs providing a steam table on a sideboard to serve Scandinavian lumberjacks working in local forests and mills.
+Japanese-Canadians have had a profound influence on the cuisines of British Columbia and Ontario. Distinct varieties of sushi, such as the B.C. roll and the California roll, originate from the Metro Vancouver region, while sushi pizza was invented in Toronto. Japadog street food in Vancouver is also a popular example of Canadian west coast fusion cuisine.
+
+South Asian
+Indian and South Asian culinary influences are a relatively recent addition to Canadian cuisine, having gained wider prominence in the country during the post-1960's era of immigration, despite earlier South Asian settlement in British Columbia dating back to the late 19th century. Indian food is particularly popular in Canada, deriving mostly from Northern Indian cuisine. It is characterized for its use of bread, curry, and use of yogurt and cream for meat-based dishes; it also draws inspiration from South Indian cuisine in its use of sour and spicy combinations.
+Unique Indo-Canadian food includes the East Indian roti wrap, which gained popularity in Toronto during the 1980s and 1990s; using North Indian/Pakistani bread and curries as stuffing, local chefs originally drew inspiration from the West Indian roti which had entered the city's food scene in the 1960s and 1970s after a wave of Caribbean immigration. Also known as butter chicken roti, the dish is served at many Indian restaurants and fast food locations across Southern Ontario.
+Other Canadian food unique to the South Asian community includes "Indian-style pizza" (also known as "Punjabi-style pizza" or "Desi-style pizza") which has gradually gained popularity since originating in Greater Vancouver during the 1980s. Indian-style pizza has since expanded outside of Greater Vancouver, across other urban centres in western and central Canada with large South Asian populations, including Calgary, Edmonton, Regina, Winnipeg, Ottawa, and Greater Toronto, later expanding to other regions. This type of pizza typically includes sauce with mixed spices and toppings such as cilantro, ginger, spinach, cauliflower, tandoori chicken, butter chicken, or paneer.
+
+Southeast Asian
+Contributions from Southeast Asia to Canadian cuisine includes a style of medium-thick crust pizza Margherita in Toronto. An example of fusion cuisine, the pizza is topped with garlic and basil oil topping, combining an Italian pizza with the Vietnamese tradition of using herbed oil toppings in food.
+
+Regional ingredients
+While numerous and varied ingredients are commonly found throughout Canada, each region, with its tradition of culinary development, utilizes locally derived ingredients, both wild and agricultural, which are used to define unique dishes. The table below is meant to provide particular examples of regional staples and their key local ingredient.
+
+ 
+
+Wild game of all sorts is still hunted and eaten by many Canadians, though not commonly in urban centres. Venison, from white-tailed deer, moose, elk (wapiti) or caribou, is eaten across the country and is considered quite important to many First Nations cultures. Seal meat is eaten, particularly in the Canadian North, the Maritimes, and Newfoundland and Labrador. Wild fowl like ducks and geese, grouse (commonly called partridge) and ptarmigan are also regularly hunted. Other animals like bear and beaver may be eaten by dedicated hunters or indigenous people, but are not generally consumed by much of the population.
+Seafood is a very common constituent of Canadian cuisine broadly, but particularly in British Columbia and the Atlantic provinces. West Coast salmon varieties include sockeye, coho, chinook (also known as king), chum (also known as dog salmon), and pink, while salmon used on the East Coast can be broadly defined as Atlantic salmon. Freshwater fish, such as the walleye (also known as pickerel) and lake whitefish are commercially fished in the Great Lakes and are popular in southern Ontario. Both wild-caught and farmed rainbow trout are consumed throughout Canada.
+Although the majority of Canada's fish yield is captured wild, about 28% of the country's yield came from aquaculture in 2018. British Columbia accounts for 49% of the country's total aquaculture production volume, while the Maritime provinces account for 46%. Canada is the world's fourth-largest producer of farmed salmon, and other species, such as trout, Arctic char, mussels, oysters, and clams are well established industries.
+Forage in Canadian cooking can include a variety of berries, mushrooms, Canada rice and herbs. Wild chanterelle, pine, morel, lobster, puffball, and other mushrooms are commonly consumed. Gooseberries, salmonberries, cranberries, strawberries, Saskatoon berries, cloudberries, soapberries, blackberries, blueberries, bilberries, currants, and huckleberries are gathered wild or grown.
+Alberta is renowned for its production of beef; in 2016, Alberta's cattle herd accounted for 41.6% of the national total. Alberta beef is thought to have a rich marbled flavour due to the province's nutritious grasslands and barley. Examples of local recipes that utilize Alberta beef include beef tartare, bistecca, roast beef, Sunday roast, short ribs, ginger-fried beef, and grilled steak. Canada ranks among the world's top 10 per capita consumers of beef.
+Saskatchewan is often referred to as the "breadbasket of Canada"; it accounts for nearly 50% of Canada's total crop yield and for two-fifths of the country's total field acreage. In 2016, canola and spring wheat were the two largest crops, Saskatoon berries accounted for over half of the "fruit, berry and nut area", and sweet corn was the largest field vegetable crop by area. Saskatchewan also produces most of the country's spice yield, particularly mustard, but also caraway and coriander.
+
+Canadian foods
+Main dishes, side dishes and appetizers
+Although there are considerable overlaps between Canadian culinary practices and those of the British Isles, France and the rest of North America, many dishes (or variations of imported dishes) are particular to, quintessential of, or available only in Canada.
+
+Breads
+Miscellaneous
+Pizza
+Seafood
+Soups and stews
+Pastries and desserts
+Many pastries and desserts originate from Canada. Over 2100 bakery product manufacturing establishments, and more than 1200 retail bakeries, operate in the country. Tim Hortons, a Canadian restaurant chain that specialized in baked goods, maintains the highest number of franchises in the country.
+
+Apple fritter—deep fried pastry rolled with apple and cinnamon, broken into pieces and then reformed into a single mass, then glazed with icing.
+Beaver tails—also known as elephant ears, moose antlers, dog ears, whale tails, or simply fried dough.
+Blueberry grunt—sweetened and stewed blueberries topped with a biscuit or dumpling.
+Brownie dominoes with wild blueberry cinnamon sauce—British Columbia regional delicacy; chocolate brownies topped with sauce made of wild B.C. blueberries and heated cinnamon.
+Butter tarts—said to be invented in Eastern Ontario around 1915. The main ingredients for the filling include butter, sugar and eggs, but raisins and pecans are often added for additional flavour.
+Canadian maple doughnut—similar to a Boston cream doughnut; a custard-filled, solid pastry with a maple icing.
+Cinnamon buns—Canadian variation of the cinnamon roll. One British Columbia variation includes apple and cranberry.
+Date square (also called "Date crumblies" or "Matrimonial cake")—date-filled desserts with an oatmeal crumb topping.
+Dutchie—a square, yeast-lifted doughnut containing raisins and coated with a sugary glaze.
+Girl Guide Cookies—chocolate and vanilla cream-filled cookies, as well as chocolate mint. Traditionally sold by the Girl Guides of Canada since 1927.
+Glazed maple shortbread cookies—typically served during Canada Day celebrations.
+Grands-pères—dough dumplings boiled in maple syrup.
+Jam busters—prairie jelly doughnuts
+Jam Jams—molasses cookie sandwiches filled with jam.
+Lassy Mogs—Newfoundland cookies made with molasses, spices, dried fruits, and toasted pecans.
+Maple leaf cream cookies—"sandwich cookie" containing maple-flavoured cream.
+Moosehunters—molasses cookies.
+Nanaimo bars—consists of three layers: a wafer, nut (walnuts, almonds, or pecans), and coconut crumb base; custard icing in the middle; and a layer of chocolate ganache on top. Most common in British Columbia, gaining its name sake from the Vancouver Island town of Nanaimo, BC.
+Nanaimo balls—a bite-sized variation of the British Columbian classic. Considered a Christmas treat.
+Passion flakes—pastry sandwich filled with raspberries or apple jam, and vanilla icing or whipped cream.
+Persians—somewhat like a cross between a large cinnamon bun and a doughnut, topped with strawberry icing; particular to Thunder Bay.
+Pets de sœurs—"nun farts", pastry dough wrapped around a brown sugar and butter filling.
+Pinecone gingerbread cookies—pinecone-shaped gingerbread cookies.
+Pouding chômeur—"poor man's pudding".
+Queen Elizabeth cake—a lightly sweet, moist, and low-fat date (fruit) cake, topped with a brown sugar, butter and coconut broiled topping.
+Schmoo torte—a torte with layered whipped cream, caramel, and nuts, commonly made using angel food or sponge cake.
+Sweet bannock—a piece of bannock sweetened with cinnamon and sugar, or made into bread pudding with berries.
+Tea biscuit—similar to the North American biscuit or scone; quickbread typically made with cheese and herbs.
+Timbits—fried dough balls, provided in a variety of flavours and toppings.
+
+Confection
+Candy apple—also known as "toffee apple".
+Figgy duff—pudding from Newfoundland containing molasses and raisins.
+Maple syrup—especially as tire d'érable sur la neige or "maple toffee" or "taffy". Often used as flavouring (such as in "maple leaf cream cookies", "grandpères", or "Canadian maple donuts").
+Maple taffy—a sugar candy made by pouring hot maple sap onto snow.
+Nougabricot—preserve consisting of apricots, almonds, and pistachios.
+Sucre à la crème—French-Canadian name for Scottish "tablets".
+Sxusem—whipped confection made from soapberries and other various fruits
+Tiger tail ice cream—orange flavoured ice cream with a black liquorice swirl.
+Blueberry grunt, a combination of stewed blueberries and sweet dumplings common in the Maritimes, especially Cape Breton
+Cape Breton pork pie, a small meatless tart containing dates and topped with maple icing.
+
+Pie
+Bakeapple pie—traditional pie from Newfoundland containing cloudberries.
+Bumbleberry pie—"bumbleberry" is a mixture of fruit, berries, and rhubarb.
+Flapper pie—also known as "wafer pie" in Winnipeg; a custard pie popular in Western Canada.
+Maple syrup pie—similar to chess pie, using maple syrup.
+Saskatoonberry pie—pie made from Saskatoon berries.
+Tarte au sucre ("sugar pie")—based on the French dessert.
+
+Cheese
+Dairy products became prominent among Central Canadian producers in the 1860s. Ontario's first cheese factory opened in 1863, and by the end of the decade, they had expanded to over two-hundred. The 1860s also saw to the start of a shift from wheat production to dairy and livestock in Quebec, which would become the dominant agricultural sector in the province by the early 20th century. Cream and cheese factory production would begin to increase exponentially in both Central and Eastern Canada by the 1880s.
+Canada is currently the 9th largest producer of cheese by tonnage, and is considered to be one of the major cheese-producing countries. Canadian cheese is mostly "firm", with cheddar and mozzarella being the most produced varieties in 2020. Among Canadians, specialty cheese (such as cream cheese, cottage cheese, and parmesan) is the most popular type, with cheddar being the second-most.
+
+Commercially prepared food, condiments and beverages
+Baby food
+Love Child Organics
+Pablum
+Pure Organic Baby Food
+Mother Hen
+Bread
+Brands (bakeries): Ben's, Bon Matin, Dempster's, POM, Stonemill, Villaggio
+Canadian white bread, simply referred to as "white bread" in Canada, is distinct from its international counterparts due to the high protein content of Canadian wheat, as required by the Canadian Grain Commission, which gives it a heartier consistency.
+Candy/sweets 
+Chocolate bars: Coffee Crisp, Mr. Big, Caramilk, Big Turk, Cherry Blossom, Crunchie, Crispy Crunch, Aero, Pal-o-mine, Oh Henry!, Eat-more Chocolate bar
+Chocolate candy: Bridge mixture, Smarties, Glosette pieces (peanut, raisin, or almonds)
+Toffee: Templeman's Toffees, Two Brothers Toffee, Canadian Mackintosh's Toffee
+Cereal 
+Anita's Organic Mill
+Daybreak Mill
+Fieldstone Organics
+Holy Crap
+MadeGood Foods
+Red River Cereal
+Shreddies
+Sunny Crunch
+Vector
+Coffee—Canada is the 10th-highest coffee consumer, per capita, in the world. 
+Brands: 49th Parallel Coffee Roasters, Kicking Horse, Nabob Coffee, Second Cup, Tim Hortons, Van Houtte, among numerous smaller brands.
+Canadian coffee—a blend of coffee, rye whisky, and maple syrup, often with whipped cream.
+Coffeehouses and doughnut shops
+Baker's Dozen Donuts
+Coffee Time
+Country Style
+Robin's Donuts
+Second Cup
+Tim Hortons
+Condiments
+Chow-chow
+Cretons
+Honey dill sauce
+Honey garlic sauce
+Maple butter
+Maple syrup
+Montreal steak seasoning
+Peanut butter—Marcellus Gilmore Edson was the first to invent the manufactured product in 1884
+Windsor Salt
+Fast food  
+A&W (Canada)
+Burger Baron
+Edo Japan
+Extreme Pita
+Harvey's
+Manchu Wok
+Mr. Sub
+Mucho Burrito
+Pita Pit
+Taco Time
+Thai Express
+Triple-O's
+Ice cream
+Chapman's
+Cows ice cream
+Dickie Dee
+Kawartha Dairy Company
+Laura Secord
+Neilson Dairy
+Swensen's
+Miscellaneous distributors and brands
+Agropur dairy brands, including Natrel
+Kraft Dinner (also a proprietary eponym)
+Lactalis Canada dairy brands, including Black Diamond and Cracker Barrel
+Maple Leaf Foods meat products
+Nature's Path organic food products, including breakfast cereal, granola, and oatmeal
+"No Name" food brand
+Overwaitea Food Group brands, including Western Family
+President's Choice food brand
+Saputo Inc. dairy brands, including Dairyland Canada
+Tim Hortons non-coffee products, such as "timbit" cereal, tea, soup, and granola bars
+Non-alcoholic drinks 
+Bagged milk
+Brio chinotto
+Canadian tea—various tea varieties grown and developed in the Chemainus River valley
+DavidsTea
+Ginger ale (Canada Dry and Sussex Golden)
+Iced Capp
+Labrador (or Hudson's Bay) tea
+London Fog
+Red Rose Tea
+Spruce beer—bière d'épinette, non-alcoholic soft drink from Quebec
+Pizzerias
+241 Pizza
+Boston Pizza
+Freshslice Pizza
+Gabriel Pizza
+Greco Pizza Restaurant
+King of Donair
+Mikes
+Mother's Pizza
+Panago
+Pizza 73
+Pizza Delight
+Pizza Nova
+Pizza Pizza
+Pizzaiolo
+Topper's Pizza
+Snacks 
+Dare Foods snack foods, such as Whippets and Wagon Wheels
+Hawkins Cheezies
+Hostess Potato Chips
+Ketchup, salt and vinegar, dill pickle, and "all dressed" flavoured potato chips
+Miss Vickie's kettle-cooked chips
+Nuts and Bolts aka Chex Mix
+Pizza Pops
+Ringolos and Humpty Dumpty Party Mix
+Vachon Bakery snack pastries, such as Jos Louis and May West cakes
+
+Alcohol
+Canada is considered one of the top whisky-producing countries, and is most renowned for rye whisky. Regulation states that Canadian whisky must age for a minimum of three years and be kept in oak barrels.  Canada houses about thirty whisky distilleries across the country, and produces 54.2 million liters. Canadian whisky is noted for its light and smooth style, and though most of it is blended, single-malt and 100% rye are some of the country's most desired. The Glenora Inn & Distillery is the only single-malt distillery in North America. 
+
+Canada's wine industry is over two-hundred years old and includes the wine regions of British Columbia, Ontario, Quebec, and Nova Scotia. Canada's first commercial vineyard, the Pelee Island Winery, was established in 1866. There are currently over eight-hundred licensed wineries in the country, with the most recognized wine-producing areas being southern Ontario (most notably the Niagara peninsula), and the Okanagan valley of British Columbia.
+
+Straight
+Acerum
+Alcohol Global 94%
+Canadian beer
+Brands (breweries): Alexander Keith's, Stanley Park Brewing, Kokanee beer, Labatt, Molson Canadian, Moosehead Breweries, Sleeman Breweries, among others.
+Cream Ale
+Ice beer
+Canadian whisky, commonly referred to as "rye".
+Alberta Premium
+Black Velvet
+Canadian Club
+Crown Royal
+Forty Creek
+Glen Breton
+Gooderham and Worts
+J.P. Wiser's Whisky
+Canadian wine
+Brands (wineries): Burrowing Owl Estate, Henry of Pelham Winery, Inniskillin, Mission Hill Family Estate, Quails' Gate Winery, among others.
+British Columbia wine
+Ice wine
+Granville Island Sake
+Ice cider
+Newfoundland Screech
+Yukon Jack—a Canadian liqueur made of whisky and honey
+
+Mixes
+Angry Canadian—a variety of the Old Fashioned, made with a combination of Canadian rye whiskey, bitters, club soda or water, and pure maple syrup
+The Caesar—originally called the Bloody Caesar, is a cocktail made from vodka, clamato juice (clam-tomato juice), Worcestershire sauce, and Tabasco sauce, in a salt-rimmed glass (table salt or celery salt), and garnished with a stalk of celery, or more adventurously with a spoonful of horseradish or a shot of beef bouillon.  The Caesar was invented in 1969 in Calgary, Alberta, by bartender Walter Chell, to mark the opening of a new restaurant, "Marco's".
+Canadian blueberry sour—a mix of rye whisky, blueberry liqueur, and maple syrup.
+Caribou—a mix of red wine, maple syrup, and Canadian whisky; consumed during winter festivals in Quebec
+Donald Sutherland—a combination of Canadian rye whiskey and drambuie, prepared with both ingredients poured into an ice-filled old-fashioned glass, then stirred
+Mahogany—a combination of Jägermeister, Benedictine, dry vermouth, and cinnamon tincture, prepared with a cocktail glass coated with the cinnamon tincture or cinnamon schnapps
+Maple liqueur—sold bottled as Sortilege, this drink combines Canadian whisky and maple syrup
+Moose Milk—a cream and spirit (usually rye whisky and dark rum) drink served and consumed at celebratory events of the Canadian Armed Forces
+The Queen Mary—beer mixed with grenadine, with maraschino cherries dropped into the glass as a garnish
+Raymond Massey—a mix of whisky, ginger syrup, and champagne. Named after the Toronto actor.
+Rye & Ginger—Canadian whisky and ginger ale
+The Toronto—a dry, rich, and mildly bitter cocktail consisting of Canadian whisky, Fernet-Branca, angostura bitters, and either sugar or simple syrup
+A Shaft—a mix of vodka, coffee liqueur, Irish cream, and chilled espresso, originating from Hugo's Bar at the Strathcona Hotel in Victoria, BC.
+
+Street food
+Street food in Canada varies by city and region, and is commonly shaped by local immigrant communities, municipal vending rules, and seasonal public events. In major cities, street-food offerings include food trucks, carts, market stalls, and festival vendors, with examples ranging from hot dogs, pizza slices, shawarma, falafel, tacos, burgers, and ice cream trucks to East Asian, South Asian, Filipino, Vietnamese, Middle Eastern, and fusion foods.
+Municipal regulation of street food also varies across the country. In Toronto, street vending rules regulate the sale of food, drink, and ice cream from motorized and non-motorized vending vehicles on city highways; operators of motorized or non-motorized refreshment vehicles require a business licence, while vendors operating on public property require a separate street-vending permit. In Calgary, a municipal business licence is required for mobile food services including food trucks, food trailers, bicycle food vendors, pushcarts, hot dog carts, and ice cream trucks; full-service food trucks may operate on both city streets and private property, subject to additional requirements. In Halifax, the municipal food-vending licence system includes food service vehicles, food stands, and bicycle wagons.
+Regional examples include Montreal food trucks offering shish taouk, the Montreal hot dog, and falafel; Vancouver street foods influenced by East Asian cuisines, including sushi, samosas, Vietnamese banh mi or pho, Filipino offerings, and Japanese and Chinese cuisines; and Victoria offerings such as vegan and vegetarian burgers, seafood take-away, and Mexican-influenced street food. In Western Canada, a version of the Ukrainian garlic-pork sausage referred to as "kubasa", a corruption of the Ukrainian sausage "kobasa", is widely available. The term "smokies" or "smokeys" may refer to kubasa rather than frankfurters.
+Fusion street foods include the Japadog, which tops a hot dog with Japanese ingredients such as wasabi, teriyaki, shredded daikon radish, or bonito flakes. Shawarma is common in Ottawa and Windsor, while Halifax offers its own version of the döner kebab, the donair, which features a sauce made from condensed milk, sugar, garlic, and vinegar. Winnipeg has had food truck vendors on Main Street, and Lebanese Canadian fast-food restaurants such as Boustan offer a version of poutine called shawarma poutine, which features shawarma meat on top.
+
+National food of Canada
+Though finding consensus among Canadians in determining a national food or dish can prove difficult, there are nonetheless several items broadly recognized as being representative of Canada's national cuisine. Foods typically considered national dishes of Canada include poutine and butter tarts. Canadian back or peameal bacon, as well as Atlantic or Pacific salmon, are also commonly thought of as representative of Canada.
+Published by the Statista Research Department, a June 2015 poll asked Canadians, "If Canada were to identify one of the following as official national food, which should it be?" The results revealed Canadian bacon to be the top choice, followed by poutine:
+
+Canadian bacon (35%)
+Poutine (30%)
+Atlantic or Pacific salmon (17%)
+Beavertail (8%)
+Tourtiere (6%)
+Doughnut (4%)
+CanCulture Magazine conducted a 2021 social media poll that sampled from fifty-five Canadians given ten choices. The poll revealed the following results:
+
+Poutine (38.9%)
+Maple syrup (25.9%)
+BeaverTails (9.3%)
+Peameal bacon and Timbits (7.4% each)
+According to an informal survey by The Globe and Mail conducted through Facebook from collected comments, users considered the following to be the Canadian national dish, with maple syrup likely above all the other foods if it were considered:
+
+Poutine (51%)
+Montreal-style bagels (14%)
+Salmon jerky (dried smoked salmon) (11%)
+Pierogi/Perogy (10%)
+Ketchup chips (7%)
+Nova Scotian donair (4%)
+California roll (1%)
+Canada's most "iconic" foods were named in a survey conducted by the Canadian Broadcasting Corporation, in the summer of 2012, as:
+
+Maple syrup
+Poutine
+Nanaimo bars, smoked salmon and butter tarts
+In 2020, Hayley Simpson identified the "best signature Canadian dishes" as poutine, Nanaimo bars, butter tarts, beavertails, tourtière, pea soup, Halifax donair, Saskatoon berry pie, and Montreal-style bagels. The following year, Reader's Digest published an article similarly listing "10 Must-Try Canadian Dishes" as poutine, Canadian bacon, caesar, beavertails, Canadian pizza, butter tarts, Nanaimo bars, split pea soup, tourtière, and "ketchup...on everything".
+
+Meal formats
+As in other countries, Canadian meals are commonly segmented accordingly to their suitability for the time of day.
+Breakfast takes place in the morning and typically consists of a variety of foods, such as toast, biscuits, muffins, scones, pancakes, bacon, bagels, cereals, fruit and eggs, among others. Breakfast condiments are very common and can often include an assortment of jam, cream cheese, peanut butter, marmalade, or Nutella. Typical drinks include water, juice, coffee, and tea. Breakfast traditionally occurs before work or school on weekdays, or otherwise soon after waking up in the morning. An archetypal French-Canadian meal may contain more starch-based material, while an English-Canadian meal might consist of more protein.
+
+Lumberjack's breakfast, also known as logger's breakfast or "the lumby"—a gargantuan breakfast of three-plus eggs, rations of ham, bacon and sausages, and several large pancakes.  This was invented by hotelier J. Houston c. 1870, at his Granville Hotel on Water Street in old pre-railway Gastown, Vancouver, in response to requests from his clientele for a better "feed" at the start of a long day of work.
+Coffee customarily refers to a small meal during a break from labour. This involves the consumption of a snack that, although it is the typical drink of choice (hence the name), may or may not include coffee. The Canada Labour Code requires employers to provide 30-minute breaks for every five consecutive hours of work.
+Lunch generally takes place around noon. Sandwiches, soups, fruit, nuts, cheese and a variety of snacks are common foods during this meal. Lunches are usually compact, utilitarian, and/or casual, particularly given that they are often eaten at work, school, or otherwise outside of the home.
+Dinner usually takes place from anywhere between 17:00 to 19:00, and tend to be heartier affairs based around protein and vegetables. Local flora and fauna are most fully realized during dinner; in the Maritimes, dinner may be more likely to include fish, while the Prairies might include more beef.
+
+Sunday dinner in Canada is commonly observed as a more formal affair than typical dinners, often involving family and/or guests, and a more thoroughly prepared meal. Roast beef is a common centerpiece, but particular specialties also vary by region, such as traditional Prairie pot roast and Newfoundland Jiggs dinner.
+
+Occasions
+Chinese buffet or smorgasbord is a particular meal system invented in Gastown, Vancouver and prevalent throughout the country. This style of buffet was developed in the 19th century by Chinese immigrants in order to cater to the local clientele of Scandinavian Canadian loggers. Staples of Chinese-Canadian cuisine, as well as North American Chinese cuisine broadly, such as ginger beef, chow mein, and dumplings, are commonly available.
+Christmas dinner in Canada draws from the traditions of both Britain and France. These dinners are typically meant to serve a larger group than is usual, with the pièce de résistance often being turkey, roast beef, and/or ham. Sides often include stuffing, mashed or roast potatoes, gravy, cranberry sauce, and cooked vegetables (such as carrots or yams). Pies and cakes are common desserts. Treats during the Christmas season typically include tarts, shortbread and gingerbread, bar, square, and "snowball" pastries, toffee, roll kuchen (particularly in the Prairies), crème brûlée, and biscotti. Easter weekend (April), Victoria Day weekend (May), and Canadian Thanksgiving (October) tend to share certain culinary customs with Christmas, albeit with different ingredients based on seasonality.
+Pancake breakfast is a traditional public meal, particularly in Western Canada, which takes place during festivals, celebrations, and community events. This tradition has roots in the Prairies' ranching culture, as well as the Christian tradition of Shrove Tuesday. Such events that take part in a pancake breakfast include the Calgary Stampede, Grey Cup festival, and K-Days.
+Potlatch is a gift-giving feast practiced by Indigenous peoples of the Pacific Northwest. Although the occasion as a whole incorporates complex political, social, and economic elements, feasting is still a central aspect of the practice.
+Réveillon is a long dinner held in the evenings preceding Christmas Day and New Year's Eve, and is a traditional practice for French-Canadians across the country. Meals tend to be particularly opulent, and may include lobster, oysters, escargot, foie gras, and tourtière. A traditional dessert for this occasion is Yule log.
+
+Food festivals
+Various food festivals take place annually across Canada and in accordance with seasonality, often in celebration of a local culinary tradition or industry. The list below is a selection of food festivals by region (giving their location and standard month(s) of occurrence), and is not exhaustive.
+British Columbia
+
+BC Seafood Festival (Comox Valley; June)
+Dine Out Vancouver Festival (Vancouver; January to February)
+Eat! Vancouver (Vancouver; May)
+Half Corked Marathon (Osoyoos; October)
+Sun Peaks Winter Okanagan Wine Festival (Sun Peaks; January)
+Surrey Fusion Festival (Surrey; July)
+Prairies
+
+Corn and Apple Festival (Morden; August)
+Folklorama (Winnipeg; July to August)
+Foodtruck Wars (Saskatoon; July)
+Festival du Voyageur (Winnipeg; February)
+Taste of Edmonton (Edmonton; July)
+Edmonton Heritage Festival (Edmonton; First Weekend of August)
+The Big Taste (Calgary; March)
+The Great Saskatchewan Mustard Festival (Regina; August)
+Ontario
+
+A Taste of Niagara-on-the-Lake (Niagara-on-the-Lake; January, March and April)
+Canada's Largest Ribfest (Burlington; August to September)
+Elmira Maple Syrup Festival (Elmira; April)
+Icewine Festival (Niagara-on-the-Lake; January)
+Oktoberfest (Kitchener–Waterloo; October)
+Ontario's Best Butter Tart Festival (Midland; June)
+Ottawa Poutine Fest (Ottawa; October to November)
+Summerlicious (Toronto; July)
+Taste of the Danforth (Toronto; August)
+WinterBrewed (Ottawa; February)
+Winterlicious (Toronto; January to February)
+Quebec
+
+Montréal en Lumière (Montreal; February)
+Festibière de Québec (Quebec City; August)
+Taste of the Caribbean (Montreal; July)
+Maritimes
+
+Dine Around Freddy (Fredericton; March)
+Prince Edward Island Fall Flavours Festival (Charlottetown; September)
+Shediac Lobster Festival (Shediac; June to July)
+The Gathering (Burlington, Newfoundland and Labrador; August)
+WinterDine (Charlottetown; January to February)
+North
+
+Yukon Culinary Festival (Whitehorse; August)
+
+Restaurants
+Livestock breeds and cultivars
+While an abundance of livestock breeds and crops originating from other countries are grown and raised in Canada, there is also a variety of unique breeds and cultivars that have been developed domestically. Below is a selection of various livestock breeds and cultivars that originate from Canada.
+Apples
+
+Due to an influx of grain from the Prairies into British Columbia during the late 19th century, via the advent of the Canadian rail network, the province's grain production became largely redundant. This allowed for the development of specialized produce industries, such as fruit in the Okanagan. As a result, many of Canada's unique apple varieties have been developed in the interior of British Columbia.
+
+Ambrosia
+Aurora Golden Gala
+Battleford
+Creston
+Golden Nugget
+Jubilee
+McIntosh
+Melba
+Nicola
+Nova Easygro
+Spartan
+Wijcik McIntosh
+Beans
+
+CDC Blackstrap
+CDC Floral
+CDC Ray
+CDC Sol
+CDC Sunburst
+CDC Whitetrack
+CDC WM-2
+CDC WM-3
+Majesty
+Wolfe
+Cattle
+
+Canadienne
+Hays Converter
+Lynch Lineback
+Speckle Park
+Cherries
+
+Lapins cherry
+Saskatoon Prairie cherry
+Skeena cherry
+Stella cherry
+Sweetheart cherry
+Van cherry
+Pigs
+
+Lacombe
+Miniature, or "Teacup"
+Potatoes
+
+There are over sixty potato varieties that originate from Canada. Many of these were developed by Agriculture and Agri-Food Canada, largely in New Brunswick, but also in Alberta, Newfoundland, Ontario, and Quebec. The following is a small sampling of Canadian potatoes:
+
+Abeille
+Blue Mac
+Carlton
+Eramosa
+Fundy
+Glenwood Red
+Island Sunshine
+Hunter
+Maple Gold
+Pacific Russet
+Red Gold
+Yukon Gold
+Poultry
+
+Chantecler
+Red Shaver
+Ridley Bronze turkey
+Sheep
+
+Canadian Arcott
+Newfoundland
+Outaouais Arcott
+Rideau Arcott
+Strawberries
+
+Annapolis
+Brunswick
+Cabot
+Cavendish
+Chambly
+Evangeline
+Glooscap
+Kent
+Mira
+R14
+Sable
+Saint Pierre
+Sapphire
+Serenity
+Totem
+Valley Sunset
+Wendy
+Yamaska
+Other berries
+
+Aurora haskap
+Boreal Beauty haskap
+Boreal Beast haskap
+Boreal Blizzard haskap
+Borealis haskap
+Tulameen raspberry
+Other breeds and cultivars
+
+Brookred plum
+Canada Red rhubarb
+Canola
+Coronation grape
+Harrow Crisp pear
+Harrow Sweet pear
+Jedediah Island goat
+Marquis wheat
+Montreal melon
+Red Fife wheat
+
+See also
+Agriculture in Canada
+Canadian Chinese cuisine
+Cuisine of Quebec
+Cuisine of the Maritime Provinces (Canada)
+Cuisine of Toronto
+List of Canadian cookbook writers
+North American cuisine
+Pacific Northwest cuisine
+Rocky Mountain cuisine
+
+Notes
+References
+Further reading
+Driver, Elizabeth (2008), Culinary landmarks: a bibliography of Canadian cookbooks, 1825–1949, University of Toronto Press, ISBN 978-0-8020-4790-8
+Duncan, Dorothy (2011), Canadians at Table: A Culinary History of Canada, Dundurn Toronto, ISBN 978-1-4597-0038-3
+
+External links
+
+CBC Digital Archives – My Canada Includes Tourtière
+Canadian Packaged Food Image Gallery
+
+## List of museums in Canada
+== By province and territory ==
+List of museums in Alberta
+List of museums in British Columbia
+List of museums in Manitoba
+List of museums in New Brunswick
+List of museums in Newfoundland and Labrador
+List of museums in the Northwest Territories
+List of museums in Nova Scotia
+List of museums in Ontario
+List of museums in Prince Edward Island
+List of museums in Quebec
+List of museums in Saskatchewan
+List of museums in Yukon
+
+See also
+Military and war museums in Canada
+National museums of Canada
+Canadian Museums Association
+Historiography of Canada
+Organization of Military Museums of Canada Inc.
+
+External links
+
+Virtual Museum of Canada

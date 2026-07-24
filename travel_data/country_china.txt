@@ -1,0 +1,1077 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for China
+FILE_NAME: country_china.txt
+PROCESSED_DATE: 2026-07-22 15:45:04
+----------------
+
+# China
+
+## General Overview
+China, officially the People's Republic of China (PRC), is a country in East Asia. It is the world's second-most populous country after India, with a population exceeding 1.4 billion (17% of the world's population), across an area of 9.6 million square kilometers (3,700,000 sq mi), making it the third-largest country by area. It is divided into 33 province-level divisions, including two special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area. Its geography features the vast Central Plain, major rivers such as the Yangtze and Yellow River, deserts, subtropical and temperate forests, plateaus, and mountain ranges such as the Himalayas.
+Humans first arrived in China during the Paleolithic. By the 2nd millennium BCE, dynastic states had emerged. The 1st millennium BCE saw political turmoil and cultural growth. In 221 BCE, China was unified under the Qin and the succeeding Han dynasty, ushering in two millennia of imperial rule across periods of unity and division. Its achievements include the Silk Road and the invention of gunpowder, paper, printing, and the compass. After increased Western political, economic, and philosophical influence, the 1911 Revolution overthrew the empire and established the Republic of China (ROC). The Warlord Era and Chinese Civil War followed, interrupted by the Second Sino-Japanese War. This ended in a Chinese victory in 1945. In 1949, the Chinese Communist Party (CCP) proclaimed the PRC and forced the ROC's retreat to Taiwan. Both sides claim political legitimacy. CCP attempts to advance communism faltered through famine and political turmoil. The reform and opening up that began in 1978 moved China towards a socialist market economy, spurring economic growth.
+The PRC is a unitary state with the CCP as its sole ruling party. It is one of the five permanent members of the UN Security Council and a member of many multilateral organizations. China is the world's largest manufacturer and has the second largest economy by nominal GDP. International organizations have criticized the PRC, alleging authoritarianism and human rights abuses. Possessing a large military and nuclear stockpile, China has been described as a superpower due to its influence in geopolitics, science and technology, manufacturing, economics and culture.
+Chinese art and culture has influenced much of Asia. Chinese characters are among the oldest writing systems on Earth, with a literary tradition dating back millennia to the Chinese classics. China is the birthplace of Confucianism and Daoism, which form the traditional three teachings of Chinese philosophy and folk religion alongside Buddhism. Chinese cuisine is diverse and highly regional, with rice as a staple in the south and wheat in the north. It has 60 World Heritage Sites, including the Great Wall and Grand Canal. The Han, mostly speakers of Sinitic languages, are China's dominant ethnicity, although it is home to 55 recognized minorities, including the Hui, Mongols, Tibetans, Uyghurs, and Zhuang.
+
+Etymology
+The word "China" has been used in English since the 16th century; however, it was not used by the Chinese themselves during this period. Its origin has been traced through Portuguese, Malay, and Persian back to the Sanskrit word Cīna (चिन), used in ancient India. Cīna was first used in early Hindu scripture from the 3rd century BCE to 4th century CE, including the Mahabharata and the Laws of Manu. In 1655, the missionary Martino Martini suggested that the word China is derived ultimately from the name of the Qin dynasty (221–206 BCE) or the prior state of Qin. This remains a common etymology, although Indian sources precedes the dynasty, though not the state. Another possible source is the ancient Guizhou polity of Yelang, known as ʐina in Loloish languages.
+The official name of the modern state is the "People's Republic of China" (中华人民共和国; Zhōnghuá Rénmín Gònghéguó). The shorter form of this name is 中国; Zhōngguó, from zhōng ('central' or 'middle') and guó ('state'), a term first used for the demesne of the Western Zhou dynasty. The names of ruling imperial dynasties were typically used to refer to the region and state. In the 1800s, Zhongguo was officially adopted as the name of the country by the Qing dynasty. China is sometimes referred to as mainland China or "the Mainland" when distinguishing it from the Republic of China on Taiwan or the PRC's Special Administrative Regions.
+
+History
+Prehistory
+Evidence of early humans such as Homo erectus in China dates to the Paleolithic, around 1.7 million years ago, with unconfirmed sites as old as 2 million years ago. Modern Homo sapiens are attested from around 50,000 years ago. Following the end of the Last Glacial Period, in about 8,000 BCE, pottery-making Neolithic cultures emerged. By the 6000s BCE, sedentary agricultural societies had spread across the lower Yellow River basin. These societies became increasingly complex, urbanized, and stratified, but many experienced a population collapse in the late 2000s BCE for unclear reasons.
+
+Ancient China
+After 2000 BCE, a Bronze Age culture emerged in the Central Plain, dubbed the Erlitou culture after its main site. Erlitou has been controversially identified with the Xia, the traditionally-accepted first dynasty, but no written records exist to confirm this. The Shang dynasty purportedly succeeded the Xia around 1600 BCE, with its early stages tentatively identified with an expansionist state known archaeologically as the Erligang culture. The historicity of the Late Shang is attested through divinational writings in the oracle bone script. These are the earliest known form of writing in China and the ancestor of modern Chinese characters.
+The Shang were overthrown by the Zhou c. 1046 BCE. The Zhou ruled over a vast and loose confederation of vassal states across central China gradually weakened by regional lords. Centralized authority finally collapsed in 771 BCE, giving way to constant regional warfare. During the Eastern Zhou, a multitude of small aristocratic Spring and Autumn period polities evolved into seven territorial Warring States over the following centuries. Literary and philosophical developments of this period include the emergence of various schools of thought, such as Confucianism, Daoism, Mohism, and Legalism, alongside Chinese classics like the Analects and the Tao Te Ching.
+
+Imperial China
+Classical period
+In the 220s BCE, Qin rapidly conquered the other warring states. In 221, its ruler Qin Shi Huang proclaimed himself the first emperor (皇帝; Huángdì) and founded the Qin dynasty. He led an autocratic Legalist state organized in a system of commanderies and counties. The dynasty lasted only fifteen years, falling soon after his death.
+Following widespread revolts, the Han dynasty emerged to rule China between 206 BCE and 220 CE. The Han gradually reinstated centralized control, legitimizing their rule through Confucian scholarship. Military expeditions against the Xiongnu, a confederation of nomadic steppe tribes frequently in conflict with the dynasty, expanded Han influence into parts of Central Asia and helped to establish the Silk Road, allowing for trade connections between China and western Eurasia. Contemporaneously, merchants established maritime trade routes linking China, Southeast Asia, and India.
+The Han faced widespread uprisings and the emergence of local warlords in the 100s CE. By 220, the empire was split into the Three Kingdoms. These were briefly united by the Jin dynasty in 280, which fell into civil war. Sinicized formerly nomadic peoples who had settled in Northern China, such as the Xiongnu, rebelled and founded new dynasties. These coalesced into the Northern and Southern dynasties in the 400s. During these conflicts, Buddhism was introduced to China via the Silk Road.
+
+Mid-imperial period
+After centuries of warfare, China was reunited under the Sui in 589, who constructed the Grand Canal to link Northern and Southern China. The Sui collapsed in the 610s, and were succeeded by the Tang. The Tang dynasty centralized the state and dispatched military expeditions to pacify the surrounding regions. It promoted Buddhism, but through expanding international trade built a heavily cosmopolitan society centered on its capital of Chang'an. It reformed the civil service examinations and oversaw a flourishing of art, poetry, architecture, and scholarship. The 755–763 An Lushan rebellion weakened the Tang, which gradually fragmented before collapsing completely in 907.
+
+The Song dynasty rose to power in 960. It faced military crises, unable to subdue its Sinicized non-Han neighbors, the Khitan-led Liao dynasty and the Tangut-led Western Xia. The consistent focus on defense allowed for a heavily centralized state and military, which made the first military application of gunpowder. The proliferation of printing technology allowed books to become widely available, while the elite class of scholar-officials grew increasingly powerful. Production, population, and trade expanded massively, alongside innovations such as industrial metallurgy and hydraulic machinery. The Song capital Kaifeng was overrun by the Jurchen-led Jin in 1127, forcing the Song to retreat to Southern China. During this period, the revivalist philosophical movement of Neo-Confucianism emerged.
+
+Late imperial period
+In 1206, Genghis Khan united the nomadic Mongols to the north under the Mongol Empire. Over the following fifty years, they conquered the Western Xia and the Jin, in addition to their other conquests as far west as Europe. The empire split into separate khanates. In 1271, the Mongol leader Kublai Khan established the Yuan dynasty and subjugated the Song by 1279. The Yuan maintained a Mongol elite culture, but Chinese culture remained largely unchanged.
+In the 1340s, central China was devastated by disease, famine, and mass floods along the Yellow River. Various rebellions erupted, leading to a peasant leader declaring himself the Hongwu Emperor of the Ming dynasty in 1368. The Ming built a new capital at Beijing, with the Forbidden City as its imperial palace, although the lower Yangtze remained the wealthiest region. Trade grew, and the European colonization of the Americas brought new crops and a massive influx of silver to China. The population doubled, and a growing publishing industry began producing works in vernacular Chinese, including the Four Classic Novels.
+The Ming state declined and by the 1600s became unable to contain peasant rebellions. The Manchu to the north declared the Qing dynasty in 1636 and conquered the Ming, killing their last claimant emperor in 1662 and conquering a Ming rump state on Taiwan in 1683. From the late 1600s to the end of the 1700s, the High Qing era saw economic growth and territorial expansion westward, including the conquest of Tibet and much of Central Asia.
+
+European powers fought various wars against the Qing dynasty during the 19th century. These began with the United Kingdom's First Opium War in 1839–1842, which resulted in the first of the "unequal treaties" imposed on the dynasty, which opened treaty ports, allowed Christian missionary activity, and loosened trade restrictions. China faced an economic crisis and internal unrest, and uprisings such as the 1850–1864 Taiping Rebellion resulted in the deaths of millions. Reformist factions of the Qing responded with the Self-Strengthening Movement, seeking to adopt western weapons and technologies, but this had limited impact for much of the empire.
+The Qing's defeat by the Empire of Japan in the First Sino-Japanese War (1894–1895) resulted in the loss of Taiwan and the growth of both reformist and revolutionary political movements. An imperial push for reform in 1898 was ended after an internal coup, while the anti-foreign Boxer Rebellion was defeated by a coalition of foreign powers in 1901. The late Qing dynasty again advanced reforms, but growing revolutionary and anti-Manchu sentiment culminated in the 1911 Revolution. A coalition of revolutionaries led by Sun Yat-sen overthrew the Qing and declared the Republic of China in 1912.
+
+Republic of China
+President Yuan Shikai crushed his main opposition, the Kuomintang, and ruled China as a dictator until his death in 1916, following an abortive attempt to restore the monarchy. During the succeeding Warlord Era, feuding regional warlords and governors took power across China, while Tibet and Mongolia declared independence. The nominal republican government had little control outside Beijing. During this period, New Culture intellectuals and students rebelled against traditional society. A crackdown on a student protest in 1919 led to the May Fourth Movement and further agitation by intellectuals for a cultural and political upheaval, with many embracing Western political ideas such as communism.In the mid-1920s, the Kuomintang allied with the nascent Chinese Communist Party (CCP) and launched the Northern Expedition to reunify China. In 1927, the Kuomintang violent purged the CCP and gained the allegiance of the northern warlords, establishing a new government at Nanjing. The CCP was driven into the countryside and repressed, before regrouping in the northwest.
+Japan occupied Manchuria in 1931, before launching an invasion of the rest of China in 1937. A renewed coalition between the CCP and Kuomintang fought Japan in what became a theater of World War II, as Japanese forces committed numerous war atrocities against the civilian population and occupied most of China's major cities.  After the surrender of Japan in 1945, China became a founding member of the United Nations and regained control over Manchuria and Taiwan. The civil war between the CCP and the Kuomintang resumed the following year.
+
+People's Republic of China
+After a string of military victories, CCP chairman Mao Zedong formally proclaimed the People's Republic of China (PRC) in 1949. The Republic of China government retreated to Taiwan and continued to claim legitimacy. The following year, the PRC began to occupy and annex Tibet. The PRC, a people's democratic dictatorship under CCP control, enacted many reforms: it restructured the economy under state control, promoted literacy and women's equality, expanded heavy industry, and promoted land collectivization through the Land Reform Movement, which saw state-tolerated violence against landlords by the peasantry and the death of upwards of a million people.
+
+In 1958, Mao launched the Great Leap Forward, a mass industrialization project which resulted in the Great Chinese Famine and around 30 million deaths. As the Cold War deepened, the PRC grew politically isolated from its former ally, the Soviet Union, as well as the Western Bloc. China detonated its first atomic bomb in 1964. Attempting to reassert control of the CCP after the Great Leap, Mao and his allies launched the Cultural Revolution in 1966, sparking a decade of political violence, crackdowns on perceived counterrevolutionaries, and social upheaval that lasted until Mao's death in 1976.
+Deng Xiaoping served as paramount leader from 1978 to 1989. The PRC's reform and opening up during the 1980s and 1990s saw economic liberalization towards a socialist market economy, rapid economic growth, friendlier relations with the West, and crackdowns on political dissent in events such as the 1989 Tiananmen Square massacre. China shifted away from an agricultural economy and rapidly urbanized, although this led to stark economic inequality between urban and rural areas, as well as environmental deterioration. Since the 1990s, market forces has become China's main economic driver. Paramount leader Xi Jinping, in power since 2012, has launched a far-reaching anti-corruption campaign and has overseen the centralization of political power and the expansion of Chinese economic influence through the Belt and Road Initiative.
+
+Geography
+China's geography is highly varied, featuring a dry and mountainous west, alongside both mountains and wide river valleys in the east. Chinese civilization was traditionally centered in the lowlands around its two largest rivers: the Yangtze and the Yellow River, both originating on the Tibetan Plateau. This temperate region is bordered by forest and steppe to the north, alongside the mountainous and subtropical south. China's shoreline spans the Bohai Sea, Yellow Sea, East China Sea, and South China Sea, all part of the Pacific Ocean. Besides Taiwan, its largest island is Hainan, while Zhoushan is the largest archipelago. Poyang Lake is the largest of the country's many freshwater lakes.
+Large mountain ranges in the west, including the Himalayas and Tian Shan, separate China from South and Central Asia. It features both the Turpan Depression, among the deepest points on land, and the high Tibetan Plateau. The world's highest point, Mount Everest (8,848 metres (29,029 ft)), lies on the border with Nepal. China has a wide variety of ore and mineral resources.
+Its climate is mainly dominated by dry seasons and wet monsoons, which lead to pronounced temperature differences between winter and summer. In the winter, northern winds coming from high-latitude areas are cold and dry; in summer, southern winds from coastal areas at lower latitudes are warm and moist. Its northwestern deserts receive as little as 50 mm (2.0 in) of rainfall annually, while much of southern China exceeds 1,000 mm (39 in). Much of eastern China is well-suited for agriculture, with two or three crops able to be harvested per year. The south is dominated by rice farming, while the north grows crops such as wheat and maize. In 2021, 12% of global permanent meadows and pastures belonged to China, as well as 8% of global cropland.
+
+Environment
+China is one of 17 megadiverse countries, containing a wide variety of forests, shrublands, wetlands, steppes, and deserts, which host (as of 2018) 92,300 known species of plants, animals, and fungi. According to government surveys, China's forest coverage grew from 10% of the overall territory in 1949 to 25% in 2024. The far north contains taiga, which to the south transitions into deciduous forest. South of the Yangtze, mixed conifer and deciduous forest is common, with tropical and subtropical forests farther south.
+In the 21st century, China has suffered from environmental deterioration and pollution due to rapid development, alongside the broader effects of climate change. About 11% of its plant species and 21% of its vertebrate species are threatened or endangered due to habitat loss, pollution, and poaching. "Flagship" endangered species such as the giant panda and tiger have received additional funding and protection.
+Although China ranks as the highest CO2 emitting country, it only emits 8 tons of CO2 per capita as of 2020, significantly lower than many developed countries. Total greenhouse gas emissions by China are the world's largest. The PRC has prioritized clamping down on pollution, announcing its aims to reach its peak emissions levels before 2030, and achieve carbon neutrality by 2060.
+China is the world's leading investor in renewable energy and its commercialization, investing CN¥3.6 trillion in 2022 alone. Traditionally reliant on non-renewable energy sources such as coal, China's adaptation of renewable energy has increased significantly in recent years. In 2025, 54.4% of China's electricity came from coal, while 42% came from clean energy sources. Despite its emphasis on renewables, China remains deeply connected to global oil markets.
+
+Political geography
+China is the second-largest country by land area after Russia, and the third- or fourth-largest by total area. Total area figures range from 9,572,900 km2 (3,696,100 sq mi) to 9,596,961 km2 (3,705,407 sq mi). China borders 14 nations, with a combined land border length of 22,117 km (13,743 mi). Its coastline spans approximately 14,500 km (9,000 mi).
+The PRC has engaged in 23 border disputes since 1949, of which six are unsettled. It actively disputes several portions of its Himalayan border with India, including the Aksai Chin in Kashmir and most of the Indian state of Arunachal Pradesh. It maintains maritime disputes with Japan over the Senkaku/Diaoyu Islands and with various countries over the South China Sea Islands, including the Spratly Islands and Paracel Islands.
+
+Politics
+The PRC is a unitary state under the absolute leadership of the Chinese Communist Party. Since the 1980s, the CCP has called its guiding theories and policies socialism with Chinese characteristics, which it considers an adapted form of Marxism–Leninism that emphasizes a market economy as the primary stage of socialism. The PRC describes itself as a socialist state, and a people's democratic dictatorship. Many academic sources describe it as an authoritarian state, although others dispute this label.
+The National People's Congress (NPC) holds the unified powers of the state and oversight over all state organs, with its NPC Standing Committee elected to meet between the annual NPC meetings. Its elections are indirect and the CCP controls nominations. The NPC ostensibly elects positions such as the president, vice president, military chairman, and chief justice, and approves the president's nomination for premier (the head of government). In practice, the CCP leadership chooses candidates for these posts. The premier heads the State Council, which includes 26 ministers, including the heads of ministries and commissions. The Chinese People's Political Consultative Conference is an advisory body that formally leads the CCP's united front system, which aims to gain support from non-CCP intellectuals, eight minor parties, and people's organizations.
+The governance of China is characterized by a high degree of political centralization but significant economic decentralization. Policy instruments or processes are often tested locally before being adapted and applied more widely. Surveys have generally shown that the Chinese public has a high level of satisfaction with the government. These views are generally attributed to the material comforts and security available to large segments of the Chinese as well as the government's responsiveness.
+
+Chinese Communist Party
+The CCP is the founding and sole ruling party of the PRC, organized to Leninist principles as a vanguard party. The party's highest body is its National Congress, which mainly consists of members elected by party membership and meets every five years. The National Congress elects the Central Committee, which convenes yearly as the highest party organ between congresses. The Central Committee ostensibly elects the party's top leadership, the Politburo, Politburo Standing Committee (PSC) and the general secretary. In practice, the committee typically approves a slate of candidates created by existing party leadership.
+The Politburo usually gathers once a month, while the smaller Politburo Standing Committee is thought to meet weekly. The general secretary holds ultimate power and authority over party and state and serves as the paramount leader of China. The current general secretary is Xi Jinping, who took office on 15 November 2012. The National Congress also elects the Central Commission for Discipline Inspection, the party's main disciplinary and anti-corruption organ.
+As the CCP and the government itself are closely intertwined, disputes within the party represent the main form of political contention in China. The CCP controls appointments in government bodies, with most senior government officials being CCP members. The appointment of CCP cadres and the leadership of major state-owned enterprises and institutions is managed by the party's Organization Department. The CCP maintains committees on a national and local scale, with about 5.1 million committees at the grassroots level.
+
+Administrative divisions
+The PRC is divided into 23 provinces, five autonomous regions (each with a designated minority group), four direct-administered municipalities, as well as the special administrative regions (SARs) of Hong Kong and Macau, which hold large amounts of political and economic autonomy. Provinces and autonomous regions are divided into prefectures and prefecture-level cities, which themselves are divided into counties and county-level cities. The PRC claims the ROC's territory, most of which is under the claimed Taiwan Province.
+
+Foreign relations
+China is one of five permanent members of the United Nations Security Council and the second largest contributor to the United Nations. China has the largest diplomatic network of any country: It has diplomatic relations with 179 United Nations member states and embassies in 174. China is a member of the G20, BRICS, East Asia Summit, APEC, and other intergovernmental organizations.
+China is widely described as a superpower due to its influence in geopolitics, technology, manufacturing, economics and culture. Although China moderated its relations with the West during the reform era, its rise in power has brought political tensions with many of its neighbors in Asia and with the United States, the current dominant superpower. Although China is among the United States' largest trade partners, their relationship is tempered by a trade war and strong disagreements over the political status of Taiwan. The PRC maintains the one China principle, recognizing itself as the only legitimate Chinese government and Taiwan as a part of China, which it officially regards as a de jure province.
+China's foreign policy is based on the Five Principles of Peaceful Coexistence, which include a principle of non-intervention in other countries' domestic affairs. Per its policy of non-alignment, China has no defense pacts except for its 1961 treaty with North Korea, although it maintains close relationships with neighboring countries such as Pakistan and Russia. The PRC has invested heavily in developing countries across Asia, Latin America, and Africa, creating a system of development banks and loans through the Belt and Road Initiative.
+
+Military
+The People's Liberation Army (PLA) is the main armed forces of China, under the direct control of the CCP. It consists of four services: the Ground Force, the Navy, the Air Force, and the Rocket Force, and four arms: the Aerospace Force, the Cyberspace Force, the Information Support Force, and the Joint Logistics Support Force. It has around 2 million active soldiers, alongside the world's third-largest stockpile of nuclear weapons, and the world's largest navy by ship count.
+The PLA is considered one of the world's most powerful militaries and has rapidly modernized in the recent decades. A 2026 study estimates that its 2025 expenditure was 2.27 trillion yuan (US$336 billion), 12% of global military spending and 1.7% of China's GDP. The PLA, the People's Armed Police and the Militia are commanded by the Central Military Commission (CMC). The chairman of the CMC, currently Xi Jinping, is the commander-in-chief of the PLA chairman responsibility system.
+
+Human rights
+Various human rights organizations, United Nations assessments, and foreign governments have accused China of severe human rights violations. It has been accused of political repression, torture, indefinite detention, restrictions on free speech and religious practice, excessive use of capital punishment, and the persecution of ethnic minorities.Although the PRC's 1982 constitution protects a wide variety of civil and political rights, these largely lack enforcement mechanisms. The petitioning system allows citizens to raise complaints of wrongdoing, although the concerns are often left unaddressed, and some petitioners have faced punitive arrest or incarceration. In the 21st century, the PRC has participated extensively with the United Nations Human Rights Council, but has remained strongly critical of international scrutiny of its human rights, seeing it as an interference in its internal affairs.
+In Xinjiang, China has restricted the civil rights of the Uyghurs, who face widespread discrimination. The Xi administration has launched police crackdowns, heavy surveillance programs, and restrictions on Islamic religious practice and the use of the Uyghur language.  It has interred one to two million Uyghurs in a network of internment camps in the late 2018s, which have evolved into a system of prisons and forced labor. The United States has accused the PRC of committing genocide in Xinjiang, while several UN OHCHR experts have described its compulsory labor system as possibly amounting to "enslavement as a crime against humanity".
+The PRC has heavily restricted the civil and political rights of Hong Kong residents. Since the 2019–2020 protests, the PRC has cracked down on the anti-establishment movement in the SAR and removed much of its political autonomy. The PRC has cracked down on political expression in Tibet and strengthened state surveillance, restricting residents from obtaining passports and most foreigners from entering the region.
+
+Economy
+The modern PRC is often described by analysts as an example of state capitalism or party-state capitalism, with both market forces and the state playing a major role in the economy. Various state organs manage the economy according to the State Council's five-year plans. The PRC describes its economic system as a "socialist market economy," in which the market plays a decisive role in resource allocation under the macro-control of a socialist state. The Chinese economy has expanded more than 20 times since 2000, achieving the second-largest economy by GDP (CN¥140 trillion in 2025) and the largest when adjusted for purchasing power parity. The PRC has brought more people out of extreme poverty than any other country in history, roughly 800 million.
+The private sector is the largest portion of the Chinese economy, while about 30–40% is under state ownership. Less than 10% of exports were by state-owned companies, while industries such as transportation, utilities, and financial services are generally under state ownership. Since the 1990s, the PRC has decentralized its economic planning, with about 85% of government spending delegated to the provincial or local level, with local governments adapting national economic plans to suit local interests. China is the world's leading manufacturing power, accounting for 30% of global manufacturing; it is the largest producer of steel, rare earths, ships, and automobiles, as well as the largest exporter of electronics. It has struggled to establish its currency, the renminbi (in units of yuan), as an international reserve currency; as of 2025, it is the seventh largest currency in foreign exchange reserves.
+About a third of China's workforce are domestic migrant workers, the floating population. The hukou ('household individual') system restricts citizens' access to services and utilities outside of their registered home, leading to pronounced inequalities between workers from urban and rural areas. Especially in larger cities, only those with local hukou may be able to buy property, though hukou restrictions have loosened significantly in the recent decades. The PRC has a high debt-to-GDP ratio (almost 300% in 2020), with household debt at about 65% of the GDP.
+
+Science and technology
+As the world's largest economy for much of its history, China has produced many inventions and scientific discoveries. It is credited with the invention of paper, printing, the compass, and gunpowder.  The PRC has pursued rapid technological development since the reform era. It has greatly advanced in the fields of artificial intelligence, robotics, and biotechnology, while the Xi administration has prioritized green technology and reducing Chinese dependence on foreign technology.  It has emphasized technocratic leadership in the 2020s, promoting experts in scientific fields to national leadership positions, while bringing major private technology firms such as Tencent and Alibaba under state regulation. Geopolitical tensions have led to Europe and the United States to restrict Chinese access to their technology.
+Since launching its first satellite in 1970, China has maintained an active space program. Behind the United States and the Soviet Union, it was the third country to independently launch an orbital satellite and in 2003 became the third to bring astronauts into orbit. The Chinese Lunar Exploration Program has sent multiple robotic landers to the moon, the Planetary Exploration of China program has sent a lander and rover to Mars, while its Tiangong space station has hosted crewed operations in Low Earth orbit since 2021.
+
+Infrastructure and transportation
+Since the 1990s, automobiles have supplanted trains as the primary form of transport in China. According to state data, the Chinese highway network exceed 6,000,000 kilometres (3,700,000 mi) by the end of 2021, having grown 30% over the past decade. In addition to local and provincial routes, this network includes the national highways, which are divided between the ordinary highways (of various classes) and the national expressway system. China has the largest highway and rail systems in the world by capacity, and the second-longest rail network at 165,000 km (102,526 mi). According to 2022 state data, over 95% of cities exceeding one million residents have access to high-speed rail. Out of the 50 busiest container ports, 18 are located in China, including the world's busiest, the Port of Shanghai.
+Chinese cities are disparate in their level of infrastructure. Tier-one cities such as Beijing and Shanghai have elaborate and advanced infrastructure networks, while smaller cities and rural areas often have outdated and underfunded transit and public utilities.
+
+The State Grid Corporation of China, the world's largest utility company, manages the electrical grid for most of the country, with the China Southern Power Grid as the electric utility in some southern provinces. Power generation is primarily managed by five state-owned corporations, alongside local and provincial utilities. Most of China's renewable energy comes from hydropower. The Three Gorges Dam is the world's largest power station by capacity.
+China has the largest number of internet users and websites of any country. According to state data, it has 1.125 billion internet users as of 2025, about 80% of its population. The PRC has an extensive system of internet censorship. The Great Firewall, a system of internet controls and regulations, blocks access to many foreign websites. It can be circumvented through virtual private networks, but these face occasional crackdowns. The Cyberspace Administration of China acts as the national internet regulator and censor. Most telecommunications are operated by three state-owned companies: China Telecom, China Mobile, and China Unicom.
+
+Demographics
+The 2020 Chinese census recorded the population as approximately 1,411,778,724. About 17.95% were 14 years old or younger, 63.35% were between 15 and 59, and 18.7% were over 60. Between 2010 and 2020, the average population growth rate was 0.53%. Since 2022, deaths have outpaced births. China has among the lowest total fertility rates (births per woman) in the world, around 1.0 as of 2025.
+The National Bureau of Statistics estimated that the population fell 850,000 from 2021 to 2022, the first decline since 1961. In 2025, China recorded 7.92 million births, the lowest recorded birthrate since at least 1949. China's population is concentrated in the eastern half of the country; although 64% of China's territory is west of the Heihe–Tengchong Line, as of 2020 only 6.5% of its population lives west of the line.
+Spurred by fears of overpopulation, China maintained a one-child policy from 1979 to 2015, restricting most families to a single child. The policy was most strictly enforced in urban areas, while families from ethnic minorities and rural communities were often exempt from one-child limits. A two-child policy was introduced in 2015, and in July 2021, family size limits as well as penalties for exceeding them were removed. The policy resulted in a skewed sex ratio, as many families preferred to have sons.
+China maintains a restrictive immigration policy, with permanent residence granted to only around 12,000 foreigners as of 2023, while an additional 845,697 foreign nationals lived in mainland China as of the 2020 census.
+
+Cities and urbanization
+China has urbanized significantly in recent decades. The percent of the country's population living in urban areas increased from 20% in 1980 to over 68% in 2025, according to Chinese government figures, while the United Nations calculates an urbanization rate of 83.7%. Cities in China often include smaller towns and rural areas under their jurisdiction. Shanghai is its most populous urban area. Two urban agglomerations, the Pearl River Delta and Yangtze Delta, contain many of the largest cities and tens of millions of people.
+The figures in the table below are from the 2020 census, and are only estimates of the urban populations within administrative city limits; a different ranking exists for total municipal populations. The large floating population of migrant workers make conducting censuses in urban areas difficult.
+
+Languages and ethnic groups
+The PRC legally recognizes 56 distinct ethnic groups. The largest of these are the Han Chinese, who constitute more than 91% of the total population. The minority groups are generally found in the western and border regions of China. Social and wealth inequalities exist between many minority groups and the Han, especially in the rural southwestern areas.
+Most Han are speakers of Mandarin Chinese, of which Standard Chinese is a standardized form and the official language of the PRC. Around 300 million people speak other Chinese languages (often described as dialects in Chinese sources). While also written with Chinese characters, these are not highly mutually intelligible with Mandarin or each other. The primary branches of Chinese are Mandarin, Wu, Yue (Cantonese), Min, Gan, Hakka, and Xiang; the latter six are mainly spoken in Southern China. Since the 1950s, local dialects have steadily assimilated into Mandarin or one of the main regional registers. Simplified Chinese characters, first standardized in the 1950s, are used to write Chinese throughout mainland China, while traditional Chinese characters remain in use in the SARs and Taiwan. Hanyu Pinyin is the official romanization system for Chinese in the PRC.
+Other language families are found throughout China. Distantly related to Chinese, Tibeto-Burman languages are found in the west and southwest. In southwestern China, many Hmong–Mien and Kra–Dai languages are spoken by minority groups. Offshoots of the Austroasiatic and Austronesian language families are also found in the south in smaller numbers. In the northwest, Turkic (including Uyghur) and Mongolic languages are found, as well as two Indo-European languages (Russian and Tajik). Several endangered Tungusic languages are found in northwestern and northeastern China.
+
+Religion
+The Chinese religious tradition is heavily syncretic, incorporating various folk religious practices alongside Confucianism, Taoism, and Buddhism. These 'three teachings' were the three main institutionalized schools of Chinese religion. These exist alongside introduced minority religions such as Christianity and Islam, as well as various new religious movements. Statistics on affiliation are difficult to gather due to complex and varying definitions of religion and the diffusive nature of local traditions. Many people follow religious teachings and practices without considering themselves adherents. Local deities are commonly worshiped along widely-known gods, including figures such as Guan Yu and Mazu.
+Confucianism is a philosophical and spiritual tradition that originated in the Eastern Zhou, emphasizing the study of the classics and the relations of the individual, society, and heaven. Following Western influences, it has sometimes been identified as a religion. Daoism emphasizes the Dao ('way') as the world's origin and fundamental force, and seeks to harness it through spiritual cultivation. Initially a philosophical movement during the Eastern Zhou, the religious tradition of Daoism emerged during the 2nd century CE. Mahayana Buddhism was introduced to China during the Han dynasty and spread rapidly over the following centuries. Although it was often dismissed by the Confucian literati, Buddhism greatly influenced other Chinese religious and philosophical traditions.
+Although the PRC and CCP are legally atheist, freedom of religion is formally guaranteed by the Chinese constitution. The PRC officially recognizes five religions: Buddhism, Taoism, Islam, Catholicism, and Protestantism. Formal religious practice is managed by "patriotic associations" for each of the recognized faiths overseen by the CCP's United Front Work Department. However, the majority of religious activities take place outside of these registered organizations. The PRC has attempted to crack down on some forms of unregistered religious practice, such as Protestant house churches. Religious practices among minority groups, such as Islam among the Uyghur and Tibetan Buddhism, have come under close state scrutiny and regulation over fears of separatism.
+
+Education
+Following an optional two to three years of preschool, China has nine years of free compulsory education, generally with six years of elementary school and three years of junior high school. If they pass entrance examinations, students may then attend a senior high school, choosing between an academic or vocational track. The gaokao exams allow access to undergraduate higher education, with additional examinations required to attend postgraduate programs and achieve a master's or doctoral degree. As of 2022, 95% of junior high students continue to high school, while higher education has a 59.6% enrollment rate.
+As of 2022, China had 158 million students enrolled in compulsory school, and 46.5 million enrolled in higher education. There are over 200,000 elementary and junior high schools, over 22,000 secondary schools, and over 3,000 colleges and universities. Both private and public schools exist at all levels, with 10.6% of elementary and junior high students attending private schools. Its academic publication apparatus became the world's largest publisher of scientific papers in 2016.
+
+Health
+The vast majority of primary health care institutions in China offer both allopathic and traditional Chinese medicine (TCM). In 2017, there were approximately 9,000 community health centers in urban areas—which oversaw roughly 25,000 health stations—and 37,000 township health centers in rural areas. There were about 639,000 village clinics, which operate as independent, for-profit enterprises subsidized by the state.
+The National Health Commission, together with its counterparts in the local commissions, oversees the health needs of the population. After the beginning of the reform and opening up in 1978, the health of the Chinese public improved rapidly because of better nutrition, although many of the free public health services provided in the countryside disappeared. Healthcare in China became mostly privatized, and experienced a significant rise in quality. China is a major producer and exporter of active pharmaceutical ingredients.
+According to 2025 state data, the life expectancy at birth exceeds 79 years, and the infant mortality rate is 4 per 1,000. Rates of stunted growth declined from 33.1% in 1990 to 4.5% in 2024. Chinese mental health services are inadequate. Following the 2003 SARS outbreak, the World Health Organization found the biosafety standards at Beijing's National Institute of Virology to be inadequate. The COVID-19 pandemic was first identified in Wuhan.
+
+Culture
+Beginning in the Qin and Han dynasties and continuing over the following millennia, an area of Chinese cultural influence grew to encompass much of East Asia. Japan, Korea, and Vietnam adopted various political, philosophical, religious, and aesthetic concepts from China, boosted by their adoption of Chinese characters and participation within the tributary system. China has 60 World Heritage Sites, the second-most of any country (behind Italy). Chinese culture has historically emphasized family connections, with filial piety and the veneration of ancestors seen as vital duties under Confucian ethics. Prior to the 20th century, family relations were highly patriarchal, and arranged marriages were commonplace.
+Prior to the adoption of the Gregorian calendar in 1912, China traditionally used a lunisolar calendar of 12 months. The 60-part sexagenary cycle was often used to enumerate days as well as years, alongside the twelve-year Chinese zodiac. Major holidays and festivals in China include the Chinese New Year (or Spring Festival), the Qingming Festival, the Mid-Autumn Festival, and National Day.
+
+Art
+Elite culture of the imperial period saw skill in art as a marker of refinement and high social status.  Renowned art pieces often bear inscriptions and seals from their previous owners, allowing for the tracing of provenance over long periods of time. Traditional Chinese art makes use of a wide array of common motifs, metaphors, and symbols, often using nature as allegory.
+Chinese paintings are traditionally made with ink brushes on paper or silk. Horizontal handscrolls and vertical hanging scrolls are common formats, alongside wall paintings, folding screens and hand fans. Calligraphy, emerging during the 3rd and 4th centuries CE, was traditionally regarded in China as the most prestigious form of art, and remains among the most widely practiced. Western genres and techniques of painting gained popularity in China during the early 20th century, while the People's Republic promoted art as a means to embody socialist ideals during the Mao era. The 21st century has seen a boom in the production and international influence of Chinese contemporary art.
+Pottery and metal crafts in China date to ancient times. Porcelain, also known as china, became a common form of ceramic during the 7th century. By the 14th century, it became popular to decorate porcelain vessels with elaborate blue and white patterns, which became the most popular and widely recognized form of Chinese ceramics. Jade crafts and lacquerware have been popular decorative mediums since ancient times.
+
+Architecture
+Wood is the most commonly used material in traditional Chinese architecture. Buildings are often built around complex wooden frames with three layers. Usually made of ceramic tiles, the roofs of important buildings are often ornate and hipped, with additional sets of eaves below the main roof. Traditional buildings are often arranged around cardinal directions, with grandeur expressed through large complexes of buildings rather than through height. Courtyards, enclosed by walls and covered corridors on three or four sides, are ubiquitous. Gates to these building complexes can be freestanding or attached to walls, and bear symbolic significance in both secular and religious contexts. The spiritual concept of feng shui influences the layout and geometry of houses and settlements, seeking to orient constructions around the flow of qi, vital energy, across landscapes.
+Pagodas, multi-story towers far taller than other forms of traditional architecture, are religious structures introduced to China alongside Buddhism. As early pagodas were often made from brick or stone, many of China's oldest surviving buildings are pagodas. Western-style architecture was introduced during the 19th century, but was generally restricted to buildings built or used by Europeans. Chinese students began to study architecture in the west during the early 20th century, and began to incorporate traditional architectural principles alongside modern styles and techniques. After Soviet-inspired construction during the Mao era, the reform era has seen a boom in the construction of modern skyscrapers and office buildings, largely supplanting traditional architecture with various forms of contemporary architecture.
+
+Performing arts
+The music of China is highly diverse and regional. Traditional Chinese music uses a wide variety of instruments, including the dizi (a flute), erhu (a bowed string instrument), guqin (a plucked string instrument), guzheng (a plucked zither), pipa (a lute), sheng (a mouth organ), suona (a wind instrument), and various types of bells and drums. Western-style music and conservatories spread during the early 20th centuries, leading to the Chinese orchestra to develop as a fusion of Western orchestral music with Chinese instruments. Western classical music remains highly prestigious. Inspired by Western Jazz and boosted by the introduction of recording studios, Mandarin pop music emerged in Shanghai in the 1920s, while the folk rock-inspired Cantopop became popular around Hong Kong during the 1970s. After reform and opening up, various forms of pop and rock music reached widespread popularity across mainland China.
+Chinese opera emerged from shuochang, folk traditions of narrative singing. By the Yuan dynasty, separate forms of opera existed in the north and south. Influenced by various regional traditions and kunqu, a genre popular during the Ming dynasty, Peking opera reached national popularity during the Qing dynasty, while various local and regional forms of opera emerged across the country. During the Mao era, the PRC promoted revolutionary opera and communist-oriented folk music.
+
+Cuisine
+Chinese meals generally incorporate a grain (fan) alongside meat or vegetable-based dishes (cai). Flour—as steamed buns, dumplings, pancakes, or noodles—is the primary grain in the north, alongside maize, millet, rice, and in some regions, sorghum. Rice—steamed or in the form of congee, rice noodles or rice cakes—dominates in the south. Although Chinese cuisine is highly diverse and regional, pork, chicken, fish, and duck tend to be the most common meats. Soybeans are a common staple across China, made into products such as tofu and soy sauce. Stir frying in woks is the most common cooking method, alongside deep-frying, steaming, and hot pot, where dishes are cooked in simmering broth at the table.
+People in China generally eat three meals a day, often with a simple breakfast and a more elaborate dinner. Chopsticks are the main eating utensil. Dishes are usually served to be shared among multiple people, rather than served in individual portions. Hot tea almost always accompanies meals across the country, in lieu of water. Alcoholic drinks such as rice wines and the distilled liquor baijiu are commonly served with meals. Chinese cuisine was traditionally divided into four great traditions: Lu (Shandong), Yang (Jiangsu), Chuan (Sichuan), and Yue (Guangdong). Fujian cuisine is sometimes listed in lieu of Yang. Chinese Buddhists have developed a unique cuisine that avoids meat, while Chinese Islamic cuisine excludes pork and alcohol.
+
+Fashion
+Various forms of robe served as the main form of clothing for both men and women throughout Chinese history, changing and adapting over the centuries. New dynasties often sought to reform formal clothing, with the Qing enforcing fashions based off traditional Manchu clothes. Silk, hemp, and later cotton were the main textiles used in traditional clothing. Both men and women generally bound their hair with caps or pins, except during periods where foreign hairstyles were enforced by the ruling elite. Although hairstyles changed greatly, only groups outside conventional society, such as monks, criminals, and foreigners deviated from the norm.
+Chinese fashions changed greatly during the 20th century. Traditional designs largely gave way to western clothing during the Republican era and the early years of the People's Republic. Qipao became a popular form of women's dress during the early 20th century, but are today rare outside of formal occasions. While simple, practical clothing which avoided bright colors was the norm during the Mao era, the reform era saw the emergence of a fashion industry and increasing similarities between Chinese and contemporary western fashions. In the 21st century, the Hanfu movement has sought to promote a reconstructed form of traditional Chinese clothing.
+
+Literature
+China has among the longest continuous literary traditions in the world. The Late Shang-era oracle bone inscriptions are the oldest known Chinese writing, while the oldest surviving literary works—such as the Book of Documents—date to the early Zhou. The Chinese literary canon was historically centered of the Five Classics (a diverse set of ancient transmitted texts) and the Four Books (central Confucian texts). The traditional literati regarded literature as didactic in purpose, with fiction seen as useless and potentially corruptive. However, poetry was viewed highly for its ability to convey the nature of reality. The poetry of the Tang era was particularly prized by later dynasties.
+Classical Chinese was the standard literary register until the early 20th century, when it was overtaken by written vernacular Chinese. Before this, fiction was generally written in vernacular Chinese, and literary works were generally written in Classical Chinese. Popular vernacular literature spread with the introduction of printing, resulting in works such as the Four Classic Novels of the Ming and Qing periods.
+Modern Chinese literature has been heavily influenced by the political upheavals of the 19th and 20th centuries, seeking to explain the contemporary political climate or imagine its future. New Culture writers promoted the importance of fiction and vernacular Chinese experimented with new modernist forms, while writers of the Reform era sought to explain the trauma of the Mao era and Cultural Revolution.
+
+Media
+China's largest media company is China Central Television, which competes with various provincial television networks. China is the largest online video market, with its major streaming platforms including iQIYI, Youku, and Sohu. As of 2025, Chinese film industry is the second largest by global box office earnings (behind the United States), although 98% of these earnings are from domestic consumers. The PRC limits the number of foreign films which can be shown domestically. According to state sources, China has over 90,000 movie screens as of 2025, the most of any country.
+As of 2023, China has over 2,600 radio stations, all state-owned, and over 1,900 newspapers. Cities generally have a newspaper published by the local government, and another by the local CCP branch. Journalism is tightly controlled and monitored by the CCP, with content critical of the government prohibited. Foreign Chinese-language news outlets are blocked, while English-language outlets are occasionally available but often censored. Prominent newspapers in China include the CCP's People's Daily and the state-run Global Times, China Daily, and Reference News.
+
+Sport and games
+Traditional sports such as martial arts and dragon boat racing have been practiced in China for over a millennium. The ball game cuju predates the Qin dynasty and remained popular for millennia, declining during the late Qing dynasty. Chuiwan (similar to modern golf) and polo were popular sports among elites throughout portions of the imperial period, while commoners played various regional ball games. Modern sporting was introduced to China from the West during the late 19th and early 20th centuries. China first attended the Olympic Games in 1932. The PRC began to invest heavily in elite sports during the 1990s, and in 2008 Beijing hosted the Summer Olympics. Elite sports in China are managed by the General Administration of Sport, which oversees management centers for various sports, as well as provincial sports committees and teams. The vast majority of sports funding, especially for elite sports, comes from the government. China hosted the Winter Olympics in 2022, and the Asian Games in 1990, 2010, and 2022.
+Various card, dice, and board games gained popularity in imperial China, most notably weiqi (also known as Go) and xiangqi (a relative of chess). Mahjong emerged during the 1800s, initially one of many popular gambling games. China is the world's largest video game market. Video games were introduced from Japan in the 1980s, and online video games grew to immense popularity alongside the spread of the internet.
+
+See also
+Outline of China
+Bibliography of Chinese history
+
+Notes
+References
+Sources
+External links
+Government
+The Central People's Government of People's Republic of China
+
+General information
+Country profile – China at BBC News
+China, People's Republic of (archived 2012) from UCB Libraries GovPubs
+
+Maps
+ Wikimedia Atlas of the People's Republic of China
+ Geographic data related to China at OpenStreetMap
+
+## Tourism in China
+Tourism in China is a growing industry that is becoming a significant part of the Chinese economy. The rate of tourism has expanded over the last few decades since the beginning of reform and opening up. The emergence of a newly rich middle class and an easing of restrictions on movement by the Chinese authorities are both fueling this travel boom. China has become one of world's largest outbound tourist markets. According to Euromonitor International, economic growth and higher incomes in nearby Asian countries will help China to become the world's number one tourist destination by 2030.
+China ranked second in the world for travel and tourism's contribution to GDP in 2022 ($814.1 billion), and first in the world for travel and tourism's contribution to employment (66,086,000 jobs in 2014). Tourism, based on direct, indirect, and induced impact, accounted for 9.3 percent of China's GDP in 2013. In 2017, the total contributions of China's travel and tourism sector made up 11% of its GDP. In 2018, the domestic tourism sector contributed around US$1.47 trillion to the nation's GDP.
+Since 2012, tourists from China have been the world's top spender in international tourism, leading global outbound travel. In 2016, the country accounted for 21% of the world's international tourism spending, or $261 billion. (The statistics include journeys made to the special administrative regions of Hong Kong and Macau, as well as Taiwan; in 2017, these accounted for 69.5m of the so-called "overseas" journeys.) As of 2018, only 7% of Chinese had a passport, so the "potential for further growth is staggering", according to a UK news report.
+A 2026 report from Chinese state media noted a significant rise in inbound tourism, with ticket bookings during the New Year holiday increasing by 110% year-on-year and reservations for experiential leisure activities growing more and thirtyfold, reflecting increasing international interest in cultural and immersive travel experiences in China.
+
+History
+Until the late imperial period, tourism for the primary purpose of leisure or sightseeing was generally limited to pilgrimages and the literati. 
+The first Chinese-operated travel agency in China was founded by banker Chen Guangfu in 1923. Tourism began emerging as part of bourgeois lifestyle and was a nascent industry during China's nationalist era.
+After the People's Republic of China was founded in 1949, tourism was not a contributing sector of the company's economy due to the PRC's political system and the political and economic blocks imposed on China by Western countries. China's tourism bureau was a government agency which handled tourism matters viewed as important to China's foreign relations. The state-owned tourism company China International Travel Service (CITS) was established in 1954. "International" in this context referred to diplomacy. The PRC's earliest tourists came from the Soviet Union and other socialist countries. 
+In 1958, the Secretary-General of the State Council was placed in charge of CITS and its branches were transferred to local   governments.
+Organized around diplomatic and political purposes, tourism in China provided tours such as the production study tour (shengchan guanmo tuan) or the industry and commerce study tour (gongshang kaocha tuan). Premier Zhou Enlai stated that the purpose of tourism was "to xuanchuan ourselves, understand others, wield influence, and gain sympathy". Through CITS and the Overseas Chinese Travel Service, China provided travel service to overseas Chinese visiting China and foreign tourists who might spread a positive image of China to their home countries.
+In addition to its significance in diplomacy and promoting socialist ideology abroad, tourism was significant during the Mao Zedong era as a way for China to earn foreign currency.
+
+In 1964, the Standing Committee of the National People's Congress approved the creation of the China Travel and Tourism Enterprise Administration (CTEA), which later became the China National Tourism Administration.
+In the early phases of the Cultural Revolution, international tourism came to a halt. In this period, Red Guards denounced China Travel Service and CITS for their foreign connections. The issue of tourism became less contentious again in 1970. 
+At the 1971 National Tourism Work Conference, tourism was deemed an important part of China's foreign affairs work. Between 1971 and 1978, the number of foreigners admitted through CTEA increased by a factor of 20, and its earnings of foreign currency increased by a factor of nearly 120.
+
+In 1977, the National Tourism Planning forum stated that the mission of tourism was to earn foreign currency to fund the Four Modernizations. Beginning in 1978 and 1979, Deng Xiaoping promoted the development of tourism for purposes of economic development. As tourism became an important means of obtaining foreign currency for the government, China emphasized its exotic qualities to international tourists. By 1980, China's tourism business had grown further. The expansion of domestic and international airline traffic and other tourist transportation facilities made travel more convenient. Over 250 cities and countries had been opened to foreign visitors by the mid-1980s. Travellers needed only valid visas or residence permits to visit 100 locations; the remaining locales required travel permits from public security departments. In 1985 approximately 1.4 million foreigners visited China, and nearly US$1.3 billion was earned from tourism.
+In the 1990s, a trend towards heritage tourism resulted in an increase of tourist visits to small towns across the country.
+In 2015, China was the fourth most visited country in the world, after France, United States, and Spain, with 56.9 million international tourists per year. In 2017, tourism contributed about CNY 8.77 trillion (US$1.45 trillion), 11.04% of the GDP, and contributed direct and indirect employment of up to 28.25 million people. There were 139.48 million inbound trips and five billion domestic trips.
+In 2018, the Chinese hotel industry had a pipeline of 2,500 new hotel projects.
+In 2018, China formed the Ministry of Culture and Tourism by merging the prior Ministry of Culture and the China National Tourism Administration.
+
+Statistics
+China has become a major tourist destination following its reform and opening up to the world in the late 1970s instigated by Deng Xiaoping. In 1978, China received about 230,000 international foreign tourists, mostly because of the severe limitations that the government placed on who was allowed to visit the country and who was not.
+Data from 2016 showed that the majority of foreign visitors hailed from Asian countries, with South Korea being the top source country for China inbound tourism. Among the number of tourist arrivals, 81.06 million are from Hong Kong, 23.5 million from Macau and 5.73 million coming from Taiwan. The number of foreigners visiting China in the same year was 28.15 million.
+In the same year, overnight visitors increased 4.2% over the same period of 2015 to 59.27 million (of which over 60% came from Hong Kong, Macau and Taiwan).
+
+Visitor statistics
+Most visitors arriving in mainland China were from the following areas of residence or countries of nationality:
+
+Foreign and Hong Kong/Macau arrivals in Beijing
+Language
+Some form of Chinese is virtually universal in China, with Mandarin as the standard form and many other varieties also in use; some, like Cantonese and Shanghainese, have tens of millions of speakers.
+According to research completed by The Daily Telegraph in 2017, less than 1 percent of people (some 10 million) in China speak English conversationally.
+
+Domestic tourism
+Red tourism first developed in comparatively small villages around the mid-1990s. A significant rise in red tourism occurred in the late 1990s, prompted by the development of tourism as a significantly profitable economic sector and celebrations and commemorations related to the Communist Party's past becoming settled into tradition. The government promotes red tourism, which in its view strengthens revolutionary traditions, enhances patriotism, and promotes a unique national spirit.
+Industrial heritage tourism includes former Third Front factories which have been re-developed as museums, hotels, and leisure complexes.
+A form of agritourism called nongjia le (with the literal meaning, "joy of farmers' families") has been popular among urban Chinese people. This form of tourism is based on farm households where urban people can go for rustic farm fresh food and country-style lodging. It has provided a significant source of additional income for farming households.
+There is significant domestic tourism to Macau which benefits from being the only place in China where gambling is legal. Retail in Macau's tourist areas is generally targeted towards tourists from elsewhere in China. Because Macau benefits from favorable taxation rules, it is a favored location for Chinese tourists to purchase luxury goods like cosmetics, jewelry, and designer fashion goods.
+
+Qingming Festival
+During the 2025 Qingming Festival holiday, China saw 126 million domestic trips, a 6.3% increase from the previous year. Tourism revenue reached 57.55 billion yuan (approximately 8 billion USD), up 6.7% year-on-year. The holiday, traditionally focused on tomb sweeping and ancestor worship, also saw a rise in demand for rural getaways and outdoor activities, with self-drive trips, cycling, and hiking being particularly popular.
+
+Tourist Attraction Rating Categories
+Tourist Attraction Rating Categories (Chinese: 旅游景区质量等级) is a rating system used by the Chinese authorities to determine the quality of the attraction relative to its peers in terms of safety, sanitation and transportation. It is divided into five categories which are A (or 1A, the lowest level), AA (2A), AAA (3A), AAAA (4A) and AAAAA (5A, the highest level).
+The categories are awarded based on, amongst other factors, the importance of the site, transportation, tours as well as issues related to safety and sanitation. The system was established in 1999 and extended in 2004 (when the category AAAAA was introduced). The ratings are administered by the China National Tourism Administration (CNTA) and are based on the code "Categories and Rating Standard of Tourist Attractions".
+
+Cities
+Notable ancient capitals
+Xi'an, Shaanxi
+Nanjing, Jiangsu
+Luoyang, Henan
+Xuchang, Henan
+Hangzhou, Zhejiang
+Zhengzhou, Henan
+Anyang, Henan
+Kaifeng, Henan
+
+Renowned historic cities and old towns
+Kuling town, Jiangxi
+Chongqing
+Guangzhou, Guangdong
+Chengde, Hebei
+Zhengding, Hebei
+Jingziguan, Henan
+Wuhan, Hubei
+Fenghuang, Hunan
+Huai'an, Jiangsu
+Luzhi, Jiangsu
+Suzhou, Jiangsu
+Tongli, Jiangsu
+Yangzhou, Jiangsu
+Zhenjiang, Jiangsu
+Zhouzhuang, Jiangsu
+Shenyang, Liaoning
+Hancheng, Shaanxi
+Jinan, Shandong
+Qufu, Shandong
+Shanghai & Zhujiajiao
+Pingyao, Shanxi
+Chengdu, Sichuan
+Huanglongxi, Sichuan
+Lizhuang, Sichuan
+Tianjin
+Dali, Yunnan
+Jianshui, Yunnan
+Lijiang, Yunnan
+Nanxun, Zhejiang
+Wuzhen, Zhejiang
+Xitang, Zhejiang
+Dunhuang, Gansu
+
+Famous sites
+Mount Lu, Jiujiang, Jiangxi, also called Mount Lu National Park
+Changbai Mountains, an important nature reserve home to the rare Siberian tiger
+Grand Canal of China
+Great Wall of China
+Silk Road, abandoned cities along this famous ancient trading route
+Huangshan, Anhui
+Mount Jiuhua, Anhui
+Mount Tianzhu, Anhui
+Forbidden City, Beijing, once the center of the 'Chinese imperial universe' and off-limits to the masses - now open to all
+Summer Palace, Beijing
+Temple of Heaven, Beijing
+Dazu Rock Carvings, Chongqing
+Three Gorges, Chongqing and Hubei
+Gulangyu Island, Fujian
+Mogao Caves, Dunhuang, Gansu these 1,000-year-old man-made caves on the old Silk Road contain some of China's most impressive Buddhist heritage
+Kuling town, Jiujiang, located on top of Mount Lu, a former summer resort for European settlers in southern China
+Li River, Guangxi, where boat trips are taken to see the contorted peaks that have been immortalized in Chinese scroll paintings
+Caohai Lake, Guizhou, where many experience being punted along this shallow lake to see many of China's varied birdlife
+Harbin International Ice and Snow Sculpture Festival, Harbin, Heilongjiang, where extravagant and bizarre sculptures can be seen from life-size ice castles with rainbow lighting to fantastical snowy tableaux
+Yabuli Ski Resort, Heilongjiang, the country's largest ski resort where many Chinese take their skiing holiday
+Longmen Grottoes, a parade of Buddhist figurines and reliefs, near Luoyang, Henan
+Wudang Mountains, Hubei
+Old Yalu Bridge, Dandong, Liaoning, a half-demolished bridge to North Korea remains an important relic of the Korean War.
+Terracotta Army, Xi'an, Shaanxi, the former ancient capital, these 2,200-year-old life-size soldiers guard the tomb of China's first emperor.
+Confucius Mansion, Qufu, Shandong, home to nearly eighty generations of the great sage's clan
+Mount Tai (or Tai Shan), Shandong, a holy peak home to immaculate temples and pavilions
+The Bund, Shanghai, an elegant parade along the Huangpu River of colonial architecture juxtaposed with Shanghai's skyscrapers
+The Hanging Temple at Mount Heng, Shanxi is a temple clinging to a precipice and a series of grottoes containing a panoply of Buddhist statuary
+Yungang Grottoes, near Datong, Shanxi, a renowned Buddhist site
+Jiuzhaigou Valley, Sichuan
+Leshan Giant Buddha, Sichuan, the world's largest carved Buddha
+Mount Emei, Sichuan
+Mount Qingcheng, Sichuan
+Potala Palace, Lhasa, Tibet originally built by King Songtsän Gampo in 637 to greet his bride Princess Wencheng of the Tang dynasty
+Xishuangbanna Dai Autonomous Prefecture, Yunnan, home to one of China's most unique minorities - the Dai people
+West Lake, Hangzhou, Zhejiang
+
+Tourist resources
+Tourist resources in China can be divided into three main groups: natural sites, historical and cultural sites, and folk customs. China has 55 World Heritage Sites, the second largest in the world after Italy, which has 58.
+
+Natural sites
+China's mountains, lakes, valleys, caves and waterfalls include:
+Mount Tai (Tai Shan) in the east, Mount Hengshan in the south, Mount Hua in the west, Mount Hengshan in the north, and Mount Song in the center of China have been called the Five Sacred Mountains since antiquity. The Taishan massif, which snakes through central Shandong, is admired by Chinese as paramount among them. Another mountain celebrated for its beauty is Huangshan in southern Anhui, known for its graceful pines, unusual rocks, cloud seas and hot springs.
+Jiuzhaigou, Huangguoshu Waterfall, and Guilin are all located in southwestern China. Jiuzhaigou in northern Sichuan is a beautiful "fairyland valley" running over 40 km through snow-covered mountains, lakes, waterfalls, and forest. The Huangguoshu Waterfalls in Guizhou are a group of waterfalls, 18 above-ground and four below, which can be heard from five km away. The Li River in Guangxi Zhuang Autonomous Region winds its way through karst peaks for 82 km between Guilin and Yangshuo.
+On the plateau in Northern China are many lakes. The Tianchi (Heavenly Pool) in the Tianshan Mountains in Xinjiang Autonomous Region is 1,980 meters above sea level. This 105-m-deep lake is crystal clear, the high mountains surrounding it carpeted with green grass and colorful flowers.
+Along the renowned Three Gorges of the Yangtze River are many scenic spots and historical sites; the Qutang Gorge is rugged and majestic, the Wu Gorge elegant, deep and secluded, the Xiling Gorge full of shoals and reefs and rolling water. The Lesser Three Gorges are lush with greenery, flanking water so clear you can see to the bottom. The Three Gorges Dam built here is China's biggest key hydro-power project.
+
+Historical and cultural sites
+China's long history has left many cultural relics and the title of "China Top Tourist City" has gone to the first group of 54 cities. The Great Wall, a symbol of the Chinese nation, is also a prime example of historical sites that have become major tourist attractions. As the greatest defense-structure project in the history of human civilization, it dates back more than 2,000 years ago to the Spring and Autumn and the Warring States periods - huge in its scale and grandeur. There are more than ten sections of the Great Wall open to tourists, including the passes, blockhouses and beacon towers at Badaling in Beijing, Laolongtou in Hebei and Jiayuguan Pass in Gansu.
+Grottoes filled with precious murals and sculptures are concentrated along the ancient Silk Road in Gansu. The best known are the Mogao Caves, a "treasure house of oriental art", with 492 caves with murals and statues on the cliff faces. There are 45,000 sq m of murals and over 2,100 colorful statues, all of high artistry. In the south, grotto art is represented in Sichuan by the Leshan Giant Buddha, carved into a cliff face. Seventy-one meters high and 28 meters wide, it is the largest sitting Buddha in stone, showing the carving skill of ancient craftsmen.
+The Shaolin Temple in Henan, the birthplace of Chinese Zen Buddhism and famous for its Shaolin Kung Fu martial arts, dates back to 495 AD. Here can be seen the Ming period Five-Hundred-Arhats Mural and Qing period Shaolin kungfu paintings. In Hubei, the beautiful Wudang Mountain, with 72 peaks covering an area of 30 km2 (12 sq mi), form a sacred site of Taoism, which preserves one of China's most complete and largest-scale ancient Taoist architecture. In western Sichuan, Mount Emei, dotted with ancient Buddhist temples and structures, is one of China's four sacred Buddhist mountains｡
+South of the Yangtze River, Suzhou and Hangzhou, long known as "paradise on earth", are crisscrossed with rivers, lakes, bridges, fields and villages, as beautiful as paintings. Today's well-preserved ancient cities includes that of Pingyao in central Shanxi, but was also the site of the Neolithic era Yangshao and Longshan cultures, 5,000 to 6,000 years ago. Ancient Lijiang in Yunnan is not only the center of Dongba culture of the Nakhi ethnic group but also a meeting place for the cultures of Han, Tibetan and Bai ethnicities. Built in the Song dynasty, this city has many stone bridges, stone memorial arches and dwelling houses, which provide precious materials for architectural history and can be called a "living museum of ancient dwelling houses."
+
+Folk customs
+"March Street" celebrated by the Bai people in Dali, Yunnan, is associated with the Buddhist Goddess of Mercy suppressing a devil to help the Bai people. It became traditional to burn incense and offer sacrifices to commemorate her virtues every year and the festival has become a major annual gathering for Bai commercial, cultural and sports activities.
+The Water-Sprinkling Festival of the Dai ethnic group in Xishuangbanna, Yunnan, is a lively occasion taking place in the spring. People chase and pour water (a symbol of good luck and happiness) over each other, among other activities such as dragon boat racing and peacock dance.
+Lugu Lake between Sichuan and Yunnan has become a tourist destination following the building of a new highway giving access to this area. The matriarchal society of the 30,000 local Mosuo people is noted for its "no marriage" traditions and is called the last women's kingdom on the earth. Mosuo women, local dugout canoes and undulating singing style are considered unique to Lugu Lake.
+
+Tourist themes
+The China National Tourism Administration promotes a tourist theme every year; 1992 was "Friendly Sightseeing Year." Then came "Landscape Tour", "Tour of Cultural Relics and Historical Sites", "Folk Customs Tour", "Holiday Tour", and "Ecological Environment Tour." From 2000 to 2004, the themes were "Century Year", "Sports and Health of China", "Folk Arts of China", and "Culinary Kingdom of China", and "Catch the Lifestyle."
+The themes for 2005 were "China Travel Year" and "Beijing 2008 -- Welcome to China." In order to strengthen exchange and cooperation with the international tourism industry, the China National Travel Administration is planning a series of related events, including the Shanghai-hosted "2005 International Tourism Fair of China", the Beijing-hosted 2005 annual meeting of the Federation of Travel Agencies of France, and "the 2005 China-Australia Tourism Symposium."
+Since 2013, all regions in China have had tourism publicity events under the "Beautiful China" umbrella, but with a different theme for each area. The year 2018 was declared as "Beautiful China – Year of Integrated Tourism" while 2017 was declared as "Beautiful China – Year of Silk Road Tourism".
+
+Tourist services
+The fast development of China's transportation infrastructure provides wide-ranging travel for domestic and overseas tourists. Throughout China many hotels and restaurants have been constructed, renovated or expanded to satisfy all levels of requirement, including many with five or six-star ratings.
+China has regulated international travel agencies. On June 12, 2003, the China National Tourism Administration and the Ministry of Commerce jointly issued Interim Regulations on the Establishment of Foreign-funded or Wholly Foreign-owned Travel Agencies.
+The Chinese online tourism market, including for outbound tourism, is concentrated in major online service providers including Ctrip, Feizhu, Mafengwo, and Dazhongdianping.
+
+See also
+Tourism in Hong Kong
+Visa policy of China
+
+Notes and references
+This article incorporates text from this source, which is in the public domain. Country Studies. Federal Research Division.
+
+External links
+ Tourism in China travel guide from Wikivoyage
+ Media related to Tourism in China at Wikimedia Commons
+Ministry of Culture and Tourism of the People's Republic of China Archived 2018-07-30 at the Wayback Machine
+
+## Culture of China
+Chinese culture (simplified Chinese: 中华文化; traditional Chinese: 中華文化; pinyin: Zhōnghuá wénhuà) is one of the world's earliest cultures, said to originate five thousand years ago. The culture prevails across a large geographical region in East Asia called the Sinosphere as a whole and is extremely diverse, with customs and traditions varying greatly between regions. The terms 'China' and the geographical landmass of 'China' have shifted across the centuries, before the name 'China' became commonplace. Chinese civilization is historically considered a dominant culture of East Asia. Chinese culture exerted profound influence on the philosophy, customs, politics, and traditions of Asia. Chinese characters, ceramics, architecture, music, dance, literature, martial arts, cuisine, arts, philosophy, etiquette, religion, politics, and history have had global influence, while its traditions and festivals are celebrated, instilled, and practiced by people around the world.
+
+Identity
+As early as the Zhou dynasty, the Chinese government divided Chinese people into four classes: gentry, farmer, craftsman, and merchant. Gentry and farmers constituted the two major classes, while merchant and craftsmen were collected into the two minor. Theoretically, except for the position of the Emperor, nothing was hereditary.
+China's majority ethnic group, the Han Chinese, are an East Asian ethnic group and nation. They constitute approximately 92% of the population of China, 95% of Taiwan (Han Taiwanese), 76% of Singapore, 23% of Malaysia, and about 17% of the global population, making them the world's largest ethnic group, numbering over 1.3 billion people.
+In modern China, there are 56 officially labelled ethnic groups. Throughout Chinese history, many non-Han foreigners like the Indo-Iranians became Han Chinese through assimilation, other groups retained their distinct ethnic identities, or faded away. At the same time, the Han Chinese majority has maintained distinct linguistic and regional cultural traditions throughout the ages. The term Zhonghua minzu (simplified Chinese: 中华民族; traditional Chinese: 中華民族) has been used to describe the notion of Chinese nationalism in general. Much of the traditional identity within the community has to do with distinguishing the family name.
+
+The characteristics of Chinese culture
+China is one of the world's four "cradles of ancient civilization" and has maintained unique continuity. The Chinese people, remarks one scholar, in the spirit of "continuous self-renewal," "self-discipline and social commitment," "inclusiveness to diversity," and "realism and adaptation to changes," created cultural traditions of abundant content, sophisticated structure, and various forms.
+
+Regional
+During the 361 years of civil war after the Han dynasty (202 BC – 220 AD), there was a partial restoration of feudalism when wealthy and powerful families emerged with large amounts of land and huge numbers of semi-serfs. They dominated important civilian and military positions of the government, making the positions available to members of their own families and clans. The Tang dynasty extended the imperial examination system as an attempt to eradicate this feudalism. Traditional Chinese culture covers large geographical territories, where each region is usually divided into distinct sub-cultures. Each region is often represented by three ancestral items. For example, Guangdong is represented by chenpi, aged ginger and hay. The ancient city of Lin'an (Hangzhou), is represented by tea leaf, bamboo shoot trunk, and hickory nut. Such distinctions give rise to the old Chinese proverb: "十里不同風, 百里不同俗/十里不同風": "praxis vary within ten li, customs vary within a hundred li". The 31 provincial-level divisions of the People's Republic of China are grouped by its former administrative areas from 1949 to 1980, and are now known as traditional regions.
+
+Social structure
+Since the Three Sovereigns and Five Emperors period, some form of Chinese monarch has been the main ruler above all. Different periods of history have different names for the various positions within society. Conceptually each imperial or feudal period is similar, with the government and military officials ranking high in the hierarchy, and the rest of the population under regular Chinese law. From the late Zhou dynasty (1046–256 BCE) onwards, traditional Chinese society was organized into a hierarchic system of socio-economic classes known as the four occupations.
+However, this system did not cover all social groups and the distinctions between the groups became blurred after the commercialization of Chinese culture in the Song dynasty (960–1279 CE). Ancient Chinese education also has a long history; ever since the Sui dynasty (581–618 CE), educated candidates prepared for the imperial examinations and exam graduates were drafted into government as scholar-bureaucrats. This led to the creation of a meritocracy, although success was available only to males who could afford test preparation. Imperial examinations required applicants to write essays and demonstrate mastery of the Confucian classics. Those who passed the highest level of the exam became elite scholar-officials known as jinshi, a highly esteemed socio-economic position. A major mythological structure developed around the topic of the mythology of the imperial exams. Trades and crafts were usually taught by a shifu. The female historian Ban Zhao wrote the Lessons for Women in the Han dynasty and outlined the four virtues women must abide by, while scholars such as Zhu Xi and Cheng Yi would expand on this. Chinese marriage and Taoist sexual practices are some of the rituals and customs found in society.
+With the rise of European economic and military power beginning in the mid-19th century, non-Chinese systems of social and political organization gained adherents in China. Some of these would-be reformers totally rejected China's cultural legacy, while others sought to combine the strengths of Chinese and European cultures. In essence, the history of 20th-century China is one of experimentation with new systems of social, political, and economic organization that would allow for the reintegration of the nation in the wake of dynastic collapse.
+
+Spiritual values
+Most spiritual practices are derived from Chinese Buddhism, Taoism and Confucianism. The relative influence of each school of practice is a subject of debate and other practices, such as Neo-Confucianism, Buddhism and others, have been introduced. Reincarnation and other rebirth concepts are a reminder of the connection between real-life and the after-life. In Chinese business culture, the concept of guanxi, indicating the primacy of relations over rules, has been well documented. While many deities are part of the tradition, some of the most recognized holy figures include Guan Yin, the Jade Emperor and Buddha.
+Chinese Buddhism has shaped some Chinese art, literature and philosophy. The translation of a large body of foreign Buddhist scriptures into Chinese and the inclusion of these translations, together with works composed in China, into a printed canon had far-reaching implications for the dissemination of Buddhism throughout China. Chinese Buddhism is also marked by the interaction between Indian religions, Chinese folk religion, and Taoism.
+
+Religion
+During the Xia and Shang dynasties, Chinese religion was oriented to worshipping the supreme god Shang Di, with the king and diviners acting as priests and using oracle bones. The Zhou dynasty oriented religion to worshipping the broader concept of heaven. A large part of Chinese culture is based in the belief in a spiritual world. Countless methods of divination have helped answer questions, even serving as an alternative to medicine. Folklores have helped fill the gap between things that cannot be explained. There is often a blurred line between myth, religion and unexplained phenomenon. Many of the stories have since evolved into traditional Chinese holidays. Other concepts have extended beyond mythology into spiritual symbols such as Door god and the Imperial guardian lions. Along with the belief in the divine beings, there is belief in evil beings. Practices such as Taoist exorcism fighting mogwai and jiangshi with peachwood swords are just some of the concepts passed down from generations. A few Chinese fortune telling rituals are still in use today after thousands of years of refinement.
+Taoism, a religious or philosophical tradition of Chinese origin, emphasizes living in harmony with the Tao (道, literally "Way", also romanized as Dao). The Tao is a fundamental idea in most Chinese philosophical schools; in Taoism, however, it denotes the principle that is the source, pattern and substance of everything that exists. Taoism differs from Confucianism by not emphasizing rigid rituals and social order. Taoist ethics vary depending on the particular school, but in general tend to emphasize wu wei (effortless action), "naturalness", simplicity, spontaneity, and the Three Treasures: 慈 "compassion", 儉/俭 "frugality", and 谦 "humility". The roots of Taoism can be traced back to at least the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists), and was deeply influenced by one of China's oldest texts, the Yijing, which expounds a philosophical system of human behavior in accordance with the alternating cycles of nature. The "Legalist" Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei. The Tao Te Ching, a compact book containing teachings attributed to Laozi (Chinese: 老子; pinyin: Lǎozǐ; Wade–Giles: Lao Tzu), is widely considered the keystone work of the Taoist tradition, together with the later writings of Zhuangzi.
+
+Philosophy and legalism
+Confucianism, also known as Ruism, was the official philosophy throughout most of Imperial China's history, and mastery of Confucian texts was the primary criterion for entry into the imperial bureaucracy. A number of more authoritarian strains of thought have also been influential, such as Legalism.There was often conflict between the philosophies, e.g. the Song dynasty Neo-Confucians believed Legalism departed from the original spirit of Confucianism. Examinations and a culture of merit remain greatly valued in China today. In recent years, a number of New Confucians (not to be confused with Neo-Confucianism) have advocated that democratic ideals and human rights are quite compatible with traditional Confucian "Asian values".
+Confucianism is described as tradition, a philosophy, a religion, a humanistic or rationalistic religion, a way of governing, or simply a way of life. Confucianism developed from what was later called the Hundred Schools of Thought from the teachings of the Chinese philosopher Confucius (551–479 BCE), who considered himself a retransmitter of the values of the Zhou dynasty golden age of several centuries before. In the Han dynasty (206 BCE – 220 CE), Confucian approaches edged out the "proto-Taoist" Huang-Lao, as the official ideology, while the emperors mixed both with the realist techniques of Legalism.
+
+Hundred Schools of Thought
+The Hundred Schools of Thought were philosophies and schools that flourished from the 6th century to 221 BC, during the Spring and Autumn period and the Warring States period of ancient China. While this period was  fraught with chaos and bloody battles, it was an era of great cultural and intellectual expansion in China.  It came to be known as the Golden Age of Chinese philosophy because a broad range of thoughts and ideas were developed and could be freely discussed. This phenomenon has been called the Contention of a Hundred Schools of Thought (百家爭鳴/百家争鸣; bǎijiā zhēngmíng; pai-chia cheng-ming; "hundred schools contend"). The thoughts and ideas discussed and refined during this period have profoundly influenced lifestyles and social consciousness up to the present day in China and across East Asia. The intellectual society of this era was characterized by itinerant scholars, who were often employed by various state rulers as advisers on the methods of government, war, and diplomacy. This period ended with the rise of the imperial Qin dynasty and the subsequent purge of dissent. A traditional source for this period is the Shiji, or Records of the Grand Historian by Sima Qian. The autobiographical section of the Shiji, the "Taishigong Zixu" (太史公自序), refers to the schools of thought described below.
+Mohism was an ancient Chinese philosophy of logic, rational thought and science developed by the academic scholars who studied under the ancient Chinese philosopher Mozi (c. 470 BC–c. 391 BC). The philosophy is embodied in an eponymous book: the Mozi. Another group is the School of the Military (兵家; Bingjia) that studied warfare and strategy; Sunzi and Sun Bin were influential leaders. The School of Naturalists was a Warring States era philosophy that synthesized the concepts of yin-yang and the Five Elements; Zou Yan is considered the founder of this school. His theory attempted to explain the universe in terms of basic forces in nature: the complementary agents of yin (dark, cold, female, negative) and yang (light, hot, male, positive) and the Five Elements or Five Phases (water, fire, wood, metal, and earth).
+
+Language
+The ancient written standard was Classical Chinese. It was used for thousands of years, but was mostly used by scholars and intellectuals in the upper class society called "shi da fu (士大夫)". It was difficult, but possible, for ordinary people to enter this class by passing written exams. Calligraphy later became commercialized, and works by famous artists became prized possessions. Chinese literature has a long past; the earliest classic work in Chinese, the I Ching or "Book of Changes", dates to around 1000 BC. A flourishing of philosophy during the Warring States period produced such noteworthy works as Confucius's Analects and Laozi's Tao Te Ching. (See also: Chinese classics) Dynastic histories were often written, beginning with Sima Qian's seminal Records of the Grand Historian, written from 109 BC to 91 BC. The Tang dynasty witnessed a poetic flowering, while the Four Great Classical Novels of Chinese literature were written during the Ming and Qing dynasties. Printmaking in the form of movable type was developed during the Song dynasty. Academies of scholars sponsored by the empire were formed to comment on the classics in both printed and handwritten form. Members of royalty frequently participated in these discussions.
+Chinese philosophers, writers and poets were highly respected and played key roles in preserving and promoting the culture of the empire. Some classical scholars, however, were noted for their daring depictions of the lives of the common people, often to the displeasure of authorities.
+
+Varieties of dialect and writing system
+At the start of the 20th century, most of the population were still illiterate, and the many languages spoken (Mandarin, Wu, Yue (Cantonese), Min Nan (Ban-lam-gu), Jin, Xiang, Hakka, Gan, Hui, Ping etc.) in different regions prevented spoken communication with people from other areas. However, the written language made communication possible, such as passing on official orders and documents throughout the entire region of China. Reformers set out to establish a national language, settling on the Beijing-based Mandarin as the spoken form. After the May 4th Movement, Classical Chinese was quickly replaced by written vernacular Chinese, modeled after the vocabulary and grammar of the standard spoken language.
+
+Calligraphy
+Chinese calligraphy is a form of writing (calligraphy), or, the artistic expression of human language in a tangible form. There are some general standardizations of the various styles of calligraphy in this tradition. Chinese calligraphy and ink and wash painting are closely related: they are accomplished using similar tools and techniques, and have a long history of shared artistry. Distinguishing features of Chinese painting and calligraphy include an emphasis on motion charged with dynamic life. According to Stanley-Baker, "Calligraphy is sheer life experienced through energy in motion that is registered as traces on silk or paper, with time and rhythm in shifting space its main ingredients." Calligraphy has also led to the development of many forms of art in China, including seal carving, ornate paperweights, and inkstones.
+
+In China, calligraphy is referred to as Shūfǎ (書法/书法), literally "the way/method/law of writing". In Japan it is referred to as Shodō (書道/书道), literally "the way/principle of writing"; and in Korea as Seoye (서예; 書藝) literally "the skill/criterion of writing". Chinese calligraphy is normally regarded as one of the "arts" (Chinese 藝術/艺术 pinyin: yìshù) in the countries where it is practised. Chinese calligraphy focuses not only on methods of writing but also on cultivating one's character (人品) and taught as a discipline (書法; pinyin: shūfǎ, "the rules of writing Han characters").
+
+Literature
+The Zhou dynasty is often regarded as the touchstone of Chinese cultural development. Concepts covered in the Chinese classic texts include poetry, astrology, astronomy, the calendar, and constellations. Some of the most important early texts include the I Ching and the Shujing within the Four Books and Five Classics. Many Chinese concepts such as Yin and Yang, Qi, Four Pillars of Destiny in relation to heaven and earth were theorized in the pre-imperial periods. By the end of the Qing dynasty, Chinese culture had embarked on a new era with written vernacular Chinese for the common citizens. Hu Shih and Lu Xun were considered pioneers in modern literature at that time. After the founding of the People's Republic of China, the study of Chinese modern literature gradually increased. Modern-era literature has influenced modern interpretations of nationhood and the creation of a sense of national spirit.
+
+Poetry in the Tang dynasty
+Tang poetry refers to poetry written in or around the time of, or in the characteristic style of, China's Tang dynasty (18 June 618 – 4 June 907, including the 690–705 reign of Wu Zetian) or that follows a certain style, often considered the Golden Age of Chinese poetry. During the Tang dynasty, poetry continued to be an important part of social life at all levels of society. Scholars were required to master poetry for the civil service exams, but the art was theoretically available to everyone. This led to a large record of poetry and poets, a partial record of which survives today. Two of the most famous poets of the period were Li Bai and Du Fu. Tang poetry has had an ongoing influence on world literature and modern and quasi-modern poetry. The Quantangshi ("Complete Tang Poems") anthology compiled in the early eighteenth century includes over 48,900 poems written by over 2,200 authors.
+The Quantangwen (全唐文, "Complete Tang Prose"), despite its name, contains more than 1,500 fu and is another widely consulted source for Tang poetry. Despite their names, these sources are not comprehensive, and the manuscripts discovered at Dunhuang in the twentieth century included many shi and some fu, as well as variant readings of poems that were also included in the later anthologies. There are also collections of individual poets' work, which generally can be dated earlier than the Qing anthologies, although few earlier than the eleventh century. Only about a hundred Tang poets have such collected editions extant. Another important source is anthologies of poetry compiled during the Tang dynasty, although only thirteen such anthologies survive in full or in part. Many records of poetry, as well as other writings, were lost when the Tang capital of Changan was damaged by war in the eighth and ninth centuries, so that while more than 50,000 Tang poems survive (more than any earlier period in Chinese history), this still likely represents only a small portion of the poetry that was actually produced during the period. Many seventh-century poets are reported by the 721 imperial library catalog as having left behind massive volumes of poetry, of which only a tiny portion survives, and there are notable gaps in the poetic œuvres of even Li Bai and Du Fu, the two most celebrated Tang poets.
+
+Ci in Song dynasty
+Ci (辭/辞) are a poetic form, a type of lyric poetry, done in the tradition of Classical Chinese poetry. Ci use a set of poetic meters derived from a base set of certain patterns, in fixed-rhythm, fixed-tone, and variable line-length formal types, or model examples: the rhythmic and tonal pattern of the ci are based upon certain, definitive musical song tunes. They are also known as Changduanju (長短句/长短句, "lines of irregular lengths") and Shiyu (詩餘/诗馀, "that which is beside poetry").Typically the number of characters in each line and the arrangement of tones were determined by one of around 800 set patterns, each associated with a particular title, called cípái 詞牌/词牌. Originally they were written to be sung to a tune of that title, with set rhythm, rhyme, and tempo. The Song dynasty was also a period of great scientific literature, and saw the creation of works such as Su Song's Xin Yixiang Fayao and Shen Kuo's Dream Pool Essays. There were also enormous works of historiography and large encyclopedias, such as Sima Guang's Zizhi Tongjian of 1084 or the Four Great Books of Song fully compiled and edited by the 11th century.
+Notable Confucianists, Taoists and scholars of all classes have made significant contributions to and from documenting history to authoring saintly concepts that seem hundreds of years ahead of time. Although the oldest surviving textual examples of surviving ci are from 8th century CE Dunhuang manuscripts, beginning in the poetry of the Liang dynasty, the ci followed the tradition of the Shi Jing and the yuefu: they were lyrics which developed from anonymous popular songs into a sophisticated literary genre; although in the case of the ci form some of its fixed-rhythm patterns have an origin in Central Asia. The form was further developed in the Tang dynasty. Although the contributions of Li Bo (also known as Li Po, 701 – 762) are fraught with historical doubt, certainly the Tang poet Wen Tingyun (812–870) was a great master of the ci, writing it in its distinct and mature form. One of the more notable practitioners and developers of this form was Li Yu of the Southern Tang dynasty during the Five Dynasties and Ten Kingdoms period. However, the ci form of Classical Chinese poetry is especially associated with the poetry of the Song dynasty, during which it was indeed a popular poetic form. A revival of the ci poetry form occurred during the end of the Ming dynasty and the beginning of the Qing dynasty which was characterized by an exploration of the emotions connected with romantic love together with its valorization, often in a context of a brief poetic story narrative within a ci poem or a linked group of ci poems in an application of the chuanqi form of short story tales to poetry.
+
+Qu in Yuan dynasty
+The Qu form of poetry is a type of Classical Chinese poetry form, consisting of words written in one of a number of certain, set tone patterns, based upon the tunes of various songs. Thus Qu poems are lyrics with lines of varying longer and shorter lengths, set according to the certain and specific, fixed patterns of rhyme and tone of conventional musical pieces upon which they are based and after which these matched variations in lyrics (or individual Qu poems) generally take their name. The fixed-tone type of verse such as the Qu and the ci together with the shi and fu forms of poetry comprise the three main forms of Classical Chinese poetry. In Chinese literature, the Qu (Chinese: 曲; pinyin: qǔ; Wade–Giles: chü) form of poetry from the Yuan dynasty may be called Yuanqu (元曲 P: Yuánqǔ, W: Yüan-chü). Qu may be derived from Chinese opera, such as the Zaju (雜劇/杂剧), in which case these Qu may be referred to as sanqu (散曲). The San in Sanqu refers to the detached status of the Qu lyrics of this verse form: in other words, rather than being embedded as part of an opera performance the lyrics stand separately on their own. Since the Qu became popular during the late Southern Song dynasty, and reached a special height of popularity in the poetry of the Yuan dynasty, therefore it is often called Yuanqu (元曲), specifying the type of Qu found in Chinese opera typical of the Yuan dynasty era. Both Sanqu and Ci are lyrics written to fit a different melodies, but Sanqu differs from Ci in that it is more colloquial, and is allowed to contain Chenzi (襯字/衬字 "filler words" which are additional words to make a more complete meaning). Sanqu can be further divided into Xiaoling (小令) and Santao (散套), with the latter containing more than one melody.
+
+The novel in Ming dynasty and Qing dynasty
+Chinese fiction, rooted in narrative classics such as Shishuo Xinyu, Sou Shen Ji, Wenyuan Yinghua, Da Tang Xiyu Ji, Youyang Zazu, Taiping Guangji, and official histories, developed into the novel as early as the Song dynasty. The novel as an extended prose narrative which realistically creates a believable world of its own evolved in China and in Europe from the 14th to 18th centuries, though a little earlier in China. Chinese audiences were more interested in history and were more historically minded. They appreciated relative optimism, moral humanism, and relative emphasis on collective behavior and the welfare of the society.
+The rise of a money economy and urbanization beginning in the Song era led to a professionalization of entertainment which was further encouraged by the spread of printing, the rise of literacy, and education. In both China and Western Europe, the novel gradually became more autobiographical and serious in exploration of social, moral, and philosophical problems. Chinese fiction of the late Ming dynasty and early Qing dynasty was varied, self-conscious, and experimental. In China, however, there was no counterpart to the 19th-century European explosion of novels. The novels of the Ming and early Qing dynasties represented a pinnacle of classic Chinese fiction.  They are well known to most Chinese either directly or through their many adaptations to Chinese opera and other forms of popular culture, influencing the creation of many stories, plays, movies, games, and other forms of entertainment across other parts of East Asia. 
+The scholar and literary critic Andrew H. Plaks argues that Romance of the Three Kingdoms, Water Margin, Journey to the West, and The Golden Lotus collectively constituted a technical breakthrough reflecting new cultural values and intellectual concerns. Their educated editors, authors, and commentators used the narrative conventions developed from earlier story-tellers, such as the episodic structure, interspersed songs and folk sayings, or speaking directly to the reader, but they fashioned self-consciously ironic narratives whose seeming familiarity camouflaged a Neo-Confucian moral critique of late Ming decadence. Plaks explores the textual history of the novels (all published after their author's deaths, usually anonymously) and how the ironic and satiric devices of these novels paved the way for the great novels of the 18th century.  The Story of the Stone, or Dream of the Red Chamber, which circulated in manuscript until being edited and printed in 1791, is widely considered the greatest of the traditional Chinese novels. The Scholars was published in 1750.
+
+Fashion and clothing
+China's fashion history covers hundreds of years with some of the most colorful and diverse arrangements. Different social classes in different eras boast different fashion trends, the color yellow was usually reserved for the emperor during China's Imperial era.
+
+Pre-Qing
+From the beginning of its history, Han clothing (especially in elite circles) was inseparable from silk, supposedly discovered by the Yellow Emperor's consort, Leizu. The dynasty to follow the Shang, the Western Zhou dynasty, established a strict hierarchical society that used clothing as a status meridian, and inevitably, the height of one's rank influenced the ornateness of a costume. Such markers included the length of a skirt, the wideness of a sleeve and the degree of ornamentation. In addition to these class-oriented developments, Han Chinese clothing became looser, with the introduction of wide sleeves and jade decorations hung from the sash which served to keep the yi closed. The yi was essentially wrapped over, in a style known as jiaoling youren, or wrapping the right side over before the left, because of the initially greater challenge to the right-handed wearer (people of Zhongyuan discouraged left-handedness like many other historical cultures, considering it unnatural, barbarian, uncivilized, and unfortunate). The Shang dynasty (c. 1600 BC – 1046 BC), developed the rudiments of Chinese clothing; it consisted of a yi, a narrow-cuffed, knee-length tunic tied with a sash, and a narrow, ankle-length skirt, called chang, worn with a bixi, a length of fabric that reached the knees.  Vivid primary colors and green were used, due to the degree of technology at the time.
+
+Qipao
+During the Qing dynasty, China's last imperial dynasty, a dramatic shift of clothing occurred, examples of which include the cheongsam (or qipao in Mandarin). The clothing of the era before the Qing dynasty is referred to as Hanfu or traditional Han Chinese clothing. Many symbols such as phoenix have been used for decorative as well as economic purposes. Among them were the Banners (qí), mostly Manchu, who as a group were called Banner People (旗人 pinyin: qí rén). Manchu women typically wore a one-piece dress that retrospectively came to be known as the qípáo (旗袍, Manchu: sijigiyan or banner gown). The generic term for both the male and the female forms of Manchu dress, essentially similar garments, was chángpáo (長袍/长袍). The qipao fitted loosely and hung straight down the body, or flared slightly in an A-line. Under the dynastic laws after 1636, all Han Chinese in the banner system were forced to adopt the Manchu male hairstyle of wearing a queue as did all Manchu men and dress in Manchu qipao. However, the order for ordinary non-Banner Han civilians to wear Manchu clothing was lifted and only Han who served as officials were required to wear Manchu clothing, with the rest of the civilian Han population dressing however they wanted. Qipao covered most of the woman's body, revealing only the head, hands, and the tips of the toes.  The baggy nature of the clothing also served to conceal the figure of the wearer regardless of age.  With time, though, the qipao were tailored to become more form fitting and revealing. The modern version, which is now recognized popularly in China as the "standard" qipao, was first developed in Shanghai in the 1920s, partly under the influence of Beijing styles. People eagerly sought a more modernized style of dress and transformed the old qipao to suit their tastes.  Slender and form fitting with a high cut, it had great differences from the traditional qipao. It was high-class courtesans and celebrities in the city that would make these redesigned tight fitting qipao popular at that time. In Shanghai it was first known as zansae or "long dress" (長衫—Mandarin Chinese: chángshān; Shanghainese: zansae; Cantonese: chèuhngsāam), and it is this name that survives in English as the "cheongsam". Most Han civilian men eventually voluntarily adopted Manchu clothing while Han women continued wearing Han clothing. Until 1911, the changpao was required clothing for Chinese men of a certain class, but Han Chinese women continued to wear loose jacket and trousers, with an overskirt for formal occasions.  The qipao was a new fashion item for Han Chinese women when they started wearing it around 1925.The original qipao was wide and loose. As hosiery in turn declined in later decades, cheongsams nowadays have come to be most commonly worn with bare legs.
+
+Arts
+Chinese art is visual art that, whether ancient or modern, originated in or is practiced in China or by Chinese artists. The Chinese art in the Republic of China (Taiwan) and that of overseas Chinese can also be considered part of Chinese art where it is based in or draws on Chinese heritage and Chinese culture. Early "Stone Age art" dates back to 10,000 BC, mostly consisting of simple pottery and sculptures. After this early period Chinese art, like Chinese history, is typically classified by the succession of ruling dynasties of Chinese emperors, most of which lasted several hundred years.
+Chinese art has arguably the oldest continuous tradition in the world, and is marked by an unusual degree of continuity within, and consciousness of, that tradition, lacking an equivalent to the Western collapse and gradual recovery of classical styles. The media that have usually been classified in the West since the Renaissance as the decorative arts are extremely important in Chinese art, and much of the finest work was produced in large workshops or factories by essentially unknown artists, especially in Chinese ceramics.
+Different forms of art have swayed under the influence of great philosophers, teachers, religious figures and even political figures. Chinese art encompasses all facets of fine art, folk art and performance art. Porcelain pottery was one of the first forms of art in the Palaeolithic period. Early Chinese music and poetry was influenced by the Book of Songs, and the Chinese poet and statesman Qu Yuan.
+Chinese painting became a highly appreciated art in court circles encompassing a wide variety of Shan shui with specialized styles such as Ming dynasty painting. Early Chinese music was based on percussion instruments, which later gave away to stringed and reed instruments. By the Han dynasty papercutting became a new art form after the invention of paper. Chinese opera would also be introduced and branched regionally in addition to other performance formats such as variety arts.
+
+Chinese lantern
+The Chinese paper lantern (紙燈籠, 纸灯笼) is a lantern made of thin, brightly colored paper. Paper lanterns come in various shapes and sizes, as well as various methods of construction. In their simplest form, they are simply a paper bag with a candle placed inside, although more complicated lanterns consist of a collapsible bamboo or metal frame of hoops covered with tough paper. Sometimes, other lanterns can be made out of colored silk (usually red) or vinyl. Silk lanterns are also collapsible with a metal expander and are decorated with Chinese characters and/or designs. The vinyl lanterns are more durable; they can resist rain, sunlight, and wind. Paper lanterns do not last very long, they soon break, and silk lanterns last longer. The gold paper on them will soon fade away to a pale white, and the red silk will become a mix between pink and red. Often associated with festivals, paper lanterns are common in China, Japan, Korea, Taiwan, and similarly in Chinatowns with large communities of Overseas Chinese, where they are often hung outside of businesses to attract attention. In Japan the traditional styles include bonbori and chōchin and there is a special style of lettering called chōchin moji used to write on them. Airborne paper lanterns are called sky lanterns, and are often released into the night sky for aesthetic effect at lantern festivals.
+The Chinese sky lantern (天燈, 天灯), also known as Kongming lantern, is a small hot air balloon made of paper, with an opening at the bottom where a small fire is suspended. In Asia and elsewhere around the world, sky lanterns have been traditionally made for centuries, to be launched for play or as part of long-established festivities. The name "sky lantern" is a translation of the Chinese name but they have also been referred to as sky candles or fire balloons. The general design is a thin paper shell, which may be from about 30 cm to a couple of metres across, with an opening at the bottom. The opening is usually about 10 to 30 cm wide (even for the largest shells), and is surrounded by a stiff collar that serves to suspend the flame source and to keep it away from the walls. When lit, the flame heats the air inside the lantern, thus lowering its density and causing the lantern to rise into the air. The sky lantern is only airborne for as long as the flame stays alight, after which the lantern sinks back to the ground.
+
+Chinese hand fan
+The oldest existing Chinese fans are a pair of woven bamboo, wood or paper side-mounted fans from the 2nd century BCE. The Chinese character for "fan" (扇) is etymologically derived from a picture of feathers under a roof. A particular status and gender would be associated with a specific type of fan. During the Song dynasty, famous artists were often commissioned to paint fans.  The Chinese dancing fan was developed in the 7th century. The Chinese form of the hand fan was a row of feathers mounted in the end of a handle. In the later centuries, Chinese poems and four-word idioms were used to decorate the fans by using Chinese calligraphy pens.  In ancient China, fans came in various shapes and forms (such as in a leaf, oval or a half-moon shape), and were made in different materials such as silk, bamboo, feathers, etc.
+
+Carved lacquer
+Carved lacquer or  Qīdiāo (Chinese: 漆雕) is a distinctive Chinese form of decorated lacquerware.  While lacquer has been used in China for at least 3,000 years, the technique of carving into very thick coatings of it appears to have been developed in the 12th century CE. It is extremely time-consuming to produce, and has always been a luxury product, essentially restricted to China, though imitated in Japanese lacquer in somewhat different styles.  The producing process is called Diāoqī (雕漆/彫漆, carving lacquer).Though most surviving examples are from the Ming and Qing dynasties, the main types of subject matter for the carvings were all begun under the Song dynasty, and the development of both these and the technique of carving were essentially over by the early Ming.  These types were the abstract guri or Sword-Pommel pattern, figures in a landscape, and birds and plants.  To these some designs with religious symbols, animals, auspicious characters (right) and imperial dragons can be added. The objects made in the technique are a wide range of small types, but are mostly practical vessels or containers such as boxes, plates and trays. Some screens and pieces of Chinese furniture were made. Carved lacquer is only rarely combined with painting in lacquer and other lacquer techniques.
+Later Chinese writers dated the introduction of carved lacquer to the Tang dynasty (618–906), and many modern writers have pointed to some late Tang pieces of armour found on the Silk Road by Aurel Stein and now in the British Museum.  These are red and black lacquer on camel hide, but the lacquer is very thin, "less than one millimeter in thickness", and the effect very different, with simple abstract shapes on a plain field and almost no impression of relief. The style of carving into thick lacquer used later is first seen in the Southern Song (1127–1279), following the development of techniques for making very thick lacquer. There is some evidence from literary sources that it had existed in the late Tang. At first the style of decoration used is known as guri (屈輪/曲仑) from the Japanese word for the ring-pommel of a sword, where the same motifs were used in metal, and is often called the "Sword-Pommel pattern" in English.  This style uses a family of repeated two-branched scrolling shapes cut with a rounded profile at the surface, but below that a "V" section through layers of lacquer in different colours (black, red and yellow, and later green), giving a "marbled" effect from the contrasted colours; this technique is called tìxī (剔犀/剃犀) in Chinese.  This style continued to be used up to the Ming dynasty, especially on small boxes and jars with covers, though after the Song only red was often used, and the motifs were often carved with wider flat spaces at the bottom level to be exposed.
+
+Folding screen
+A folding screen (simplified Chinese: 屏风; traditional Chinese: 屏風) is a type of free-standing furniture. It consists of several frames or panels, which are often connected by hinges or by other means. It can be made in a variety of designs and with different kinds of materials. Folding screens have many practical and decorative uses. It originated from ancient China, eventually spreading to the rest of East Asia, Europe, and other parts of the world. Screens date back to China during the Eastern Zhou period (771–256 BCE). These were initially one-panel screens in contrast to folding screens. Folding screens were invented during the Han dynasty (206 BCE – 220 CE). Depictions of those folding screens have been found in Han-era tombs, such as one in Zhucheng, Shandong Province.
+Folding screens were originally made from wooden panels and painted on lacquered surfaces, eventually folding screens made from paper or silk became popular too. Even though folding screens were known to have been used since antiquity, it became rapidly popular during the Tang dynasty (618–907). During the Tang dynasty, folding screens were considered ideal ornaments for many painters to display their paintings and calligraphy on. Many artists painted on paper or silk and applied it onto the folding screen. There were two distinct artistic folding screens mentioned in historical literature of the era. One of it was known as the huaping (simplified Chinese: 画屏; traditional Chinese: 畫屏; lit. 'painted folding screen') and the other was known as the shuping (simplified Chinese: 书屏; traditional Chinese: 書屏; lit. 'calligraphed folding screen'). It was not uncommon for people to commission folding screens from artists, such as from Tang-era painter Cao Ba or Song-era painter Guo Xi. The landscape paintings on folding screens reached its height during the Song dynasty (960–1279). The lacquer techniques for the Coromandel screens, which is known as kuǎncǎi (款彩 "incised colors"), emerged during the late Ming dynasty (1368–1644) and was applied to folding screens to create dark screens incised, painted, and inlaid with art of mother-of-pearl, ivory, or other materials.
+
+Chinese jade
+Chinese jade (玉) refers to the jade mined or carved in China from the Neolithic onward. It is the primary hardstone of Chinese sculpture. Although deep and bright green jadeite is better known in Europe, for most of China's history, jade has come in a variety of colors and white "mutton-fat" nephrite was the most highly praised and prized. Native sources in Henan and along the Yangtze were exploited since prehistoric times and have largely been exhausted; most Chinese jade today is extracted from the northwestern province of Xinjiang. Jade was prized for its hardness, durability, musical qualities, and beauty. In particular, its subtle, translucent colors and protective qualities caused it to become associated with Chinese conceptions of the soul and immortality. The most prominent early use was the crafting of the Six Ritual Jades, found since the 3rd-millennium BC Liangzhu culture: the bi, the cong, the huang, the hu, the gui, and the zhang. Although these items are so ancient that their original meaning is uncertain, by the time of the composition of the Rites of Zhou, they were thought to represent the sky, the earth, and the four directions. By the Han dynasty, the royal family and prominent lords were buried entirely ensheathed in jade burial suits sewn in gold thread, on the idea that it would preserve the body and the souls attached to it. Jade was also thought to combat fatigue in the living. The Han also greatly improved prior artistic treatment of jade. These uses gave way after the Three Kingdoms period to Buddhist practices and new developments in Taoism such as alchemy. Nonetheless, jade remained part of traditional Chinese medicine and an important artistic medium. Although its use never became widespread in Japan, jade became important to the art of Korea and Southeast Asia.
+
+Mythological beings
+Loong
+Loongs, also known as Chinese Dragon, are legendary creatures in Chinese mythology, Chinese folklore, and East Asian culture. Chinese dragons have many animal-like forms such as turtles and fish, but are most commonly depicted as snake-like with four legs. They traditionally symbolize potent and auspicious powers, particularly control over water, rainfall, typhoons, and floods. The dragon is also a symbol of power, strength, and good luck for people who are worthy of it. During the days of Imperial China, the Emperor of China usually used the dragon as a symbol of his imperial power and strength. They are also the symbol and representative for the Son of Heaven, the Mandate of Heaven, the Celestial Empire and the Chinese Tributary System during the history of China.
+
+Fenghuang
+Fenghuang (鳳凰) are mythological birds found in Chinese and East Asian mythology that reign over all other birds. The males were originally called feng and the females huang but such a distinction of gender is often no longer made and they are blurred into a single feminine entity so that the bird can be paired with the Chinese dragon, which is traditionally deemed male. The fenghuang is also called the "August Rooster" (simplified Chinese: 鹍鸡; traditional Chinese: 鶤雞 or 鵾雞; pinyin: yùnjī or kūnjī; Wade–Giles: yün4-chi1 or k'un1-chi1) since it sometimes takes the place of the Rooster in the Chinese zodiac. In the Western world, it is commonly called the Chinese phoenix or simply Phoenix, although mythological similarities with the Western phoenix are superficial.
+
+Qilin
+The Qilin ([tɕʰǐ.lǐn]; Chinese: 麒麟), or Kirin in Japanese, is a mythical hooved chimerical creature in Chinese culture, said to appear with the imminent arrival or passing of a sage or illustrious ruler. Qilin is a specific type of the lin mythological family of one-horned beasts. The earliest references to the qilin are in the 5th century BC Zuo Zhuan. The qilin made appearances in a variety of subsequent Chinese works of history and fiction, such as Feng Shen Bang. Emperor Wu of Han apparently captured a live qilin in 122 BC, although Sima Qian was skeptical of this.
+
+Xuanwu
+Xuanwu (Chinese:玄武) is one of the Four Symbols of the Chinese constellations. Despite its English name, it is usually depicted as a turtle entwined together with a snake. It is known as Genbu in Japanese and Hyeonmu in Korean. It represents the north and the winter season. In Japan, it is one of the four guardian spirits that protect Kyoto and it is said that it protects the city on the north. Represented by the Kenkun Shrine, which is located on top of Mt Funaoka in Kyoto. The creature's name is identical to that of the important Taoist god Xuanwu, who is sometimes (as in Journey to the West) portrayed in the company of a turtle and snake.
+
+Music, instruments and dancing
+Music and dance were closely associated in the very early periods of China.  The music of China dates back to the dawn of Chinese civilization with documents and artifacts providing evidence of a well-developed musical culture as early as the Zhou dynasty (1122 BCE – 256 BCE).  The earliest music of the Zhou dynasty recorded in ancient Chinese texts includes the ritual music called yayue and each piece may be associated with a dance. Some of the oldest written music dates back to Confucius's time.  The first major well-documented flowering of Chinese music was exemplified through the popularization of the qin (plucked instrument with seven strings) during the Tang dynasty, although the instrument is known to have played a major role before the Han dynasty.
+
+There are many musical instruments that are integral to Chinese culture, such as the Xun (Ocarina-type instrument that is also integral in Native American cultures), Guzheng (zither with movable bridges), guqin (bridgeless zither), sheng and xiao (vertical flute), the erhu (alto fiddle or bowed lute), pipa (pear-shaped plucked lute), and many others.
+Dance in China is a highly varied art form, consisting of many modern and traditional dance genres. The dances cover a wide range, from folk dances to performances in opera and ballet, and may be used in public celebrations, rituals and ceremonies. There are also 56 officially recognized ethnic groups in China, and each ethnic minority group in China also has its own folk dances. The best known Chinese dances today are the Dragon dance and the Lion Dance.
+
+Architecture
+Chinese architecture is a style of architecture that has taken shape through the ages and influenced the architecture of East Asia for many centuries. The structural principles of Chinese architecture have remained largely unchanged, the main changes being only the decorative details. Since the Tang dynasty, Chinese architecture has had a major influence on the architectural styles of East Asia such as Japan and Korea. Chinese architecture, examples for which can be found from more than 2,000 years ago, is almost as old as Chinese civilization and has long been an important hallmark of Chinese culture. There are certain features common to Chinese architecture, regardless of specific regions, different provinces or use. The most important is symmetry, which connotes a sense of grandeur as it applies to everything from palaces to farmhouses. One notable exception is in the design of gardens, which tends to be as asymmetrical as possible. Like Chinese scroll paintings, the principle underlying the garden's composition is to create enduring flow, to let the patron wander and enjoy the garden without prescription, as in nature herself. Feng shui has played a very important part in structural development. The Chinese garden is a landscape garden style which has evolved over three thousand years. It includes both the vast gardens of the Chinese emperors and members of the imperial family, built for pleasure and to impress, and the more intimate gardens created by scholars, poets, former government officials, soldiers and merchants, made for reflection and escape from the outside world. They create an idealized miniature landscape, which is meant to express the harmony that should exist between man and nature. A typical Chinese garden is enclosed by walls and includes one or more ponds, rock works, trees and flowers, and an assortment of halls and pavilions within the garden, connected by winding paths and zig-zag galleries. By moving from structure to structure, visitors can view a series of carefully composed scenes, unrolling like a scroll of landscape paintings.
+
+Chinese palace
+The Chinese palace is an imperial complex where the royal court and the civil government resided. Its structures are considerable and elaborate. The Chinese character gong (宮; meaning "palace") represents two connected rooms (呂) under a roof (宀). Originally the character applied to any residence or mansion, but it was used in reference to solely the imperial residence since the Qin dynasty (3rd century BC). A Chinese palace is composed of many buildings. It has large areas surrounded by walls and moats. It contains large halls (殿) for ceremonies and official business, as well as smaller buildings, temples, towers, residences, galleries, courtyards, gardens, and outbuildings. Apart from the main imperial palace, Chinese dynasties also had several other imperial palaces in the capital city where the empress, crown prince, or other members of the imperial family dwelled. There also existed palaces outside of the capital city called "away palaces" (離宮/离宫) where the emperors resided when traveling. Empress dowager Cixi (慈禧太后) built the Summer Palace or Yiheyuan (頤和園/颐和园 – "The Garden of Nurtured Harmony") near the Old Summer Palace, but on a much smaller scale than the Old Summer Palace.
+
+Paifang
+Paifang, also known as a Pailou, is a traditional style of Chinese architectural arch or gateway structure that is related to the Indian Torana from which it is derived. The word paifang (Chinese: 牌坊; pinyin: páifāng) was originally a collective term for the top two levels of administrative division and subdivisions of ancient Chinese cities. The largest division within a city in ancient China was a fang (坊; fāng), equivalent to a current day ward. Each fang was enclosed by walls or fences, and the gates of these enclosures were shut and guarded every night. Each fang was further divided into several pai (牌; pái; 'placard'), which is equivalent to a current day (unincorporated) community. Each pai, in turn, contained an area including several hutongs (alleyways). This system of urban administrative division and subdivision reached an elaborate level during the Tang dynasty, and continued in the following dynasties. For example, during the Ming dynasty, Beijing was divided into a total of 36 fangs. Originally, the word paifang referred to the gate of a fang and the marker for an entrance of a building complex or a town; but by the Song dynasty, a paifang had evolved into a purely decorative monument.
+
+Chinese garden
+The Chinese garden is a landscape garden style which has evolved over the years. It includes both the vast gardens of the Chinese emperors and members of the imperial family, built for pleasure and to impress, and the more intimate gardens created by scholars, poets, former government officials, soldiers and merchants, made for reflection and escape from the outside world. They create an idealized miniature landscape, which is meant to express the harmony that should exist between man and nature. A typical Chinese garden is enclosed by walls and includes one or more ponds, rock works, trees and flowers, and an assortment of halls and pavilions within the garden, connected by winding paths and zig-zag galleries. By moving from structure to structure, visitors can view a series of carefully composed scenes, unrolling like a scroll of landscape paintings. The earliest recorded Chinese gardens were created in the valley of the Yellow River, during the Shang dynasty (1600–1046 BC). These gardens were large enclosed parks where the kings and nobles hunted game, or where fruit and vegetables were grown. Early inscriptions from this period, carved on tortoise shells, have three Chinese characters for garden, you, pu and yuan.  You was a royal garden where birds and animals were kept, while pu was a garden for plants. During the Qin dynasty (221–206 BC), yuan became the character for all gardens.
+
+The old character for  yuan is a small picture of a garden; it is enclosed in a square which can represent a wall, and has symbols which can represent the plan of a structure, a small square which can represent a pond, and a symbol for a plantation or a pomegranate tree. According to the Shiji, one of the most famous features of this garden was the Wine Pool and Meat Forest (酒池肉林). A large pool, big enough for several small boats, was constructed on the palace grounds, with inner linings of polished oval shaped stones from the sea shores. The pool was then filled with wine. A small island was constructed in the middle of the pool, where trees were planted, which had skewers of roasted meat hanging from their branches. King Zhou and his friends and concubines drifted in their boats, drinking the wine with their hands and eating the roasted meat from the trees. Later Chinese philosophers and historians cited this garden as an example of decadence and bad taste. During the Spring and Autumn period (722–481 BC), in 535 BC, the Terrace of Shanghua, with lavishly decorated palaces, was built by King Jing of the Zhou dynasty. In 505 BC, an even more elaborate garden, the Terrace of Gusu, was begun. It was located on the side of a mountain, and included a series of terraces connected by galleries, along with a lake where boats in the form of blue dragons navigated. From the highest terrace, a view extended as far as Lake Tai, the Great Lake.
+
+Physical culture
+Martial arts
+China is one of the main birthplaces of Eastern martial arts. Chinese martial arts, often named under the umbrella terms kung fu and wushu, are the several hundred fighting styles that have developed over the centuries in China. These fighting styles are often classified according to common traits, identified as "families" (家; jiā), "sects" (派; pài) or "schools" (门/門; mén) of martial arts. Examples of such traits include Shaolinquan  (少林拳) physical exercises involving Five Animals (五形) mimicry, or training methods inspired by Old Chinese philosophies, religions and legends. Styles that focus on qi manipulation are called "internal "(內家拳/内家拳; nèijiāquán), while others that concentrate on improving muscle and cardiovascular fitness are called "external" (外家拳; wàijiāquán). Geographical association, as in "northern"(北拳; běiquán) and "southern" (南拳; nánquán), is another popular classification method.
+Chinese martial arts are collectively given the name Kung Fu (gong) "achievement" or "merit", and (fu) "man", thus "human achievement") or (previously and in some modern contexts) Wushu ("martial arts" or "military arts"). China also includes the home to the well-respected Shaolin Monastery and Wudang Mountains. The first generation of art started more for the purpose of survival and warfare than art. Over time, some art forms have branched off, while others have retained a distinct Chinese flavor. Regardless, China has produced some of the most renowned martial artists including Wong Fei Hung and many others. The arts have also co-existed with a variety of weapons including the more standard 18 arms. Legendary and controversial moves like Dim Mak are also praised and talked about within the culture.
+Martial arts schools also teach the art of lion dance, which has evolved from a pugilistic display of Kung Fu to an entertaining dance performance.
+
+Leisure
+A number of games and pastimes are popular within Chinese culture. The most common game is Mahjong. The same pieces are used for other styled games such as Shanghai Solitaire. Others include pai gow, pai gow poker and other bone domino games. Weiqi and xiangqi are also popular. Ethnic games like Chinese yo-yo are also part of the culture where it is performed during social events.
+Qigong is the practice of spiritual, physical, and medical techniques. It is as a form of exercise and although it is commonly used among the elderly, any one of any age can practice it during their free time.
+
+Cuisine
+Chinese cuisine is a very important part of Chinese culture, which includes cuisine originating from the diverse regions of China, as well as from Chinese people in other parts of the world. Because of the Chinese diaspora and historical power of the country, Chinese cuisine has influenced many other cuisines in Asia, with modifications made to cater to local palates. Seasoning and cooking techniques of Chinese provinces depend on differences in historical background and ethnic groups. Geographic features including mountains, rivers, forests and deserts also have a strong effect on the local available ingredients, considering climate of China varies from tropical in the south to subarctic in the northeast. Imperial, royal and noble preference also plays a role in the change of Chinese cuisines. Because of imperial expansion and trading, ingredients and cooking techniques from other cultures are integrated into Chinese cuisines over time. The most praised "Four Major Cuisines" are Chuan, Lu, Yue and Huaiyang, representing West, North, South and East China cuisine correspondingly. Modern "Eight Cuisines" of China are Anhui, Cantonese, Fujian, Hunan, Jiangsu, Shandong, Sichuan, and Zhejiang cuisines. Color, smell and taste are the three traditional aspects used to describe Chinese food, as well as the meaning, appearance and nutrition of the food. Cooking should be appraised from ingredients used, cuttings, cooking time and seasoning. It is considered inappropriate to use knives on the dining table. Chopsticks are the main eating utensils for Chinese food, which can be used to cut and pick up food.
+
+Tea culture
+The practice of drinking tea has a long history in China, having originated there. The history of tea in China is long and complex, for the Chinese have enjoyed tea for millennia. Scholars hailed the brew as a cure for a variety of ailments; the nobility considered the consumption of good tea as a mark of their status, and the common people simply enjoyed its flavour. In 2016, the discovery of the earliest known physical evidence of tea from the mausoleum of Emperor Jing of Han in Xi'an was announced, indicating that tea from the genus Camellia was drunk by Han dynasty emperors as early as 2nd century BC. Tea then became a popular drink in the Tang (618–907) and Song (960–1279) Dynasties.
+Although tea originated in China, during the Tang dynasty, Chinese tea generally represents tea leaves which have been processed using methods inherited from ancient China. According to popular legend, tea was discovered by Chinese Emperor Shen Nong in 2737 BCE when a leaf from a nearby shrub fell into water the emperor was boiling. Tea is deeply woven into the history and culture of China. The beverage is considered one of the seven necessities of Chinese life, along with firewood, rice, oil, salt, soy sauce and vinegar. During the Spring and Autumn period, Chinese tea was used for medicinal purposes and it was the period when the Chinese people first enjoyed the juice extracted from the tea leaves that they chewed.
+Chinese tea culture refers to how tea is prepared as well as the occasions when people consume tea in China. Tea culture in China differs from that in European countries such as Britain and other Asian countries like Japan in preparation, taste, and the occasions when people consume tea. Even today, tea is consumed regularly, both at casual and formal occasions. In addition to being a popular beverage, tea is used in traditional Chinese medicine, as well as in Chinese cuisine. Green tea is one of the main teas originating in China.
+
+Food culture
+Imperial, royal and noble preference played a role in the changes in Chinese cuisines over time. Because of imperial expansion and trading, ingredients and cooking techniques from other cultures were integrated into Chinese cuisines over time. The overwhelmingly large variety of Chinese cuisine comes mainly from the practice of the dynastic periods, when emperors would host banquets with over 100 dishes per meal. A countless number of imperial kitchen staff and concubines were involved in the food preparation process. Over time, many dishes became part of the everyday citizen's cuisine. Some of the highest quality restaurants with recipes close to the dynastic periods include Fangshan restaurant in Beihai Park Beijing and the Oriole Pavilion. Arguably all branches of Hong Kong eastern style are in some ways rooted from the original dynastic cuisines.
+Manhan Quanxi, literally Manchu Han Imperial Feast was one of the grandest meals ever documented in Chinese cuisine. It consisted of at least 108 unique dishes from the Manchu and Han Chinese culture during the Qing dynasty, and it is only reserved and intended for the emperors. The meal was held for three whole days, across six banquets. The culinary skills consisted of cooking methods from all over Imperial China. When the Manchus conquered China and founded the Qing dynasty, the Manchu and Han Chinese peoples struggled for power. The Kangxi Emperor wanted to resolve the disputes so he held a banquet during his 66th birthday celebrations. The banquet consisted of Manchu and Han dishes, with officials from both ethnic groups attending the banquet together. After the Wuchang Uprising, common people learned about the imperial banquet. The original meal was served in the Forbidden City in Beijing.
+
+Major subcultures
+Chinese culture consists of many subcultures. In China, the cultural difference between adjacent provinces (and, in some cases, adjacent counties within the same province) can often be as big as that between adjacent European nations. Thus, the concept of Han Chinese subgroups (漢族民系/汉族民系, literally "Han ethnic lineage") was born, used for classifying these subgroups within the greater Han ethnicity. These subgroups are, as a general rule, classified based on linguistic differences.
+Using this linguistic classification, some of the well-known subcultures within China include:
+
+North
+Hui culture
+Culture of Beijing (京)
+Culture of Shandong (魯/鲁)
+Culture of Gansu
+Dongbei culture (東北/东北)
+Shaanxi culture
+Jin culture (晉/晋)
+Zhongyuan culture (豫)
+
+South
+Haipai culture (海)
+Hakka culture (客)
+Hokkien culture (閩南)
+Fuzhou culture (閩都)
+Hong Kong culture (港)
+Hubei culture (楚)
+Huizhou culture (徽)
+Hunanese culture (湘)
+Jiangxi culture (贛)
+Jiangnan culture
+Cantonese culture (粵/粤)
+Macanese culture
+Ba–Shu culture (蜀)
+Taiwanese culture (台)
+Teochew culture (潮)
+Wenzhou culture (欧)
+Wuyue culture (吳/吴)
+
+Gallery
+See also
+Notes
+References
+Further reading
+
+Aspect of Chinese culture, Chang Zonglin. Li Xukui, ISBN 978-7-302-12632-4, Tsinghua University Press
+Exploring Ancient World Cultures – Ancient China, University of Evansville
+
+## Cuisine of China
+Chinese cuisine comprises cuisines originating from China, that varies with the country's large population and geographic diversity, as well as from Chinese people from other parts of the world. Due to the Chinese diaspora and the historical power of the country, Chinese cuisine has profoundly influenced other cuisines in Asia and beyond, with modifications made to cater to local palates. Chinese food staples like rice, soy sauce, noodles, tea, chili oil, and tofu, and utensils such as chopsticks and the wok, can now be found worldwide.
+The world's earliest eating establishments recognizable as restaurants in the modern sense first emerged in the Song dynasty China during the 11th and 12th centuries. Street food became an integral aspect of Chinese food culture in the 7th century during the Tang dynasty, and the street food culture of much of Southeast Asia was established by workers imported from China during the late 19th century.
+The preferences for seasoning and cooking techniques in Chinese provinces depend on differences in social class, religion, historical background, and ethnic groups. Geographic features including mountains, rivers, forests, and deserts also have a strong effect on the locally available ingredients, considering that the climate of China varies from tropical in the south to subarctic in the northeast. Imperial royal and noble preferences also play a role in the change of Chinese cuisine. Because of imperial expansion, immigration, and trading, ingredients and cooking techniques from other cultures have been integrated into Chinese cuisines over time and Chinese culinary influences have spread worldwide.
+There are numerous regional, religious, and ethnic styles of Chinese cuisine found within China and abroad. Chinese cuisine is highly diverse and most frequently categorised into provincial divisions, although these province-level classifications consist of many more styles within themselves. During the Qing dynasty, the most praised Four Great Traditions in Chinese cuisine were Chuan, Lu, Yue, and Huaiyang, representing cuisines of West, North, South, and East China, respectively. 
+For example, in Northern China, the dry, temperate climate makes it suitable for the cultivation of wheat, millet and other grains. As such, noodles, porridge and bread are dietary staples.
+In 1980, a modern grouping from Chinese journalist Wang Shaoquan's article published in the People's Daily newspaper identified the Eight Cuisines of China as Anhui (徽菜; Huīcài), Guangdong (粵菜; Yuècài), Fujian (閩菜; Mǐncài), Hunan (湘菜; Xiāngcài), Jiangsu (蘇菜; Sūcài), Shandong (魯菜; Lǔcài), Sichuan (川菜; Chuāncài), and Zhejiang (浙菜; Zhècài).
+
+Chinese cuisine is deeply intertwined with traditional Chinese medicine, such as in the practise of Chinese food therapy. Color, scent and taste are the three traditional aspects used to describe Chinese food, as well as the meaning, appearance, and nutrition of the food. Cooking should be appraised with respect to the ingredients used, knife work, cooking time, and seasoning.
+
+History
+Pre-Tang dynasty
+Chinese society greatly valued gastronomy, and developed an extensive study of the subject based on its traditional medical beliefs. Chinese culture initially centered around the North China Plain. The first domesticated crops seem to have been the foxtail and broomcorn varieties of millet, while rice was cultivated in the south. By 2000 BC, wheat had arrived from western Asia. These grains were typically served as warm noodle soups instead of baked into bread as in Europe. Nobles hunted various wild game and consumed mutton, pork and dog as these animals were domesticated. Grain was stored against famine and flood and meat was preserved with salt, vinegar, curing, and fermenting. The flavor of the meat was enhanced by cooking it in animal fats though this practice was mostly restricted to the wealthy.
+
+By the time of Confucius in the late Zhou, gastronomy had become a high art. Confucius discussed the principles of dining: The rice would never be too white, the meat would never be too finely cut... When it was not cooked right, man would not eat. When it was cooked bad, man would not eat. When the meat was not cut properly, man would not eat. When the food was not prepared with the right sauce, man would not eat. Although there are plenty of meats, they should not be cooked more than staple food. There is no limit for alcohol, before a man gets drunk. The Lüshi chunqiu notes: "Only if one is chosen as the Son of Heaven will the tastiest delicacies be prepared [for him]."
+The Zhaohun (4–3rd c. BC) gives some examples: turtle ragout, honey cakes and beer (chilled with ice).
+During Shi Huangdi's Qin dynasty, the empire expanded into the south. By the time of the Han dynasty, the different regions and cuisines of China's people were linked by major canals and leading to greater complexity in the different regional cuisines. Not only is food seen as giving "qi", energy, but the food is also about maintaining yin and yang. The philosophy behind it was rooted in the I Ching and Chinese traditional medicine: food was judged for color, aroma, taste, and texture and a good meal was expected to balance the Four Natures ('hot', warm, cool, and 'cold') and the Five Tastes (pungent, sweet, sour, bitter, and salty). Salt was used as a preservative from early times, but in cooking was added in the form of soy sauce, and not at the table.
+By the Later Han period (2nd century), writers frequently complained of lazy aristocrats who did nothing but sit around all day eating smoked meats and roasts.
+During the Han dynasty, the Chinese developed methods of food preservation for military rations during campaigns such as drying meat into jerky and cooking, roasting, and drying grain.
+Chinese legends claim that the roasted, flat bread shaobing was brought back from the Xiyu (the Western Regions, a name for Central Asia) by the Han dynasty General Ban Chao, and that it was originally known as hubing (胡餅, lit. "barbarian bread"). The shaobing is believed to be descended from the hubing. Shaobing is believed to be related to the Persian nan and Central Asian nan, as well as the Middle Eastern pita. Foreign westerners made and sold sesame cakes in China during the Tang dynasty.
+During the Southern and Northern dynasties non-Han people like the Xianbei of Northern Wei introduced their cuisine to northern China, and these influences continued up to the Tang dynasty, popularizing meat like mutton and dairy products like goat milk, yogurts, and Kumis among even Han people. It was during the Song dynasty that Han Chinese developed an aversion to dairy products and abandoned the dairy foods introduced earlier.
+The Han Chinese rebel Wang Su who received asylum in the Xianbei Northern Wei after fleeing from Southern Qi, at first could not stand eating dairy products like goat's milk and meat like mutton and had to consume tea and fish instead, but after a few years he was able to eat yogurt and lamb, and the Xianbei Emperor asked him which of the foods of China (Zhongguo) he preferred, fish vs mutton and tea vs yogurt.
+
+Post-Tang dynasty
+The great migration of Chinese people south during the invasions preceding and during the Song dynasty increased the relative importance of southern Chinese staples such as rice and congee. Su Dongpo has improved the red braised pork as Dongpo pork. The dietary and culinary habits also changed greatly during this period, with many ingredients such as soy sauce and Central Asian influenced foods becoming widespread and the creation of important cookbooks such as the Shanjia Qinggong (Chinese: 山家清供; pinyin: Shānjiā qīnggòng) and the Wushi Zhongkuilu (Chinese: 吳氏中饋錄; pinyin: Wúshì zhōngkuìlù) showing the respective esoteric foods and common household cuisine of the time.
+The Yuan and Qing dynasties introduced Mongolian and Manchu cuisine, warm northern dishes that popularized hot pot cooking. During the Yuan dynasty many Muslim communities emerged in China, who practiced a porkless cuisine now preserved by Hui restaurants throughout the country. Yunnan cuisine is unique in China for its cheeses like Rubing and Rushan cheese made by the Bai people, and its yogurt, the yogurt may have been due to a combination of Mongolian influence during the Yuan dynasty, the Central Asian settlement in Yunnan, and the proximity and influence of India and Tibet on Yunnan.
+As part of the last leg of the Columbian Exchange, Spanish and Portuguese traders began introducing foods from the New World to China through the port cities of Canton and Macau. Mexican chili peppers became essential ingredients in Sichuan cuisine and calorically dense potatoes and corn became staple foods across the northern plains.
+During the Qing dynasty, Chinese gastronomes such as Yuan Mei focused upon the primary goal of extracting the maximum flavour of each ingredient. As noted in his culinary work the Suiyuan shidan, however, the fashions of cuisine at the time were quite varied and in some cases were flamboyantly ostentatious, especially when the display served also a formal ceremonial purpose, as in the case of the Manchu Han Imperial Feast.
+As the pace of life increases in modern China, fast food like fried noodles, fried rice and gaifan (dish over rice) become more and more popular.
+
+Regional cuisines
+Chinese cuisine exhibits an immense amount of regional diversity. A number of different styles contribute to Chinese cuisine but perhaps the best known and most influential are Cantonese cuisine, Shandong cuisine, Jiangsu cuisine (specifically Huaiyang cuisine) and Sichuan cuisine. These styles are distinctive from one another due to factors such as availability of resources, climate, geography, history, cooking techniques and lifestyle.
+One style may favour the use of garlic and shallots over chili and spices, while another may favour preparing seafood over other meats and fowl. Jiangsu cuisine favours cooking techniques such as braising and stewing, while Sichuan cuisine employs baking. Zhejiang cuisine focuses more on serving fresh food, Fujian cuisine is famous for its seafood and soups and the use of spices, Hunan cuisine is famous for its hot and salty taste, Anhui cuisine incorporates wild ingredients for an unusual taste.
+Based on the raw materials and ingredients used, the method of preparation and cultural differences, a variety of foods with different flavors and textures are prepared in different regions of the country. Many traditional regional cuisines rely on basic methods of preservation such as drying, salting, pickling and fermentation.
+In addition, the "rice theory" attempts to describe cultural differences between north and south China; in the north, noodles are more consumed due to wheat being widely grown whereas in the south, rice is more preferred as it has historically been more cultivated there.
+
+Staple foods
+Chinese ancestors successfully planted millet, rice, and other grains about 8,000 to 9,000 years ago. Wheat, another staple, took another three or four thousand years. For the first time, grains provided people with a steady supply of food. Because of the lack of various foods, Chinese people had to adapt to new eating habits. Meat was scarce, and so people cooked with small amounts of meat and rice or noodles.
+
+Rice
+Rice was domesticated in the Yangtze River basin in southern China approximately 9,000 years ago and is a primary staple food for people from rice farming areas in southern China. Steamed rice (Chinese: 米饭 mǐfàn), usually white rice, is the most commonly eaten form. People in South China also like to use rice to make congee as breakfast. Rice is also used to produce beer and vinegar. Glutinous rice ("sticky rice") is a variety of rice used in special dishes such as lotus leaf rice and glutinous rice balls.
+
+Wheat
+In wheat-farming areas in Northern China, people largely rely on flour-based food, such as noodles, bing (bread), jiaozi (a kind of Chinese dumplings), and mantou (a type of steamed buns). Wheat likely "appeared in the lower Yellow River around 2600 Before Common Era (BCE), followed by Gansu and Xinjiang around 1900 BCE and finally occurred in the middle Yellow River and Tibet regions by 1600 BCE".
+
+Noodles
+Noodles (Chinese: 面/麵 miàn) were invented in China over 4,000 years ago and have since spread across the world. Chinese noodles come dry or fresh in a variety of sizes, shapes and textures and are often served in soups or fried as toppings. Some varieties, such as Shou Mian (寿面, literally noodles of longevity), is an avatar of long life and good health according to Chinese traditions. Noodles can be served hot or cold with different toppings, with broth, and occasionally dry (as is the case with mi-fen). Noodles are commonly made with rice flour or wheat flour, but other flours such as soybean are also used in minor groups. Some noodles names describe their methods of creation, such as the hand-pulled noodle.
+
+Soybean products
+Tofu is made of soybeans and is another popular food product that supplies protein. The production process of tofu varies from region to region, resulting in different kinds of tofu with a wide range of texture and taste. Other products such as soy milk, soy paste, soy oil, and fermented soy sauce are also important in Chinese cooking.
+There are many kinds of soybean products, including tofu skin, smoked tofu, dried tofu, and fried tofu.
+
+Stinky tofu is fermented tofu. Like blue cheese or durian, it has a very distinct, potent and strong smell, and is an acquired taste. Hard stinky tofu is often deep-fried and paired with soy sauce or salty spice. Soft stinky tofu is usually used as a spread on steamed buns.
+Doufuru is another type of fermented tofu that has a salty taste. Doufuru can be pickled together with soy beans, red yeast rice or chili to create different color and flavor. This is more of a pickled type of tofu and is not as strongly scented as stinky tofu. Doufuru has the consistency of slightly soft blue cheese, and a taste similar to Japanese miso paste, but less salty. Doufuru can be used as a spread on steamed buns, or paired with rice congee.
+Sufu is one other type of fermented tofu that goes through ageing process. The color (red, white, green) and flavor profile can determine the type of sufu it is. This kind of tofu is usually eaten alongside breakfast rice.
+Soybean milk is soybean-based milk. It is a morning beverage, and it has many benefits to human health.
+
+Vegetables
+Apart from vegetables that can be commonly seen, some unique vegetables used in Chinese cuisine include baby corn, bok choy, snow peas, Chinese eggplant, Chinese broccoli, and straw mushrooms. Other vegetables, including bean sprouts, pea vine tips, watercress, lotus roots, chestnuts, water chestnuts, and bamboo shoots, are also used in different cuisines of China.
+Because of different climate and soil conditions, cultivars of green beans, peas, and mushrooms can be found in rich variety.
+A variety of dried or pickled vegetables are also processed, especially in drier or colder regions where fresh vegetables were hard to get out of season.
+
+Herbs and seasonings
+Seasonings such as fresh ginger root, garlic, scallion, cilantro and sesame are widely used in many regional cuisines. Sichuan peppercorns, star anise, cinnamon, fennel, cloves and white peppers and smart weed are also used in different regions.
+To add extra flavor to the dishes, many Chinese cuisines also contain dried Chinese mushrooms, dried baby shrimp, dried tangerine peel, and dried Sichuan chillies.
+When it comes to sauces, China is home to soy sauce, which is made from fermented soybeans and wheat. A number of sauces are also based on fermented soybeans, including hoisin sauce, ground bean sauce and yellow bean sauce. There are also different sauces preferred by regional cuisines, oyster sauce, fish sauce and furu (fermented tofu) are also widely used. Vinegar also has a variety with different flavors: clear rice vinegar, Chinkiang black rice vinegar, Shanxi vinegar, Henghe vinegar etc.
+
+Meat
+The most commonly consumed meat in China is pork. As of at least 2024, China is the second largest beef consuming market in the world. Steakhouses and hot pot restaurants serving beef are becoming increasingly popular in urban China. Chinese consumers particularly value freshly slaughtered beef.
+
+Desserts and snacks
+Generally, seasonal fruits serve as the most common form of dessert consumed after dinner.
+Dim sum (点心), originally means a small portion of food, can refer to dessert, or pastries. Later to avoid disambiguation, tian dian (甜点) and gao dian (糕点) are used to describe desserts and pastries.
+Traditionally, Chinese desserts are sweet foods and dishes that are served with tea, usually during the meal, or at the end of meals in Chinese cuisine.
+Besides being served as dim sum along with tea, pastries are used for celebration of traditional festivals. The most famous one is moon cake, used to celebrate the Mid-Autumn Festival.
+A wide variety of Chinese desserts are available, mainly including steamed and boiled sweet snacks. Bing is an umbrella term for all breads in Chinese, also including pastries and sweets. These are baked wheat-flour-based confections, with different stuffings including red bean paste, jujube, and a variety of others. Su (酥) is another kind of pastry made with more amount of oil, making the confection more friable. Chinese candies and sweets, called táng (糖) are usually made with cane sugar, malt sugar, honey, nuts, and fruit. Gao or Guo are rice-based snacks that are typically steamed and may be made from glutinous or normal rice.
+Another cold dessert is called baobing, which is shaved ice with sweet syrup. Chinese jellies are known collectively in the language as ices. Many jelly desserts are traditionally set with agar and are flavoured with fruits, known as guodong (果冻), though gelatine based jellies are also common in contemporary desserts.
+Chinese dessert soups are typically sweet and served hot.
+European pastries are also seen in China, like mille-feuille, crème brûlée, and cheesecake, but they are generally not as popular because the Chinese preference of dessert is mildly sweet and less oily.
+
+Many types of street foods, which vary from region to region, can be eaten as snacks or light dinner. Prawn crackers are an often-consumed snack in Southeast China.
+
+Dairy products
+Chinese in earlier dynasties evidently drank milk and ate dairy products, although not necessarily from cows, but kumis (fermented mare's milk) or goat's milk. Kumis was historically consumed in northern China.
+China also has a number of native cheeses, mostly of the non-Han culinary traditions. Nguri, however, is a traditional cheese of southern China — mainly Fujian, Guangdong, and the area around Shanghai — historically consumed by the Han. It is a buffalo-milk cheese traditionally served in small amounts on congee. China's non-Han cheeses include Uyghur kurut, Mongolian byaslag and eezgii, Tibetian chhurpi, and Yi rushan and rubing.
+
+Historically, many Chinese chefs tried not to use milk, because of the high rate of lactose intolerance among the Chinese population. However, today, dairy products are increasingly used in Chinese cuisine, such as the "double skin milk" dessert in Guangdong Province, yoghurt in Qinghai and Xinjiang, and milk candies such as White Rabbit. China has a wide variety of dairy desserts that are very popular.
+
+Cold dishes
+Cold dishes are usually served before the main meal. Besides salad and pickles as appetizers, they can range from jelly, beancurd, noodle salad, cooked meat, and sausages to jellyfish or cold soups.
+
+Chinese sausages vary from region to region. The most common sausage is made of pork and pork fat. The flavor is generally salty-sweet in Southern China. In other parts of China, sausages are salted to be preserved. Chinese sausage is prepared in many different ways, including oven-roasting, stir-frying, and steaming.
+
+Soups
+In some part of South China, soups (Chinese: 湯/汤 tāng) are served between the cold dishes and the main dishes. In other parts of China, soups are served between the main dish and staple foods, before desserts or fruit salad. There are many traditional Chinese soups, such as wonton soup, herbal chicken soup, hot and sour soup, winter melon soup, and so on.
+
+Drinks
+Tea (Chinese: 茶 chá) plays an important role in Chinese dining culture. In China, there are two main types of tea, one is made from dried tea leaves, the other one is made by extracts from tea leaves. Baijiu and huangjiu as strong alcoholic beverages are preferred by many people as well. Wine is not so popular as other drinks in China that are consumed whilst dining, although they are usually available in the menu.
+
+Tea
+As well as with dim sum, many Chinese drink their tea with snacks such as nuts, plums, dried fruit (in particular jujube), small sweets, melon seeds, and waxberry. China was the earliest country to cultivate and drink tea, which is enjoyed by people from all social classes. Tea processing began after the Qin and Han dynasties.
+The different types of Chinese tea include red (known as "black tea" outside of East Asia), white, green, yellow, oolong, and black (often called "dark tea" in English to differentiate it from "black tea"). Chinese tea is often classified into several different categories according to the variety of the tea plant from which it is sourced, the region in which it is grown, and the method of production used.
+Flavored and scented teas originated in China. Jasmine, osmanthus, chrysanthemum, and ginseng are popular varieties.
+Historically, compressed tea dominated and powdered tea known as matcha would be made from it. This was later supplanted by loose-leaf tea. Fermented tea drinks like kombucha originated in China, but kombucha is now better known outside of China than within the country.
+There are four major tea plantation regions: Jiangbei, Jiangnan, Huanan and the southwestern region. Well known types of green tea include Longjing, Huangshan Maofeng, Bilochun, Putuofeng Cha, and Liu'an Guapian. China is the world's largest exporter of green tea.
+One of the most ubiquitous accessories in modern China, after a wallet or purse and an umbrella, is a double-walled insulated glass thermos with tea leaves in the top behind a strainer.
+
+Alcoholic beverages
+The importance of baijiu (lit. "white liquor") in China (99.5% of its alcoholic market) makes it the most-consumed alcoholic spirit in the world. It dates back to the introduction of distilling during the Song dynasty; can be made from wheat, corn, or rice; and is usually around 120 proof (60% ABV). The most ubiquitous brand is the cheap Er guo tou, but Mao Tai is the premium baijiu. Other popular brands include Kang, Lu Zhou Te Qu, and Wu Liang Ye.
+
+Huangjiu (lit. "yellow liquor") is not distilled and is a strong rice wine (10–15% ABV). Popular brands include Shaoxing Lao Jiu, Shaoxing Hua Diao, and Te Jia Fan.
+While fermented grain beverages have been brewed in China for over 9,000 years, it has been long overshadowed by stronger alcohol like Baijiu and Huangjiu.
+In China, plum wine made from the plum blossom is called méijiǔ (梅酒).
+
+Herbal drinks
+Chinese herb tea, also known as medicinal herbal tea, is a kind of tea made from Chinese medicinal herbs.
+
+Other beverages
+Suanmeitang is a sweet Chinese beverage made from smoked plums. Soy milk, almond milk, walnut milk and coconut milk are also drunk during the meal in different regions. In some parts of China, hawthorn and jujube juice are preferred.  A small shot of fruit vinegar is served as an appetizer in Shanxi. 
+Nai lao or Beijing yogurt is a drinkable yogurt traditional to northern China.
+
+Outside China
+Where there are historical immigrant Chinese populations, the style of food has evolved and been adapted to local tastes and ingredients, and modified by the local cuisine, to greater or lesser extents. This has resulted in a deep Chinese influence on other national cuisines such as Cambodian cuisine, Filipino cuisine, Singaporean cuisine, Thai cuisine and Vietnamese cuisine.
+Chinatowns across the world have been instrumental in shaping the national cuisines of their respective countries, such as the introduction of a street food culture to Thailand in Bangkok Chinatown. There are also a large number of forms of fusion cuisine, often popular in the country in question. Some, such as ramen (Japanese Chinese cuisine), which originated in Yokohama Chinatown, have become popular internationally.
+Deep-fried meat combined with sweet and sour sauce as a cooking style receives an enormous preference outside of China. Therefore, many similar international Chinese cuisines are invented based on sweet and sour sauce, including Sweet and sour chicken (Europe and North America), Manchurian chicken (India) or tangsuyuk (South Korea).
+
+Apart from the host country, the dishes developed in overseas Chinese cuisines are heavily dependent on the cuisines derived from the origin of the Chinese immigrants. In Korean Chinese cuisine, the dishes derive primarily from Shandong cuisine while Filipino Chinese cuisine is strongly influenced by Fujian cuisine. American Chinese cuisine has distinctive dishes (such as chop suey) originally based on Cantonese cuisine, which are more popular among non-Chinese Americans than with Chinese Americans themselves.
+Chinese diaspora cuisine includes dishes that originated in mainland China but evolved abroad through migration and local adaptation. Examples include the St. Paul sandwich in the United States, bakmi ayam in Indonesia, pancit canton in the Philippines, and hủ tiếu in Vietnam, all of which reflect changes in ingredients, preparation methods, and eating habits shaped by regional tastes and availability.
+
+Dining etiquette
+Youths should not begin eating before their elders do. When eating from a bowl, one should not hold it with its bottom part, because it resembles the act of begging. Chopsticks are the main eating utensils for Chinese food, which can be used to cut and pick up food. When someone is taking a break from eating at the table, they should not put the chopstick into the rice vertically, because it resembles the Chinese traditional funeral tribute, which involves putting chopsticks inside a bowl of rice vertically. It is considered inappropriate to use knives on the dining table. Chopsticks should not be waved around in the air or played with. Food should first be taken from the plate in front. It is considered impolite to stare at a plate. Watching TV, using mobile phones or doing other activities while eating is considered in poor taste. If an older person puts food in a younger person's bowl, the younger person should thank them.
+Chinese culture has guidelines in how and when food are eaten. Chinese people typically eat three meals a day, consisting of breakfast, lunch, and dinner. Breakfast is served around 6–9am, lunch is served around 12–2pm, and dinner is served around 6–9pm. A late night, fourth meal of the day is known as siu yeh and served from 9pm-4am, which is similar to the Western concept of supper. Within the Chinese culture, families do follow different traditions. In some families, the elderly members and youngsters get their meal first, then the mother and father, and then the children and teenagers. Other families have the male and female eat separately at different seating area. Whatever tradition the family decide to follow, it is intended to show respect to members of the family.
+
+Relation to Chinese philosophy and religion
+Food plays various roles in social and cultural life. In Chinese folk religion, ancestor veneration is conducted by offering food to ancestors and Chinese festivals involve the consumption and preparation of specific foods which have symbolic meanings attached to them. Specific religions in China have their own cuisines such as the Taoist diet, Buddhist cuisine and Chinese Islamic Cuisine.
+The Kaifeng Jews in Henan province once had their own Chinese Jewish cuisine but the community has largely died out in the modern era and not much is known about the specifics of their cuisine but they did influence foods eaten in their region and some of their dishes remain. Chinese dishes with purported Kaifeng Jewish roots include Kaifeng xiao long bao, Mayuxing bucket-shaped chicken, Chrysanthemum hot pot, and Four Treasures.
+Food also plays a role in daily life. The formality of the meal setting can signify what kind of relationship people have with one another, and the type of food can indicate ones' social status and their country of origin. In a formal setting, up to sixteen of any combination of hot and cold dishes would be served to respect the guests. On the other hand, in a casual setting, people would eat inexpensive meals such as at food stalls or homemade food. The typical disparity in food in the Chinese society between the wealthy and everyone below that group lies in the rarity and cost of the food or ingredient, such as shark fins and bear paws.
+Depending on whether one chooses to have rice or a meal that is made of wheat flour such as bread or noodles as their main source of food, people within a similar culture or of a different background can make an assumption of the other's country of origin from the south or north of China. Different foods have different symbolic meanings. Mooncakes and dumplings are symbolic of the Mid-autumn festival and the Spring Festival, respectively. Pear symbolizes bad luck due to its similarity in pronunciation of 'away' in the native language and noodle means living a long life for its length.
+In Chinese philosophy, food frequently conveys a message. A Chinese philosophy I Ching says, "Gentlemen use eating as a way to attain happiness. They should be aware of what they say, and refrain from eating too much."
+
+See also
+References
+Sources
+Anderson, Eugene N. (1988). The Food of China. New Haven: Yale University Press. ISBN 0300047398.
+Gernet, Jacques (1962). Daily Life in China on the Eve of the Mongol Invasion, 1250–1276. Stanford University Press. ISBN 0-8047-0720-0. {{cite book}}: ISBN / Date incompatibility (help)
+
+Further reading
+History
+Fu, Jia-Chen; King, Michelle; Klein, Jakob, eds. (2025). Modern Chinese Foodways. MIT Press. ISBN 9780262381642.
+Chang, Kwang-chih (1977). Food in Chinese Culture: Anthropological and Historical Perspectives. New Haven: Yale University Press. ISBN 0300019386.
+David R. Knechtges, "A Literary Feast: Food in Early Chinese Literature," Journal of the American Oriental Society 106.1 (1986): 49–63.
+Newman, Jacqueline M. (2004). Food Culture in China. Westport, Conn.: Greenwood Press. ISBN 0313325812.
+Roberts, J. A. G. (2002). China to Chinatown: Chinese Food in the West. London: Reaktion. ISBN 1861891334.
+Sterckx, Roel. Food, Sacrifice, and Sagehood in Early China. New York: Cambridge University Press, 2011 (2015).
+Sterckx, Roel. Chinese Thought. From Confucius to Cook Ding. London: Penguin, 2019.
+Swislocki, Mark (2009). Culinary Nostalgia: Regional Food Culture and the Urban Experience in Shanghai. Stanford, CA: Stanford University Press. ISBN 9780804760126.
+Waley-Cohen, Joanna (2007). "Celebrated Cooks of China's Past". Flavor & Fortune. 14 (4): 5–7, 24. Archived from the original on 2 April 2015.
+Endymion Wilkinson, "Chinese Culinary History (Feature Review)," China Review International 8.2 (Fall 2001): 285–302.
+Wilkinson, Endymion (2022). Chinese History: A New Manual. Cambridge, MA: Harvard University Press. ISBN 978-0674260184.
+Wu, David Y. H.; Cheung, Sidney C. H. (2002). The Globalization of Chinese Food. Richmond, Surrey: Curzon. ISBN 0700714030.
+
+Cookbooks
+Buwei Yang Chao. How to Cook and Eat in Chinese. (New York: John Day, 1945; revisions and reprints).
+Fuchsia Dunlop. Land of Plenty: A Treasury of Authentic Sichuan Cooking. (New York: Norton, 2003). ISBN 0393051773.
+Fuchsia Dunlop. Revolutionary Chinese Cookbook: Recipes from Hunan Province. (New York: Norton, 2007). ISBN 0393062228.
+Fuchsia Dunlop. Shark's Fin and Sichuan Pepper: A Sweet-Sour Memoir of Eating in China. (New York: Norton, 2008). ISBN 9780393066579.
+Chinese cook book by Vernon Galster
+Emily Hahn, Recipes, The Cooking of China. (Alexandria, Va.: Time-Life Books, Foods of the World, 1981).
+Hsiang-Ju Lin and Tsuifeng Lin. Chinese Gastronomy. (London: Nelson, 1969; rpr.). ISBN 0171470575.
+Yan-Kit So. Classic Food of China. (London: Macmillan, rpr 1994, 1992). ISBN 9780333576717.
+Martin Yan. Martin Yan's Chinatown Cooking: 200 Traditional Recipes from 11 Chinatowns around the World. (New York: Morrow, 2002). ISBN 0060084758.
+Georgina Freedman. Cooking South of The Clouds: Recipes and Stories From China's Yunnan Province. (Octopus; Kyle, 2018). ISBN 9780857834980.
+
+External links
+
+K.C. Chang "Food in Chinese Culture" Asia Society
+"Chinese food made easy" at the BBC
+"Chinese Culinary History (Websites for Research) Stony Brook University Libraries.
+
+## List of museums in China
+As of 2025, there are 7,048 museums in China, including 3,054 state-owned museums (museums run by national and local government or universities) and 535 private museums. In 2021, the nation's museums saw approximately 779 million visitors. Some museums of cultural relics, such as the Museum of Qin Terracotta Warriors and Horses in Xi'an, have become internationally known tourist attractions. The government has exchanges of cultural relics exhibitions between museums and promotes the display and exchanges of legal non-governmental collections. The museums are classified into several grades, with the national first-grade museums being the highest classification.
+
+List
+Below is a list of museums in China grouped by the provinces or municipalities where they are located.
+
+Anhui
+Anhui Provincial Museum
+Anhui Hall of Fame
+Anhui Paleontology Fossil Museum
+Bengbu Museum
+China Huizhou Tax Museum
+Ma'anshan Museum
+She County Museum
+
+Beijing
+Beijing Ancient Architecture Museum
+Beijing Folk Arts Museum
+Beijing Liao and Jin City Wall Museum
+Beijing Museum of Contemporary Art
+Beijing Planning Exhibition Hall
+Capital Museum
+China Agricultural Museum
+China Civil Aviation Museum
+China Museum of Telecommunications
+China National Film Museum
+China National Post and Postage Stamp Museum
+China Numismatic Museum
+China Printing Museum
+China Railway Museum
+China Science and Technology Museum
+Dabaotai Western Han Dynasty Mausoleum
+Digital Beijing Building
+Geological Museum of China
+Guanfu Museum (private)
+International Friendship Museum
+Lu Xun Museum
+Military Museum of the Chinese People's Revolution
+Ming City Wall Relics Park
+Museum of the War of Chinese People's Resistance Against Japanese Aggression
+Museum of the Communist Party of China
+National Art Museum of China
+National Museum of China
+National Natural History Museum of China
+Palace Museum (Forbidden City)
+Paleozoological Museum of China
+Shangyuan Art Museum
+Western Zhou Yan State Capital Museum
+Madame Tussauds Beijing
+
+Chongqing
+Baiheliang Underwater Museum
+Chongqing Art Museum
+Chongqing Museum of Natural History
+Chongqing Science and Technology Museum
+Chongqing Sichuan Opera Museum
+General Joseph W. Stilwell Museum
+Red Rock Village Museum
+Three Gorges Museum
+Madame Tussauds Chongqing
+
+Fujian
+Fujian Museum, Fuzhou
+Guanfu Museum (private), Xiamen
+Jinjiang Museum, Jinjiang
+Quanzhou Museum
+Quanzhou Maritime Museum, which houses the Quanzhou ship
+
+Gansu
+Dunhuang County Museum
+Gansu Provincial Museum (Lanzhou)
+Lanzhou Museum (Lanzhou)
+Silk Route Museum
+
+Guangdong
+Dongguan Science and Technology Museum
+Guangdong Museum, Guangzhou
+Nanyue King Museum, Guangzhou
+Guangdong Museum of Art, Guangzhou
+Guangdong Museum of Revolutionary History
+Guangdong Provincial Museum, Guangzhou
+Longgang Museum of Hakka Culture, Longgang
+Pagoda Park Cultural Revolution Museum
+Shenzhen Museum, Shenzhen
+Shenzhen Museum of Contemporary Art and Urban Planning
+Wangye Museum, Shenzhen
+
+Guangxi
+Guangxi Museum
+Anthropology Museum Of Guangxi 
+Liuzhou Museum
+Museum of Guihai Tablets Forest
+
+Guizhou
+Guuzhou Provincial Museum
+
+Hainan
+Hainan Provincial Museum
+
+Hebei
+Hebei Provincial Museum
+
+Harbin
+Harbin Museum of Jewish History and Culture
+
+Heilongjiang
+Heilongjiang Provincial Museum
+
+Henan
+Henan Museum, Zhengzhou
+Luoyang Museum, Luoyang
+Guo State Museum, Sanmenxia
+
+Hong Kong SAR
+Hubei
+Hubei Provincial Museum
+Wuhan Museum
+Underground Project 131, in Xianning Prefecture
+Yifu Museum of China University of Geosciences
+Madame Tussauds Wuhan
+
+Hunan
+Hunan Provincial Museum, Changsha
+Changsha Museum, Changsha
+Changsha Bamboo Slips Museum, Changsha
+Qin Dynasty Bamboo Slips Museum of Liye, Longshan County
+
+Inner Mongolia
+Inner Mongolia Museum, Hohhot
+Hohhot City Museum, Hohhot
+
+Jiangsu
+Nanjing
+China Modern History Museum, Nanjing
+Nanjing Museum
+Nanjing Municipal Museum
+Nanjing Massacre Memorial Hall, Nanjing
+Nanjing Museum of the Site of the Lijixiang Comfort Stations
+Taiping Heavenly Kingdom History Museum, Nanjing
+
+Suzhou
+Suzhou Museum
+Suzhou Arts and Crafts Museum
+Changzhou Museum, Suzhou
+Zhenjiang Museum, Suzhou
+Yangzhou Museum and China Block Printing Museum (the two are locally known as the "double museum", as they share the lobby section), Suzhou
+
+Xuzhou
+Xuzhou Museum
+Xuzhou Decree Museum
+Cultural Site of Han Dynasty
+Lion Hill Chu Prince Mausoleum
+Aquatic Terracotta Warrior Museum
+Museum of Terra Cotta Warriors and Horses of The Han Dynasty
+Han Dynasty Stone Relief Gallery
+Han Dynasty Cultural and Artistic Museum
+
+Other cities
+The Museum of Guangling King's Tomb in Han Dynasty, Yangzhou
+Nantong Museum, Nantong
+The Old Museum of Wisteria, Changzhou
+Red Army Memorial Museum, Rugao
+
+Jiangxi
+Jiujiang British Concession Museum
+Jiujiang Museum
+Jiujiang Folk Culture Museum
+Jiujiang Urban Planning Exhibition Centre
+Jiujiang Fine Arts Museum
+Jiujiang Forest Museum
+
+Jilin
+Museum of the Imperial Palace of the Manchu State, Changchun
+Jilin Provincial Museum
+Jilin University Museum
+
+Liaoning
+Liaoning Provincial Museum
+Dalian Natural History Museum
+Dalian Modern Museum
+Shenyang Steam Locomotive Museum
+
+Macau
+Communications Museum
+Fire Services Museum
+Grand Prix Museum
+Macao Tea Culture House
+Macau Museum of Art
+Macau Wine Museum
+Maritime Museum
+Museum of Macau
+Museum of Sacred Art and Crypt
+Museum of Taipa and Coloane History
+Natural and Agrarian Museum
+Sun Yat Sen Memorial House
+Taipa Houses-Museum
+
+Ningxia
+Ningxia Museum
+
+Qinghai
+Liuwan Museum of Ancient Painted Pottery, Ledu
+
+Shaanxi
+Shaanxi History Museum, Xi'an
+Xi'an Stele Forest Museum (Beilin), Xi'an
+Terracotta Army, Xi'an
+Xi'an Banpo Museum, Xi'an
+Maoling Museum, Xianyang
+Xi'an Museum (within grounds of Jianfu Temple), Xi'an
+Xianyang Museum, Xianyang
+Baoji Bronzeware Museum, Baoji
+HanYangLing Mausoleum Museum, Xi'an
+
+Shandong
+Shandong Art Museum
+Shandong Provincial Museum
+Shandong Science & Technology Museum
+Jinan Museum
+Qingdao Municipal Museum
+
+Shanghai
+Aurora Art Museum
+China Art Museum
+China Maritime Museum
+Chinese Comfort Women History Museum
+C. Y. Tung Maritime Museum
+Fotografiska Shanghai
+Museum of Contemporary Art Shanghai
+Power Station of Art
+Rockbund Art Museum
+Shanghai Art Collection Museum
+Shanghai Entomological Museum
+Shanghai Film Museum
+Shanghai History Museum
+Shanghai International Wine & Spirits Museum
+Shanghai Jewish Refugees Museum
+Shanghai Mazu Cultural Palace
+Shanghai Museum
+Shanghai Museum of Public Security
+Shanghai Museum of Traditional Chinese Medicine
+Shanghai Natural History Museum
+Shanghai Science and Technology Museum
+Shanghai Urban Planning Exhibition Center
+Shanghai Water Displaying Hall
+Site of the First National Congress of the Chinese Communist Party
+Yuz Museum
+Long Museum
+Guangfulin Relics Park
+Madame Tussauds Shanghai
+
+Shanxi
+Chinese Dictionary Museum
+Shanxi Provincial Museum (Taiyuan)
+Shanxi Provincial Museum of Art (Taiyuan)
+Datong Museum (Lower Huayan Monastery of Datong)
+The Coal Museum of China (Taiyuan)
+
+Sichuan
+Zigong Dinosaur Museum, Zigong
+Zigong Salt History Museum, Zigong
+Sichuan Science and Technology Museum, Chengdu
+Du Fu Cao Tang (Thatched Cottage of Du Fu), Chengdu
+Sanxingdui Museum
+Jinsha Site Museum
+China Colour Lantern Museum
+Jianchuan Museum Cluster
+Liu Family Estate Museum, formerly Dayi Landlord Manor Exhibition Hall, in Anren, Dayi County
+
+Tianjin
+Tianjin Museum
+Memorial to Zhou Enlai and Deng Yingchao, Tianjin
+Tianjin Natural History Museum（Musée Hoangho Paiho）
+National Maritime Museum of China
+Tianjin Museum of Modern History
+
+Tibet Autonomous Region
+Tibet Museum
+
+Xinjiang
+Xinjiang Uyghur Autonomous Region Museum
+Khotan Cultural Museum
+Turpan Museum
+
+Yunnan
+Lufeng Dinosaur Museum
+Yunnan Provincial Museum
+Yunnan Nationalities Museum
+Kunming Natural History Museum of Zoology
+Yunnan Railway Museum Kunming.
+
+Zhejiang
+Zhejiang Provincial Museum, Hangzhou
+Zhejiang Museum of Natural History
+Hangzhou Southern Song Dynasty Guan Kiln Museum
+Hangzhou World Numismatic Museum
+Liangzhu Culture Museum
+China National Tea Museum, Hangzhou
+China National Silk Museum, Hangzhou
+Zhoushan Museum
+China Finance and Taxation Museum
+China Shoes Museum, Wenzhou
+China Grand Canal Museum
+The National Sauce Culture Museum of China
+Traditional Chinese Medicine Museum, Hangzhou
+Chinese Seal Museum, Hangzhou
+
+See also
+Libraries in China
+List of universities in China
+List of World Heritage Sites in China
+List of tourist attractions in China
+
+References
+External links
+
+Museums in China (English, by chinaculture.org)
+Museums in China overview
+China Museums directory (in Chinese)
+China Museums Guide
+Beijing's Museums & Galleries - China.org.cn
+Chinese Museums with English language websites
+"China to Have 3,000 Museums by 2015"
+"Another 1,200 museums open for free by 2009"
+Nanjing's Museums & Galleries - TheNanjinger.com
+China Museum Index
+10 Popular Museums worth Visiting on Your China Tour

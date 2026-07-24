@@ -1,0 +1,892 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Portugal
+FILE_NAME: country_portugal.txt
+PROCESSED_DATE: 2026-07-22 15:49:19
+----------------
+
+# Portugal
+
+## General Overview
+Portugal, officially the Portuguese Republic, is a country in Southwestern Europe. It is a unitary republic comprising mainland Portugal, located on the southwestern portion of the Iberian Peninsula and bordered by Spain to the north and east, and the archipelagos of Madeira and the Azores in the Atlantic Ocean. The country has a population of over 11.4 million, and Lisbon, its capital, is the largest city. Portugal's internal waters and territorial sea together account for two-fifths of its territory, and its exclusive economic zone is one of Europe's largest, while its terrain contains a diverse range of landscapes and regional climates.
+The western Iberian Peninsula has been inhabited since prehistory, with the earliest signs of settlement dating to between 5500 BC and 5300 BC. Portugal was established as a county of the Kingdom of León in 868, and formally as a kingdom in 1179 as a result of the Reconquista against the Muslims, who had occupied the Iberian Peninsula since 711. During the Age of Discovery, the kingdom made several advancements in nautical science and maritime exploration to discover new territories and sea routes, which led to the establishment of the Portuguese Empire. The kingdom became a republic in 1910 and was a dictatorship from 1926 until the dictatorship's overthrow in 1974 enabled the full establishment of democracy in 1976.
+Portugal is a semi-presidential constitutional unitary republic and multi-party representative democracy with four separate sovereignty bodies: president, government, parliament, and judiciary. It has a unicameral national legislature known as the Assembly of the Republic. Portugal is divided into two autonomous regions and seven regions on the mainland while it remains highly centralised.
+A developed country, Portugal has an advanced economy that chiefly relies upon services, industry, and tourism. Shaped by the various civilisations that have inhabited its territory, Portugal developed a culture with a worldwide influence that allowed Portuguese to become the world's fifth-most spoken native language with more than 250 million native speakers. With a stable foreign policy shaped by its colonial and diplomatic history and location, Portugal is a member of multiple international organisations and forums.
+
+Etymology
+The word  Portugal derives from Latin Portus Cale, meaning 'port of Cale', itself the origin of Porto, while Cale was a town on the Douro. There is no consensus on the etymology of Cale. It could be an ethnonym derived from the Celtic Gallaeci peoples, who occupied the north-west of the Iberian Peninsula.
+Around 136 BC, the Romans, during the Second Punic War, conquered Cale from the Carthaginians and renamed it Portus Cale. During the Middle Ages, the region around Portus Cale became known by the Visigoths as Portucale and by the Suebi as Parochiale. The name Portucale evolved into Portugale; by the 11th and 12th centuries Portugal was referred to the region between the Douro and Minho rivers.
+
+History
+Prehistory
+The region has been inhabited by humans since approximately 400,000 years ago. Neanderthals roamed the southwestern Iberian peninsula until 37,000 years ago, and a Neanderthal tooth has been found at the Nova da Columbeira Cave in Estremadura. Homo sapiens sapiens arrived in what is now Portugal around 35,000 years ago and spread rapidly. The onset of the Neolithic in the area dates to between 5500 BC and 5300 BC. In southern Portugal, Iron Age inscribed stele have been found, representing an early evidence of writing on the Iberian Peninsula. Pre-Celtic tribes inhabited Portugal and the Lusitanians occupied central, inland regions. Celts inhabited most of the remaining territory of mainland Portugal, leaving lasting traces in the language and culture such as contributing to the formation of Portuguese values and identity, such as saudade.
+
+Antiquity and early Middle Ages
+The Mediterranean coast was well known to the Carthaginians, whose close relations with Phoenician-Punic settlements likely gave them considerable political and economic influence there from the 6th or 5th century BC. After Carthage's defeat by Rome in the First Punic War, it sought new western territories, culminating in the Barcid conquest of the Iberian Peninsula in 237 BC.
+Romans invaded the Iberian Peninsula in 218 BC. The Carthaginians were expelled from the peninsula in 206 BC after the Battle of Ilipa. Within 200 years, mainland Portugal, together with the rest of the Iberian Peninsula had been annexed by the Romans despite resistance from local tribes such as the Lusitanians under the leadership of various leaders such as Viriathus.
+In 409, with the decline of the Western Roman Empire, the Iberian Peninsula was invaded by Germanic tribes. Western Iberia was integrated into the Suebian Kingdom, with its capital in or near Braga. The Visigoths defeated the Suebi and ruled the peninsula until the early 8th century.
+In 711, the Iberian Peninsula was invaded from the south by the Umayyad Caliphate, which expanded rapidly and by 716 most of the peninsula was part of al-Andalus. The Umayyads ruled al-Andalus until it fragmented into small states, with the caliphate being abolished in 1031, and most of what is now central and southern Portugal falling under the Taifa of Badajoz. These were conquered by the Almoravids, who were in turn followed by the Almohads. Northern incursions also occurred during this period, with Viking raids recorded from 844 into the 11th century.
+
+Reconquista and independence
+The Reconquista was a series of military and cultural campaigns by northern Iberian Christian polities against the Muslim-ruled al-Andalus. It could have begun with the defeat of Umayyad forces at the Battle of Covadonga by Pelagius, a Visigothic nobleman, although the historicity of both Pelagius and the event remains unestablished. In 868, the region between the Minho and the Douro rivers was secured from the Moors and constituted as the County of Portugal under Vímara Peres. The first county of Portugal lasted until it was abolished following the Battle of Pedroso, in 1071. In 1096, Alfonso VI of León refounded the county and bestowed it on Henry of Burgundy, who married Alfonso's illegitimate daughter, Teresa of León.
+
+After Count Henry's death in 1112, Teresa ruled the county as regent for her son Afonso Henriques. Her close association from 1121 with Fernão Peres de Trava, a Galician noble, displeased the local nobility, who sided with Afonso Henriques and defeated her, Fernão Peres de Trava, and their supporters at the Battle of São Mamede in 1128. The following year, Afonso claimed sole authority over the entire county, free from foreign influence. According to legend, he won the Battle of Ourique and took the title of King in 1139. Afonso's claim is documented as having been recognized by Alfonso VII of León at the Conference of Zamora in 1143, and by Pope Alexander III in 1179 through the papal bull Manifestis Probatum.
+With the support of north-European crusaders and Christian military orders, Afonso Henriques and his successors continued pushing south until the capture of Algarve which was recognised as Portuguese territory in 1267. With minor readjustments, Portugal's borders have largely remained the same since the signing of the Treaty of Alcañices in 1297. Between the 14th and early 15th century, Portugal was strucked by several outbreaks of the plague, civil wars, invasions, famines, and natural disasters that led to a population decrease, labour shortages, and rise in antisemitism. In 1386, during the reign of King John I, Portugal cemented its alliance with England with the signing of the Treaty of Windsor, making it the oldest standing alliance in the world.
+
+Age of Discovery
+The unpopularity of Leonor Teles, regent for her daughter Beatrice, wife of John I of Castile, triggered a crisis in 1383 compounded by fears that the marriage could lead to the loss of Portugal's independence. In 1385, John of Aviz was elected king and later defeated the Castilians in the Battle of Aljubarrota consolidating the House of Aviz's rule over the country. The dynasty contributed to the conditions for Portugal's maritime expansion, elevating it in European politics and culture. Portugal acquired its first colonies by conquering Ceuta in 1415. The country was among the first to start the Age of Discovery, and its scientific advances influenced other European countries' overseas expansions.
+Portugal was the first and the last colonial power in the era of modern European colonialism, and by the mid-16th century it controlled a network of possessions stretching from Lisbon to Japan and Timor through Brazil. Throughout the 15th and 16th centuries, Portuguese explorers sailed the coast of Africa, establishing trading posts for commodities especially gold and slaves, explored the Indian Ocean and eastern Asia, established trade routes in most of southern Asia taxing most trade criss-crossing the Indian Ocean. The 1494 Treaty of Tordesillas divided newly encountered non-European territories between Portugal and Spain along a meridian west of Cape Verde, while the 1529 Treaty of Zaragoza extended this partition to the Pacific Ocean. In 1498, Vasco da Gama reached India by sea, and two years later Pedro Álvares Cabral landed in Brazil and claimed it for Portugal. Between 1519 and 1522, Ferdinand Magellan organised a Spanish expedition to the East Indies that completed the first circumnavigation of the globe. During the 15th century, Portugal established the transatlantic slave-trade circuits and, by the mid-19th century, had become one of the longest-active and a significant participant in the Atlantic slave trade.
+
+Iberian Union and Restoration
+The 1578 death of King Sebastian in battle and the subsequent 1580 death of King Henry without a named heir, precipitated a succession crisis. Philip II of Spain, whose mother was Isabella of Portugal, was one of the candidates for the throne. In 1581 he was acclaimed king of Portugal, creating a personal union between the two kingdoms. This deprived Portugal of an independent foreign policy and led to the Dutch-Portuguese War.
+On 15 December 1640, John, Duke of Braganza, was proclaimed king following an uprising led by some nobles on 1 December, ending the Iberian Union under the House of Habsburg, and beginning the rule of the House of Braganza. Following the Portuguese Restoration War, Spain recognised Afonso VI as king of Portugal. During the reign of John V, the large influx of Brazilian gold into the royal treasury, chiefly through the royal fifth, produced a resource curse that weakened industry and cereal production, created a gold rush from Portugal to Brazil, and led to prolonged economic stagnation, permanent reduction of income growth, and the interruption of the institutional and economic progress achieved in the 17th century.
+After the depletion of gold revenues, Portugal was left with a weak industrial base and backward institutional and educational structures, a condition exacerbated by Sebastião José de Carvalho e Melo, 1st Marquis of Pombal, who emerged as the country's de facto ruler in the aftermath of the 1755 earthquake and tsunami, a natural disaster that shook the kingdom and recognized as one of the worst to ever occur. Pombal's failed industrialisation efforts, education policies that weakened human-capital formation, and expulsion of the Jesuits, reducing student numbers and contributing to Portugal's decline in literacy. Pombal's instrumentalisation of the Inquisition for political purposes, helping to entrench an extractive system that outlasted his rule. The nature of the existing political institutions contributed to Portugal's sustained divergence from Western Europe despite comparable family values and high state capacity, with partial recovery beginning from around the mid-20th century.
+
+Constitutional monarchy
+In 1807, Portugal refused Napoleon's demand to join the Continental System of embargo against the United Kingdom; an invasion led by French General Junot followed, and Lisbon was captured in 1807. During the Napoleonic invasions, the Portuguese royal family transferred the court to Rio de Janeiro, in Brazil, making it the capital between 1808 and 1821. British intervention in the Peninsular War helped support Portuguese independence, and all French troops were expelled by 1812.
+In 1820, an uprising in Porto sought to establish a constitution for Portugal and led to the return of King John VI and his court to mainland Portugal in 1821. Although the 1822 Constitution was adopted, the process was marked by compromise and efforts at consensus, which allowed absolutist forces to regain strength, culminating in Miguelist counter-revolts against liberalism, prompting Prince Miguel's exile. After John VI's death in 1826, his eldest son, Pedro I of Brazil, briefly reigned as Pedro IV of Portugal, granted the 1826 Charter, and abdicated in favour of his minor daughter, Maria da Glória, on the condition that she marry Miguel, who was appointed regent. Although Miguel's return was under the condition of swearing allegiance to the Charter, he soon dismantled liberal institutions and was proclaimed king in 1828, leading to the Liberal Wars, after which Pedro forced Miguel's abdication in favour of Maria and his exile causing absolutist ideology to wane. Under the constitutional monarchy, the country faced economic crises, political instability, and several coups d'état. At the same time it expanded its colonies in Africa, but this culminated in the 1890 British Ultimatum, which thwarted Portugal's imperialist ambitions and represented a devastating blow to the monarchy.
+
+First Republic and Estado Novo
+In 1908, King Carlos I and Luís Filipe, Prince Royal, were assassinated by republican partisans. In 1910, the monarchy was replaced with a republic. During World War I, Portugal fought for the Allies. However, the war increased political instability and deepened the economic crisis creating further chaos and unrest during the First Republic. These conditions led to the overthrow of the Republic in 1926 and the establishment of the Ditadura Nacional, which eventually evolved into the right-wing dictatorship of the Estado Novo, under António de Oliveira Salazar.
+During the Estado Novo, Portugal remained neutral in World War II, after which the postwar decline of colonial legitimacy and the growth of African independence movements increasingly challenged Portuguese rule overseas. The regime introduced reforms intended to strengthen ties between the metropole and the colonies, yet the empire was no unified customs and economic area. Indigenous peoples already second-class citizens, saw limited improvements in living conditions further fuelled nationalist movements, ultimately leading to the Portuguese Colonial War from 1961 to 1974.
+
+Return to democracy
+On 25 April 1974, the Carnation Revolution overthrew the Estado Novo regime, initiating the transition to democracy and also the dissolution of the Portuguese empire, from the independence of the African colonies to the Handover of Macau in 1999. During the Ongoing Revolutionary Process (PREC), Portugal was governed by a succession of unstable provisional governments amid significant social and political tension, until the failed coup of 25 November 1975 cleared the way for the approval of a new constitution and the holding of new elections.
+After the transition to democracy, in the late 1970s and throughout the 1980s, under the influence by new economic insights, Portugal set about dismantling socialist policies from that period and moving towards neoliberalism. In 1986, Portugal joined the European Economic Community (EEC), which led to a considerable growth of its economy. The 2010–2014 Portuguese financial crisis resulted in an international bailout and intense austerity policies, causing lasting social impacts.
+
+Geography
+Portugal's territory comprises mainland Portugal and the Azores and Madeira archipelagos. The mainland, commonly referred to as Continental Portugal, is located in the southwest of the Iberian Peninsula in Southwestern Europe, while Madeira and the Azores lie in the Atlantic Ocean. The country's land area is 92,225 km2 (35,608 sq mi), although Portuguese law defines the country's size as 156,597 km2 (60,462 sq mi) which includes about 64,000 km2 (24,711 sq mi) of ocean waters. Portugal's exclusive economic zone extends 1,727,408 km2 (666,956 mi2), making it one of the largest in the European Union. The country is over two-thirds wilderness, almost one-fourth agricultural, and the remainder human settlements. Its highest point is the summit of Mount Pico, located on Pico Island in the Azores, which rises to an elevation of 2,351 m (7,713 ft) above sea level. Portugal can be divided into four morphostructural units: the Hesperian Massif, which occupies most of mainland Portugal; the sedimentary borderlands of the massif,  forming the Lusitanian and Algarve basins; the Lower Tagus and Alvalade sedimentary basins; and the volcanic submarine ranges that form the Azores and Madeira. Its geological and geomorphological features are largely the product of the Variscan, responsible for the formation of the Hesperian Massif, and later the Tethys–Atlantic cycle, responsible for the remaining units. Regional tectonic processes affected mainland Portugal's morphostructural units differently, producing relief variations that subdivide the territory into ten regional geomorphological units shaped by the different regional impacts of the Cenozoic tectonics, regional asymmetries of climate in the Paleogene, Neogene, and Quaternary, and the varied response of different lithologies to tectonic activity and climatic variability.
+Continental Portugal is predominantly low-altitude, with over 70% of the territory lying below 400 m (1,300 ft) and less than 12% rising above 700 m (2,300 ft) of elevation. Its geography is structured by the Tagus River, which enters from Spain and flows into the Tagus Estuary, as 95% of areas exceeding 400 m (1,300 ft) are situated to the north of the river while the regions south of the Tagus, encompassing Alentejo and the Algarve, have 62% of the lands below 200 m (660 ft). The territory north of the Tagus is marked by mountains and plateaus incised by river valleys, whereas the south is distinguished by rolling plains.
+The Madeira archipelago comprises the islands of Madeira and Porto Santo, together with the Desertas and Savage Islands, all of which are of volcanic origin. Approximately one-third of Madeira Island lies above 1,000 metres (3,300 ft) in elevation, and its landscape is characterised by a dense network of deep valleys with slopes rising several hundred metres, as well as streams that originate in the island's centre and diverge towards the coast, sustained by abundant rainfall. The steep gradient and very high rainfall is a cause of flash floods with high sediment transport.
+The Azores is an archipelago composed of nine volcanic islands which, from west to east, are Flores, Corvo, Faial, Pico, São Jorge, Graciosa, Terceira, São Miguel, and Santa Maria. The islands retain much of their volcanic landforms, most visibly in volcanic cones and in the lakes that shape the scenery of the islands especially São Miguel, Flores, Terceira, Pico, and Corvo. Although rainfall is abundant, most streams in the Azores are temporary. The small size of the catchments, the slopes' steepness, and deforestation accentuates the torrential regime of the rivers during periods of intense precipitation causing erosion problems and floods.
+
+Climate
+The climate of mainland Portugal and Madeira, together with their surrounding waters, is Mediterranean, whereas the Azores and its adjacent waters mainly have a temperate oceanic climate. Portugal's terrain has a diverse variety of regional climates for its size. The high altitude zones of the Azorean islands have a temperate maritime climate while the western Azores have a humid subtropical climate. In parts of Beja and on Porto Santo Island the climate is semi-arid. In the Savage Islands the climate is that of a hot desert. The average temperature in Portugal varies from 4–20 °C (39.2–68.0 °F) in the mainland, around 18 °C (64.4 °F) in the Azores, and 9–19 °C (48.2–66.2 °F) in Madeira.
+The Iberian Peninsula is located at the southern margin of the temperate zone and at the northern margin of the subtropical high-pressure zone. Additionally, Portugal's climate is influenced by the seasonal latitudinal shift of the jet stream, which directly impacts the trajectory of the polar front. Typically in the winter, the jet stream moves southwards and Portugal comes under the influence of the polar front, producing colder temperatures. When the polar front moves northward, Portugal comes under the influence of the Azores High bringing atmospheric stability during the summer.
+Wildfires remain a serious challenge in Portugal, with nearly 30% of those recorded in 2024 having an undetermined origin and arson accounting for almost five-sixths of the total burned area. Between 2014 and 2024, Portugal recorded an annual average of 12,496 fires and 112,455 ha (434 sq mi) burned, making it the European Union country with both the highest average number of wildfires and the greatest average burned area over that period. Climate change is projected to raise average temperatures in Portugal by as much as 3–4 °C (37.4–39.2 °F) by 2100 relative to the 1990s–2010s average,  with impacts in water, ecosystem, agriculture, health, and security.
+
+Biodiversity
+Portugal is located on the Mediterranean basin, a biodiversity hotspot. It is home to six terrestrial ecoregions: Azores temperate mixed forests, Cantabrian mixed forests, Madeira evergreen forests, Iberian sclerophyllous and semi-deciduous forests, Northwest Iberian montane forests, and Southwest Iberian Mediterranean sclerophyllous and mixed forests. Almost a quarter of its land area is included in the Natura 2000 network. Native species such as holm oak, cork oak, stone pine, and maritime pine make up 72% of the total forested area of continental Portugal.
+The Portuguese west coast is part of the four major Eastern Boundary Upwelling Systems of the ocean. Portugal and Spain together have a high proportion of endemism among freshwater fish, with 73% of the freshwater fish species being endemic. Among Portugal's protected areas are the Southwest Alentejo and Vicentine Coast Natural Park, one of Europe's last remaining stretches of wild coastline, and Montesinho Natural Park, which preserves one of the few thriving Mediterranean mountain landscapes.
+Geographical and climatic conditions facilitate the introduction of exotic species that later turn out to be invasive to the native habitats. Over one-fourth of extant plant species in continental Portugal are exotic. Portugal has one of the highest numbers of threatened animal and plant species in Europe. The country as a whole is an important stopover for migratory bird species. The mammalian species of Portugal such as red deer, Iberian ibex, wild boar, red fox, Iberian wolf, and Iberian lynx were once widespread throughout the country, but intense hunting, habitat degradation, and growing pressure from agriculture and livestock largely reduced their populations in the 19th and 20th centuries. Others species, such as the Portuguese ibex, became extinct, but some mammalian species, such as the red deer, have been re-expanding their native range.
+
+Government and politics
+Portugal has been a semi-presidential representative democratic republic since the ratification of the Constitution of 1976. The Constitution makes for a separation of powers among four sovereignty bodies: the president, the government, the Assembly of the Republic, and the courts. There is universal suffrage for adults over 18 years of age, with a secret ballot for all elected offices.
+The head of state of Portugal is the president who is elected to a five-year term by direct, universal adult suffrage. The president exercises representative functions, carries supervisory and reserve powers, and shapes political opinions and agendas; in addition, the office includes supreme command of the armed forces and is advised by the Council of State. The current president of Portugal is António José Seguro; he took office after winning the runoff vote of the 2026 Portuguese presidential election.
+
+Portugal's legislative body is the Assembly of the Republic, a unicameral parliament. It consists of a single chamber with a minimum of 180 seats and a maximum of 230, elected by popular vote every four years or when dissolved. The members of parliament represent the whole country and not the constituencies for which they are elected. As the head of government, the prime minister directs government policy, leads the Council of Ministers which includes ministers and junior ministers that execute government policy, and is appointed by the president in light of electoral results after consulting with the parties with seats in the Assembly of the Republic. Portugal's current prime minister is Luís Montenegro, who took office after the AD – PSD/CDS Coalition won enough seats to form a minority government following the 2024 Portuguese legislative election. Portugal operates a multi-party system of competitive legislatures at the national, regional, and local levels. The Assembly of the Republic is dominated by three political parties, the Social Democratic Party (PSD), Chega (CH), and the Socialist Party (PS), while the PSD and PS continue to be the dominant parties in the regional parliaments and at the local level. There have been recent trends towards autocratisation.
+Portugal has a civil law system based on Roman law and on Canon Law and influenced by German civil law. The Constitution is the supreme law of Portugal. In the Portuguese legal system, private civil law and criminal law are codified in the Código Civil and the Código Penal respectively. Portugal's court system is organised into judicial, administrative, and fiscal branches with three levels of jurisdiction and separate courts of last appeal, while the Constitutional Court is responsible for constitutional review and oversight of elections, referendums and political parties.
+
+Administrative divisions
+Portugal is a highly centralised unitary state comprising two autonomous regions, as well as seven regions on the mainland. Subnational government in Portugal is currently organised through municipalities (concelhos), civil parishes (freguesias), and intermunicipal communities (comunidades intermunicipais). In the following table, the intermunicipal communities are grouped by region:
+
+Foreign relations
+A member state of the United Nations since 1955, Portugal is a member of almost all major international organisations, and is among the countries that founded NATO in 1949, the OECD in 1961, EFTA in 1960, and the Community of Portuguese Language Countries (CPLP) in 1996, an international organisation of countries with Portuguese as an official language.
+Portugal has a stable foreign policy that is the result of its history, geography, and specific foreign policy choices. It is structured around six principal regional and policy priorities: Europe, NATO and relations with the United Kingdom and with the United States, the Portuguese-speaking world, the importance of and support for Portuguese communities abroad, the internationalization of the national economy, and the strengthening of multilateralism. Portugal regards the success of European integration as paramount and is prepared, where a consensus exists among European Union member states, to endorse policies that go against with the country's national interests; it also supports general disarmament, the dismantling of political-military blocs, and the creation of a collective security system aimed at establishing an international order grounded in peace and justice among peoples.
+Portugal has two territorial disputes, both of which are with Spain: the Spanish town of Olivenza which has been claimed by Portugal since the 19th century, and the surrounding waters of the Portuguese Savage Islands which have been claimed by Spain since the 15th century. Despite causing moments of tension between the two countries, the relationship between the two countries remains excellent.
+
+Military
+The Portuguese Armed Forces consist of three branches commanded by the Estado-Maior-General das Forças Armadas (Armed Forces General Staff): the Marinha (Navy), Exército (Army), and Força Aérea (Air Force). In addition to the three branches of the armed forces, there is the Guarda Nacional Republicana (National Republican Guard), a gendarmerie, comprising 23,042 personnel in 2025, under the authority of both the Defence and the Home Affairs ministries. The Portuguese military serves as a self-defence force, takes part in humanitarian and peace missions undertaken by the international organisations to which Portugal belongs, and cooperates in civil defence missions. In recent years, the Portuguese military have carried out several NATO and European Union missions worldwide. The Portuguese military budget in 2025 was estimated at more than $6 billion, representing 2% of GDP.
+As of 2025, the three branches numbered 23,589 military personnel. Until 1999, military service was compulsory for men at age 18 becoming officially suspended during peace time and replaced by one mandatory day of sensibilization about the Armed Forces called Dia da Defesa Nacional (National Defence Day). Since 1992 women may serve in all branches of the armed forces. The Portuguese military became fully professional in 2004. The United States maintains a military presence, with 770 troops in the Lajes Air Base at Terceira Island, in the Azores.
+
+Law enforcement
+In Portugal, public prosecution is conducted by the Public Prosecution Service which is headed by the prosecutor general. The main police organisations of Portugal are the Guarda Nacional Republicana (National Republican Guard), the Polícia de Segurança Pública (Public Security Police), a civilian police force that works in urban areas; and the Polícia Judiciária (Judiciary Police), a senior criminal police body, under the authority of the Minister of Justice and endowed with administrative autonomy.
+Portugal has 49 correctional facilities run by the Directorate-General for Reintegration and Prison Services (DGRSP). The facilities are classified by security level, and by degree of management complexity, and often house inmates with different legal statuses, risk levels, and criminal trajectories within the same facilities. Despite following a reintegration-oriented penal model, Portugal retains high prison occupancy and an average sentence length of 31.3 months.
+
+Human rights
+Portugal has a tradition of a humanistic criminal justice. The Portuguese Constitution defines the country as being one that is based on human dignity. It abolished capital punishment and life imprisonment in the 19th century, and forbids extradition in the case of either sentence possibly being imposed. The Portuguese Penal Code provides for a wide range of non-custodial sentences, with the aim of keeping a prison sentence a punishment of last resort. Portuguese penitentiary laws have traditionally been progressive, and based on rehabilitation as the main goal of the implementation of such a sentence.
+Since the 1990s, Portugal has strengthened LGBT rights and become one of Europe's most equal countries, although historical isolation continues to shape social acceptance of homosexuality. In 2001, Portugal decriminalized the personal possession and consumption of all drugs. Portugal faces issues such as unwarranted use of force by law enforcement, racism and discrimination against minorities, migrant slavery, restrictions on freedom of association and collective bargaining, violations of wage, hour, and overtime laws, and treatment inside prisons.
+
+Economy
+Portugal is a high-income country with an advanced economy that follows the Mediterranean model. The country's economic policy is framed by strategic guidelines called Major Options, which are subsequently implemented through the State Budget. Portugal has the EU's 14th-largest economy by nominal GDP and the 12th-largest economy by PPP-adjusted GDP. Its PPP-adjusted GDP per capita stood at to 81% of the EU average in 2025. As of 2024, the country's service sector contributed the most for its economic output followed the industrial sector and its primary sector. In 2025, Portugal unemployment rate was 5.8%. As of 2024, its poverty rate after social transfers was 15.4% of the population while in 2023, the at-risk-of-poverty rate before social transfers stood at 40.3%. The national debt of Portugal was estimated at 89.7% relative to GDP as of 2025.
+Portugal is part of the European single market which represents more than 450 million consumers. Portugal replaced the escudo with the euro in 2002. Its monetary policy is set by the European Central Bank. The country has been a part of the Eurozone since its inception. Portugal's central bank is the Banco de Portugal and it is part of the European System of Central Banks. In 2024, Portugal had a combined share of exports and imports that amounted to 90% of its total GDP. As of February 2026, Portugal's main export markets were Spain at 26% and Germany at 13.9%. Its main exports are machinery and mechanical appliances, vehicles and other transportation equipment, base metals, and plastics. Portugal's main import markets in 2026 were Spain at 32.9% and Germany at 11.9%. Portugal's main imports are machinery and mechanical appliances, chemical products, agricultural products, and mineral fuels.
+Since the 1990s, Portugal's economic model has been based on public consumption and economic development focused on exports, private investment and the development of its high-tech sector. Consequently, business services have overtaken more traditional industries such as wine and cork in export earnings. Operated by the Euronext Lisbon, Portugal's stock market, the PSI, includes 16 major companies based on the country, including Sonae, Mota-Engil, Corticeira Amorim, The Navigator Company, and EDP.
+In 2025, Portugal ranked 16th among European Union member states in innovation by the European Innovation Scoreboard, while placing 31st worldwide in the Global Innovation Index. In 2024, neuroscience accounted for 12.5% of Portugal's scientific output, the second-highest national share, and the country ranked 23rd worldwide in total neuroscience output. Among the research institutions based in the country are the Gulbenkian Institute of Molecular Medicine, the International Iberian Nanotechnology Laboratory, and the Champalimaud Foundation which was the world's 11th top non-profit institution in neuroscience research between 2019 and 2023.
+
+Agriculture and fishery
+The Portuguese agriculture sector accounted for 2.9% of the country's total GDP as of 2024. Portugal's agricultural land encompassed an area of approximately 3,697,000 ha (36,970 km2) as of 2023, of which 17.4% was dedicated to organic farming, representing the fifth-highest share worldwide. Despite the extent of the country's agricultural land, the diversity of Portugal's edaphoclimatic and agroecological conditions enables the cultivation of various agricultural products such as wheat, maize, and rice, with each one having an important role in the primary sector, and resulting in an agricultural self-sufficiency rate of 85% as of 2018.
+Portugal ranks sixth in the world in seafood consumption per capita, with each Portuguese person consuming on average 54 kg (119 lb) of fish in 2023. The high fish consumption in Portugal is due to tradition and cultural roots, politics, dynamics of the fish market system, and geography. Strong demand for seafood makes the fisheries a valuable national asset. While Portugal captured 185,000 tonnes (182,000 long tons; 204,000 short tons) of fish in 2019, down from the 222,000 t (218,000 long tons; 245,000 short tons) in 2010, fish and seafood represent the single highest import of biocapacity from abroad, amounting to 1,600,000 global hectares in total.
+
+Industry and services
+Portugal's manufacturing industry accounted for 21.2% of the country's total GDP as of 2024, down from an annual average of 26% over the period between 1953 and 1973. The lower contribution of manufacturing to Portugal's economy has led to lower real GDP growth rates between 1974 and 2019 than during the period between 1950 and 1973. As of 2025, Portugal's automobile industry produced the biggest share of the country's exports. The automobile industry accounts for 20.2% of the country manufacturing exports and 82.8% of the total value of its exports employing 43.247 workers in 2020.
+Portugal's service sector accounted for 76.5% of the country's total economic output as of 2024. Tourism, retail, and telecommunication are all major industries. Tourism represented 11.4% of the Portugal's total GDP as of 2024. Portugal attracted 29 million international tourists in 2024, ranking 15th in the world in that year for inbound tourism.
+
+Infrastructure
+Portugal's road network includes a system of 48 motorways, which, as of 2023, ranked as the seventh largest among 42 European countries. The busiest Portuguese airports are Lisbon Airport, Porto Airport, Faro Airport, Madeira Airport, and Ponta Delgada Airport. As of 2024, passenger and freight rail transport in Portugal operated on 2,526 km (1,570 mi) of active railway lines, with passenger services operated mainly by Comboios de Portugal (CP). The Port of Sines serves as Portugal's foremost container port and leads the country in cargo tonnage.
+As of 2023, two-thirds of Portugal's energy supply was imported, representing the 11th-highest level of energy dependency in the European Union. The country is pursuing energy transition and has invested in the development of renewable energy sources such as the Aguçadoura Wave Farm. Portugal has expanded the role of renewable sources in its energy sector, with renewables accounting for 35.2% of energy consumption, up from 21.9% in 2007, and 78.1% of total installed capacity, compared with 59.3% in 2014. In 2021, the country completed the phase-out of coal-fired generation.
+
+Demographics
+Portugal had a population of 11,424,031, of whom 9,826,492 were Portuguese nationals and the remainder were foreign residents at 1,597,539, as of 2025. Portugal is steadily aging and has one of the world's highest proportion of elderly citizens, comprising nearly one-fourth of its entire population, together with a female share of the population at 51.1%.
+Portugal has a fertility rate of 1.4, which is below the replacement rate of 2.1 and is one of the world's lowest. The country has had a fertility rate below the replacement rate of 2.1 since the 1980s that has led to the country having a median age of 45.8, one of the highest in the world. As of 2025, 23.3% of the population was aged 65 or older. Despite the effects of net migration, due to low fertility rates Portugal's population is projected to drop to 8.3 million by 2100.
+Historically a country of emigration, Portugal has been a net recipient of immigrants since 1993 except between 2011 and 2016 during the Portuguese financial crisis. Since 2016, Portugal has experienced a marked increase in immigration, with the proportion of non-nationals in the total population rising from 3.5% to 14.0% by 2025, living mainly in the Algarve and the Lisbon metropolitan area, and with 24.5% of all births registered in 2024 being to foreign-born women. In Portugal, White Portuguese constitute the largest racial and ethnic group, representing 84.2% of the population, followed by multiracial Portuguese at 3.4%, Black Portuguese at 2.2%, Asian Portuguese at 0.7%, and the Romani at 0.6%.
+In 2023, 88% of the Portuguese population lived in urban areas. The capital city, Lisbon, had a population of 658,236 as of 2025. It is part of Lisbon metropolitan area, the biggest metropolitan area of Portugal with 3.4 million people.
+
+Religion
+Portugal has been a secular state since 1911, and it guarantees religious freedom. Although Portugal has no official religion, the Catholic Church has a history there that predates the country's formation and can be traced back to the 3rd century. According to the 2021 Census, 80.2% of the Portuguese population aged 15 and older were Catholic, while 14.1% are nonreligious.
+The country has small Protestant, Latter-day Saints, Muslim, Hindu, Sikh, Jehovah's Witnesses, Baháʼí, Buddhist, and Jewish communities. Influences from African Traditional Religion and Chinese Traditional Religion are also felt among many people, particularly in fields related to Traditional Chinese Medicine. Even though Portugal has deep ties with Christianity, as of 2019 the majority of its people were shown to be tolerant towards followers of other faiths, with the Muslim community perceiving itself as thoroughly integrated into Portugal and believing that the country provided conditions conducive to smooth integration.
+
+Languages
+Portuguese is the official and predominantly spoken language in Portugal. It is one of 24 official and working languages of the European Union. Portuguese is the fifth-most widely spoken first language in the world, with around 250 million native speakers.
+Portuguese Sign Language is officially protected by the country's constitution. The recognised regional languages and dialects include Mirandese, spoken in Terra de Miranda, and Barranquenho, in Barrancos. Portuguese people are typically bilingual, with 67.5% speaking at least two languages, and tend to be proficient non-native English speakers, with Portugal placed sixth globally for English proficiency in the 2025 EF English Proficiency Index.
+
+Education
+Portugal's education system is organised into preschool education; school education, encompassing basic, secondary and higher education; and extracurricular education, which includes continuing education. Optional preschool is provided for all children between three and five years old, after which school attendance is compulsory for 12 years. Basic education lasts nine years and is divided into three cycles, while secondary education is organised into academic and vocational pathways. Higher education is provided by universities and polytechnic institutions in accordance with the Bologna Process, with the University of Lisbon being the country's largest university by enrolment. A general requirement for higher education are the exames finais nacionais do ensino secundário. Most secondary-school students continue their studies at public higher education institutions or the Military Academy, which also awards university degrees.
+Although other European countries began investing in education in the 19th century, Portugal's long-established national identity, stable borders and homogeneous population contributed to a lack of political commitment to educational development until the First Republic in the early 20th century; many of its reforms were subsequently reversed under the Estado Novo, whose deliberate neglect of education contributed to Portugal recording Europe's highest illiteracy rate in 1964; following democratisation in 1974, education became more widely accessible and underwent modernisation. The country lags behind most OECD countries on educational indicators, largely owing to the older working-age generation. Fewer than two-thirds of Portugal's population have completed secondary or higher education. Portugal's adult population aged 16 to 65 records the fifth-lowest level of knowledge and skills in the OECD, whereas school students perform at average levels. In 2021, the national illiteracy rate among people aged 10 or over stood at 3.1%, ranging from 1.4% to 12.3% across the country's municipalities. Portugal spent 4.5% of its total GDP on education in 2022.
+
+Health
+Portugal has a predominantly universal tax-funded health care system, called Serviço Nacional de Saúde (SNS), that operates alongside public-sector health insurance schemes called health subsystems funded mainly through employee and
+employer contributions, as well as private voluntary health insurance. Primary and hospital care are provided by both public and private entities, with the private sector and complementing services offered by the SNS. In 2023, Portugal's health care was 38% privately funded and 62% government-funded, the 3rd lowest public share on health spending in the European Union. Portugal has a high level of health inequity in the OECD, driven by limited public spending, uneven distribution of services, low household income, long waiting times, and policy shortcomings.
+Portugal ranked 23rd in the world in 2024 in life expectancy with 85.4 years for women and 79.8 years for men, and it had an infant mortality rate of 2.7 deaths per 1,000 live births. In 2022, the leading cause of death were cardiovascular diseases, at 25.4%. Portugal presents several adverse public-health indicators, including the 3rd lowest share of people reporting good health in the European Union, in 2024, at 54%, the highest alcohol consumption with 11.9 litres (2.6 imp gal; 3.1 US gal) consumed per person, in 2020, and the highest share of adult population living a sedentary lifestyle, in 2022, at 73%, a pattern reinforced by limited active-transport infrastructure and unsafe conditions for pedestrians and cyclists. The percentage of the Portuguese population suffering from moderate or severe food insecurity between 2022 and 2024 was on average 11.9%, which makes Portugal the third-highest country in Southern Europe for this indicator where the average stands at 5.9%.
+
+Culture
+Portugal has developed a specific culture due to, initially before its existence, the influence from various civilisations that have crossed Europe, especially the Mediterranean. Later, during the period of Portugal's engagement in the Age of Discovery, cultural elements from outside of Europe were introduced and became a central element of Portuguese national identity.
+Portugal is well known for its heritage and architecture, sacred sites, festivities, poetry, its music (especially the fado), and cuisine (including its wine). As of 2026, UNESCO inscribed 17 properties in Portugal on the World Heritage List. Portugal's national day is on 10 June, celebrated as the Dia de Portugal, de Camões e das Comunidades Portuguesas (Portugal, Camões, and Portuguese Communities Day).
+
+Art and architecture
+The history of visual art in Portugal dates back into the Paleolithic. An early evidence showing an attempt at depicting motion was found at the Prehistoric Rock Art Sites in the Côa Valley and Siega Verde. Over time, foreign and native influences, together with advancements in manufacturing, developed distinctive art styles, such as the Manueline and Pombaline, and also a number of crafts that are typical of Portugal, namely the azulejo, talha dourada, and Portuguese pavement.
+Historically, religion, specifically Christianity, had an influential role in Portuguese art, as it was a recurrent theme widely employed in many art forms, such as in painting. Throughout the country's history, artwork in Portugal was typically done by local artists who, depending on location, followed different variations in style, giving Portugal a diverse array of artistic styles throughout the country, an example of this being the thatch houses of Santana, in Madeira.
+
+Literature
+Portugal has a literary tradition that predates the Portuguese language going back into the early 13th century. Portuguese literature developed through song as well as the written page known as cantigas. The cantigas drew practitioners from all social ranging from King Denis I to Martin Codax who was a minstrel. The earliest known work of Portugal's literature is the Ora faz ost'o senhor de Navarra, a cantiga de escárnio e maldizer written in Galician–Portuguese by João Soares de Paiva at around the year 1200.
+Portuguese literature developed under the influence of both European geopolitical developments and broader European literary traditions. The Hundred Years' War helped foster the development of Portuguese chronicles by Fernão Lopes, which constitute a valuable record of some of Europe's early encounters with peoples beyond the continent. European medieval chivalric literature, together with didactic religious literature transmitted through adaptations and partial translations, contributed to the development of Portuguese poetry in the translated works of Norman French Arturian narratives. Portuguese literature flourished during the Age of Discovery with writers such as Luís Vaz de Camões and António Ferreira. Modern Portuguese literature took shape through the work of Almeida Garrett, one of the founders of Portuguese Romanticism. Portugal has one Nobel Prize–winning author—José Saramago (1998).
+
+Music
+The recorded history of music in Portugal dates back to the 6th century. The earliest documentation of a church singer in Portugal is from the year 525 and refers to an individual named André. Portuguese music initially consisted mostly of liturgical music and troubadourism. Over time, new folk traditions together with the influence of foreign cultures and the creation of new instruments, especially guitars, led to a diverse variety of regional folk music such as the fado, the Coimbra fado, and Madeira's folk music.
+Popular music in Portugal after the Carnation Revolution has been heavily influenced by American trends, which has led into the evolution of Hip-hop tuga and popularization of Rock. Historically, Portugal has been a country of emigration which has heavily influenced the Pimba in the 20th century and led to the introduction of Portuguese music into other cultures such as the ukelele in Hawaii in the 19th century.
+
+Holidays and festivities
+Officially, Portugal has 13 national, government-recognised holidays. Public holidays in Portugal are regulated by the Labour Code. Besides the national holidays, there are regional holidays celebrated only in Madeira and the Azores and two facultative holidays which are the Entrudo and one municipal holiday allowed per concelho. Unlike some official holidays, Portugal's folk festivities remain widely attended and are rooted in local traditions, such as the Carnival of Ovar, Lisbon's Marchas Populares, and Porto's Festa de São João. Many of folk festivities are associated with the Santos Populares, Christian celebrations with older pagan origins linked to Midsummer. These festivities are celebrated across the country, especially in rural areas, and typically include music performances, stages, temporary arenas, and traditional food stalls.
+
+Cuisine
+Portuguese cuisine is influenced by both the Mediterranean and Atlantic diets. Seafood, brassicas, potatoes, bread, dairy, and olive oil are traditional staples. Bacalhau has such a broad presence in Portugal that it is considered a national dish, along with the pastel de nata. Traditional Portuguese sweets are known as conventual sweets. Large quantities of sugar and eggs are used.
+Popular Portuguese beverages include its wines, a craft that is well establish since the 7th century, and of which are such examples as Port and Madeira. Beer has been brewed in Portugal since the Chalcolithic. Tea has been produced on São Miguel Island since the 19th century.
+
+Sport
+Portugal has contributed to the popularity and globalisation of sport through internationally recognised athletes such as Cristiano Ronaldo, Ricardinho, Naide Gomes, and Carlos Lopes, as well as through the popularity of its three largest football clubs. Football is the most popular sport in Portugal. The Portugal men's national football team won the UEFA European Championship in 2016 and the UEFA Nations League in 2019 and 2025.
+Portugal is among the world's leading futsal countries, with its men's national team having won the FIFA Futsal World Cup in 2021, the UEFA Futsal Championship in 2018 and 2022, and the Futsal Finalissima in 2022. In athletics, the country has set several records and has earned more medals in this sport than in any other at both the Olympic and Paralympic Games. In traditional sport, Portugal is noted for its classical dressage as well as native sports such as jogo do pau and jogo da malha. Portugal has several established sporting centres across the country, including the Algarve and Lisbon, which are international golf destinations and have hosted motorsport events such as Formula One and Grand Prix motorcycle racing, as well as Nazaré and Peniche, which are known for surfing and annually host the TUDOR Nazaré Big Wave Challenge and the MEO Rip Curl Pro Portugal, respectively.
+
+See also
+Outline of Portugal
+
+Notes
+References
+Sources
+External links
+
+ Geographic data related to Portugal at OpenStreetMap
+National English language newspaper
+National Wine Website
+News about Portugal from the Portuguese American Journal
+Portugal at UCB Libraries GovPubs
+Portugal profile from the BBC News
+Prestage, Edgar; Jayne, Kingsley Garland (1911). "Portugal" . Encyclopædia Britannica. Vol. 22 (11th ed.). p. 134–163.
+Portuguese Pamphlets Collection from the Rare Book and Special Collections Division at the Library of Congress
+ Wikimedia Atlas of Portugal
+Government
+Official Parliament website
+Official Portuguese Government website (in English and Portuguese)
+Trade
+World Bank Summary Trade Statistics Portugal
+Travel
+Official Portuguese Government Travel/media website
+Official Travel and Tourism office website
+
+## Tourism in Portugal
+Tourism in Portugal serves millions of international and domestic tourists. Tourists visit to see cities, historic landmarks, enjoy beaches, or religious sites. As of 2024, Portugal had 29 million international visitors. In addition, there were 22,9 million trips made by Portuguese residents including overnight stays at local hotels.
+The most popular destinations are Lisbon, Porto, the Algarve, the Portuguese Riviera, Madeira, Sintra, Óbidos, Nazaré, Fátima, Braga, Guimarães and Coimbra. The most popular with internationals were Lisbon region, the Algarve, the West and Tagus Valley region (Óbidos, Nazaré, Fátima), Northern Portugal (Porto, Braga and Guimarães) and Coimbra. National tourists prefer the Algarve and Northern Portugal, followed by Central region of Portugal.
+
+Statistics
+In 2016, and compared to 2015, most tourists staying in hotels were attracted to Lisbon (6.3 million, up from 5.8), Porto and Northern Portugal (4.4 million, up from 3.9), the Algarve (4.2 million, up from 3.8), Central Portugal (3.2 million, up from 2.9 million), Madeira (1.5 million, up from 1.3), Alentejo (1.2 million, up from 1.1),  and the Azores (0.5 million, up from 0.4). The Algarve and Lisbon lead in overnight stays. In 2016, overnight stays grew significantly in other regions: the Azores (+21.1%), Northern Portugal (+14.4%), Alentejo (+12%), Central Portugal (+11.8%), and Madeira (+10.9%).
+The following table presents the nationality of the largest demographic of tourists from 2017 to 2023:
+
+In 2016, accounting international tourists, the most popular regions were Lisbon (4.4 million), Algarve (3 million), Northern Portugal (2.1 million), Central Portugal (1.2), Madeira (1.2), Alentejo 370,000 and the Azores. For national tourists the most popular regions were Northern Portugal (2.3), Central Portugal (2.0), Lisbon (1.9), the Algarve (1.2), Alentejo (0.8), Madeira (0.29), and the Azores (0.27).
+Lisbon is, with Barcelona, one of the European cities leading in overnight stays. The urban areas of Porto and Northern Portugal, north of Douro River surpassed Madeira, in 2010, and the Algarve, in 2015, and became the second most visited destination in Portugal. In 2015, most tourists were Europeans, but also from the Americas and Asia. Sleeping in the country's hotels, the most numerous are the British, Spanish, French, Germans, Brazilians, the Dutch, Americans, Italians, and the Japanese, which not only want the sun and the beach, but mostly cultural ones, city breaks, gastronomy, nautical tourism, or business traveling.
+Portugal won 14 "Oscars" of the tourism. The national tourism had 77 nominations and won a total of 14 awards in more than 10 European categories, surpassing Spain or Italy, at the gala of the World Travel Awards 2015, whose ceremony took place in Sardinia, Italy. CNN compared Lisbon and Porto head-to-head in order to find who has the best food, culture, old cafés and boutiques, nightlife, and the best beaches.
+Travel guide giants Lonely Planet have designated Portugal as one of the top 3 countries to visit in 2018.
+
+Tourism regions
+Tourist hotspots in Portugal are Lisbon, Porto, the Algarve, Madeira, Sintra, Óbidos, Fátima, Coimbra and Azores, but the Portuguese government is currently developing new destinations: the Douro Valley, Porto Santo Island, and Alentejo.
+
+Tourist regions
+The main tourist regions can be broken-down into:
+
+the Greater Lisbon,
+the Greater Porto,
+the Algarve,
+the Alentejo,
+Central Portugal,
+Northern Portugal and
+the Portuguese Islands: Madeira and Azores.
+Other tourist regions include Douro Sul, Templários, Dão-Lafões, Costa do Sol, Costa Azul, Planície Dourada, that are unknown to many tourists or visitors.
+Most of these regions are grouped in tourism reference areas, which continue to be in a state of reorganization and evolution, some based on the traditional regions of Portugal: the Costa Verde (Green Coast); Costa da Prata (Silver Coast); Costa de Lisboa (Lisbon Coast); Montanhas (Mountains); Planícies (Plains); Algarve; and the islands of the archipelagos of Madeira and the Azores. All these regions are grouped in tourism reference areas, which are widely known because these are the traditional regions:
+
+Costa Verde in Norte Region — The Portuguese green coast comprises all the northern coast of Portugal from the estuary of the Minho River to the city of Porto.
+Costa de Prata in Centro Region —  The Portuguese silver coast comprises from Porto to Lisbon. Fátima, Nazaré and Óbidos are 3 very important places.
+Portuguese Riviera (Sintra, Cascais and Estoril)
+Comporta — The northwestern coast of the Alentejo
+Caparica Coast — The coast south of Lisbon, across the Tagus river
+Montanhas —  Mountainous and interior regions of northern and central Portugal, namely Serra da Estrela and Trás-os-Montes.
+Planícies —  The Portuguese plane region of Alentejo in the south.
+Algarve — The southern coast of Portugal including the Golden Triangle.
+Madeira — The Madeira islands.
+Açores  — The Azores islands.
+
+Protected areas
+The following table presents the number of visitors who contacted each of the protected areas of Portugal, according to ICNF
+
+UNESCO World Heritage sites
+List of World Heritage Sites in Portugal
+
+Souvenirs
+The Rooster of Barcelos is bought by many tourists as a souvenir. The legend of the Rooster of Barcelos tells the story of a dead rooster's miraculous intervention in proving the innocence of a man who had been falsely accused and sentenced to death. The story is associated with the 17th-century calvary that is part of the collection of the Archeological Museum located in Paço dos Condes, a gothic-style palace in Barcelos, a city in the Braga District of northwest Portugal.
+
+See also
+Seven Wonders of Portugal
+Tourism in Lisbon
+List of museums in Portugal
+List of Portuguese dishes
+Portuguese cuisine
+Portuguese Riviera
+
+References
+External links
+
+Portugal Official Tourism Website
+Algarve Official Tourism Website
+Center of Portugal
+Portugal Travel Guide
+ Media related to Tourism in Portugal at Wikimedia Commons
+
+## Culture of Portugal
+The culture of Portugal designates the cultural practices and traditions of the Portuguese people. It is rooted on the interactions between many different civilizations that inhabited the area during the past millennia. From prehistoric cultures, to its Pre-Roman civilizations (such as the Lusitanians, the Gallaeci, the Celtici, and the Cynetes, amongst others), passing through its contacts with the Phoenician-Carthaginian world, the Roman period (see Hispania, Lusitania and Gallaecia), the Germanic invasions of the Suebi, Buri (see Kingdom of the Suebi) and Visigoths (see Visigothic Kingdom), Viking incursions, Sephardic Jewish settlement, and finally, the Moorish Umayyad invasion of Hispania and the subsequent expulsion during the Reconquista, all have influenced the country's culture and history.
+The name of Portugal itself reveals much of the country's early history, stemming from the Roman name Portus Cale, a Latin name meaning "Port of Cale" (Cale likely is a word of Celtic origin - Cailleach-Bheur her other name; the Mother goddess of the Celtic people as in Calais, Caledonia, Beira. She was the one who, with a hammer created mountains and valleys; the one who hid in stones and trees - Mother nature), later transformed into Portucale, and finally into Portugal, which emerged as a county of the Kingdom of León (see County of Portugal) and became an independent kingdom in 1139. During the 15th and 16th centuries, Portugal was a major economic, political, and cultural power, its global empire stretching from the Americas, to Africa, and various regions of Asia and Oceania.
+Portugal, as a country with a long history, is home to several ancient architectural structures, as well as typical art, furniture and literary collections mirroring and chronicling the events that shaped the country and its peoples. It has a large number of cultural landmarks ranging from museums to ancient church buildings to medieval castles. Portugal is home to fifteen UNESCO World Heritage Sites, ranking it 8th in Europe and 17th in the world.
+
+Overview
+The Portuguese participate in many cultural activities, indulging their appreciation of art, music, drama, and dance. Portugal has a rich traditional folklore (Ranchos Folclóricos), with great regional variety.  Many cities and towns have a museum and a collection of ancient monuments and buildings. Many towns have at least a cinema, some venues to listen to music and locations to see arts and crafts. In the larger cities visits to the theatre, concerts or galleries of modern exhibitions are popular, and Portugal can boast not only international-scale venues in Lisbon, Porto, Braga, Guimarães and Coimbra but also many acclaimed artists from various disciplines. The importance of the arts is illustrated by the fact that on the death of Amália Rodrigues, the "Queen of Fado" (fado is Portugal's national music) in October 1999, three days of national mourning was declared. In 1998, José Saramago, one of Portugal's well-known writers, was awarded the Nobel Prize for literature. Lisbon (1994), Porto (2001) and Guimarães (2012) were all designated European Capitals of Culture, contributing to a current renaissance in artistic creation, and in 2004 Portugal hosted the European football finals in specially constructed stadiums.
+In smaller towns and villages, cultural activity may revolve around local folklore, with musical groups performing traditional dance and song. Local festivities are very popular during the summer season in all kinds of localities ranging from villages to cities, as well as beach holidays from July to September. Portuguese people in almost all major towns and the cities like to know their places which are generally well equipped with modern facilities and offer a wide variety of attractions ranging from shops and stores of the most renowned brands to cinemas, restaurants and hypermarkets. Café culture is also regarded as an important cultural feature of the Portuguese. As the most popular sport, football events involving major Portuguese teams are always widely followed with great enthusiasm. There are a few bullrings in Portugal, although the passion for bullfighting was traditionally more popular in the Ribatejo and Alentejo regions.
+
+Architecture
+Since the second millennium BC, there has been important construction in the area where Portugal is situated today. Portugal boasts several scores of medieval castles, as well as the ruins of several villas and forts from the period of Celtic and Roman occupation. Modern Portuguese architecture follows the most advanced trends seen in European mainstream architecture with no constraints, though preserving some of its distinct characteristics. The azulejo and the Portuguese pavement are two typical elements of Portuguese architecture. Portugal is perhaps best known for its distinctive Late-Gothic Manueline architecture, with its intricate designs attributed to Portugal's Age of Discoveries.
+Another type of architecture is Johannine baroque, owing to King John V's long reign which lasted 44 years. Thanks to the gold from Brazil, John V of Portugal could afford foreign artists such as Nicolau Nasoni, to build outstanding works of art. The creations of Portuguese artists can be identified throughout the country, in the altars of gilded panels, blue and white tiles which adorn churches, halls, staircases and gardens.
+It was during this period of prosperity, that some of the greatest Portuguese artworks were completed, including: the Royal Building of Mafra, the Clérigos Church (also known as Tower of the Clerics), the Baroque Library Biblioteca Joanina, the Sanctuary of Bom Jesus do Monte in Braga, the Shrine of Our Lady of Remedies in Lamego or the Mateus Palace in Vila Real. Because of the history of the Portuguese Empire, several countries across the world are home to sizeable heritages of Portuguese colonial architecture, notably Brazil and Uruguay in the Americas, Angola, Cabo Verde, São Tomé and Príncipe, Benin, Ghana, Morocco, Guinea Bissau, Zimbabwe, and Mozambique in Africa, and China, India, Indonesia, Malaysia, and Timor Leste in Asia. Notable Portuguese architects of the past have included Diogo de Arruda (15–16th c.), João Antunes (17th c.), Eugénio dos Santos and Carlos Mardel (18th c.), José Luis Monteiro (19th c.), Raul Lino, Cassiano Branco and Fernando Távora (20th c.). Famous living architects include Gonçalo Byrne, Eduardo Souto de Moura (Pritzker winner), António Maria Braga, João Carrilho da Graça and Álvaro Siza Vieira (Priktzer winner).
+
+Dance
+Folk dances include: Circle dance, Vira (of the Minho region), Two-Steps Waltz, Fandango (of the Ribatejo region), Schottische (Chotiça), Corridinho (of the Algarve and Estremadura regions), Bailarico, Vareirinha, Malhão, Vareira, Maneio, Vira de Cruz, Vira Solto, Vira de Macieira, Sapatinho, Tau-Tau, Ciranda, Zé que Fumas, Regadinho, O Pedreiro and Ó Ti Taritatu. There are also variations of these dances called the Chamarita in the Azores.  Dance apparel is highly varied, ranging from work clothes to Sunday's best, with rich distinguished from the poor.
+
+Cinema
+In the 1990s around 10 full-length fictional works were produced per annum, Portugal's filmmakers tending to be artisans. Financing of Portuguese cinema is by state grants and from television stations.  The internal market is very small and Portuguese penetration of international markets is fairly precarious.  A film is considered a success when it draws an audience of more than  which few Portuguese films manage to achieve.
+
+Director Manoel de Oliveira was the oldest director in the world, and continued to make films until his death on 2 April 2015, at the age of 106. Since 1990 he made an average of one film per annum.  He has received international recognition awards and won the respect of the cinematography community all over the world.  Retrospectives of his works have been shown at the Los Angeles Film Festival (1992), the National Gallery of Art in Washington, D.C. (1993), the San Francisco Film Festival, and the Cleveland Museum of Art (1994). Despite his international recognition, the films of Oliveira (and that of other Portuguese directors) are neglected locally.
+João César Monteiro, a member of the generation that founded the "New Portuguese Cinema" in the 1960s which was influenced by the Nouvelle Vague, a provocative film maker in the 1990s made "O Último Mergulho" (1992), "A Comédia de Deus" (1995), "Le Bassin de John Wayne" (1997) and "As Bodas de Deus" (1998). "A Comédia de Deus" won the Jury's Special Prize at the Venice Film Festival in 1995.
+Teresa Villaverde is a younger filmmaker and in the 1990s she surfaced as a director, her film (Três Irma's, 1994) won the best actress award at the Venice Film Festival.
+Significant comedy films of the 1930s and 1940s include: A Canção de Lisboa (1933) directed by José Cottinelli Telmo, starring Vasco Santana and Beatriz Costa, the second Portuguese sound feature film (the first was A Severa, a 1931 documentary by Manoel de Oliveira, was originally filmed without soundtrack, which was added afterwards), and still one of the best-loved films in Portugal, with several of its lines and songs still being quoted today; O Pai Tirano (lit.  The Tyrant Father) (1941), directed by António Lopes Ribeiro, starring Vasco Santana, Francisco Ribeiro and Leonor Maia and one of the best-known comedies of the Golden Age of Portuguese Cinema; O Pátio das Cantigas (lit.  The Courtyard of Songs), a comedy/ musical from 1942 directed by Francisco Ribeiro, with Vasco Santana (as Narciso), António Silva (as Evaristo), Francisco Ribeiro (as Rufino) and others.  It's a portrait of the relations between neighbours in a Lisbon courtyard.  A story made of small episodes of humor, friendship, rivalry, and love.
+
+Recent films
+O Crime do Padre Amaro: (lit.  The Crime of Father Amaro) is a Portuguese film (2005) adapted from a book of Eça de Queiroz, directed by Carlos Coelho da Silva.  This was a low quality production sponsored by Sociedade Independente de Comunicação (television channel).  Even so, this film beat all the records of box- office of all the Portuguese film in Portugal.  The main characters are Jorge Corrula as Padre Amaro and Soraia Chaves as Amélia, and the main ingredients of this film are the sex and the nudity.
+Zona J: is a Portuguese drama/romance film directed by Leonel Vieira in 1998, starring Sílvia Alberto, Ana Bustorff, Núria Madruga, Milton Spencer and Félix Fontoura.
+Sorte Nula: (lit.  The Trunk) directed by Fernando Fragata, starring Hélder Mendes, António Feio, Adelaide de Sousa, Rui Unas, Isabel Figueira, Bruno Nogueira, Carla Matadinho, Tânia Miller and Zé Pedro.
+Alice directed by Marco Martins and starring Beatriz Batarda, Nuno Lopes, Miguel Guilherme, Ana Bustorff, Laura Soveral, Ivo Canelas, Carla Maciel, José Wallenstein and Clara Andermatt is a multi-prize film from 2005. It has won prizes in Cannes Film Festival; Las Palmas Festival in Spain; Golden Globes in Portugal; Mar del Plata International Film Festival in Argentina, Raindance film Festival in United Kingdom and other prizes.
+ Filme do Desassossego or Film of Disquiet directed by João Botelho, starring Cláudio da Silva, Alexandra Lencastre, Rita Blanco, Catarina Wallenstein, Margarida Vila-Nova, Mónica Calle, Marcello Urgeghe and Ricardo Aibéo in 2010. Inspired by a book of Fernando Pessoa.
+Meu Querido Mês de Agosto directed by Miguel Gomes is a hybrid fiction/documentary film from 2009 that achieved some visibility at the Cannes Film Festival.
+Tabu directed by Miguel Gomes starring Ana Moreira, Carloto Cotta, Ivo Mueller, Laura Soveral, Manuel Mesquita, Isabel Muñoz Cardoso, Henrique Espírito Santo and Teresa Madruga. The film won two prizes in the 2012 Berlin International Film Festival and another two in the Las Palmas Festival in Spain.
+Rafa, a short-film directed by João Salaviza, starring Rodrigo Perdigão and Joana de Verona.This film have win the best short film is Berlin International Film Festival in 2012.
+Arena, directed by João Salaviza starring Carloto Cotta, won the 2009 Cannes Film Festival Golden Palm for best short film.
+Sangue do meu Sangue directed by João Canijo, starring Rita Blanco, Nuno Lopes, Cleia Almeida, Anabela Moreira, Rafael Morais and Fernando Luís. Is a multi-prized film from 2012 that won prizes in: International auteur cinema festival of Barcelona; Miami Festival, Pau Festival in France; New Vision Award in Crossing Europe Festival in Austria; San Sebastin Festival; Otra Mirada Prize by TVE channel in Spain; Faial Film Festival in Portugal; Golden Globes in Portugal; Auteur Portuguese Society in Portugal and Ways of Portuguese cinema in Coimbra, Portugal.
+O Barão directed by Edgar Pêra, starring Nuno Melo, Luísa Costa Gomes, Leonor Keil, Edgar Pêra, Marina Albuquerque, Miguel Sermão and Marcos Barbosa in 2010.
+Alma Portuguesa (en: Portuguese Soul), a 2020 documentary directed by Brazilian Mauro Ventura.
+
+Cuisine
+Food
+Each region of Portugal has its own traditional dishes, including various kinds of meat, seafood, fresh fish, dried and salted cod (bacalhau), and the famous Cozido à Portuguesa (a Portuguese stew).
+
+Alcoholic beverages
+Portugal is a country of wine lovers and winemakers, known since the Roman Empire-era; the Romans immediately associated Portugal with its God of Wine Bacchus. Today, many Portuguese wines are known as some of the world's best: Vinho do Douro, Vinho do Alentejo, Vinho do Dão, Vinho Verde, Rosé and the sweet: Port wine (Vinho do Porto, literally Porto's wine), Madeira wine, Muscatel of Setúbal, and Moscatel of Favaios. Beer is also widely consumed, with the largest national beer brands being Sagres and Super Bock. Liqueurs, like Licor Beirão and Ginjinha, are popular.
+
+Literature
+Portuguese literature has developed since the 12th century from the lyrical works of João Soares de Paiva, Paio Soares de Taveirós and King Denis of Portugal. They wrote mostly from Galician-Portuguese and oral traditions known as "Cantigas d'amor e amigo" and "Cantigas de escárnio e maldizer", which were consecutively performed by troubadours and joglars.
+Following chroniclers such as Fernão Lopes after the 15th century, fiction has its roots in chronicles and stories linked to theatre, following Gil Vicente, the father of Portuguese theatre, whose works were often criticisms and satires of society in his time.
+Classical lyrical works, include The Lusiads (Os Lusíadas) by Luís de Camões, a national epic book of the history of Portugal  which incorporates elements of Ancient Greek mythology, written in the 16th century.
+Romanticism and Realism period authors from 19th century including Antero de Quental, Almeida Garrett, Camilo Pessanha, Camilo Castelo Branco, Eça de Queiroz, Alexandre Herculano, Ramalho Ortigão, Júlio Dinis and others.
+Portuguese modernism is found in the works of Fernando Pessoa, José Régio, Miguel Torga, Mário de Sá-Carneiro and others.
+Following the Carnation Revolution in 1974, the Portuguese society, after several decades of repression, regained freedom of speech.
+José Saramago received the Nobel Prize in Literature in 1998.
+Herberto Hélder, one of the major Portuguese poets of the second half of the twentieth century, has been an influence, among many others, to the young generation of highly considered Portuguese poets and, to a lesser extend, fiction writers from a recent wave of writers such as Valter Hugo Mãe, José Luís Peixoto, Gonçalo M. Tavares, Jorge Reis-Sá, Maria Antonieta Preto, José Ricardo Pedro and others.
+
+Music
+Polyphonic music, employing multiple vocal parts in harmony, was developed in the 15th century. The Renaissance fostered a rich output of compositions for solo instruments and ensembles as well as for the voice.
+The 1960s started a period of expansion and innovation with pop, rock and jazz introduced and evolving, political song developed, the fado of Lisbon and the Coimbra were revitalized. Music from the former colonies occupied an increasingly important place in the capital's musical life and local styles of rap and hip hop emerged.
+The modern revival of academic music was primarily work of Luís de Freitas Branco, and continued by Joly Braga Santos. Composers like António Victorino de Almeida, Jorge Peixinho, Miguel Azguime, Pedro Amaral, and João Pedro Oliveira are known internationally. Orchestras include the Orquestra Sinfónica Portuguesa and the Gulbenkian Orchestra. Porto has had its own symphony orchestra since 1962, when the Chamber Orchestra was set up by the Gulbenkian Foundation. Lisbon also has a metropolitan orchestra, and the National Theatre of São Carlos in Lisbon, which was built in the late 18th century, has its own orchestra and ballet company. Among notable pianists, Maria João Pires has won worldwide acclaim.
+Cultural centres such as the Belém Cultural Centre and the Culturgest, both in Lisbon, have expanded opportunities for major concerts. Madredeus is among the most successful popular music groups. Singer Dulce Pontes is also widely admired, and Carlos Paredes is considered by many to be Portugal's finest guitarist. Folk music and dancing and the traditional fado remain the country's fundamental forms of musical expression.
+
+Traditional or folk music
+In all the times and all places mankind always showed great ingenuity making sound and music from existing materials in its natural environment. The voice and the clapping of hands can certainly be considered the first instrumental forms used by man.
+The Iberian Peninsula was home to a lot of different peoples and cultures, so its normal to these cultures to influence the others but still retain a little of their aspects - this happened with the Portuguese music.
+Portuguese folk music is the joint of the traditional songs of a community that express through a poetic character their beliefs and tell their history to other people and generations. The danças do vira (Minho), Pauliteiros de Miranda (Miranda), Corridinho do Algarve or Bailinho (Madeira), are some examples of dances created by the sound of folk. Some of the typical instruments used are a guitar, mandolin, bagpipes, accordion, violin, drums, Portuguese guitar and an enormous variety of wind and percussion instruments.
+Contemporary bands include Dazkarieh, Cornalusa, Gaitúlia, Strella do Dia etc.
+
+Philharmonic music
+In the popular culture the philharmonic bands represent each locality and play different types of music, from popular to classical. Lidia Costa, Carlos Marques, Alberto Madurai, José Caminos and Railcar Morays are some of the most important names in philharmonic music.
+
+Fado
+Fado (translated as destiny or fate) is a music genre which can be traced from the 1820s, but possibly with much earlier origins. It is characterized by mournful tunes and lyrics, often about the sea or the life of the poor. The music is usually linked to the Portuguese word saudade, a unique word with no accurate translation in any other language. (Home-sickness has an approximate meaning. It is a kind of longing, and conveys a complex mixture of mainly nostalgia, but also sadness, pain, happiness and love).
+There are two main varieties of fado, namely those of the cities of Lisbon and Coimbra. The Lisbon style is the most popular, while Coimbra's is the more refined style. Modern fado is popular in Portugal, and has produced many renowned musicians. According to tradition, to applaud fado in Lisbon you clap your hands, in Coimbra you cough as if clearing your throat.
+Mainstream fado performances during the 20th century included only a singer, a Portuguese guitar player and a classical guitar player but more recent settings range from singer and string quartet to full orchestra.
+The ingredients of Fado are a shawl, a guitar, a voice and heartfelt emotion.
+Themes include: destiny, deep-seated feelings, disappointments in love, the sense of sadness and longing for someone who has gone away, misfortune, the ups and downs of life, the sea, the life of sailors and fishermen, and last but not least "Saudade" (one of the main themes used in fado, that means a kind of longing).
+Fado is probably the oldest urban folk music in the world and represents the heart of the Portuguese soul, and for that matter fado performance is not successful if an audience is not moved to tears.
+
+Classical music
+Portugal has been an important centre of practice and production of music over the centuries, as the music history of Portugal expresses. In contemporary classical music, notable Portuguese musicians include the pianists Artur Pizarro, Maria João Pires and Equeira Costa, and the composers: Fernando Lopes-Graça, Emmanuel Nunes, João Pedro Oliveira, Jorge Peixinho, Constança Capdeville, Clotilde Rosa, Fernando Corrêa de Oliveira, Cláudio Carneyro, Frederico de Freitas, Joly Braga Santos and Isabel Soveral.
+
+Portuguese rock
+The Portuguese rock started to be noted in 1980 with the release of Ar de Rock by Rui Veloso, which was the first popular Portuguese rock song, other Portuguese bands and singers such as Sétima Legião, Rádio Macau, Jafumega, Mão Morta, Taxi, Peste e Sida, were popular too. Before that, Portugal had a vibrant underground progressive rock scene in the 1970s like Tantra, Quarteto 1111, José Cid and others in 1950 and 1960 rock and roll scene with bands like Os Conchas and Os Sheiks. Among the numerous bands and artists which followed its genesis, are Xutos & Pontapés, GNR, Quinta do Bill, UHF, The Gift and Moonspell.
+
+Popular music
+The 1980s and 1990s were marked by the search for a new musical discourse in urban popular music, the increase, commodification and industrialization of musical production, and the mediatization and expansion of music consumption. The boom in Portuguese musical production was accompanied by both the diversification of the musical domains and styles produced and consumed in Portugal and the emergence of new styles which are increasingly taking the global market into account. The denominated Pop music uses melodies easily to memorize, becoming very popular and commercial; it's also characterized by the amount of publicity made (through videos, magazines, appealing clothing, etc.).
+It is possible to note two stylistic tendencies in the popular music of the 1980s and 1990s:
+
+A musical discourse created by Portuguese musicians that is integrated within the major international developments experienced by commercial popular music;
+A new musical style that vindicates its Portugueseness by both drawing upon various musical elements which musicians and audiences alike identify as Portuguese and emphasizing the Portuguese language.
+
+Canções de intervenção (political songs)
+Political songs (canções de intervenção) played an important part in the protests against the totalitarian regime that ruled Portugal from 1926 up to the 1974 revolution. Once it was created as an object to criticize what was wrong, mainly in a political point of view. One of its main protagonists was José (Zeca) Afonso (1929–1987) but others also contributed to its development, for example Adriano Correia de Oliveira, José Mário Branco, Luís Cilia, Francisco Fanhais, José Jorge Letria, José Barata Moura and Sérgio Godinho. They traced a new course for urban popular music and influenced a further generation of musicians, some of whom also participated in the protest movement and are still active, including Fausto, Vitorino, Janita Salomé and Júlio Pereira, among others.
+This musical style reflects a confluence of influences from traditional music, French urban popular songs of the 1960s, African music and Brazilian popular music. By the late 1970s the revolutionary climate had subsided and the need to express political militancy through song was no longer felt by poets, composers and singers, who subsequently redefined both their role and their creative contribution.
+
+Hip hop
+Hip hop has been important since the 1980s with areas like Amadora, Cacém and the South Bank of the Tagus are considered to be the cradle of Hip Hop Tuga.
+The compilation called "Rapublica" released in 1994, which featured young rising artists and groups such as Black Company and Boss AC, is responsible for establishing hip hop in Portugal. The refrain from a song called "Não sabe nadar, yo" ("Can't swim, yo!") was used by the president of Portugal, Mário Soares in a speech about the cave painting in Foz Côa saying that "As gravuras não sabem nadar, yo!" ("The engravings can't swim, yo!").
+Apart from Lisbon, other urban centers also established vibrant hip hop scenes during the early nineties, especially Porto, that gave birth to important groups such as Mind Da Gap. More recently other local scenes have also developed on other urban centers, such as Coimbra and Faro.
+There are two major showcase events, Flowfest and Hip Hop Porto. Flowfest, in Coimbra, started in 2005. Hip Hop Porto is a free event held at Casa da Música, in September. It features mainly the northern hip hop names as headliners, drawing a very local audience. Its first edition in 2005 carded Rodney P, NBC, Blackmastah, Bomberjack, Rui Miguel Abreu, etc. Usually the event is held outdoors, but in 2006 the heavy rains made the event relocate to the parking lot of the building, causing a really "underground" look.
+
+Students festivals
+Festivals organised by students of several higher education institutions, take place every year across the country. The 'Queima das Fitas' in  Coimbra and Porto and 'Enterro da Gata' in Minho. Summer festivals include Vilar de Mouros Festival, Festival Sudoeste, Rock in Rio Lisboa, Super Bock Super Rock, Festival de Paredes de Coura, Boom Festival, Ilha do Ermal Festival, etc.
+
+Painting
+Portuguese art was very restricted in the early years of nationality, during the reconquista, to a few paintings in churches, convents and palaces.
+It was after the 15th century, with national borders established and with the discoveries, that Portuguese art expanded. Some kings, like John I already had royal painters. It is during this century that Gothic art was replaced by a more humanistic and Italian-like art.
+During the reign of King Alfonso V, an important Portuguese artist Nuno Gonçalves shaped Portuguese art, leading it to gain local characteristics (Escola Nacional, National School). His influence on Portuguese art continued after his death. He was the royal painter for the famous Retábulo do Altar das Relíquias de São Vicente in the Cathedral of Lisbon (Sé de Lisboa). The painting caught fire and was replaced by a Baroque structure. Parts of his work still exist and can be found in the Museu Nacional de Arte Antiga (National Museum of Ancient Art).
+During the Golden Age of Portugal, in the late 15th and early 16th centuries, Portuguese artists were influenced by Flemish art, and were in turn influential on Flemish artists of the same period. During this period, Portuguese art became internationally well-known, mostly because of its very original and diverse characteristics, but little is known about the artists of this time due to the medieval culture that considered painters to be artisans. The anonymous artists in the Portuguese "escolas" produced art not only for metropolitan Portugal but also for its colonies, namely Malacca or Goa and even Africa, gratifying the desires of local aristrocratic clients and religious clients.
+In the 19th century, naturalist and realist painters like Columbano, Henrique Pousão and Silva Porto revitalized painting against a decadent academic art.
+In the early 20th century, Portuguese art increased both in quality and quantity, mainly due to members of the Modernist movement like Amadeo de Souza Cardoso and Almada Negreiros. In the post-war years the abstractionist painter Vieira da Silva settled in Paris and gained widespread recognition, as did her contemporary Paula Rego.
+
+Theater
+Portugal never developed a great Dramatic theatre tradition due primarily to the fact that the Portuguese were more passionate about lyric or humorous works than dramatic art. Gil Vicente is often seen as the father of Portuguese theatre - he was the leading Portuguese playwright in the 16th century. During the 20th century, theatre found a way to reach out to the people, specially the middle class, through what in Portugal is known as "Revista" - a form of humorous and cartoonish theatre designed to expose and criticize social (and political) issues, but in a way that entertains and amuses the audience.
+Gil Vicente (1435–1536) is considered the first great Portuguese playwright. Frequently called the father of Portuguese theatre, he portrays the society of the 16th century. Anticipating the 17th-century French writer Jean-Baptiste de Santeul's well-known phrase "castigat ridendo mores", Gil Vicente became famous for his satirical plays such as the "Triologia das Barcas" ("Auto da Barca do Inferno" (1517), "Auto da Barca do Purgatório" (1518); "Auto da Barca da Glória" (1518)). In these plays, he creates some characters who are representative of their social group. This results in not only comical, but also strong critical situations. Gil Vicente also wrote other important plays such as "Auto da Índia" (1509), "Auto da Fama" (1510), and "Farsa de Inês Pereira" (1523).
+Another relevant playwright of the 16th century is António Ferreira (1528–1569), who wrote Castro (1587), a well-known tragedy about the forbidden love between D. Pedro I and D. Inês de Castro. António Ferreira is considered the father of Renaissance culture in Portugal.
+One of the most famous playwrights of the 18th century is António José da Silva (1705–1739), commonly known as "O Judeu" because of his Judaic origins. He wrote several plays such as "Os Encantos de Medeia" (1735), "As Variedades de Proteu" (1737) and "Precipício de Faetonte" (1738).
+Almeida Garrett (1799–1854) was a turning point in Portuguese literature as far as the themes are concerned. His most outstanding play is "Frei Luís de Sousa" (1844), which became a classic of Portuguese theatre. Garrett also wrote "Um Auto de Gil Vicente" (1838), "Filipa de Vilhena" (1846) and "O Alfageme de Santarém" (1842). These three plays as well as "Frei Luís de Sousa" are somehow connected with Portuguese history. Furthermore, Garrett is also the founder of the "Conservatório Geral de Arte Dramática" as well as of the "Teatro Nacional D. Maria II".
+In the late 19th century, two Portuguese playwrights of Goan descent, Lucasinho Ribeiro and João Agostinho Fernandes, emerged as leading figures for introducing tiatr, a musical theatre based on Portuguese theatre "teatro". Ribeiro was the first to introduce the art form in Bombay, British India, and later in Assagão, Portuguese Goa.
+As far as the 20th century is concerned, it's worth noticing Bernardo Santareno's (1920–1980) work. His most famous play is "O Judeu", based upon the life of António José da Silva, mentioned above. Santareno also wrote "A Promessa" (1957), "O Crime da Aldeia Velha" (1959) and "Anunciação" (1962). Most of his plays deal with universal questions such as liberty, oppression and discrimination.
+Born in 1926, Luís de Sttau Monteiro (1926–1993) wrote several plays, some of them portraying and criticising Portuguese society of his time. His most famous play is "Felizmente Há Luar" (1961), which is a strong criticism of the political context of that time (dictatorship – Estado Novo). "O Barão" (1965), "A Guerra Santa" (1967) and "Sua Excelência" (1971) were also written by Sttau Monteiro.
+In the 20th century, theatre in Portugal became more popular with the "Revista" – a comical and satirical form of theatre. It is a creative way of expressing one's ideas as well as criticising political and social problems. The most important actors who performed this form of theatre in the 20th century were Vasco Santana (1898–1958), Beatriz Costa (1907–1996) and Ivone Silva (1935–1987). Nowadays it is worth mentioning Maria João Abreu, José Raposo and Fernando Mendes, who perform this form of theatre at the well known "Parque Mayer" (a theatre district in Lisbon where the "Revista" used to be performed).
+Important Portuguese actors include Ruy de Carvalho, Eunice Muñoz, Rui Mendes, Irene Cruz and Luís Miguel Cintra.
+In later years, theatre in Portugal has developed into many other forms as in any other European country. Almost every repertoire can be seen in Portugal. Many companies have the works of Shakespeare, Molière, Brecht, Becket or Chekhov, and Portuguese classic and modern authors on their repertoire. Other companies show more experimental projects. All this makes the theatre repertoire very varied. Some of the most important professional theatre companies nowadays are: Teatro da Cornucópia, Teatro da Comuna, Teatro Aberto, Teatro Meridional, Teatro da Garagem, Companhia de Teatro de Almada, Companhia Teatral do Chiado, A Barraca, Teatro dos Aloés, Teatro Praga, Artistas Unidos, Seiva Trupe, As boas raparigas, ACTA, among many others.
+Portugal hosts several festivals such as FITEI, ACERT, FIAR, and the International Theatre Festival of Almada (FITA).
+
+Fashion and design
+Industrialized, export-oriented fashion and design in clothing, footwear, kitchenware and furniture industries, was pioneered by fashion designers like Eduarda Abbondanza, Mário Matos Ribeiro, Ana Salazar, José António Tenente, João Tomé, Francisco Pontes or Manuela Gonçalves, as well as textile industry industrialists established in places like Vale do Ave, in clothing; several entrepreneurs of the Portuguese footwear industry; Vista Alegre Atlantis and Rafael Bordalo Pinheiro, in tableware and kitchenware; and businesspersons of the old-established furniture industry heavily concentrated in and around places such as Paços de Ferreira and Paredes. Corkware and other cork-based products such as furniture, decorative items and floor and wall coatings, are also distinctive products found among typical designer creations of Portuguese origin.
+
+Filigree began to be produced in Portugal in the 8th century with the arrival of Arab migrants after the Umayyad invasion of Iberian Peninsula, who brought new patterns with them. With time, the peninsula began to produce different filigree patterns, but while in Spain the filigree jewellery-making tradition became less relevant, in Portugal it was perfected. After the 18th century, Portuguese Filigree already had its own distinctive imagery, motifs and shapes. Filigree from the 17th and 18th centuries became famous for their extraordinary complexity. Gold and silver filigree jewellery of delicate and artistic design is still made in considerable quantities throughout the country, particularly filigree hearts, which are iconic symbols of Portuguese jewellery-making.
+
+Folklore
+Trasgos, almas penadas, peeiras, Jãs, maruxinhos, moledros, and marafonas are mythical beings that form part of Portuguese folklore. These legends and traditions are preserved in the lore and literature of older generations, frequently seen as the remains of pre-Christian traditions. The lore associates the ancient monuments to the legends of the Enchanted Mouras and nearly every Portuguese town has a tale of a Moura Encantada.
+
+Festivities and holidays
+During the summer, in the month of June, festivities dedicated to three saints known as Santos Populares take place all over Portugal. Why the populace associated the saints to these pagan festivities is not known. But they are possibly related to Roman or local deities from the time before Christianity spread in the region. The three saints are Saint Anthony, Saint John and Saint Peter. Common fare in these festivities are wine, água-pé (mostly grape juice), and traditional bread along with sardines. During the festivities are many weddings, traditional street dances and fireworks.
+Saint Anthony is celebrated on the night of 12th-13 June, especially in Lisbon (where that saint was born and lived most of his life), with Marchas Populares (a street carnival) and other festivities. In the meantime, several marriages known as Casamentos de Santo António (Marriages of Saint Anthony) are made. But the most popular saint is Saint John, he is celebrated in many cities and towns throughout the country on the night of the 23rd-24th, especially in Porto and Braga, where the sardines, caldo verde (traditional soup) and plastic hammers to hammer in another person's head for luck are indispensable. The final saint is Saint Peter, celebrated in the night of 28th-29th, especially in Póvoa de Varzim and Barcelos, the festivities are similar to the others, but more dedicated to the sea and with an extensive use of fire (fogueiras). In Póvoa de Varzim, there is the Rusgas in the night, another sort of street carnival. Each festivity is a municipal holiday in the cities and towns where it occurs.
+
+Carnival is also widely celebrated in Portugal, some traditional carnivals date back several centuries. Loulé, Alcobaça, Mealhada, Funchal, Torres Vedras, Ovar and Figueira da Foz, among several other localities, hold several days of festivities, with parades where social and political criticism abound, along with music and dancing in an environment of euphorya. There are some localities which preserve a more traditional carnival with typical elements of the ancient carnival traditions of Portugal and Europe. However, several parades in most localities have adopted many elements of the tropical Brazilian Carnival.
+On January 6, Epiphany is celebrated by some families, especially in the North and Center, where the family gathers to eat "Bolo Rei" (literally, King Cake, a cake made with crystallized fruits); this is also the time for the traditional carols - "As Janeiras", the new year's Wassailing.
+Saint Martin Day, is celebrated on November 11. This day is the peak of three days, often with very good weather, it is known as Verão de São Martinho ("Saint Martin summer"), the Portuguese celebrate it with jeropiga (a sweet liqueur wine) and roasted Portuguese chestnuts (castanhas assadas), and it is called Magusto.
+
+National holidays
+Portuguese popular song: (English Translation)
+
+"Santo António já se acabou. (Saint Anthony is over)
+O São Pedro está-se a acabar. (Saint Peter is ending)
+São João, São João, São João, (Saint John, Saint John, Saint John)
+Dá cá um balão para eu brincar." (Give me a balloon, for me to play)
+
+Sports and games
+Football is the most popular sport in Portugal. Football started to become well known in Portugal in the final decades of the 19th century, brought by Portuguese students who returned from England.
+The first person responsible for its implementation was Guilherme Pinto Basto (according to some people, his brothers Eduardo and Frederico brought the first ball from England). It was he who had the initiative to organise an exhibition of the new game, which took place in October 1888 in Cascais, and it was also Pinto Basto who organized the first official football match in January of the following year. The match, played where today is found the Campo Pequeno Bullring in Lisbon, involved opposing teams from Portugal and England. The Portuguese team won the game 2–1. Consequently, football started attracting the attention of the high society, being distinguished by the Luso-British rivalry.
+Later, the game spread, being practiced in colleges, and leading to the foundation of clubs all over the country. Until the end of the century, associations such as Clube Lisbonense, Carcavelos, Braço de Prata, the Real Ginásio Clube Português, the Estrela Futebol Clube, the Futebol Académico, the Campo de Ourique, the Oporto Cricket, and the Sport Clube Vianense were founded to practice this sport or created sections for competing. The first match, between Lisbon and Porto, took place in 1894, attended by King D. Carlos. The Clube Internacional de Futebol (founded in 1902) was the first Portuguese team to play abroad defeating, in 1907, the Madrid Futebol Clube in the Spanish capital.
+The oldest football club in Portugal is Futebol Clube do Porto which was founded in 1893 (as Foot-Ball Club do Porto). Sport Lisboa e Benfica was born in 1904, with Cosme Damião and other people being the founders (the club maintained the foundation date of Sport Lisboa, founded in 1904, when in 1908 assimilated the Grupo Sport Benfica, founded in 1906). The Boavista Futebol Clube was founded in 1903. The Sporting Clube de Portugal was founded in 1906 by the Viscount of Alvalade and his grandson José de Alvalade. They are all clubs that traditionally have several sports activities but they give great distinction to football, making use of teams of professional players, which frequently participate in European competitions.
+In April 2010, the Portugal national football team was ranked 3rd out of 207 countries by FIFA. The legendary Eusébio is still a symbol of Portuguese football. Luís Figo was voted 2001 Player of the Year by FIFA, after finishing 2nd in 2000. Manuel Rui Costa and Cristiano Ronaldo are also noteworthy, although Vítor Baía is the player in history with most titles won, including all European club cups. Moreover, José Mourinho is regarded as one of the most successful and well-paid football managers in football's history. The main domestic football competition is the Primeira Liga, where the dominating teams are S.L. Benfica, FC Porto, and Sporting CP. Portugal hosted and nearly won EURO 2004, getting defeated in the final by surprise winner Greece. The Portuguese national team also reached the semi-finals of the FIFA World Cup twice, in 1966, when Eusébio was the top scorer, with 9 goals, and also in 2006. The year 2006 was the year that Portugal nearly won the FIFA World Cup tournament, ranking 4th overall, being defeated by France and Germany. This was the first time since 1966, that the Portuguese football team had advanced to such a high qualifying round in a World Cup tournament. The national team defeated hosts France in the 2016 edition of the UEFA Euro, their first major international trophy.
+Other than football, many other professional and well organized sport competitions take place every season in Portugal, including basketball, swimming, athletics, tennis, gymnastics, futsal, handball, and volleyball among the hundreds of sports played in this country.
+Road cycling, with Volta a Portugal as the most important race, is also popular.
+In rink hockey, Portugal is the country with the most world titles: 15 World Championships and 20 European Championships, and in rugby sevens, the Portuguese team has won many international trophies, having as of July 2006, five European Championship titles.
+Golf is also worth mentioning, since its greatest players play in the sunny region of the Algarve, during the Algarve Open.
+The Autódromo Fernanda Pires da Silva in the Estoril, near Lisbon, is the main Portuguese race track, where many motorsport competitions are held, including the World Motorcycling Championship and A1 Grand Prix.
+Rallying (with the Rally of Portugal and Rally Madeira) and off-road (with the Baja Portugal 1000 and recently Lisboa-Dakar) events also have international recognition.
+Triathlon is also giving important steps, thanks to the world cup leader Vanessa Fernandes, and her European and world titles. She is also the duathlon European and world champion.
+The national team of shooting sports won the gold medal in the teams event, and Paulo Cleto won silver in the single men's competition.
+Martial arts like judo have also brought many medals to this country, namely Telma Monteiro, who conquered gold twice at the European Championships in the -52 kg category, bronze in 2005 world championship in Cairo, and achieved silver in 2007 World Judo Championships. Nuno Delgado, who conquered the bronze medal in the 2000 Summer Olympics in Sydney, also became the European champion in 1999 (in Bratislava), and vice-champion in the year of 2003.
+Manuel Centeno is also a major name in Portuguese sports, as he conquered the national, European and the world titles, in 2006 in bodyboarding after being the European champion back in 2001.
+In surfing, Justin Mujica, European surfing champion in 2004, is now back in the competitions after recovering from a knee injury. Tiago Pires reached the number one position at ASP WQS rating, and will probably be part of the main surfing competition. Ruben Gonzalez is an international acclaimed surfer and the only one to achieve the national title in two consecutive tournaments.
+The Portuguese team of basketball made a unique qualification to the European Championships and made through the second round, where it was eliminated.
+"Os Lobos" (Portugal national rugby union team) made a dramatic qualification to the 2007 Rugby World Cup, becoming the world's only all-amateur team ever to qualify for that kind of event.
+In fencing, Joaquim Videira won the silver medal at the épée 2006 World Fencing Championships, and has conquered numerous medals in the world cup.
+The major Portuguese professional sports leagues, championships and events include:
+
+Portuguese Football Championship and Cup of Portugal in football.
+Portuguese Futsal First Division in futsal.
+Portuguese Basketball League in basketball.
+Portuguese Roller Hockey First Division in rink hockey.
+Portuguese Handball League in handball.
+Campeonato Nacional Honra/Super Bock in rugby.
+Portuguese Volleyball League A1 in volleyball.
+Portuguese Beach Soccer League in beach soccer.
+Volta a Portugal in road cycling.
+Rally of Portugal in motor racing.
+The country has an ancient martial art known as "Jogo do Pau" (Portuguese Stick Fencing), which is used for self-protection and for duels between young men in disputes over young women. Having its origin in the Middle Ages, Jogo do Pau uses wooden staves as a combat weapon.
+Other sports are the "Jogos Populares", a wide variety of traditional sports played for fun.
+In addition to this, other popular sport-related recreational outdoor activities with thousands of enthusiasts nationwide include airsoft, fishing, golf, hiking, hunting, and orienteering.
+
+Stereotypes
+This is a list of stereotypes:
+
+Saudade
+Sebastianism
+Zé Povinho
+
+See also
+Portuguese people
+Portuguese poetry
+List of cultural icons of Portugal
+List of libraries in Portugal
+List of museums in Portugal
+Historic villages of Portugal
+
+References
+Further reading
+Folktale indexes
+
+"Contos Maravilhosos: Adversários Sobrenaturais (300–99)" (in Portuguese). Archived from the original on June 6, 2020.
+Correia, Paulo Jorge. CONTOS TRADICIONAIS PORTUGUESES (com as versões análogas dos países lusófonos). IELT (Instituto de Estudos de Literatura e Tradição), Faculdade de Ciências Sociais e Humanas, Universidade NOVA de Lisboa, 2021. ISBN 978-989-8968-08-1.
+Folktale collections
+Braga, Teófilo. Contos Tradicionais do Povo Português. Vol. I. Lisboa: Publicações Dom Quixote, 1999.
+Coelho, Francisco Adolfo. Tales of Lusitania from The Folklore of Portugal. Translated by Henriqueta Monteiro. London: Swan Sonnenschein, 1888.
+Pires, António Thomaz. Contos Populares Alentejanos, recolhidos na tradição oral. Lisboa, Universidade Católica Portuguesa, 1992. (in Portuguese)
+
+## Cuisine of Portugal
+Portuguese cuisine (Portuguese: Cozinha portuguesa) consists of the traditions and practices of cooking in Portugal. The oldest known book on Portuguese cuisine, entitled Livro de Cozinha da Infanta D. Maria de Portugal, from the 16th century, describes many popular dishes of meat, fish, poultry and others.
+Culinária Portuguesa, by António-Maria De Oliveira Bello, better known as Olleboma, was published in 1936.
+Despite being relatively restricted to an Atlantic,  Celtic sustenance, the Portuguese cuisine also has strong French and Mediterranean influences.
+The influence of Portugal's spice trade in the East Indies, Africa, and the Americas is also notable, especially in the wide variety of spices used. These spices include piri piri (small, fiery chili peppers), white pepper, black pepper, saffron, paprika, clove, allspice, cumin, cinnamon and nutmeg, used in meat, fish or multiple savoury dishes from continental Portugal, the Azores and Madeira islands.
+Cinnamon, vanilla, lemon zest, orange zest, aniseed, clove and allspice are used in many traditional desserts and some savoury dishes.
+Garlic and onions are widely used, as are herbs; bay leaf, parsley, oregano, thyme, mint, marjoram, rosemary and coriander are the most prevalent.
+
+Olive oil is one of the bases of Portuguese cuisine, which is used both for cooking and flavouring meals. This has led to a unique classification of olive oils in Portugal, depending on their acidity: 1.5 degrees is only for cooking with (virgin olive oil); anything lower than 1 degree is good for dousing over fish, potatoes and vegetables (extra virgin). 0.7, 0.5 or even 0.3 degrees are for those who do not enjoy the taste of olive oil, or who wish to use it in, for example, mayonnaise or a sauce where the taste is meant to be disguised.
+Portuguese dishes are based on the Atlantic diet and include meats (pork, beef, poultry mainly; also game and others), seafood (fish, crustaceans such as lobster, crab, shrimps, prawns, octopus, and molluscs such as scallops, clams and barnacles), numerous vegetable varieties (brassica family), legumes and desserts (cakes being the most numerous).
+Portuguese often consume rice, potatoes, rapini (known as grelos), and bread with their meals, and there are numerous varieties of traditional fresh breads like broa, which may also have regional and national variations within the countries under Lusophone or Galician influence.
+In a wider sense, Portuguese and Galician cuisine share many traditions and features.
+
+Middle Ages
+During the Middle Ages, the Portuguese lived mostly from husbandry. They grew cereals, vegetables, root vegetables, legumes and chestnuts, poultry, cattle, pigs, that they used as sustenance. Fishing and hunting were also common in most regions. During this period, novel methods to conserve fish were introduced, along with plants like vines and olive trees. Bread (rye, wheat, barley, oats) was widely consumed and a staple food for most of the populations.
+Sweet oranges were introduced in Portugal by Portuguese traders in the 15th century.  Many of today's foods such as potatoes, tomatoes, chilli, bell peppers, maize, cocoa, vanilla or turkey were unknown in Europe until the post-Columbus arrival in the Americas in 1492.
+
+Meals
+A Portuguese breakfast often consists of fresh bread, with butter, ham, cheese or jam, accompanied by coffee, milk, tea or hot chocolate. A small espresso coffee (sometimes called a bica after the spout of the coffee machine, or Cimbalino after the Italian coffee machine La Cimbali) is a very popular beverage had during breakfast or after lunch, which is enjoyed at home or at the many cafés in towns and cities throughout Portugal. Sweet pastries are also very popular, as well as breakfast cereal, mixed with milk or yogurt and fruit. The pastel de nata, one of the most salient symbols of the Portuguese cuisine, is a common feature of the Portuguese breakfast. They are frequently eaten with a shot of espresso, both at breakfast or as an afternoon treat.
+Lunch, often lasting over an hour, is served between noon and 2 o'clock, typically around 1 o'clock and dinner is generally served around 8 o'clock. There are three main courses, with lunch and dinner usually including a soup. A common Portuguese soup is caldo verde, which consists of a base of cooked, then pureed, potato, onion and garlic, to which shredded collard greens are then added. Slices of chouriço (a smoked or spicy Portuguese sausage) are often added as well, but may be omitted, thereby making the soup fully vegan.
+Among fish recipes, salted cod (bacalhau) dishes are pervasive. The most popular desserts are caramel custard, known as pudim de ovos or flã de caramelo, chocolate mousse known as mousse de chocolate, crème brûlée known as leite-creme, rice pudding known as arroz doce decorated with cinnamon, and apple tart known as tarte de maçã. A wide variety of cheeses are made from sheep, goat or cow's milk, and can also contain a mixture of different kinds of milk. The most famous are queijo da serra from the region of Serra da Estrela, queijo São Jorge from the island of São Jorge, and requeijão. A popular pastry is the pastel de nata, a small custard tart often sprinkled with cinnamon.
+
+Fish and seafood
+Portugal is a seafaring nation with a well-developed fishing industry and this is reflected in the amount of fish and seafood eaten. The country has Europe's highest fish consumption per capita, and is among the top four in the world for this indicator. Fish is served grilled, boiled (including poached and simmered), fried or deep-fried, stewed known as  caldeirada  (often in clay pot cooking), roasted, or even steamed.
+Foremost amongst these is bacalhau (cod), which is the type of fish most consumed in Portugal. It is said that there are more than 365 ways to cook cod, meaning at least one dish for each day of the year. Cod is almost always used dried and salted, because the Portuguese fishing tradition in the North Atlantic developed before the invention of refrigeration—therefore it needs to be soaked in water or sometimes milk before cooking. The simpler fish dishes are often flavoured with virgin olive oil and white wine vinegar.
+Portugal has been fishing and trading cod since the 15th century, and this cod trade accounts for its widespread use in the cuisine. Other popular seafoods includes fresh sardines (especially as sardinhas assadas), sea bass, snapper, swordfish, mackerel, sole, brill, halibut, John Dory, turbot, monkfish, octopus, squid, cuttlefish, crabs, shrimp and prawns, lobster, spiny lobster, and many other crustaceans, such as barnacles, hake, horse mackerel (scad), scabbard (especially in Madeira), and a great variety of other fish and shellfish, as well as molluscs, such as clams, mussels, oysters, scallops and periwinkles.
+Caldeirada is a range of different stews consisting of a variety of fish (turbot, monkfish, hake, mussels) and shellfish, resembling the Provençal bouillabaisse, or meats and game, together with multiple vegetable ingredients. These stews traditionally consist of (rapini) grelos, and/or potatoes, tomatoes, peri-peri, bell peppers, parsley, garlic, onions, pennyroyal, and in some regions, coriander.
+River lamprey and eels are freshwater specialties. The Coimbra and Aveiro regions of central Portugal are renowned for eel stews and lamprey seasonal dishes and festivals. Arganil and Penacova have popular dishes such as arroz de lampreia and lampreia à bordalesa.
+
+Sardines used to be preserved in brine for sale in rural areas. Later, sardine canneries developed all along the Portuguese coast. Ray fish is dried in the sun in Northern Portugal. Canned tuna is widely available in continental Portugal. Tuna used to be plentiful in the waters of the Algarve. They were trapped in fixed nets when they passed the Portuguese southern coast on their way to spawn in the Mediterranean, and again when they returned to the Atlantic. Portuguese writer Raul Brandão, in his book Os Pescadores, describes how the tuna was hooked from the raised net into the boats, and how the fishermen would amuse themselves riding the larger fish around the net. Fresh tuna, however, is usually eaten in Madeira and the Algarve where tuna steaks are an important item in local cuisine. Canned sardines or tuna, served with boiled potatoes, black-eyed peas, collard greens and hard-boiled eggs constitute a convenient meal when there is no time to prepare anything more elaborate.
+
+Meat and poultry
+Eating meat and poultry on a daily basis was historically a privilege of the upper classes. Pork and beef are the most common meats in the country. Meat was a staple at the nobleman's table during the Middle Ages. A Portuguese Renaissance chronicler, Garcia de Resende, describes how an entrée at a royal banquet was composed of a whole roasted ox garnished with a circle of chickens. A common Portuguese dish, mainly eaten in winter, is cozido à portuguesa, which somewhat parallels the French pot-au-feu or the New England boiled dinner. Its composition depends on the cook's imagination and budget. An extensive lavish cozido may include beef, pork, salt pork, several types of charcutaria (such as cured chouriço, morcela e chouriço de sangue, linguiça, farinheira, etc.), pig's feet, cured ham, potatoes, carrots, turnips,  cabbage and rice. This would originally have been a favourite food of the affluent farmer, which later reached the tables of the urban bourgeoisie and typical restaurants.
+
+Meat
+Tripas à moda do Porto (tripe with white beans) is said to have originated in the 14th century, when the Castilians laid siege to Lisbon and blockaded the Tagus entrance. The Portuguese chronicler Fernão Lopes dramatically recounts how starvation spread all over the city. Food prices rose astronomically, and small boys would go to the former wheat market place in search of a few grains on the ground, which they would eagerly put in their mouths when found. Old and sick people, as well as prostitutes, or in short anybody who would not be able to aid in the city's defence, were sent out to the Castilian camp, only to be returned to Lisbon by the invaders. It was at this point that the citizens of Porto decided to organize a supply fleet that managed to slip through the river blockade. Apparently, since all available meat was sent to the capital for a while, Porto residents were limited to tripe and other organs. Others claim that it was only in 1415 that Porto deprived itself of meat to supply the expedition that conquered the city of Ceuta. Whatever the truth may be, since at least the 17th century, people from Porto have been known as tripeiros or tripe eaters. Another Portuguese dish with tripe is dobrada.
+Nowadays, the Porto region is equally known for the toasted sandwich known as a francesinha (meaning "Frenchie").
+Many other meat dishes feature in Portuguese cuisine. In the Bairrada area, a famous dish is Leitão à Bairrada  (roasted suckling pig). Nearby, another dish, chanfana (goat slowly cooked in red wine, paprika and white pepper) is claimed by two towns, Miranda do Corvo ("Capital da Chanfana") and Vila Nova de Poiares ("Capital Universal da Chanfana").
+Carne de porco à alentejana, fried pork with clams, is a popular dish with some speculation behind its name and its origin as clams would not be as popular in Alentejo, a region with only one sizeable fishing port, Sines, and small fishing villages but would instead have a much popular usage in the Algarve and its seaside towns. One of the theories as to why the plate may belong to the Algarve is that pigs in the region used to be fed with fish derivatives, so clams were added to the fried pork to disguise the fishy taste of the meat. The dish was used in the Middle Ages to test Jewish converts' new Christian faith; consisting of pork and shellfish (two non-kosher items), Cristãos-novos were expected to eat the dish in public in order to prove they had renounced the Jewish faith. In Alto Alentejo (North Alentejo), there is a dish made with lungs, blood and liver, of either pork or lamb. This traditional Easter dish is eaten at other times of year as well. A regional, islander dish,
+alcatra, beef marinated in red wine, garlic and spices like cloves and whole allspice, then roasted in a clay pot, is a tradition of Terceira Island in the Azores.
+The Portuguese steak, bife, is a slice of fried beef or pork marinated in spices and served in a wine-based sauce with fried potatoes, rice, or salad. An egg, sunny-side up, may be placed on top of the meat, in which case the dish acquires a new name, bife com ovo a cavalo (steak with an egg on horseback). This dish is sometimes referred to as bitoque, to demonstrate the idea that the meat only "touches" the grill twice, meaning that it does not grill for too long before being served, resulting in a rare to medium-rare cut of meat. Another variation of bife is bife à casa (house steak), which may resemble the bife a cavalo or may feature garnishing, such as asparagus.
+Iscas (fried liver) was a favourite request in old Lisbon taverns. Sometimes, they were called iscas com elas, the elas referring to sautéed potatoes. Small beef or pork steaks in a roll (pregos or bifanas, respectively) are popular snacks, often served at beer halls with a large mug of beer. In modern days, a prego or bifana, eaten at a snack bar counter, may constitute lunch in itself.
+Espetada (meat on a skewer) is very popular in the island of Madeira.
+
+Charcuterie
+Alheira, a yellowish sausage from Trás-os-Montes, traditionally served with fried potatoes and a fried egg, has an interesting story. In the late 15th century, King Manuel of Portugal ordered all resident Jews to convert to Christianity or leave the country.
+The King did not really want to expel the Jews, who constituted the economic and professional élite of the kingdom, but was forced to do so by outside pressures. So, when the deadline arrived, he announced that no ships were available for those who refused conversion—the vast majority—and had men, women and children dragged to churches for a forced mass baptism. Others were even baptized near the ships themselves, which gave birth to a concept popular at the time: baptizados em pé, literally meaning: "baptized while standing". It is believed that some of the Jews maintained their religion secretly, but tried to show an image of being good Christians. Since avoiding pork was a tell-tale practice in the eyes of the Portuguese Inquisition, new Christians devised a type of sausage that would give the appearance of being made with pork, but only contained heavily spiced game and chicken. Over time, pork has been added to the alheiras.
+Alheira-sausage varieties with PGI protection status, include Alheira de Vinhais and Alheira de Barroso-Montalegre.
+Chouriço or Chouriça (the latter usually denoting a larger or thicker version) is a distinct sausage and not to be confused with chorizo. It is made (at least) with pork, fat, paprika, garlic, and salt (wine and sometimes pepper also being common ingredients in some regions). It is then stuffed into natural casings from pig or lamb and slowly dried over smoke. The many different varieties differ in color, shape, spices and taste. White pepper, piri-piri, cumin and cinnamon are often an addition in Portuguese ex-colonies and islands. Traditional Portuguese cured chouriço varieties are more meaty, often use red wine and not many spices. Many Portuguese dishes use chouriço, including cozido à portuguesa and feijoada.
+
+Farinheira is another Portuguese smoked sausage, which uses wheat flour as base ingredient. This sausage is one of the ingredients of traditional dishes like Cozido à Portuguesa. Borba, Estremoz and Portalegre farinheiras all have a "PGI" in the European Union.
+
+Presunto (prosciutto ham) comes in a wide variety in Portugal, the most famous presunto being from the Chaves region. Presunto is usually cut in thin slices or small pieces and consumed as aperitif, tea, or added as ingredient to different dishes.
+Several varieties of presunto are protected by European law with protected designations of origin (PDO) or protected geographical indication (PGI), such as Presunto de Barrancos or Presunto Bísaro de Vinhais.
+Porco bísaro is a prized native pig breed in Portugal with PDO status. Several products derived from this breed, such as «Bucho de Vinhais», «Chouriço de Ossos de Vinhais» and «Chouriça Doce de Vinhais» also have PGI status.
+According to the General Cattle Census on the Continent of the Kingdom of Portugal (1870), "... bísaro is the name given to the tucked-up pig, more or less leggy, with loose ears to distinguish him from the good plump and pernicious pig of the Alentejo". The name Celtic  is proposed and used by Sanson to express the antiquity of the race of this type, which was the only one that existed in the regions inhabited by the Celtic people, such as the north of Portugal and Galicia, the former Gaul and the British islands, before the introduction in these countries, of the Asian and Romanesque races.
+In 1878, Macedo Pinto described the bísaro pig as an animal belonging to the Typo Bizaro or Celta, with the morphological characteristics mentioned above, distinguishing two varieties within the breed, according to the corpulence, color and greater or lesser amount of bristles.
+
+He considered the existence of pigs from 200 to 250 kg of carcass and others between 120 and 150 kg; as for color, he says they are mostly black, also some spotted and those with white fur were called Galegos, as they come from Galicia. Molarinhos were spotted animals that had few bristles and smooth, smooth skin.
+The same author also mentions that they are animals of slow and late growth, difficult to fatten (only completing their growth at the age of two), producing more lean meat than fat and accumulating more in the fat than in thick blankets of bacon.
+In 1946, Cunha Ortigosa classifies the Bísara  breed, originally from the Celtic family, as one of the three national breeds. When describing the varieties within the breed, in addition to Galega  and Beirôa which encompasses the Molarinho and Cerdões subtypes.
+Portuguese cold cuts and sausages (charcutaria and enchidos, respectively) have long and varied traditions in meat preparation, seasoning, preservation and consumption: cured, salted, smoked, cooked, simmered, fermented, fried, wrapped, dried. Regional variations in form and flavour, specialities and names also occur. Further pork (and other meats) charcuterie products include toucinho, paio, morcela, beloura, bucho, butelo, cacholeira, maranho, pernil, salpicão and others.
+
+Poultry
+Chicken, duck, turkey, red-legged partridge and quail are all elements of Portuguese cuisine. Dishes include frango no churrasco (chicken on churrasco), chicken piri-piri, cabidela rice, canja de galinha, and arroz de pato (duck rice), among others.
+Turkeys were only eaten for Christmas or on special occasions, such as wedding receptions or banquets. Until the 1930s, farmers from the outskirts of Lisbon would come around Christmastime to bring herds of turkeys to the city streets for sale. Nowadays, mass production in poultry farms makes these meats accessible to all classes. Bifes de peru, turkey steaks, have thus become an addition to Portuguese tables.
+
+Vegetables and starches
+Vegetables that are popular in Portuguese cookery include numerous cabbage and collard varieties, sprouts (traditionally collected from turnips and different cabbage shoots) tomatoes, onions and peas. There are many starchy dishes, such as feijoada, a rich black bean stew with beef and pork, and açorda, a Portuguese bread soup. Numerous ’’cozido’’ stews are prepared from kale, white beans, red beans, Catarino and Bragançano, fava beans, black eyed beans. Several pumpkins like menina and porqueira varietals, are used in soups and soufflés.
+One of numerous vegetable and starch rich soups and broths is caurdo or caldo à Lavrador, a soup made of cabbage, red beans, potatoes, prosciutto chunks and wheat flour.
+Many dishes are served with salads often made from tomato, lettuce, shredded carrots and onion, usually seasoned with olive oil and vinegar. Potatoes and rice are also extremely common in Portuguese cuisine. Soups made from a variety of vegetables, root vegetables, meats and beans are commonly available, one of the most popular being caldo verde, made from thinly sliced kale, potato purée, and slices of  chouriço.
+
+Fruits, nuts, and berries
+Before the arrival of potatoes from the New World, chestnuts (Castanea sativa) were widely used as seasonal staple ingredients. There is a revival of chestnut dishes, desserts and compotes in Portugal and production is relevant in inland areas of central and northern Portugal.
+Other seasonal fruits, nuts and berries such as pears, apples, table grapes, plums, peaches, cherries, sour cherries, melons, watermelons, citrus, figs, pomegranates, apricots, walnuts, pine nuts, almonds, hazelnuts, strawberries, raspberries, blackberries, redcurrant and blueberries are part of the Portuguese diet. These are consumed naturally or used as desserts, marmalades, compotes, jellies and liqueurs.
+
+Cheese
+There are a wide variety of Portuguese cheeses, made from cow's, goat's or sheep's milk. Usually these are very strongly flavoured and fragrant. Traditional Portuguese cuisine does not include cheese in its recipes, so it is usually eaten on its own before or after the main dishes. The Queijo da Serra da Estrela, which is very strong in flavour, can be eaten soft or more matured. Serra da Estrela is handmade from fresh sheep's milk and thistle-derived rennet. In the Azores islands, there is a type of cheese made from cow's milk with a spicy taste, the Queijo São Jorge. Other well known cheeses with protected designation of origin, such as Queijo de Azeitão, Queijo de Castelo Branco. Queijo mestiço de Tolosa , is the only Portuguese cheese with protected geographical indication and is made in the civil parish of Tolosa, part of the municipality of Nisa, which itself has another local variation within the Portalegre District, Queijo de Nisa.
+
+Coffee
+Alcoholic beverages
+Wines and beers
+Wine (red, white and "green") is the traditional Portuguese drink, the rosé variety being popular in non-Portuguese markets and not particularly common in Portugal itself.
+Vinho verde, termed "green" wine, is a specific kind of wine which can be red, white or rosé, and is only produced in the northwestern (Minho province) and does not refer to the colour of the drink, but to the fact that this wine needs to be drunk "young". A "green wine" should be consumed as a new wine while a "maduro" wine usually can be consumed after a period of ageing. Green wines are usually slightly sparkling.
+Traditionally grown on the schist slopes of the River Douro and immediate tributaries, Port wine is a fortified wine of distinct flavour produced in Douro, which is normally served with desserts.
+Alvarinho white wines from Minho are also highly sought after.
+Vinho da Madeira, is a regional wine produced in Madeira, similar to sherry.
+From the distillation of grape wastes from wine production, this is then turned into a variety of brandies (called aguardente, literally "burning water"), which are very strong-tasting.
+Typical liqueurs, such as Licor Beirão and Ginjinha, are very popular alcoholic beverages in Portugal. In the south, particularly the Algarve, a distilled spirit called medronho, which is made from the fruit of the strawberry tree.
+Beer was already consumed in Pre-Roman times, namely by the Lusitanians who drank beer much more than wine. The Latinised word ‘cerveja’ (from cerevisia < cervesia) derives from an older Celtic term used in Gaul. During the Reconquista, many knights from Northern Europe preferred beer to the local wine. The ‘Biergarten’ culture, called Cervejaria in Portugal, is widespread in all regions and several local brands are popular with locals and visitors alike. Lisbon has a Beer Museum focusing on Portuguese and Lusophone countries' beer traditions.
+
+Pastries and sweets
+Portuguese sweets have had a large impact on the development of Western cuisines. Many words like marmalade, caramel, molasses and sugar have Portuguese origins.
+The Portuguese sponge cake called pão de ló is believed to be based on the 17th century French recipe pain de lof, which in turn derived from Dutch "loef". The French eventually called their cake Genoise.
+Probably the most famous of the Portuguese patisseries are the pastéis de nata, originally known as Pastéis de Belém in the Lisbon district with the same name in the early nineteenth century. It is unclear when and where the recipe was first started.
+Monks of the military-religious Order of Christ lived in a church on the same location and provided assistance to seafarers in transit since the early fourteenth century, at least.
+The House of Aviz and the Jerónimos Monastery followed, the monastery lastly being occupied by the Hieronymite monks. Following the 1820 liberal revolution, events led to the closure of all monastic orders. The Pastéis de Belém were first commercialised just outside the Jerónimos monastery by people who had lost their jobs there. The original patisserie, adjacent to the monastery still operates today.  This pastry is now found worldwide, it is known in the UK by its original name or also as Portuguese custard tart. In 2011, the Portuguese public voted on a list of over 70 national dishes. Eventually naming the pastel de nata one of the seven wonders of Portuguese gastronomy.
+Many of the country's typical pastries were created in the Middle Ages monasteries by nuns and monks and sold as a means of supplementing their incomes. The names of these desserts are usually related to monastic life; barriga de freira (nun's belly), papos d’anjo (angel's double chin), and toucinho do céu (bacon from heaven).
+For that reason, they are often referred to as doçaria conventual or receitas monásticas (monastic recipes). Their legacy dates back to the 15th century when sugar from overseas became easier to access by all classes. Nuns at the time, were often young nobles who inherited knowledge from their households and developed recipes. These recipes were passed and perfected from generation to generation, usually within the secrecy of convents. Many of today's Portuguese desserts originated in convents and monasteries.
+The Andalusian influence in Southern Portugal can be found in sweets that incorporate figs, almonds and honey, namely the Algarve marzipan colourful sweets, or the almond tuiles, known as telhas d’amêndoa.
+Most towns have a local specialty, usually egg or cream-based pastry. Some examples are leite-creme (a dessert consisting of an egg custard-base topped with a layer of hard caramel, a variant of creme brûlée) and pudim flã.
+Other very popular pastries found in most cafés, bakeries and pastry shops across the country are the Bola de Berlim, the Bolo de arroz, and the Tentúgal pastries.
+Doce de gila (made from chilacayote squash), wafer paper, and candied egg threads called fios de ovos or angel hair.
+
+Influences on world cuisine
+Portugal's maritime explorers and traders after the Age of Discovery influenced the cuisines in both directions. Portuguese influences reside in the Chinese territory of Macau (Macanese cuisine) and territories which were part of the Portuguese India, such as Goa or Kerala, where vindalho (a spicy curry), shows the pairing of vinegar, chilli pepper and garlic.
+The Persian orange, grown widely in southern Europe since the 11th century, was bitter. Sweet oranges were brought from India to Europe in the 15th century by Portuguese traders. Some Southeast Indo-European languages name the orange after Portugal, which was formerly its main source of imports.
+Examples are Albanian portokall, Bulgarian portokal [портокал], Greek portokali [πορτοκάλι], Persian porteghal [پرتقال], and Romanian portocală. In South Italian dialects (Neapolitan), the orange is named portogallo or purtualle, literally "the Portuguese ones". Related names can also be found in other languages: Turkish Portakal, Arabic al-burtuqal [البرتقال], Amharic birtukan [ብርቱካን], and Georgian phortokhali [ფორთოხალი].
+The Portuguese imported spices, such as cinnamon (Cinnamomum verum) now liberally used in its traditional desserts and savoury dishes, from Asia.
+The Portuguese canja, chicken soup made with pasta or rice, is a popular food therapy for the sick, which shares similarities with the Asian congee, used in the same way, indicating it may have come from the East.
+In 1543, Portuguese trade ships reached Japan and introduced refined sugar, valued there as a luxury good. Japanese lords enjoyed Portuguese confectionery so much it was remodelled in the now traditional Japanese konpeitō (candy), kasutera (sponge cake), and keiran somen (the Japanese version of Portuguese fios de ovos, also popular in Thai cuisine as kanom foy tong), creating the Nanban-gashi, or "New-Style Wagashi". During this Nanban trade period, tempura (resembling Portuguese peixinhos da horta) was introduced to Japan by early Portuguese missionaries.
+
+Tea (Camellia sinensis) was made fashionable in England after 1661 by the Portuguese Infanta Catarina De Bragança, who brought her liking for tea, already popular among the aristocracy of Portugal due to the country's established direct trade line to China. Infanta Catarina married King Charles II of England after the restoration of the monarchy in England, Scotland, and Ireland and her very large dowry included not only vast sums of money, treasures and spices, but also the port of Tangier near the Strait of Gibraltar and the port of Bom Bahia  (Good Bay)/Bombay in Portuguese India and, in addition, trade rights in all the Portuguese colonies were granted. Catherine's dowry constituted then the largest dowry ever received by a monarch. Queen Catherine also introduced marmalade to the English and made the habit of eating with a fork a part of the court's table etiquette.
+All over the world, Portuguese emigrants influenced the cuisines of their new "homelands", such as Hawaii and parts of New England. Pão doce (Portuguese sweet bread), malassadas, sopa de feijão (bean soup), and Portuguese sausages (such as linguiça and chouriço) are eaten regularly in the Hawaiian islands. Similarly, the papo-seco is a Portuguese bread roll with an open texture, which has become a staple of cafés in Jersey, where there is a substantial Portuguese community. In Australia and Canada, variants of "Portuguese-style" chicken, became extremely popular in the 2000s-2020s. Offerings include conventional chicken dishes and a variety of chicken and beef burgers. In some cases, such as Portuguese chicken sandwiches, the dishes offered bear only a loose connection to Portuguese cuisine, usually only the use of "piri-piri sauce", an African-Portuguese sauce made with piri piri).
+The Portuguese had a major influence on African cuisine and vice versa. The Portuguese were responsible for introducing maize in the African continent. In turn, from their territories in Southern Africa (Angola and Mozambique), among others, the Portuguese cuisine diffused worldwide, in Asia for example, where the East Timorese cuisine also received influence.
+
+Madeira wine and early American history
+In the 18th century Madeira wine became extremely popular in British America. Barrel-aged Madeira especially was a luxury product consumed by wealthy European colonists. The price continued to rise from £5 at the start of the 18th century to £43 by the early 19th century. It was even served as a toast during the First Continental Congress in 1775.
+Madeira was an important wine in the history of the United States of America. No wine-quality grapes could be grown among the 13 colonies, so imports were needed, with a great focus on Madeira. One of the major events on the road to revolution in which Madeira played a key role was the seizure of John Hancock's sloop the Liberty on 9 May 1768 by British customs officials. Hancock's boat was seized after he had unloaded a cargo of 25 casks (3,150 gallons) of Madeira wine, and a dispute arose over import duties. The seizure of the Liberty caused riots to erupt among the people of Boston.
+Madeira wine was a favorite of Thomas Jefferson after George Wythe introduced him to it. It was used to toast The Declaration of Independence and George Washington, Betsy Ross, Alexander Hamilton, Benjamin Franklin, and John Adams are also said to have appreciated the qualities of Madeira. The wine was mentioned in Benjamin Franklin's autobiography. On one occasion, Adams wrote to his wife, Abigail, of the great quantities of Madeira he consumed while a Massachusetts delegate to the Continental Congress. A bottle of Madeira was used by visiting Captain James Server to christen the USS Constitution in 1797. Chief Justice John Marshall was also known to appreciate Madeira, as did his fellow justices on the early U.S. Supreme Court.
+
+See also
+Broa de Avintes, a bread from Avintes
+Portuguese sweet bread
+List of Portuguese dishes
+Galician cuisine
+Macanese cuisine
+Mozambican cuisine
+Seafood
+Brazilian cuisine
+Cape Verdean cuisine
+Angolan cuisine
+
+References
+
+
+== External links ==
+
+## List of museums in Portugal
+This is a list of museums in Portugal.
+
+Aveiro
+Aveiro City Museum
+Casinha de Bonecas
+Fábrica Centro Ciência Viva de Aveiro
+Museu de Arte Nova
+Visionarium (Portugal)
+
+Braga
+Biscainhos Museum
+Braga Cathedral Treasure
+D. Diogo de Sousa Museum
+Image Museum
+Museu da Cultura Castreja
+Museu do Traje Dr. Gonçalo Sampaio
+Museum Medina
+Nogueira da Silva Museum
+Pius XII Museum
+Stringed Instruments Museum
+Alberto Sampaio Museum
+
+Coimbra
+Academic Prison
+Casa Museu Fernando Namora
+Conímbriga
+Erotic Art Museum of Coimbra
+Exploratory - Living Science Center of Coimbra
+Monastery of Santa Clara-a-Velha
+Museo de Coimbra
+Museu dos Transportes Urbanos de Coimbra
+Museo del Agua
+Museu da Santa Casa da Misericórdia de Coimbra
+National Museum Machado de Castro
+Science Museum of the University of Coimbra
+
+Guimarães
+Casa da Memória de Guimarães
+Centro Internacional das Artes José de Guimarães
+
+Lagos
+Centro Ciência Viva de Lagos
+Mercado de Escravos
+Museu Municipal Dr. José Formosinho
+Núcleo Museológico Rota da Escravatura
+
+Leiria
+Banco das Artes Galeria
+Moinho do Papel
+Museu de Cerâmica (Caldas da Rainha)
+Museu Escolar
+Museu da Imagem em Movimento
+Museo de Leiría
+Museu do Sporting
+José Malhoa Museum
+
+Lisbon and Lisbon District
+Cascais
+Casa das Histórias Paula Rego
+Casa de Santa Maria
+Casa Sommer
+Cascais Citadel Palace Museum
+Condes de Castro Guimarães Museum
+Museum of Portuguese Music (Estoril)
+Museum of the Sea, Cascais
+Palácio da Cidadela
+Palácio dos Condes da Guarda, Cascais
+Santa Marta Lighthouse (Cascais) (and lighthouse museum)
+
+Lisbon
+Ajuda National Palace
+Archaeological Museum of São Miguel de Odrinhas
+Astronomical Observatory of Lisbon
+Atelier-Museu Júlio Pomar
+Beau-Séjour Palace
+Berardo - Art Deco Museum
+Berardo Collection Museum
+Cadeia do Aljube
+Carris Museum
+Casa-Museu Dr. Anastácio Gonçalves
+Casa-Museu Medeiros e Almeida
+Calouste Gulbenkian Museum
+Carmo Convent (Lisbon)
+Casa dos Bicos
+Centro de Apoio Social de Runa
+Chiado Museum
+Cordoaria Nacional
+Electricity Museum (Lisbon) (since 2016 part of MAAT)
+Ephemeral Museum
+Fado Museum
+Fort of Bom Sucesso
+House Museum - Fundação Amália Rodrigues
+Lisbon Army Museum
+Macau Science and Culture Centre
+Money Museum
+Museum of Art, Architecture and Technology (former Electricity Museum)
+Museu de Arte Popular
+Museu Benfica
+Museu da Comunicação
+Museu da Guarda Nacional Republicana
+Museu da Lourinhã
+Museu da Marioneta
+Museum of Portuguese Decorative Arts
+Museum of the Presidency of the Republic
+Museum of Saint Anthony
+Museu de São Roque
+National Museum of Ancient Art
+National Archaeology Museum (Lisbon)
+National Coach Museum
+National Museum of the Azulejo
+National Museum of Contemporary Art
+National Museum of Costume
+National Museum of Ethnology
+National Music Museum
+National Museum of Natural History and Science, Lisbon
+National Railway Museum
+National Theatre and Dance Museum
+National Museum Soares dos Reis
+Navy Museum
+Museum of the Orient
+Palace of the Marquesses of Fronteira
+Pavilhão do Conhecimento
+Pharmacy Museum
+Pimenta Palace
+Rafael Bordalo Pinheiro Museum
+Teatro Romano de Lisboa
+Tejo Power Station
+
+Sacavém
+Casa Museu José Pedro
+Ceramics Museum of Sacavém
+
+Sintra
+Museu Anjos Teixeira
+Museu De Arte Moderna
+Museu do Ar
+Ferreira de Castro Museum
+NewsMuseum
+Sintra Natural History Museum
+
+Marinha Grande
+Casa Museu Afonso Lopes Vieira
+Glass Museum of Marinha Grande (Portugal)
+Joaquim Correia Museum
+SB Museum of Glass Manufacturing
+
+Porto
+Amarante
+Museu Municipal Amadeo de Souza Cardoso
+Museu Paroquial de Arte Sacra de S. Gonçalo de Amarante
+Sala-Museu do Rancho Folclórico da Casa do Povo de Figueiró
+
+Baião
+Museu Etnográfico de Baião
+Museu Municipal de Arqueologia de Baião
+Museu Queiroziano - Casa de Tormes
+
+Felgueiras
+Museu da Casa do Assento
+Museu de Pão de LO
+Santa Quitéria
+
+Gondomar
+Casa da Malta/Museu Mineiro – Fânzeres e São Pedro da Cova
+Museu de Arte Sacra da Paróquia de S. Cosme
+
+Maia
+Museu da Cidade da Maia
+Museu de História e Etnologia da Terra da Maia – Castelo da Maia (Maia)
+
+Marco de Canaveses
+Museu Municipal Carmen Miranda
+
+Matosinhos
+Casa-Museu Abel Salazar
+Casa-Museu Mártir São Sebastião
+Museu da Misericórdia
+Museu da Quinta de Santiago / Centro de Arte de Matosinhos
+Museu de Jazigos Minerais Portugueses do IGM – São Mamede de Infesta (Matosinhos)
+
+Lousada
+Museu Vivo doo Linho – Lousada
+
+Paços de Ferreira
+Museu Arqueológico da Citânia de Sanfins – Sanfins
+Museu do Móvel
+
+Porto
+Arqueossítio D. Hugo n.º 5 — Sé (Porto)
+Bank of Materials
+Casa de Serralves — Fundação de Serralves (Lordelo do Ouro)
+Casa do Infante — Núcleo Museológico do Museu do Porto  (São Nicolau (Porto))
+Casa Museu Fernando de Castro — (Paranhos (Porto))
+Casa-Museu Guerra Junqueiro —  Casa do Dr. Domingos Barbosa (Sé (Porto))
+Casa-Museu Marta Ortigão Sampaio — Cedofeita
+Casa Oficina António Carneiro — (Bonfim)
+Centro Interpretativo do Património da Afurada
+Eng. António de Almeida House Museum — (Ramalde)
+FC Porto Museum
+Fundação Maria Isabel Guerra Junqueiro e Luís Pinto Mesquita Carvalho — Casa dos Freires de Andrade (Sé (Porto))
+Numismatics Cabinet
+Holocaust Museum of Oporto
+House of Almeida Garrett
+House of Filigree
+Medical Museum of Human Anatomy
+Museu de Arte Contemporânea de Serralves
+Museu do Centro Hospitalar do Porto
+Museu da Farmácia — (Ramalde)
+Museum of Industry — (Ramalde)
+Museum Marionetas do Porto
+Museu da Venerável Ordem Terceira de São Francisco — Igreja da Venerável Ordem Terceira de São Francisco (São Nicolau)
+Museu de Etnologia do Porto — Palácio de São João Novo (Miragaia)
+Museum of Misericórdia of Porto
+Museum of Natural History (University of Porto) — Reitoria da Universidade do Porto (Vitória)
+Museu do Papel Moeda  — Fundação Dr. António Cupertino de Miranda (Aldoar)
+Museum of Transport and Communication — Alfandega Nova (Miragaia)
+Museu Militar do Porto — (Bonfim)
+National Press Museum — (Campanhã)
+Palácio das Artes
+Palacete Ramos Pinto
+Portuguese Centre of Photography — Cadeia da Relação (Vitória)
+Museum of the School of Engineering (ISEP)  — Instituto Superior de Engenharia (Paranhos)
+Porto Tram Museum — (Massarelos)
+Port Wine Museum — Núcleo Museológico do Museu do Porto (Massarelos)
+Puppet Museum
+Romantic Museum of Quinta da Macieirinha — Núcleo Museológico do Museu do Porto  (Massarelos)
+Sacred Art and Archaeology Museum — Convento dos Grilos (São Nicolau)
+Soares dos Reis National Museum — Palácio dos Carrancas (Miragaia)
+Tesouro da Sé — Sé do Porto (Sé)
+World of Discoveries - Miragaia (Porto)
+WOW Porto - The World of Wine
+
+Póvoa de Varzim
+A Filantrópica – Póvoa de Varzim
+Ethnography and History Museum of Póvoa de Varzim – Póvoa de Varzim
+Santa Casa Museum of Póvoa de Varzim
+
+Santo Tirso
+Museu de Arte Sacra de Santo Tirso - Santo Tirso
+Museu Internacional de Escultura Contemporânea - Santo Tirso
+Museu Municipal Abade Pedrosa - Santo Tirso
+
+Trofa
+Museu do Automóvel Antigo de Baptista Andrade – Trofa
+
+Valongo
+Museu da Ardósia – Valongo
+
+Vila Nova de Gaia
+Casa-Museu Teixeira Lopes / Galerias Diogo de Macedo – Vila Nova de Gaia
+Museu das Pescas da Estação Litoral da Aguda –Vila Nova de Gaia
+Museu de Ervamoira – Vila Nova de Gaia
+Museu de Santa Maria Adelaide – Vila Nova de Gaia
+Museu do Granito – Vila Nova de Gaia
+Museu do Regimento de Artilharia da Serra do Pilar – Vila Nova de Gaia
+Museu Sandeman do Vinho do Porto – Vila Nova de Gaia
+Solar Condes de Resende – Vila Nova de Gaia
+
+Santarém
+Wax Museum of Fátima – Fátima
+Museum of the Life of Christ – Fátima
+Museum of Sacred Art and Ethnology – Fátima
+
+Setúbal
+Dom Fernando II e Glória
+Monastery of Jesus of Setúbal
+
+Viana do Castelo
+Cinema Museum of Melgaço
+Geraz do Lima Carriage Museum
+
+Vila Real
+House of the County
+
+Viseu
+Grão Vasco Museum
+
+See also
+
+List of museums
+Tourism in Portugal
+Culture of Portugal

@@ -1,0 +1,709 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Sweden
+FILE_NAME: country_sweden.txt
+PROCESSED_DATE: 2026-07-22 15:51:06
+----------------
+
+# Sweden
+
+## General Overview
+Sweden, formally the Kingdom of Sweden, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland to the east, and shares a maritime border with Denmark to the south. At 450,295 square kilometres (173,860 sq mi) and with a population of 10.6 million, Sweden is the largest and most populous Nordic country, and is the fifth-largest country in Europe. Its capital and largest city is Stockholm. The population density is 25.5 inhabitants per square kilometre (66/sq mi), and 88% of Swedes reside in urban areas, mostly in the southern and central portions of the country. Sweden's urban areas together cover 1.5% of its land area. Sweden has a diverse climate owing to the length of the country, which ranges from 55°N to 69°N.
+Sweden has been inhabited since prehistoric times around 12,000 BC. The inhabitants emerged as the Geats (Swedish: Götar) and Swedes (Svear), who formed part of the sea-faring peoples known as the Norsemen. A unified Swedish state was established during the late 10th century. In 1397, Sweden joined Norway and Denmark to form the Scandinavian Kalmar Union, which Sweden left in 1523. When Sweden became involved in the Thirty Years' War on the Protestant side, an expansion of its territories began, forming the Swedish Empire, which remained one of the great powers of Europe until the early 18th century. During this era Sweden controlled much of the Baltic Sea. Most of the conquered territories outside the Scandinavian Peninsula were lost during the 18th and 19th centuries. The eastern half of Sweden, present-day Finland, was lost to Imperial Russia in 1809. The last war in which Sweden was directly involved was in 1814, when Sweden by military means forced Norway into a personal union, a union which lasted until 1905.
+Sweden is a highly developed country ranked fifth in the Human Development Index. It is a constitutional monarchy and a parliamentary democracy, with legislative power vested in the 349-member unicameral Riksdag. It is a unitary state, divided into 21 counties and 290 municipalities. Sweden maintains a Nordic social welfare system that provides universal health care and tertiary education for its citizens. It has the world's 14th highest GDP per capita and ranks very highly in quality of life, health, education, protection of civil liberties, economic competitiveness, income equality, gender equality and prosperity. Sweden joined the European Union in 1995, and in response to the 2022 Russian invasion of Ukraine, NATO in 2024. It is also a member of the United Nations, the Schengen Area, the Council of Europe, the Nordic Council, the World Trade Organization and the Organisation for Economic Co-operation and Development (OECD).
+
+Etymology
+The name for Sweden is generally agreed to derive from the Proto-Indo-European root *s(w)e, meaning 'one's own', referring to one's own tribe from the tribal period. The native Swedish name, Sverige (a compound of the words Svea and rike, first recorded in the cognate Swēorice in Beowulf), translates as "realm of the Swedes", which excluded the Geats in Götaland.
+The contemporary English variation was derived in the 17th century from Middle Dutch and Middle Low German. As early as 1287, references are found in Middle Dutch referring to a lande van sweden ("land of [the] Swedes"), with swede as the singular form. In Old English the country was known as Swéoland or Swíoríce, and in Early Modern English as Swedeland. Some Finnic languages, such as Finnish and Estonian, use the terms Ruotsi and Rootsi; these variations refer to the Rus' people who inhabited the coastal areas of Roslagen in Uppland and who gave their name to Russia.
+
+History
+Prehistory
+Sweden's prehistory begins in the Allerød oscillation, a warm period around 12,000 BC, with Late Palaeolithic reindeer-hunting camps of the Bromme culture at the edge of the ice in what is now the country's southernmost province, Scania. This period was characterised by small clans of hunter-gatherers who relied on flint technology.
+Sweden and its people were first described by the Roman historian Publius Cornelius Tacitus in his Germania (98 AD). In Germania 44 and 45 he mentions the Swedes (Suiones) as a powerful tribe with ships that had a prow at each end (longships). Which kings (*kuningaz) ruled these Suiones is unknown, but Norse mythology presents a long line of legendary and semi-legendary kings going back to the last centuries BC. The runic script was in use among the south Scandinavian elite by at least the second century AD, but all that has survived from the Roman Period is curt inscriptions demonstrating that the people of south Scandinavia spoke Proto-Norse at the time, a language ancestral to Swedish and other North Germanic languages.
+In the sixth century, the Byzantine historian Jordanes names two tribes living in Scandza, both of which are now considered to be synonymous with the Swedes: the Suetidi and Suehans. The Suehans were known to the Roman world as suppliers of black fox skins and, according to Jordanes, had very fine horses, similar to those of the Thyringi of Germania ("alia vero gens ibi moratur Suehans, quae velud Thyringi equis utuntur eximiis").
+
+Viking Age
+The Swedish Viking Age lasted roughly from the eighth century to the 11th century. It is believed that Swedish Vikings and Gutar mainly travelled east and south, going to Finland, Estonia, the Baltic countries, Russia, Belarus, Ukraine, the Black Sea and even as far as Baghdad. Their routes passed through the Dnieper south to Constantinople, on which they carried out numerous raids. The Byzantine emperor Theophilos noticed their great skills in war and invited them to serve as his personal bodyguard, known as the Varangian Guard. The Swedish Vikings, called Rus, are believed to be the founders of Kievan Rus'. The Vikings were described by many outside sources, such as the Arab traveller Ibn Fadlan. The actions of these Swedish Vikings are commemorated on many runestones in Sweden, such as the Greece runestones and the Varangian runestones. There was also considerable participation in expeditions westwards, which are commemorated on stones such as the England runestones. The last major Swedish Viking expedition appears to have been the ill-fated expedition of Ingvar the Far-Travelled to Serkland, the region south-east of the Caspian Sea. Its members are commemorated on the Ingvar runestones, none of which mentions any survivor.
+
+During the early stages of the Viking Age, a centre of trade in Northern Europe developed at Birka on the island of Björkö, not far from where Stockholm was later constructed, in mid-latitude Sweden. Birka was founded around 750 AD as a trading port by a king or merchants trying to control trade. Birka was the Baltic link in the Dnieper trade route through Ladoga (Aldeigja) and Novgorod (Holmsgard) to the Byzantine Empire and the Abbasid Caliphate. It was abandoned around 975, at about the same time Sigtuna was founded as a town some 35 km to the northeast. It has been estimated that the population in Viking Age Birka was between 500 and 1000 people. Archaeological finds indicate that Birka still was wealthy in the 9th and 10th centuries. Thousands of graves, coins, jewellery and other luxury items have been found there.
+
+Kingdom of Sweden
+The exact age of the kingdom of Sweden is unknown. Determining its age depends mostly on whether Sweden is considered a nation when the Svear (Swedes) ruled Svealand or when the Svear and the Götar (Geats) of Götaland were united under a single ruler. Svealand was described by Tacitus in 98 AD as being under a single ruler, though it is unknown how long this had been the case. The epic poem Beowulf describes semi-legendary Swedish-Geatish wars in the sixth century.
+However, historians typically start the line of Swedish monarchs from when Svealand and Götaland were ruled under the same king, namely Erik the Victorious and his son Olof Skötkonung in the tenth century. These events are often described as the consolidation of Sweden, although substantial areas were conquered and incorporated later. In this context, "Götaland" primarily refers to the provinces of Östergötland and Västergötland. Småland was of little interest at the time due to its deep pine forests, with only the city of Kalmar and its castle holding any significant importance. There were also Swedish settlements along the southern coastline of Norrland, one of the four lands of Sweden.
+Saint Ansgar is traditionally credited with introducing Christianity to Sweden in 829, but the new religion did not begin to fully replace paganism until the 12th century. During that century, Sweden was undergoing dynastic struggles between the Erik and Sverker clans. The conflict ended when a third clan married into the Erik clan, founding the Bjälbo dynasty, which gradually consolidated Sweden into a stronger state. According to the Legend of Saint Erik and the Erik's Chronicle, Swedish kings conducted a series of Crusades to pagan Finland and started conflicts with the Rus', who by then had no further connections with Sweden. As a result of the Crusades, mostly with the Second Swedish Crusade led by Birger Jarl Finland gradually became part of the kingdom of Sweden and the sphere of influence of the Catholic Church. The Swedes built fortresses in Tavastland and Åbo, while a Swedish royal council was instituted, an administrative structure and fiscal apparatus was created, and law codes were codified during the reigns of Magnus Ladulås (1275–1290) and Magnus Eriksson (1319–1364). As a result, the Finnish lands were firmly integrated into the Swedish realm.
+Except for the provinces of Scania, Blekinge, and Halland in the southwest of the Scandinavian peninsula, which were part of the Kingdom of Denmark during this period, feudalism never developed in Sweden as it did in much of Europe. As a result, the peasantry remained largely a class of free farmers throughout most of Swedish history. Slavery, also known as thralldom, was not common in Sweden, and the institution gradually diminished due to the spread of Christianity, the difficulty of obtaining slaves from lands east of the Baltic Sea, and by the development of cities before the 16th century. Indeed, both slavery and serfdom were abolished altogether by a decree of King Magnus Eriksson in 1335. Sweden remained a poor and economically underdeveloped country, where barter was the primary means of exchange.
+In 1319, Sweden and Norway were united in a personal union under King Magnus Eriksson, the grandson of King Magnus Ladulås of Sweden and of King Haakon V of Norway. Magnus Eriksson also ruled Scania from 1332 to 1360. In the mid-14th century, Sweden was struck by the Black Death. The population of Sweden and most of Europe was decimated. The population did not reach its pre-1348 levels until the beginning of the 19th century, with one third of the population dying between 1349 and 1351. During this period, the cities began to acquire greater rights and were heavily influenced by German merchants of the Hanseatic League, active especially at Visby. In 1397, Queen Margaret I of Denmark (the former daughter-in-law of Magnus Eriksson) established the personal union of Sweden, Norway, and Denmark through the Kalmar Union. However, Margaret's successors, whose rule was centred in Denmark, were unable to control the Swedish nobility.
+
+In 1520, King Christian II of Denmark, who attempted to restore the Union of Kalmar through military force, ordered the massacre of Swedish nobles in Stockholm, an event known as the "Stockholm Bloodbath." This atrocity incited the Swedish nobility to renew their resistance, and on 6 June 1523 (now celebrated as Sweden's National Day), they made Gustav Vasa their king. This is sometimes considered as the foundation of modern Sweden. Shortly afterwards the new king rejected Catholicism and led Sweden into the Protestant Reformation. The term riksdag was used for the first time in the 1540s, although the first meeting where representatives of different social groups were called to discuss and determine affairs affecting the country as a whole took place as early as 1435, in the town of Arboga. During the Riksdag assemblies of 1527 and 1544, under King Gustav Vasa, representatives of all four estates of the realm (clergy, nobility, townsmen and peasants) were called on to participate for the first time. The monarchy became hereditary in 1544. When Gustav Vasa broke the monopoly power of the Hanseatic League, he was regarded as a hero by the Swedish people. Furthermore, when Sweden became more developed, after breaking the trade monopoly of the Hanseatic League, and entered its golden age, the fact that the peasantry had traditionally been free meant that a greater share of the economic benefits went to them rather than to a feudal landowning class.
+The end of the 16th century was marked by a final phase of rivalry between the remaining Catholics and the new Protestant communities. In 1592, Gustav Vasa's Catholic grandson and king of Poland, Sigismund, ascended the Swedish throne. He pursued to strengthen Rome's influence by initiating Counter-Reformation and created a dual monarchy that temporarily became known as the Polish-Swedish Union. His despotic rule, strongly characterised by intolerance towards the Protestants, sparked a civil war that plunged Sweden into poverty. In opposition, Sigismund's uncle and successor, Charles Vasa, summoned the Uppsala Synod in 1593 which officially confirmed the modern Church of Sweden as Lutheran. Following his deposition in 1599, Sigismund attempted to reclaim the throne sparing no expense, and hostilities between Poland and Sweden continued for the next hundred years.
+
+Swedish Empire
+Sweden rose to prominence on a continental scale during the reign of king Gustavus Adolphus (1611-1632), seizing territories from Russia and the Polish–Lithuanian Commonwealth in multiple conflicts. During the Thirty Years' War, Sweden conquered approximately half of the Holy Roman states and defeated the Imperial army at the Battle of Breitenfeld in 1631. Gustavus Adolphus planned to become the new Holy Roman Emperor, ruling over a united Scandinavia and the Holy Roman states, but he was killed at the Battle of Lützen in 1632. After the Battle of Nördlingen in 1634 – Sweden's only significant military defeat of the war – pro-Swedish sentiment among the German states faded. These German provinces broke away from Swedish power one by one, leaving Sweden with only a few northern German territories: Swedish Pomerania, Bremen-Verden and Wismar. From 1643 to 1645, during the last years of the war, Sweden and Denmark-Norway fought the Torstenson War. The result of that conflict and the conclusion of the Thirty Years' War helped establish postwar Sweden as a major force in Europe. The Peace of Westphalia in 1648 granted Sweden territories in northern Germany.
+In the middle of the 17th century, Sweden was the third-largest country in Europe by land area. Sweden reached its largest territorial extent under the rule of Charles X after the treaty of Roskilde in 1658, following Charles X's crossing of the Danish Belts. The foundation of Sweden's success during this period is credited to Gustav I's major changes to the Swedish economy in the 16th century, and his introduction of Protestantism. One-third of the Finnish population died in the devastating Great Famine of 1695–1697 that struck the country. Famine also hit Sweden, killing roughly 10% of Sweden's population.
+In the 17th century, Sweden was engaged in many wars, for example with Poland–Lithuania, with both sides competing for territories of today's Baltic states. The Polish–Swedish War (1626–1629) ended with a ceasefire in Stary Targ (Truce of Altmark) on 26 September 1629 that was in favour of the Swedes, to whom Poland ceded the larger part of Livonia together with its important port of Riga. The Swedes also gained the right to tax Poland’s Baltic trade (3.5% on the value of goods), and kept control of several cities in Royal Prussia and Ducal Prussia (including Pillau (Baltiysk), Memel (Klaipėda) and Elbing (Elbląg)). The Swedes later conducted a series of invasions into the Polish–Lithuanian Commonwealth, known as the Deluge. After more than half a century of almost constant warfare, the Swedish economy had deteriorated. It became the lifetime task of Charles X's son, Charles XI, to rebuild the economy and refit the army. His legacy to his son, the coming ruler of Sweden, Charles XII, was one of the finest arsenals in the world, a large standing army and a great fleet. Russia, the most serious threat to Sweden at this time, had a larger army but lagged far behind in both equipment and training.
+After the Battle of Narva in 1700, one of the first battles of the Great Northern War, the Russian army was so severely devastated that Sweden had an open chance to invade Russia. However, Charles XII did not pursue the Russian army, instead turning against Poland and defeating the Polish king, Augustus II the Strong, and his Saxon allies at the Battle of Kliszów in 1702. This gave Russia time to rebuild and modernise its army.
+
+After the success of invading Poland, Charles XII decided to make an attempt at invading Russia, but this ended in a decisive Russian victory at the Battle of Poltava in 1709. After a long march exposed to Cossack raids, the Russian Tsar Peter the Great's scorched-earth techniques and the extremely cold winter of 1709, the Swedes stood weakened with a shattered morale and were enormously outnumbered against the Russian army at Poltava. The defeat meant the beginning of the end for the Swedish Empire. In addition, the plague raging in East Central Europe devastated the Swedish dominions and reached Central Sweden in 1710. Returning to Sweden in 1715, Charles XII launched two campaigns against Norway in 1716 and 1718, respectively. During the second attempt, he was shot to death during the siege of Fredriksten fortress. The Swedes were not militarily defeated at Fredriksten, but the whole structure and organisation of the campaign fell apart with the king's death. Forced to cede large areas of land in the Treaty of Nystad in 1721, Sweden also lost its place as an empire and as the dominant state on the Baltic Sea. With Sweden's lost influence, Russia emerged as an empire and became one of Europe's dominant nations. As the war finally ended in 1721, Sweden had lost an estimated 200,000 men, 150,000 of those from the area of present-day Sweden and 50,000 from the Finnish part of Sweden.
+Executive power was historically shared between the King and an aristocratic Privy council until 1680, followed by the King's autocratic rule initiated by the commoner estates of the Riksdag. As a reaction to the failed Great Northern War, a parliamentary system was introduced in 1719, followed by three different flavours of constitutional monarchy in 1772, 1789 and 1809, the latter granting several civil liberties. Already during the first of those three periods, the 'Era of Liberty' (1719–72) the Swedish Riksdag had developed into a very active parliament, and this tradition continued into the nineteenth century, laying the basis for the transition towards modern democracy at the end of that century.
+In the 18th century, Sweden did not have enough resources to maintain its territories outside Scandinavia, and most of them were lost, culminating with the loss in 1809 of eastern Sweden to Russia, which became the highly autonomous Grand Principality of Finland in Imperial Russia.
+In interest of re-establishing Swedish dominance in the Baltic Sea, Sweden allied itself against its traditional ally and benefactor, France, in the Napoleonic Wars. However, in 1810, a French Marshal, Jean-Baptiste Bernadotte, was chosen as heir presumptive to Charles XIII; in 1818, he established the House of Bernadotte, taking the regnal name of Charles XIV. Sweden's role in the Battle of Leipzig gave it the authority to force Denmark–Norway, an ally of France, to cede Norway to the King of Sweden on 14 January 1814 in exchange for the northern German provinces, at the Treaty of Kiel. The Norwegian attempts to keep their status as a sovereign state were rejected by the Swedish king, Charles XIII. He launched a military campaign against Norway on 27 July 1814, ending in the Convention of Moss, which forced Norway into a personal union with Sweden under the Swedish crown, which lasted until 1905. The 1814 campaign was the last time Sweden was at war.
+
+Modern history
+The Swedish East India Company began in 1731. The obvious choice of home port was Gothenburg (Swedish: Göteborg) at Sweden's west coast, as the mouth of Göta älv river was very wide and had the county's largest and best harbour for high-seas journeys. The trade continued into the 19th century, and caused the little town to become Sweden's second city.
+Between 1750 and 1850, the population in Sweden doubled. According to some scholars, mass emigration to America became the only way to prevent famine and rebellion; over 1% of the population emigrated annually during the 1880s. It is thought that between 1850 and 1910 more than one million Swedes moved to the United States. Nevertheless, Sweden remained poor, retaining a nearly entirely agricultural economy even as Western European countries began to industrialise.
+Despite the slow rate of industrialisation into the 19th century, many important changes were taking place in the agrarian economy due to constant innovations and a rapid population growth. These innovations included government-sponsored programmes of enclosure, aggressive exploitation of agricultural lands, and the introduction of new crops such as the potato. The Swedish farming culture began to take on a critical role in Swedish politics, which has continued through modern times with modern Agrarian party (now called the Centre Party). Between 1870 and 1914, Sweden began developing the industrialised economy that exists today.
+Strong grassroots movements sprang up in Sweden during the latter half of the 19th century (trade unions, temperance groups, and independent religious groups), creating a strong foundation of democratic principles. These movements precipitated Sweden's migration into a modern parliamentary democracy, achieved by the time of World War I. As the Industrial Revolution progressed during the 20th century, people gradually moved into cities to work in factories and became involved in socialist unions. A communist revolution was avoided in 1917, following the re-introduction of parliamentarism, and the country was democratised.
+
+World War I and World War II
+Sweden was officially neutral during World War I. However, under pressure from the German Empire, they did take steps which were detrimental to the Allied powers – most notably, mining the Öresund channel, thus closing it to Allied shipping, and allowing the Germans to use Swedish facilities and the Swedish cipher to transmit secret messages to their overseas embassies. Sweden also allowed volunteers to fight alongside the Germans for the White Guards against the Red Guards and Russians in the Finnish Civil War, and briefly occupied Åland in cooperation with the German Empire.
+As in the First World War, Sweden remained officially neutral during World War II, although its neutrality has been disputed. Sweden was under German influence for much of the war, as ties to the rest of the world were cut off through blockades. The Swedish government unofficially supported Finland in the Winter War and the Continuation War by allowing volunteers and materiel to be shipped to Finland. However, Sweden supported Norwegian resistance against Germany, and in 1943 helped rescue Danish Jews from deportation to Nazi concentration camps.
+During the last year of the war, Sweden began to play a role in humanitarian efforts, and many refugees, among them several thousand Jews from Nazi-occupied Europe, were rescued thanks to the Swedish rescue missions to internment camps and partly because Sweden served as a haven for refugees. The Swedish diplomat Raoul Wallenberg and his colleagues ensured the safety of tens of thousands of Hungarian Jews. Nevertheless, both Swedes and others have argued that Sweden could have done more to oppose the Nazis' war efforts.
+
+Post-war era
+Sweden was officially a neutral country and remained outside NATO and Warsaw Pact membership during the Cold War, but privately Sweden's leadership had strong ties with the United States and other western governments. Following the war, Sweden took advantage of an intact industrial base, social stability and its natural resources to expand its industry to supply the rebuilding of Europe. Sweden received aid under the Marshall Plan and participated in the OECD. During most of the post-war era, the country was governed by the Swedish Social Democratic Party largely in co-operation with trade unions and industry. The government actively pursued an internationally competitive manufacturing sector of primarily large corporations.
+Sweden was one of the founding states of the European Free Trade Area (EFTA). During the 1960s the EFTA countries were often referred to as the Outer Seven, as opposed to the Inner Six of the then-European Economic Community (EEC).
+Like many industrialised countries, Sweden entered a period of economic decline and upheaval following the oil embargoes of 1973–74 and 1978–79. In the 1980s several key Swedish industries were significantly restructured. Shipbuilding was discontinued, wood pulp was integrated into modernised paper production, the steel industry was concentrated and specialised, and mechanical engineering was robotised. Swedish GDP per capita ranking declined during this time.
+
+Recent history
+A bursting real estate bubble caused by inadequate controls on lending combined with an international recession and a policy switch from anti-unemployment policies to anti-inflationary policies resulted in a fiscal crisis in the early 1990s. Sweden's GDP declined by around 5%. In 1992, a run on the currency caused the central bank to briefly increase interest rates to 500%.
+
+The response of the government was to cut spending and institute a multitude of reforms to improve Sweden's competitiveness, among them reducing the welfare state and privatising public services and goods. A referendum passed with 52.3% in favour of joining the EU on 13 November 1994. Sweden joined the European Union on 1 January 1995. In a 2003 referendum the Swedish electorate voted against joining the Euro currency. Sweden held the chair of the European Union from 1 July to 31 December 2009.
+On 28 September 1994, the MS Estonia sank as the ship was crossing the Baltic Sea, en route from Tallinn, Estonia, to Stockholm, Sweden. The disaster claimed the lives of 852 people (501 of them were Swedes), being one of the worst maritime disasters of the 20th century.
+Until 2022, Sweden generally remained non-aligned militarily, although it participated in some joint military exercises with the North Atlantic Treaty Organization (NATO) and some other countries, stationed its troops under NATO command in Afghanistan, took part in EU-sponsored peacekeeping operations in Kosovo, Bosnia and Herzegovina, and Cyprus, and helped enforce a UN-mandated no-fly zone over Libya during the Arab Spring. In addition, there was extensive cooperation with other European countries in the area of defence technology and defence industry; some Swedish-made weaponry was used by Coalition militaries in Iraq. In response to the 2022 Russian invasion of Ukraine, Sweden moved to formally join NATO, alongside Finland. After many months of delays caused by the objections of Turkey and Hungary, Sweden became a NATO member on 7 March 2024.
+In recent decades Sweden has become a more culturally diverse nation due to significant immigration; in 2013, it was estimated that 15% of the population was foreign-born, and an additional 5% of the population were born to two immigrant parents. The influx of immigrants has brought new social challenges. Violent incidents have periodically occurred including the 2013 Stockholm riots. In response to these violent events, the anti-immigration opposition party, the Sweden Democrats, promoted their anti-immigration policies, while the left-wing opposition blamed growing inequality caused by the centre-right government's socioeconomic policies.
+Since the postwar period, LGBTQ rights in Sweden have gradually expanded through the steady extension of legal and social protections for LGBTQ+ people. Over subsequent decades, anti-discrimination laws, adoption rights, and the ability to change legal gender were progressively strengthened, contributing to high levels of public support for LGBTQ+ equality. In the mid-2010s, however, Sweden also saw the rise of anti-gender mobilizations, which gender studies scholars situate within a broader process of democratic backsliding.
+Sweden was heavily affected by the 2015 European migrant crisis, eventually forcing the government to tighten regulations of entry to the country. Some of the asylum restrictions were relaxed again later.
+On 30 November 2021, Magdalena Andersson became Sweden's first female prime minister. The September 2022 general election ended in a narrow win to a bloc of right-wing parties. On 18 October 2022, Ulf Kristersson of the Moderate Party became the new Prime Minister.
+
+Geography
+Situated in Northern Europe, Sweden lies west of the Baltic Sea and Gulf of Bothnia, providing a long coastline, and forms the eastern part of the Scandinavian Peninsula. To the west is the Scandinavian mountain chain (Skanderna), a range that separates Sweden from Norway. Finland is located to its north-east. It has maritime borders with Denmark, Germany, Poland, Russia, Lithuania, Latvia and Estonia, and it is also linked to Denmark (south-west) by the Öresund Bridge. Its border with Norway (1,619 km long) is the longest uninterrupted border within Europe.
+Sweden lies between latitudes 55° and 70° N, and mostly between longitudes 11° and 25° E (part of Stora Drammen island is just west of 11°).
+At 449,964 km2 (173,732 sq mi), Sweden is the 55th-largest country in the world, the fifth-largest country in Europe, and the largest country in Northern Europe. The lowest elevation in Sweden is in the bay of Lake Hammarsjön, near Kristianstad, at −2.41 m (−7.91 ft) below sea level. The highest point is Kebnekaise at 2,096.8 m (6,879 ft) above sea level.
+Sweden has 25 provinces or landskap. While these provinces serve no political or administrative purpose, they play an important role in people's self-identity. The provinces are usually grouped together in three large lands, parts, the northern Norrland, the central Svealand and southern Götaland. The sparsely populated Norrland encompasses almost 60% of the country. Sweden also has the Vindelfjällen Nature Reserve, one of the largest protected areas in Europe, totalling 562,772 ha (approx. 5,628 km2).
+About 15% of Sweden lies north of the Arctic Circle. Southern Sweden is predominantly agricultural, with increasing forest coverage northward. Around 65% of Sweden's total land area is covered with forests. The highest population density is in the valley of lake Mälaren and Stockholm, southern Scania along the Öresund coast and along the western coast up to central Bohuslän. Gotland and Öland are Sweden's largest islands; Vänern and Vättern are its largest lakes. Vänern is the third largest in Europe, after Lake Ladoga and Lake Onega in Russia. Combined with the third- and fourth-largest lakes Mälaren and Hjälmaren, these lakes take up a significant part of southern Sweden's area. Sweden's extensive waterway availability throughout the south was exploited with the building of the Göta Canal in the 19th century, shortening the potential distance between the Baltic Sea south of Norrköping and Gothenburg by using the lake and river network to facilitate the canal.
+Sweden also has plenty of long rivers draining the lakes. Northern and central Sweden have several wide rivers known as älvar, commonly sourced within the Scandinavian Mountains. The longest river is Klarälven-Göta älv, which originates in Trøndelag in central Norway, running 1,160 kilometres (720 mi) before it enters the sea at Gothenburg. In southern Sweden, narrower rivers known as åar are also common. The vast majority of municipal seats are situated either along the sea, a river, or a lake, and most of the country's population resides in coastal municipalities.
+
+Climate
+Most of Sweden has a temperate climate, despite its northern latitude, with largely four distinct seasons and mild temperatures throughout the year. The winter in the far south is usually weak and is manifested only through some shorter periods with snow and sub-zero temperatures; autumn may well turn into spring there, without a distinct period of winter. The northern parts of the country have a subarctic climate while the central parts have a humid continental climate. The coastal south can be defined as having either a humid continental climate using the 0 °C isotherm, or an oceanic climate using the -3 °C isotherm.
+Due to the increased maritime moderation in the peninsular south, summer differences between the coastlines of the southernmost and northernmost regions are about 2 °C (4 °F) in summer and 10 °C (18 °F) in winter. This grows further when comparing areas in the northern interior where the winter difference in the far north is about 15 °C (27 °F) throughout the country. The warmest summers usually happen in the Mälaren Valley around Stockholm due to the vast landmass shielding the middle east coast from Atlantic low-pressure systems in July. Daytime highs in Sweden's municipal seats vary from 19 °C (66 °F) to 24 °C (75 °F) in July and −9 °C (16 °F) to 3 °C (37 °F) in January. The colder temperatures are influenced by the higher elevation in the northern interior. At sea level, the coldest average highs range from 21 °C (70 °F) to −6 °C (21 °F). As a result of the mild summers, the arctic region of Norrbotten has some of the northernmost agriculture in the world.
+Sweden is much warmer and drier than other places at a similar latitude, and even somewhat farther south, mainly because of the combination of the Gulf Stream and the general west wind drift, caused by the direction of Earth's rotation. Because of Sweden's high latitude, the length of daylight varies greatly over the course of a year. North of the Arctic Circle, the sun never sets for part of each summer, and it never rises for part of each winter. In the capital, Stockholm, the sun is up for more than 18 hours in late June but only around 6 hours in late December. Sweden receives between 1,100 and 1,900 hours of sunshine annually.
+The highest temperature ever recorded in Sweden was 38 °C (100 °F) in Målilla in 1947, while the coldest temperature ever recorded was −52.6 °C (−62.7 °F) in Vuoggatjålme on 2 February 1966.
+On average, most of Sweden receives between 500 and 800 mm (20 and 31 in) of precipitation each year, making it considerably drier than the global average. The south-western part of the country receives more precipitation, between 1,000 and 1,200 mm (39 and 47 in), and some mountain areas in the north are estimated to receive up to 2,000 mm (79 in). Despite northerly locations, southern and central Sweden may have almost no snow in some winters. Most of Sweden is located in the rain shadow of the Scandinavian Mountains through Norway and north-west Sweden. It is predicted that as the Barents Sea gets less frozen in the coming winters, becoming thus "Atlantified", additional evaporation will increase future snowfalls in Sweden and much of continental Europe.
+
+Vegetation
+Sweden has a considerable south to north distance which causes large climatic difference, especially during the winter. The related matter of the length and strength of the four seasons plays a role in which plants that naturally can grow at various places. Sweden is divided into five major vegetation zones. These are:
+
+The southern deciduous forest zone
+The southern coniferous forest zone
+The northern coniferous forest zone, or the Taiga
+The alpine-birch zone
+The bare mountain zone
+Southern deciduous forest zone, also known as the nemoral region, the southern deciduous forest zone is a part of a larger vegetation zone which also includes Denmark and large parts of Central Europe. It has to a rather large degree become agricultural areas, but larger and smaller forests still exist. The region is characterised by a large wealth of trees and shrubs. The beech is the most dominant tree, but oak can also form smaller forests. Elm at one time formed forests, but have been heavily reduced due to Dutch Elm disease. Other important trees and shrubs in this zone include hornbeam, elder, hazel, fly honeysuckle, linden (lime), spindle, yew, alder buckthorn, blackthorn, aspen, European rowan, Swedish whitebeam, juniper, European holly, ivy, dogwood, goat willow, larch, bird cherry, wild cherry, maple, ash, alder along creeks, and in sandy soil birch compete with pine. Spruce is not native but between approximately 1870 and 1980, large areas were planted with it. During the last 40–50 years large areas of former spruce plantings have been replanted with deciduous forest.
+Southern coniferous forest zone, also known as the boreo-nemoral region, is delimited by the oak's northern natural limit (limes norrlandicus) and the Spruce's southern natural limit, between the southern deciduous zone and the Taiga farther north. In the southern parts of this zone the coniferous species are found, mainly spruce and pine, mixed with various deciduous trees. Birch grows largely everywhere. The beech's northern boundary crosses this zone. Although in its natural area, also planted Spruce are common, and such woods are very dense, as the spruces can grow very tight, especially in this vegetation zone's southern areas.
+The northern coniferous forest zone or the Taiga begins north of the natural boundary of the oak. Of deciduous species the birch is the only one of significance. Pine and spruce are dominant, but the forests are slowly but surely more sparsely grown the farther towards the north it gets. In the extreme north is it difficult to state the trees forms true forests at all, due to the large distances between the trees.
+The alpine-birch zone, in the Scandinavian mountains, depending on both latitude and altitude, is an area where only a smaller kind of birch (Betula pubescens or B.tortuosa) can grow. Where this vegetation zone ends, no trees grow at all: the bare mountain zone.
+Sweden had a 2019 Forest Landscape Integrity Index mean score of 5.35/10, ranking it 103rd globally out of 172 countries. Sweden was ranked sixth in the Environmental Performance Index in 2024. The index combines various indicators around known issues around the world, and measures how good they fit in among each countries on a scale. Sweden scores well in parameters like air pollution, air quality, waste management, sanitation and drinking water etc.
+
+Government and politics
+Sweden has a history of strong political involvement by ordinary people through its "popular movements" (Folkrörelser), the most notable being trade unions, the independent Christian movement, the temperance movement, the women's movement, and the intellectual property pirate movements. Sweden was the first country in the world to outlaw corporal punishment of children by their parents (parents' right to spank their own children was first removed in 1966, and it was explicitly prohibited by law from July 1979).
+Sweden is currently leading the EU in statistics measuring equality in the political system and equality in the education system. The Global Gender Gap Report 2006 ranked Sweden as the number one country in terms of gender equality.
+According to International IDEA's Global State of Democracy (GSoD) Indices and Democracy Tracker, Sweden performs in the high range on overall democratic measures, with particular strengths in elected government and effective parliament.
+
+Constitutional framework
+Sweden has four fundamental laws (Swedish: grundlagar) which together form the Constitution: the Instrument of Government (Swedish: Regeringsformen), the Act of Succession (Swedish: Successionsordningen), the Freedom of the Press Act (Swedish: Tryckfrihetsförordningen), and the Fundamental Law on Freedom of Expression (Swedish: Yttrandefrihetsgrundlagen).
+The public sector in Sweden is divided into two parts: the legal person known as the State (Swedish: staten) and local authorities: the latter include Regional Councils (Swedish: regioner) (renamed from county councils (landsting) in 2020) and local Municipalities (Swedish: kommuner). The local authorities, rather than the State, make up the larger part of the public sector in Sweden. Regional Councils and Municipalities are independent of one another, the former merely covers a larger geographical area than the latter. The local authorities have self-rule, as mandated by the Constitution, and their own tax base. Notwithstanding their self-rule, local authorities are nevertheless in practice dependent upon the State, as the parameters of their responsibilities and the extent of their jurisdiction are specified in the Local Government Act (Swedish: Kommunallagen) passed by the Riksdag.
+Sweden is a constitutional monarchy, and King Carl XVI Gustaf is the head of state, but the role of the monarch is limited to ceremonial and representative functions. Under the provisions of the 1974 Instrument of Government, the King lacks any formal political power. The King opens the annual Riksdag session, chairs the Special Council held during a change of Government, holds regular Information Councils with the Prime Minister and the Government, chairs the meetings of the Advisory Council on Foreign Affairs (Swedish: Utrikesnämnden), and receives Letters of Credence of foreign ambassadors to Sweden and signs those of Swedish ambassadors sent abroad. In addition, the King pays State Visits abroad and hosts those incoming.
+Legislative power is vested in the unicameral Riksdag with 349 members. General elections are held every four years. Legislation may be initiated by the Government or by members of the Riksdag. Members are elected on the basis of proportional representation to a four-year term. The internal workings of the Riksdag are, in addition to the Instrument of Government, regulated by the Riksdag Act (Swedish: Riksdagsordningen). The fundamental laws can be altered by the Riksdag alone; only an absolute majority with two separate votes, separated by a general election in between, is required.
+The Government (Swedish: Regeringen) operates as a collegial body with collective responsibility and consists of the Prime Minister—nominated by the Speaker and elected by a vote in the Riksdag—and other cabinet ministers (Swedish: Statsråd), appointed and dismissed at the sole discretion of the Prime Minister. The Government is the supreme executive authority and is responsible for its actions to the Riksdag.
+Most of the State administrative authorities (Swedish: statliga förvaltningsmyndigheter) report to the Government. A unique feature of Swedish State administration is that individual cabinet ministers do not bear any individual ministerial responsibility for the performance of the agencies within their portfolio; as the director-generals and other heads of government agencies report directly to the Government as a whole; and individual ministers are prohibited from interfering; thus the origin of the pejorative in Swedish political parlance term ministerstyre (English: "ministerial rule") in matters that are to be handled by the individual agencies, unless otherwise specifically provided for in law.
+The Judiciary is independent from the Riksdag, Government and other State administrative authorities. The role of judicial review of legislation is not practised by the courts; instead, the Council on Legislation gives non-binding opinions on legality. There is no stare decisis in that courts are not bound by precedent, although it is influential.
+
+Elections
+For over 50 years, Sweden had had five parties who continually received enough votes to gain seats in the Riksdag—the Social Democrats, the Moderate Party, the Centre Party, the Liberal People's Party and the Left Party—before the Green Party became the sixth party in the 1988 election. In the 1991 election, while the Greens lost their seats, two new parties gained seats for the first time: the Christian Democrats and New Democracy. It was not until elections in 2010 that an eighth party, the Sweden Democrats, gained Riksdag seats. In the elections to the European Parliament, parties who have failed to pass the Riksdag threshold have managed to gain representation at that venue: the June List (2004–2009), the Pirate Party (2009–2014), and Feminist Initiative (2014–2019).
+Election turnout in Sweden has always been high by international comparison. Although it declined in recent decades, the latest elections saw an increase in voter turnout (80.11% in 2002, 81.99% in 2006, 84.63% in 2010, 85.81 in 2014) and 87.18% in 2018. Swedish politicians enjoyed a high degree of confidence from the citizens in the 1960s, However, that level of confidence has since declined steadily, and is now at a markedly lower level than in its Scandinavian neighbours.
+
+Administrative divisions
+Sweden is a unitary state divided into 21 regions (regioner) and 290 municipalities (kommuner). Every region corresponds to a county (län) with a number of municipalities per county. Regions and municipalities are both local governments but have different roles and separate responsibilities. Health care, public transport and certain cultural institutions are administered by regional councils. Preschools, primary and secondary schooling, public water utilities, garbage disposal, elderly care and rescue services are administered by the municipalities. Gotland is a special case of being a region with only one municipality and the functions of region and municipality are performed by the same organisation.
+Municipal and region government in Sweden is similar to city commission and cabinet-style council government. Both levels have legislative assemblies (municipal councils and region assemblies of between 31 and 101 members (always an uneven number) that are elected from party-list proportional representation at the general election which are held every four years in conjunction with the national parliamentary elections.
+Municipalities are also divided into a total of 2,512 parishes (församlingar). These have no official political responsibilities but are traditional subdivisions of the Church of Sweden and still have some importance as census districts.
+The Swedish central government has 21 County Administrative Boards (Swedish: länsstyrelser), which are responsible for regional state administration not assigned to other government agencies or local government. Each county administrative board is led by a County Governor (Swedish: landshövding) appointed for a term of six years. The list of previous officeholders for the counties stretches back, in most cases, to 1634 when the counties were created by Lord High Chancellor Count Axel Oxenstierna. The main responsibility of the County Administrative Board is to co-ordinate the development of the county in line with goals set by the Riksdag and Government.
+There are older historical divisions, primarily the twenty-five provinces and three lands, which still retain cultural significance.
+
+Judicial system
+The courts are divided into two parallel and separate systems: The general courts (allmänna domstolar) for criminal and civil cases, and general administrative courts (allmänna förvaltningsdomstolar) for cases relating to disputes between private persons and the authorities. Each of these systems has three tiers, where the top tier court of the respective system typically only will hear cases that may become precedent. There are also several special courts, each of which hears a narrower range of cases as defined by legislation. Although these courts rule independently, some operate as specialised divisions within the general or general administrative courts.
+
+The Supreme Court of Sweden (Swedish: Högsta domstolen) is the third and final instance in all civil and criminal cases in Sweden. The Supreme Court consists of 16 Justices (Swedish: justitieråd), appointed by the Government, but the court as an institution is independent of the Riksdag, and the Government is not able to interfere with the decisions of the court.
+According to a victimisation survey of 1,201 residents in 2005, Sweden has above-average crime rates compared to other EU countries. Sweden has high or above-average levels of assaults, sexual assaults, hate crimes, and consumer fraud. Sweden has low levels of burglary, car theft and drug problems. Bribe seeking is rare. A mid-November 2013 news report announced that four prisons in Sweden were closed during the year due to a significant drop in the number of inmates, with prison numbers in Sweden falling by around 1% a year since 2004.
+Historically recognized for its low crime rates, Sweden has experienced an increase in gang-related and organized crime in recent decades, with firearm-related homicides among the highest in the EU.
+
+Foreign relations
+Throughout the 20th century, Swedish foreign policy was based on the principle of non-alignment in peacetime and neutrality in wartime. Sweden's government pursued an independent course of nonalignment in times of peace so that neutrality would be possible in the event of war.
+During the early Cold War era, Sweden combined its policy of non-alignment and a low profile in international affairs with a security policy based on strong national defence. The function of the Swedish military was to deter attack. Beginning in the late 1960s, Sweden attempted to play a more significant and independent role in international relations. It involved itself significantly in international peace efforts, especially through the United Nations, and in support of the Third World. Following the 1986 assassination of Olof Palme and with the end of the Cold War, Sweden has adopted a more traditional foreign policy approach. Nevertheless, the country remains active in peacekeeping missions and maintains a considerable foreign aid budget.
+Since 1995 Sweden has been a member of the European Union, and as a consequence of a new world security situation the country's foreign policy doctrine has been partly modified, with Sweden playing a more active role in European security co-operation. In 2022, in response to Russia's invasion of Ukraine, Sweden moved to formally join the NATO alliance. Sweden formally became a member of NATO in 2024.
+
+Military
+The Försvarsmakten (Swedish Armed Forces) are a government agency reporting to the Swedish Ministry of Defence and responsible for the peacetime operation of the armed forces of Sweden. The primary task of the agency is to train and deploy peacekeeping forces abroad, while maintaining the long-term ability to refocus on the defence of Sweden in the event of war. The armed forces are divided into Army, Air Force and Navy. The head of the armed forces is the Supreme Commander (Överbefälhavaren, ÖB), the most senior commissioned officer in the country. Up to 1974, the King was pro forma Commander-in-Chief, but in reality it was clearly understood through the 20th century that the monarch would have no active role as a military leader.
+
+Until the end of the Cold War, nearly all males reaching the age of military service were conscripted. In recent years, the number of male conscripts has declined markedly, whilst the number of female volunteers has seen a modest rise. Recruitment has increasingly focused on attracting the most committed candidates. Under current legislation, all personnel deployed abroad are required to be volunteers. As of 1 July 2010, Sweden discontinued regular conscription, moving to an all-volunteer military, except where compulsory service may be reinstated for national defence purposes. The total forces gathered would consist of about 60,000 personnel. This in comparison with the 1980s, before the fall of the Soviet Union, when Sweden could gather up to 1,000,000 service members.
+However, on 11 December 2014, due to tensions in the Baltic area, the Swedish Government reintroduced one part of the Swedish conscription system, refresher training. On 2 March 2017, the government decided to reintroduce the remaining part of the Swedish conscription system, basic military training. The first recruits began their training in 2018. As the law is now gender neutral, both men and women may have to serve.
+Sweden decided not to sign the UN treaty on the Prohibition of Nuclear Weapons. Swedish units have taken part in peacekeeping operations in the Democratic Republic of the Congo, Cyprus, Bosnia and Herzegovina, Kosovo, Liberia, Lebanon, Afghanistan and Chad.
+
+Economy
+Sweden is the twelfth-richest country in the world in terms of GDP (gross domestic product) per capita and a high standard of living is experienced by its citizens. Sweden is an export-oriented mixed economy. Timber, hydropower and iron ore constitute the resource base of an economy with a heavy emphasis on foreign trade. Sweden's engineering sector accounts for 50% of output and exports, while telecommunications, the automotive industry and the pharmaceutical industries are also of great importance. Sweden is the ninth-largest arms exporter in the world. Agriculture accounts for 2% of GDP and employment. The country ranks among the highest for telephone and Internet access penetration.
+Trade unions, employers' associations and collective agreements cover a large share of the employees in Sweden. The high coverage of collective agreements is achieved despite the absence of state mechanisms extending collective agreements to whole industries or sectors. Both the prominent role of collective bargaining and the way in which the high rate of coverage is achieved reflect the dominance of self-regulation (regulation by the labour market parties themselves). When the Swedish Ghent system was changed in 2007, resulting in considerably raised fees to unemployment funds, a substantial decline in union density and density of unemployment funds occurred.
+In 2010, Sweden's income Gini coefficient was the third lowest among developed countries, at 0.25—slightly higher than Japan and Denmark—suggesting Sweden had low income inequality. However, Sweden's wealth Gini coefficient at 0.853 was the second highest in developed countries, and above European and North American averages, suggesting high wealth inequality. Even on a disposable income basis, the geographical distribution of Gini coefficient of income inequality varies within different regions and municipalities of Sweden. Danderyd, outside Stockholm, has Sweden's highest Gini coefficient of income inequality, at 0.55, while Hofors near Gävle has the lowest at 0.25. In and around Stockholm and Scania, two of the more densely populated regions of Sweden, the income Gini coefficient is between 0.35 and 0.55.
+In terms of structure, the Swedish economy is characterised by a large, knowledge-intensive and export-oriented manufacturing sector; an increasing, but comparatively small, business service sector; and by international standards, a large public service sector. Large organisations, both in manufacturing and services, dominate the Swedish economy. High and medium-high technology manufacturing accounts for 9.9% of GDP.
+The 20 largest (by turnover) registered Swedish companies in 2007 were Volvo, Ericsson, Vattenfall, Skanska, Sony Ericsson Mobile Communications AB, Svenska Cellulosa Aktiebolaget, Electrolux, Volvo Personvagnar, TeliaSonera, Sandvik, Scania, ICA, Hennes & Mauritz, IKEA, Nordea, Preem, Atlas Copco, Securitas, Nordstjernan and SKF. The vast majority of Sweden's industry is privately controlled, unlike many other industrialised Western countries.
+An estimated 4.5 million Swedish residents are employed, and around a half of the workforce completed tertiary education. In terms of GDP per-hour-worked, Sweden was the world's ninth highest in 2006 at US$31, compared to US$22 in Spain and US$35 in the United States. GDP per-hour-worked is growing 2.5% per year for the economy as a whole and the trade-terms-balanced productivity growth is 2%. According to the OECD, deregulation, globalisation, and technology sector growth have been key productivity drivers. A pilot program to test the feasibility of a six-hour workday, without loss of pay, will commence in 2014, involving the participation of Gothenburg municipal staff. The Swedish government is seeking to reduce its costs through decreased sick leave hours and increased efficiency.
+
+The typical worker receives 40% of their labour costs after the tax wedge. Total tax collected by Sweden as a percentage of its GDP peaked at 52.3% in 1990. The country faced a real estate and banking crisis in 1990–1991, and consequently passed tax reforms in 1991 to implement tax rate cuts and tax base broadening over time. Since 1990, taxes as a percentage of GDP collected by Sweden have been dropping, with total tax rates for the highest income earners dropping the most. In 2010 45.8% of the country's GDP was collected as taxes, the second highest among OECD countries, and nearly double the percentage in the US or South Korea. Tax income-financed employment represents a third of the Swedish workforce, a substantially higher proportion than in most other countries. Overall, GDP growth has been fast since reforms—especially those in manufacturing—were enacted in the early 1990s.
+Sweden is the fourth-most competitive economy in the world, according to the World Economic Forum in its Global Competitiveness Report 2012–2013. Sweden is the top performing country in the 2014 Global Green Economy Index (GGEI). Sweden is ranked sixth in the IMD World Competitiveness Yearbook 2024.
+Sweden maintains its own currency, the Swedish krona (SEK). The Swedish Riksbank—founded in 1668 and thus the oldest central bank in the world—is currently focusing on price stability with an inflation target of 2%. According to the Economic Survey of Sweden 2007 by the OECD, the average inflation in Sweden has been one of the lowest among European countries since the mid-1990s, largely because of deregulation and quick utilisation of globalisation.
+The principal trading partners are Germany, the United States, Norway, the United Kingdom, Denmark, and Finland.
+
+Energy
+Sweden's energy market is largely privatised. The Nordic energy market is one of the first liberalised energy markets in Europe and it is traded in NASDAQ OMX Commodities Europe and Nord Pool Spot. In 2006, out of a total electricity production of 139 TWh, electricity from hydropower accounted for 61 TWh (44%), and nuclear power delivered 65 TWh (47%). At the same time, the use of biofuels, peat etc. produced 13 TWh (9%) of electricity, while wind power produced 1 TWh (1%). Sweden was a net importer of electricity by a margin of 6 TWh. Biomass is mainly used to produce heat for district heating and central heating and industry processes.
+Sweden joined the International Energy Agency in 1974, after the 1973 oil crisis strengthened Sweden's commitment to decrease dependence on imported fossil fuels. To protect against unexpected oil supply shocks and in accordance with international commitments made through the IEA, Sweden maintains a strategic petroleum reserve of at least 90 days of net oil imports. As of February 2022, Sweden's oil reserves totalled 130 days' worth of net imports. Sweden has moved to generate electricity mostly from hydropower and nuclear power. The use of nuclear power has been limited, however. Among other things, the accident of Three Mile Island prompted the Riksdag to ban new nuclear plants. In March 2005, an opinion poll showed that 83% supported maintaining or increasing nuclear power.
+Sweden is considered a "global leader" in decarbonisation. Politicians have made announcements about oil phase-out in Sweden, decrease of nuclear power, and multibillion-dollar investments in renewable energy and energy efficiency. The country has for many years pursued a strategy of indirect taxation as an instrument of environmental policy, including energy taxes in general and carbon dioxide taxes in particular. Sweden was the first nation to implement carbon pricing, and its carbon prices remain the highest in the world as of 2020. This model has been shown to be particularly effective at decarbonizing the nation's economy.
+
+Transport
+Sweden has 162,707 km (101,101 mi) of paved road and 1,428 km (887 mi) of expressways. Motorways run through Sweden and over the Öresund Bridge to Denmark. Sweden had left-hand traffic (vänstertrafik in Swedish) from approximately 1736, but after the Riksdag passed legislation in 1963 changeover took place on 3 September 1967, known in Swedish as Dagen H.
+The Stockholm metro is the only underground system in Sweden and serves the city of Stockholm via 100 stations. The rail transport market is privatised, but while there are many privately owned enterprises, the largest operators are still owned by the state. Operators include SJ, Veolia Transport, Green Cargo, Tågkompaniet and Inlandsbanan. Most of the railways are owned and operated by Trafikverket.
+
+Most tram networks were closed in 1967. But they survived in Norrköping, Stockholm and Gothenburg, with Gothenburg tram network being the largest. A new tram line opened in Lund on 13 December 2020.
+The largest airports include Stockholm–Arlanda Airport (16.1 million passengers in 2009) 40 km (25 mi) north of Stockholm, Göteborg Landvetter Airport (4.3 million passengers in 2008), and Stockholm–Skavsta Airport (2.0 million passengers). Sweden hosts the two largest port companies in Scandinavia, Port of Göteborg AB (Gothenburg) and the transnational company Copenhagen Malmö Port AB. Malmö Airport in Scania, southern Sweden, is Sweden's fifth-busiest airport.
+Sweden also has a number of car ferry connections to several neighbouring countries. This includes a route from Umeå across the Gulf of Bothnia to Vaasa in Finland. There are several connections from the Stockholm area across the Sea of Åland to Mariehamn in Åland as well as Turku and Helsinki on the Finnish mainland and beyond to Estonia and St Petersburg in Russia. Ferry routes from the Stockholm area also connect with Latvia and Poland across the Baltic Sea. The ferry ports of Karlskrona and Karlshamn in southeastern Sweden serve Poland and Lithuania. Ystad and Trelleborg near the southern tip of Sweden have ferry links with the Danish island of Bornholm and the German ports of Sassnitz, Rostock and Travemünde, respectively, and ferries run to Świnoujście, Poland, from both of them. Trelleborg is the busiest ferry port in Sweden in terms of weight transported by lorry. Despite the opening of the fixed link to Denmark, the Öresund Bridge, the busiest ferry route remains the short link across the narrowest section of the Öresund between Helsingborg and the Danish port of Helsingør, known as the HH Ferry route. There are over seventy departures a day each way; during peak times, a ferry departs every fifteen minutes. Ports higher up the Swedish west coast include Varberg, with a ferry connection across the Kattegat to Grenaa in Denmark, and Gothenburg, serving Frederikshavn at the northern tip of Denmark and Kiel in Germany. Finally, there are ferries from Strömstad near the Norwegian border to destinations around the Oslofjord in Norway.
+Sweden operates two domestic ferry routes using large vessels, both of which connect Gotland with the mainland. The lines leave from Visby harbour on the island, and the ferries sail to either Oskarshamn or Nynäshamn. A smaller car ferry connects the island of Ven in Öresund with Landskrona.
+
+Public policy
+Sweden has one of the most highly developed welfare states in the world. According to a 2012 OECD report, the country had the second-highest public social spending as a percentage of its GDP after France, and the third-highest total (public and private) social spending at 30.2% of its GDP, after France and Belgium. Sweden spent 6.3% of its GDP, the ninth-highest among 34 OECD countries, to provide equal access to education. On health care, the country spent 10.0% of its total GDP, the 12th highest.
+Historically, Sweden provided solid support for free trade (except agriculture) and mostly relatively strong and stable property rights (both private and public), though some economists have pointed out that Sweden promoted industries with tariffs and used publicly subsidised R&D during the country's early critical years of industrialisation. After World War II a succession of governments expanded the welfare state by raising the taxes. A series of successive social reforms transformed the country into one of the most equal and developed on earth. The consistent growth of the welfare state led to Swedes achieving unprecedented levels of social mobility and quality of life—to this day Sweden consistently ranks at the top of league tables for health, literacy and Human Development—far ahead of some wealthier countries (for example the United States). A report from the United Nations Development Program predicted that Sweden's rating on the Human Development Index will fall from 0.949 in 2010 to 0.906 in 2030.
+Sweden has been relatively quick to adopt neoliberal policies, such as privatisation, financialisation and deregulation, compared to countries such as France. The current Swedish government is continuing the trend of moderate rollbacks of previous social reforms. Growth has been higher than in many other EU-15 countries. Since the mid-1980s, Sweden has had the fastest growth in inequality of any developed nation, according to the OECD. This has largely been attributed to the reduction in state benefits and a shift toward the privatisation of public services. Nevertheless, it remains far more egalitarian than most nations.
+Sweden adopted free market agricultural policies in 1990. Since the 1930s, the agricultural sector had been subject to price controls. In June 1990, the Riksdag voted for a new agricultural policy marking a significant shift away from price controls. As a result, food prices fell somewhat. However, the liberalisations soon became moot because EU agricultural controls supervened.
+In 2015 and 2016, 69 per cent of the employed workers is organised in trade unions. Union density in 2016 was 62% among blue-collar-workers (most of them in the Swedish Trade Union Confederation, LO) and 75% among white-collar workers (most of them in the Swedish Confederation of Professional Employees, TCO, and the Swedish Confederation of Professional Associations, SACO). Sweden has state-supported union unemployment funds (Ghent system). Trade unions have the right to elect two representatives to the board in all Swedish companies with more than 25 employees. Sweden has a relatively high amount of sick leave per worker in OECD: the average worker loses 24 days due to sickness.
+The unemployment rate was 7.2% in May 2017 while the employment rate was 67.4%, with the workforce consisting of 4,983,000 people while 387,000 are unemployed. Unemployment among youth (aged 24 or younger) in 2012 was 24.2%, making Sweden the OECD country with the highest ratio of youth unemployment versus unemployment in general.
+
+Science and technology
+In the 18th century, Sweden's Scientific Revolution took off. Previously, technical progress had mainly come from mainland Europe.
+In 1739, the Royal Swedish Academy of Sciences was founded, with people such as Carl Linnaeus and Anders Celsius as early members. Gustaf Dalén founded AGA, and received the Nobel Prize for his sun valve. Alfred Nobel invented dynamite and instituted the Nobel Prizes. Lars Magnus Ericsson started the company bearing his name, Ericsson, still one of the largest telecom companies in the world. Jonas Wenström was an early pioneer in alternating current and is along with Nikola Tesla credited as one of the inventors of the three-phase electrical system.
+The traditional engineering industry is still a major source of Swedish inventions, but pharmaceuticals, electronics and other high-tech industries are gaining ground. Tetra Pak was an invention for storing liquid foods, invented by Erik Wallenberg. Losec, an ulcer medicine, was the world's best-selling drug in the 1990s and was developed by AstraZeneca. More recently Håkan Lans invented the Automatic Identification System, a worldwide standard for shipping and civil aviation navigation. A large portion of the Swedish economy is to this day based on the export of technical inventions.
+Swedish inventors held 47,112 patents in the United States in 2014, according to the United States Patent and Trademark Office. As a nation, only ten other countries hold more patents than Sweden.
+Combined, the public and the private sector in Sweden allocate over 3.5% of GDP to research & development (R&D) per year, making Sweden's investment in R&D as a percentage of GDP the second-highest in the world. For several decades the Swedish government has prioritised scientific and R&D activities. As a percentage of GDP, the Swedish government spends the most of any nation on research and development. Sweden tops other European countries in the number of published scientific works per capita.
+The European Spallation Source (ESS) was scheduled to begin initial operations in 2019 with construction completion scheduled for 2025. The ESS will give an approximately 30 times stronger neutron beam than any of today's existing neutron source installations. The MAX IV, costing some SEK 3 billion, was inaugurated on 21 June 2016. Both facilities have strong implications on material research. Sweden was ranked second in the Global Innovation Index in 2023, 2024 and 2025.
+
+Waste management
+Sweden is known for its efficient waste management system. Only 0.7% of the total household waste is disposed, and the rest is reused. Around 52% of its waste is used for energy production (that is burnt) and 47% recycled. About two million tonnes of waste are imported from neighbouring countries to make profitable recycling products. As of 2023 report, Sweden generated 1.7 billion euros in 2020 (the highest so far was 1.98 billion euros in 2016) from recycling waste. The works are mostly executed through the public organisation, Swedish Waste Management (Avfall Sverige).
+
+Taxes
+Since the late 1960s, Sweden has had the highest tax quota (as percentage of GDP) in the industrialised world, although today the gap has narrowed and Denmark has surpassed Sweden as the most heavily taxed country among developed countries. Sweden has a two-step progressive tax scale with a municipal income tax of about 30% and an additional high-income state tax of 20–25% when a salary exceeds roughly 320,000 SEK per year. Payroll taxes amount to 32%. In addition, a national VAT of 25% is added to many things bought by private citizens. Certain items are subject to additional taxes, e.g. electricity, petrol/diesel and alcoholic beverages. In 2007, total tax revenue was 47.8% of GDP, the second-highest tax burden among developed countries, down from 49.1% 2006. Public sector spending amounts to 53% of the GDP. State and municipal employees total around a third of the workforce, much more than in most Western countries. Only Denmark has a larger public sector (38% of Danish workforce). Spending on transfers is also high. On average, 27% of taxpayers' money in Sweden goes to education and healthcare, whereas 5% goes to the police and military, and 42% to social security.
+
+Pensions
+Every Swedish resident receives a state pension. Swedish Pensions Agency is responsible for pensions. People who have worked in Sweden, but relocated to another country, can also receive the Swedish pension. There are several types of pensions in Sweden: occupational and private pensions, and national retirement. A person can receive a combination of the various types of pensions.
+
+Demographics
+The total resident population of Sweden was 10,588,020 in January 2025. The population exceeded 10 million for the first time on Friday 20 January 2017.
+The average population density is just over 25 people per km2 (65 per square mile), with 1 437 persons per km2 in localities (continuous settlement with at least 200 inhabitants). 88% of the population live in urban areas, which cover 1.5% of the entire land area. 63% of Swedes are in large urban areas. It is substantially higher in the south than in the north. There are more than 2000 localities. The capital city Stockholm has a municipal population of about 950,000 (with 1.5 million in the urban area and 2.3 million in the metropolitan area). The second- and third-largest cities are Gothenburg and Malmö. Outside of major cities, areas with notably higher population density include the agricultural part of Östergötland, the western coast, the area around Lake Mälaren and the agricultural area around Uppsala.
+Norrland, which covers approximately 60% of the Swedish territory, has a very low population density (below five people per square kilometre). The mountains and most of the remote coastal areas are almost unpopulated. Low population density exists also in large parts of western Svealand, as well as southern and central Småland. An area known as Finnveden, which is located in the south-west of Småland, and mainly below the 57th parallel, can also be considered as almost empty of people.
+There are no official statistics on ethnicity, but according to Statistics Sweden, 2,752,572 (26%) inhabitants of Sweden were of a foreign background in 2021, defined as being born abroad or born in Sweden with both foreign-born parents. Of these inhabitants, 2,090,503 persons were born abroad and 662,069 persons were born in Sweden to parents born abroad. In addition, 805,340 persons had one parent born abroad with the other parent born in Sweden. Five minority groups are officially recognised by Sweden: Jews, Romani, Sámi, Sweden Finns, and Tornedalians.
+Sweden has one of the oldest populations in the world, with the average age of 41.1 years.
+
+Language
+The official language of Sweden is Swedish, a North Germanic language, related and very similar to Danish and Norwegian, but differing in pronunciation and orthography. Sweden Finns are Sweden's largest linguistic minority, comprising about 5% of Sweden's population, and Finnish is recognised as a minority language. The dialects spoken in Scania, the southernmost part of the country, are influenced by Danish because the region was a part of Denmark until the treaty of Roskilde in 1658. Owing to a 21st-century influx of native speakers of Arabic, the use of Arabic is likely more widespread in the country than that of Finnish. However, no official statistics are kept on language use.
+Along with Finnish, four other minority languages are also recognised: Meänkieli, Sámi, Romani, and Yiddish. Swedish became Sweden's official language on 1 July 2009, when a new language law was implemented. The issue of whether Swedish should be declared the official language had been raised in the past, and the Riksdag voted on the matter in 2005, but the proposal narrowly failed.
+To varying degrees, a majority of Swedes, especially those born after World War II, understand and speak English, owing to trade links, the popularity of overseas travel, a strong Anglo-American influence and the tradition of subtitling rather than dubbing foreign television shows and films, and the relative similarity of the two languages which makes learning English easier. In a 2023 survey by Eurobarometer, 90% of the population reported the ability to speak English at a conversational level. German is the second most widely spoken foreign language, with 25% reporting conversational proficiency, followed by French with 12%.
+English became a compulsory subject for secondary school students studying natural sciences as early as 1849, and has been a compulsory subject for all Swedish students since the late 1940s. Most students also study one and sometimes two additional languages. Some Danish and Norwegian is also taught as part of Swedish courses for native speakers. Because of the extensive mutual intelligibility between the three continental Scandinavian languages, Swedish speakers often use their native language when visiting or living in Norway or Denmark.
+
+Religion
+Before the 11th century, Swedes adhered to Norse paganism, worshipping Æsir gods, with its centre at the Temple in Uppsala. With Christianisation in the 11th century, the laws of the country changed, forbidding worship of other deities until the late 19th century. After the Protestant Reformation in the 1530s, the authority of the Roman Catholic Church was abolished and Lutheranism became widespread. Adoption of Lutheranism was completed by the Uppsala Synod of 1593, and it became the official religion. During the era following the Reformation, usually known as the period of Lutheran orthodoxy, small groups of non-Lutherans, especially Calvinist Dutch, the Moravian Church and French Huguenots played a significant role in trade and industry, and were quietly tolerated. The Sami originally had their own shamanistic religion, but they were converted to Lutheranism by Swedish missionaries in the 17th and 18th centuries.
+
+With religious liberalisations in the late 18th century believers of other faiths, including Judaism and Roman Catholicism, were allowed to live and work freely in the country. However, until 1860 it remained illegal for Lutherans to convert to another religion. The 19th century saw the arrival of various evangelical free churches, and, towards the end of the century, secularism, leading many to distance themselves from church rituals. Leaving the Church of Sweden became legal with the so-called Dissenter Act of 1860, but only under the provision of entering another Christian denomination. The right to stand outside any religious denomination was formally established in the law on freedom of religion in 1951.
+In 2000, the Church of Sweden was separated from the state. Sweden was the second Nordic country to disestablish its state church (after Finland did so in the Church Act of 1869).
+At the end of 2024, 51.4% of Swedes belonged to the Church of Sweden; this number has been decreasing by 1-2 percentage points each year since 2001. Approximately 2% of the church's members regularly attend Sunday services. The reason for the large number of inactive members is partly that, until 1996, children automatically became members at birth if at least one of the parents was a member. Since 1996, only children and adults who are christened become members. Some 275,000 Swedes are today members of various Evangelical Protestant free churches (where congregation attendance is much higher), and due to recent immigration, there are now some 100,000 Eastern Orthodox Christians and 92,000 Roman Catholics living in Sweden.
+30% are "none" or "unspecified".
+8% are "other" (than Church of Sweden).
+The first Muslim congregation was established in 1949. Islam's presence in Sweden remained marginal until the 1960s, when Sweden started to receive migrants from the Balkans and Turkey. Further immigration from North Africa and the Middle East have brought the estimated Muslim population to 600,000. However, only about 110,000 were members of a congregation around 2010.
+
+Health
+Healthcare in Sweden is mainly tax-funded, universal for all citizens, and decentralised, although private health care also exists. The health care system in Sweden is financed primarily through taxes levied by regional councils and municipalities. A total of 21 councils are in charge of primary and hospital care within the country.
+Private healthcare is uncommon in Sweden, and even private institutions operate under the supervision of local councils. The city councils regulate the rules and the establishment of potential private practises. While care for the elderly or those who need psychiatric help is conducted privately in many other countries, in Sweden, publicly funded local authorities are in charge of this type of care.
+Healthcare in Sweden is similar in quality to other developed nations. Sweden ranks in the top five countries with respect to low infant mortality. It also ranks high in life expectancy and in safe drinking water. In 2018, health and medical care represented around 11% of GDP.
+
+Education
+Children aged 1–5 years old are guaranteed a place in a public kindergarten (Swedish: förskola or, colloquially, dagis). Between the ages of 6 and 16, children attend compulsory comprehensive school. In the Programme for International Student Assessment (PISA), Swedish 15-year-old pupils score close to the OECD average. After completing the ninth grade, about 90% of the students continue with a three-year upper secondary school (gymnasium), which can lead to both a job qualification or entrance eligibility to university. The school system is largely financed by taxes.
+The Swedish government treats public and independent schools equally by introducing education vouchers in 1992 as one of the first countries in the world after the Netherlands. Anyone can establish a for-profit school and the municipality must pay new schools the same amount as municipal schools get. School lunch is free for all students in Sweden, and providing breakfast is also encouraged.
+There are a number of different universities and colleges in Sweden, the oldest and largest of which are situated in Uppsala, Lund, Gothenburg and Stockholm. In 2000, 32% of Swedish people held a tertiary degree, making the country fifth in the OECD in that category. Along with several other European countries, the government also subsidises tuition of international students pursuing a degree at Swedish institutions, although a recent bill passed in the Riksdag will limit this subsidy to students from EEA countries and Switzerland.
+The large influx of immigrants to Swedish schools has been cited as a significant part of the reason why Sweden has dropped more than any other European country in the international PISA rankings.
+
+Culture
+Throughout the 1960s and 1970s, Sweden was seen as an international leader in what is now referred to as the "sexual revolution", with gender equality having particularly been promoted. Sweden has also become very liberal towards homosexuality, as is reflected in the popular acceptance of films such as Show Me Love. Since 1 May 2009, Sweden repealed its "registered partnership" laws and fully replaced them with gender-neutral marriage. Sweden also offers domestic partnerships for both same-sex and opposite-sex couples. Cohabitation (sammanboende) by couples of all ages, including teenagers as well as older couples, is widespread.
+
+Music
+Historical re-creations of Norse music have been attempted based on instruments found in Viking sites. The instruments used were the lur (a sort of trumpet), simple string instruments, wooden flutes and drums. Sweden has a significant folk-music scene. The joik, a type of Sami music, is a chant that is part of the traditional Sami animistic spirituality. Notable composers include Johan Helmich Roman, Joseph Martin Kraus, Franz Berwald, Wilhelm Stenhammar, Wilhelm Peterson-Berger, Hugo Alfvén, Kurt Atterberg, Ture Rangström, Hilding Rosenberg, Lars-Erik Larsson, Dag Wirén, Allan Pettersson, Karl-Birger Blomdahl, Ingvar Lidholm, Sven-David Sandström, Anders Eliasson and Anders Hillborg.
+Sweden has a long tradition of "visor" – strophic songs with multiple verses telling different stories, often sung with lute or guitar. Notable singer/songwriters in this genre are Carl-Michael Bellman, Birger Sjöberg, Evert Taube, Ulf Peder Olrog, Olle Adolphson, Alf Hambe, Cornelis Vreeswijk, Stefan Sundström and Cajsa-Stina Åkerström.
+Sweden also has a prominent choral music tradition. In 2003, it was estimated that five to six hundred thousand people sing in choirs.
+In 2007, with over 800 million dollars in revenue, Sweden was the third-largest music exporter in the world and surpassed only by the US and the UK. According to one source in 2013, Sweden produces the most chart hits per capita in the world, followed by the UK and the US.
+Sweden has a rather lively jazz scene. The Centre for Swedish Folk Music and Jazz Research has published an overview of jazz in Sweden by Lars Westin.
+
+Architecture
+Before the 13th century, almost all buildings were made of timber, but a shift soon began towards stone. Early Swedish stone buildings are the Romanesque churches on the countryside. This would include the Lund Cathedral from the 11th century and the somewhat younger church in Dalby, but also many early Gothic churches built through influences of the Hanseatic League, such as in Ystad, Malmö and Helsingborg.
+Cathedrals in other parts of Sweden were also built as seats of Sweden's bishops. The Skara Cathedral is made of bricks from the 14th century, and the Uppsala Cathedral in the 15th century. In 1230, the foundations of the Linköping Cathedral were made, the material was there limestone, but the building took some 250 years to finish.
+Among older structures are also some significant fortresses and other historical buildings such as at Borgholm Castle, Halltorps Manor, and Eketorp fortress on the island Öland, the Nyköping fortress and the Visby city wall.
+
+In the 1520s, King Gustav Vasa initiated grand mansions, castles, and fortresses to be built. Some of the more magnificent include Kalmar Castle, Gripsholm Castle, and Vadstena.
+In the next two centuries, Sweden was designated by Baroque architecture and later the rococo. Notable projects from that time include the city Karlskrona, which has now also been declared a World Heritage Site and the Drottningholm Palace.
+The Stockholm exhibition, which marked the breakthrough of Functionalism, or funkis as it became known first surfaced in 1930; the style came to dominate in the following decades. Some notable projects of this kind were the Million Programme, offering affordable living in large apartment complexes.
+The Avicii Arena, located in Stockholm, is the largest hemispherical building on Earth. Its dome has a diameter of 110 metres (360 feet) and took two and a half years to build.
+
+Media
+Swedes are among the greatest consumers of newspapers in the world, and nearly every town is served by a local paper. The country's main quality morning papers are Dagens Nyheter (liberal), Göteborgs-Posten (liberal), Svenska Dagbladet (liberal conservative) and Sydsvenska Dagbladet (liberal). The two largest evening tabloids are Aftonbladet (social democratic) and Expressen (liberal). The ad-financed, free international morning paper, Metro International, was founded in Stockholm, Sweden. The country's news is reported in English by, among others, The Local (liberal).
+The public broadcasting companies held a monopoly on radio and television for a long time in Sweden. Licence-funded radio broadcasts started in 1925. A second radio network was started in 1954, and a third opened 1962, in response to pirate radio stations. Non-profit community radio was allowed in 1979 and in 1993 commercial local radio started.
+The licence-funded television service was officially launched in 1956. A second channel, TV2, was launched in 1969. These two channels (operated by Sveriges Television since the late 1970s) held a monopoly until the 1980s when cable and satellite television became available. The first Swedish-language satellite service was TV3 which started broadcasting from London in 1987. It was followed by Kanal 5 in 1989 (then known as Nordic Channel) and TV4 in 1990. TV4 began its terrestrial broadcasts in 1992, becoming the first private channel to broadcast television content from within the country.
+Around half the population are connected to cable television. Digital terrestrial television in Sweden started in 1999.
+
+Literature
+Sweden has many authors of worldwide recognition including August Strindberg, Astrid Lindgren, and Nobel Prize winners Selma Lagerlöf and Harry Martinson. In total seven Nobel Prizes in Literature have been awarded to Swedes.
+The first literary text from Sweden is the Rök runestone, carved during the Viking Age c. 800 AD. With the conversion of the land to Christianity around 1100 AD, Sweden entered the Middle Ages, during which monastic writers preferred to use Latin. Therefore, there are only a few texts in Old Swedish from that period. Swedish literature only began to flourish when the language was standardised during the 16th century. This standardisation was largely due to the full translation of the Bible into Swedish in 1541. This translation is the so-called Gustav Vasa Bible.
+
+With improved education and the freedom brought by secularisation, the 17th century saw several notable authors develop the Swedish language further. Some key figures include Georg Stiernhielm (17th century), who was the first to write classical poetry in Swedish; Johan Henric Kellgren (18th century), the first to write fluent Swedish prose; Carl Michael Bellman (late 18th century), the first writer of burlesque ballads; and August Strindberg (late 19th century), a socio-realistic writer and playwright who won worldwide fame. The early 20th century continued to produce notable authors, such as Selma Lagerlöf, (Nobel laureate 1909), Verner von Heidenstam (Nobel laureate 1916) and Pär Lagerkvist (Nobel laureate 1951).
+In recent decades, a handful of Swedish writers have established themselves internationally, including the detective novelist Henning Mankell and the writer of spy fiction Jan Guillou. The Swedish writer to have made the most lasting impression on world literature is the children's book writer Astrid Lindgren, and her books about Pippi Longstocking, Emil, and others. In 2008, the second best-selling fiction author in the world was Stieg Larsson, whose Millennium series of crime novels is being published posthumously to critical acclaim.
+
+Holidays
+Apart from traditional Protestant Christian holidays, Sweden also celebrates some unique holidays, some of a pre-Christian tradition. They include Midsummer celebrating the summer solstice; Walpurgis Night (Valborgsmässoafton) on 30 April lighting bonfires; and Labour Day or May Day on 1 May is dedicated to socialist demonstrations. The day of giver-of-light Saint Lucia, 13 December, is widely acknowledged in elaborate celebrations which betoken its Italian origin and commence the month-long Christmas season.
+6 June is the National Day of Sweden and has since 2005 been a public holiday. Furthermore, there are official flag flying day observances and a Namesdays in Sweden calendar. In August many Swedes have kräftskivor (crayfish dinner parties). Martin of Tours Eve is celebrated in Scania in November with Mårten Gås parties, where roast goose and svartsoppa ('black soup') are served. The Sámi, one of Sweden's indigenous minorities, have their holiday on 6 February and Scania celebrate their Scanian Flag day on the third Sunday in July.
+
+Cinema
+Swedish 20th-century culture is noted by pioneering works in the early days of cinema, with Mauritz Stiller and Victor Sjöström. In the 1920s–1980s, the filmmaker Ingmar Bergman and actors Greta Garbo and Ingrid Bergman became internationally noted people within cinema. More recently, the films of Lukas Moodysson, Lasse Hallström, and Ruben Östlund have received international recognition.
+
+Cuisine
+Swedish cuisine, like that of the other Nordic countries (Denmark, Norway and Finland), was traditionally simple. Fish (particularly herring), meat, potatoes and dairy products played prominent roles. Spices were sparse. Preparations include Swedish meatballs, traditionally served with gravy, boiled potatoes and lingonberry jam; pancakes; pyttipanna, a spiced fried hash of meat and potatoes originally meant to use up any leftovers of meat; lutfisk; and the smörgåsbord, or lavish buffet. Akvavit is a popular alcoholic distilled beverage, and the drinking of snaps is of cultural importance. The traditional flat and dry crisp bread has developed into several contemporary variants. Regionally important foods are the surströmming (a fermented fish) in northern Sweden and eel in southern Sweden.
+In August, at the traditional feast known as crayfish party, kräftskiva, Swedes eat large amounts of crayfish boiled with dill.
+
+Sports
+Sport activities are a national movement with half of the population actively participating in organised sporting activities. The two main spectator sports are football and ice hockey. Second to football, horse sports (of which most of the participants are women) have the highest number of practitioners. Thereafter, golf, orienteering, gymnastics, track and field, and the team sports of ice hockey, handball, floorball, basketball and bandy are the most popular in terms of practitioners.
+The Swedish national men's football team finished second at the World Cup when they hosted the tournament in 1958, losing 5–2 to Brazil in the final in Stockholm. Sweden also finished third in the tournament in 1950 and 1994. Sweden's women's national football team won the European Championship in 1984, finished second at the 2003 FIFA Women's World Cup after losing to Germany, and won two Olympic silver medals, at Rio 2016, and Tokyo 2020, held in 2021.
+The Swedish national men's ice hockey team, affectionately known as Tre Kronor (English: Three Crowns), has won the World Championships nine times, placing them third in the all-time medal count. Tre Kronor also won Olympic gold medals in 1994 and 2006. In 2006, Tre Kronor became the first national hockey team to win both the Olympic and world championships in the same year. 
+Sweden hosted the 1912 Summer Olympics, Equestrian at the 1956 Summer Olympics and the FIFA World Cup in 1958. Other big sports events include the UEFA Euro 1992, 1995 FIFA Women's World Cup, 1995 World Championships in Athletics, UEFA Women's Euro 2013, and several championships of ice hockey, curling, athletics, skiing, bandy, figure skating and swimming.
+
+See also
+List of Sweden-related topics
+Outline of Sweden
+329 Svea
+
+Notes
+References
+Further reading
+External links
+
+Sweden. The World Factbook. Central Intelligence Agency.
+Sweden (archived 2009) from University of Colorado at Boulder Libraries Government Publications guide
+Sweden profile from the BBC News
+ Wikimedia Atlas of Sweden
+ Geographic data related to Sweden at OpenStreetMap
+Key Development Forecasts for Sweden from International Futures
+Study in Sweden – Official guide to studying in Sweden
+Technological Waves and Economic Growth in Sweden 1850–2005 (archived) — Lennart Schon, CIRCLE, Lund University
+Sweden – Economic Growth and Structural Change, 1800–2000 — Economic History Association
+Public sector
+
+Sweden.se — Sweden's official portal
+The Swedish Parliament – official website
+The Government of Sweden – official website
+The Royal Court Archived 11 October 2016 at the Wayback Machine – official website of the Swedish Monarchy
+News media
+
+Radio Sweden Archived 30 April 2024 at the Wayback Machine – public service
+Sveriges Television (in Swedish) – public service
+Dagens Nyheter (in Swedish)
+Svenska Dagbladet (in Swedish)
+The Local – Sweden's news in English – independent English language news site
+Trade
+
+World Bank Summary Trade Statistics Sweden
+Travel
+
+VisitSweden.com – Official travel and tourism website for Sweden
+
+## Tourism in Sweden
+Tourism in Sweden comprised a relatively small part of the Swedish economy in 2011 at 2.9% of the country's GDP; at this time, tourism generated 264 billion Swedish krona, 98.8 billion of which was foreign-visitor expenditure in Sweden. 7.1% of Swedish household income is spent on domestic tourism.
+
+One well-known tourist route is via train from southern to northern Sweden, viewing historical, natural and cultural attractions. This route is particularly popular among German tourists.
+According to the CIA World Factbook, Sweden was the 21st most-visited country in the world, with 7,627,000 arrivals in 2006.
+
+Swedish culture
+Sweden has a number of World Heritage Sites, which are popular as tourist destinations. These include:
+
+The agricultural landscape of the island of Öland, visited for its geological and geographical features
+Birka and Hovgården on the islands Björkö and Adelsö in Mälaren near Stockholm
+The church village of Gammelstad, Luleå, in northern Sweden
+Drottningholm Palace, Theatre, and the royal domain
+Engelsberg Ironworks
+The Hanseatic town of Visby
+The "High Coast" of Ångermanland
+Laponian area, Swedish Lapland, in northern Sweden
+The mining area of the Great Copper Mountain in Falun
+The naval port of Karlskrona
+Rock carvings in Tanumshede
+Skogskyrkogården in Stockholm
+Swedish horse racing is an unusual attraction, in that many races are actually trotting races. The horses are not allowed to gallop; they pull a small vehicle ridden by the human racer.
+
+Swedish nature
+Due to Sweden's northern location, the summer sun sets for only short periods of time (not at all north of the Arctic Circle). This phenomenon allows outdoor activities later in the evening than usual.
+Sweden has a large number of lakes and forests; the former are popular for fishing and canoeing. There are several large lakes, including lakes Vättern and Vänern. The Göta Canal from Stockholm to Gothenburg allows for trips in the summer.
+Hiking is popular in the summer, both in the forested regions as well as in the alpine landscapes.
+Mountain-hiking is limited to the northern and north-western parts of Sweden where a nearly 1000 km long and 50 to 200 km wide mountain range borders to Norway. In the south the Swedish mountains are generally high rolling hills with some occasional pointy peaks, while the middle and particularly northern parts of the range gradually exhibit a more dramatic nature. Sweden, and Scandinavia in general, lacks notably high peaks (the highest mountain in Sweden is Mt. Kebnekaise near Kiruna, which is 2,096.8 metres (6,879 ft) high). Despite this, dramatic areas are found in several places, and the northernmost parts of the Swedish mountain range house a notably large and dramatic wild alpine region, known as Laponia area. This area includes world-famous mountain regions like the Sarek National Park and is sometimes referred to as "Europe's last wilderness" or "Europe's Alaska". Covering about 9400 km2, the Laponia area is the largest wilderness in Europe with vast areas of untouched nature. This attracts many hikers each year, but visiting certain parts of the region requires experience since it is mostly roadless land with huge walking distances, uninhabited, and with a lack of cellphone reception in large parts.
+Another popular area for Swedish mountain hiking is Kungsleden, or "The King's Trail". It is a 400 km long trail that reaches through nearly half the Swedish mountain range, from Abisko in the north, to Hemavan in the south. This hike does not require any extreme experience and staffed mountain huts with accommodation and small shops are located along the trail. It is said to be a great nature experience of world class, both for veterans as well as beginners.
+An easier and more accessible Hiking route is the Silverleden. It's a 65 or 15 km long hiking trail that starts and ends at Hurtigtorpet in Hällefors. There is also a shorter stretch of 15 km that starts and ends in Sävenfors.
+Silverleden is 65 km long and starts and ends at Hurtigtorpet in Hällefors. The trail offers hikers a challenge in hilly terrain with breathtaking views, beautiful forests and plenty of lakes and streams. Along the trail there are nice rest areas and wells where you can fill up with water. The trail gets its name from the silver mining that was extensive in this area during the 17th century.
+
+Northern Sweden and winter sports
+In the winter, the Jukkasjärvi ice hotel is built every year near the northern town of Kiruna. Kiruna is also frequently used as a place from which to see the Aurora Borealis (Northern lights).
+Tourists in Sweden's north in the winter often take trips in reindeer sleighs with Sami drivers, in dog sleighs, or on snowmobiles. It is also possible to ski, with downhill resorts at Åre and Vemdalen, and there are many cross country ski tracks throughout northern Sweden. Vasaloppet (in the beginning of March) is the oldest, longest and largest cross-country ski race in the world. Ice hockey is a popular sport in the winter. Many of the bays in the northern part of the country are frozen in winter, and it is possible to go ice yachting or ice skating on the ice. Many lakes are also frozen, so ice fishing (pimpelfiske) is quite common.
+
+Cities and towns
+Most cities and towns in Sweden are small compared to other European cities and towns. The largest city is Stockholm, with close to 900,000 inhabitants, followed by Gothenburg with 493,000 and Malmö with 270,000.
+Stockholm has been Sweden's capital since at least the 14th century. It is Sweden's metropolis, the centre of the government and of the media. It has a waterfront adjacent to the Stockholm Archipelago; parts of Stockholm are preserved largely intact from older times.
+Gothenburg is a relatively recently built city (dating from the 17th century). It is visited for its attractions and shopping opportunities.
+Malmö has recently emerged in the eastern part of the Öresund Region, tied together with Copenhagen, Denmark, via the Öresund Bridge. During the last 15 years, Malmö has put more resources into culture; previously it had a reputation as a working class city. The twisted skyscraper Turning Torso and the main crane at the Kockums shipyard are landmarks, with the first being newer. Both Malmö and Gothenburg hosted the Uefa U21 European Championships during the summer of 2009. Malmö was also the host city of the Eurovision Song Contest 2013 and 2024.
+Uppsala was the political and religious centre of Viking Age Sweden. It became the seat of the Archbishop of Sweden in 1167, with Scandinavia's largest church building Uppsala Cathedral inaugurated in the 1440s. In 1477 Uppsala University was founded as the first university in the Nordic countries, thus making Uppsala the center of education in Sweden.
+Lund was part of Denmark until 1658, and had been the seat of Denmark's archbishop. In 1666, Lund was granted Sweden's second university, the Lund University; it is Scandinavia's largest.
+
+Transportation
+The Swedish rail system is called SJ; it has slower-speed trains throughout the country and faster X 2000 trains connecting the major cities.  Connection by rail is possible to Norway and Denmark; connections to Finland are by bus, due to rail gauge differences. It's possible to take Silja and Viking Line boats from Stockholm to Helsinki (Finland), Rostock (Germany) or Mariehamn on the Åland islands or the Wasaline ferry from Holmsund at Umeå to Vasa (Finland). The Scandinavian Airlines System and other airlines provides access by air for longer trips.
+
+See also
+List of museums in Sweden
+Scandinavian Mountains Airport
+Tourism in Denmark
+Tourism in Finland
+Tourism in Iceland
+Tourism in Norway
+
+References
+External links
+
+VisitSweden.com – Official page for travel and tourism information
+ Media related to Tourism in Sweden at Wikimedia Commons
+
+## Culture of Sweden
+The Culture of Sweden is characterised by its art, music, dance, literature, traditions, religious practices and more. It is similar to but distinct from the cultures of neighboring countries. Sweden's modern history has a well-established tradition of science, technology and cultural creativity. Swedes have made significant contributions to biology and chemistry, as well as cinema, art, music, literature and the video game industry. The Nobel laureates for physics, chemistry, medicine and literature are chosen by Swedish academies.
+
+History
+Swedish culture is an offshoot of the Norse culture which dominated southern Scandinavia in prehistory. Sweden was the last of the Scandinavian countries to be Christianised, with pagan resistance apparently strongest in Svealand, where Uppsala was an old and important ritual site as evidenced by the tales of Uppsala temple. Like the rest of Scandinavia, Sweden had significant artistic, musical and literary traditions during the Viking Age. The oldest sources of written Swedish are runestones, and more of them are found in Sweden than in any other country. Swedish Vikings are known especially for founding the Kievan state, becoming powerful as well as established in the area with considerable eventual impact on the history of eastern Europe. In the twelfth century, most of Finland was incorporated into Sweden. Swedish medieval church culture had its centre at Vadstena, where the Bridgettine order had its principle monastery.
+In the 16th century, Sweden left the Catholic community and assumed Lutheran faith. King Gustav I had successfully wrested the throne from Christian II of Denmark and promoted a national church headed by himself. Under his reign the whole Bible was translated for the first time into Swedish, and that came to serve as a norm for the Swedish language. In the following century, Sweden would appear as a champion of the Protestant cause, while also acquiring new lands and plundering foreign cultural riches during the Thirty Years War. The 17th century also saw the first Swedish poetry books, as well as notable Swedish artists. It also saw a rise in interest in the history of the country, with the establishment of the Swedish National Heritage Board as one example.
+In the 18th century, Swedish culture flourished: Carl Linnaeus had a vast impact on biology, also promoting widespread interest in the topic, and Carl Michael Bellman produced many significant songs and poems. Queen Louisa Ulrika and her son King Gustav III were important patrons of the arts, both founding academies that are still active. Sweden also became the first country with a law explicitly protecting freedom of the press.
+
+During the Napoleonic wars, Finland was lost to Russia, which was a shock to Swedish society. After first securing a personal union with Norway, Sweden entered a time of peace that is still ongoing. This and improvements in agriculture and sanitation led to a high population growth; during the latter half of the 19th century, emigration increased. During the century, the first modern Swedish novelists appeared, with Fredrika Bremer enjoying early international success, and August Strindberg's first novel The Red Room marking an epoch in Swedish language history. Meanwhile, Swedish scientists, especially chemists, made important contributions. Jenny Lind was a leading opera singer throughout the nineteenth century.
+When increased opportunity and international trade arrived in the 20th century, along with better education of the masses, Sweden went from a poor country to one of the richest. Swedish culture became more well known abroad, and especially Swedish cinema and Swedish music have been widely successful, through representatives such as Ingrid Bergman, Ingmar Bergman, Jussi Björling, ABBA and Avicii. Modern Swedish design has also become widespread around the world.
+
+Regions
+The 25 historical provinces (landskap) of Sweden, which early in their histories had poor intercommunication, each have a distinct culture, though today they have lost their importance as administrative and political regions while the population of Sweden still identifies with them. Each province has its own history and individual nature. In early times, some of them were so separate from Sweden (as known) that they had their own laws. Historically, some of the regions were independent or longtime parts of Denmark and Norway. They have more-or-less different indigenous dialects within the frameworks of North Germanic languages or Sami languages, and all have ethnic minorities.
+
+Symbols
+The Dalecarlian horse is a popular Swedish symbol. It has been manufactured since the 17th century and is decorated with rose-painting. Mother Svea is a traditional personification of the Swedish nation. She is portrayed with historical clothing from Swedish folklore. Sweden also has an official national costume. Another famous symbol, though unofficial, is the moose.
+
+Food and drink
+The consumption of alcohol in the home was noted in 2006 as less than in many other European countries, owing to the government's monopoly on alcoholic beverages, but not at restaurants and bars. Swedish punsch is a spirit of particular historical significance in Sweden. Sweden ranks among the top 50 nations in alcohol consumption per capita with 440 AA groups in the country working on problems with alcoholism.
+Swedish cuisine is traditionally simple, though a notable delicacy internationally is the cinnamon roll, which has been celebrated annually on Cinnamon Roll Day since 1999. Sweden is also known for fika, a coffee break.
+
+Film
+Lasse Hallström, Ingmar Bergman, Victor Sjöström and Gunnar Hellström are four of many Swedish film and television directors who have had noted international careers, and British director Colin Nutley, living in Sweden, has been highly productive there.
+Sweden boasts many internationally known actors and actresses, including Maud Adams, Malin Åkerman, Bibi Andersson, Ingrid Bergman, Britt Ekland, Greta Garbo, Signe Hasso, Dolph Lundgren, Helena Mattsson, Michael Nyqvist, Lena Olin, Ann-Margret Olsson, Mikael Persbrandt, Rebecca Ferguson, Noomi Rapace, Stellan Skarsgård and sons Alexander, Gustaf, and Bill, Peter Stormare, Ingrid Thulin, Alicia Vikander, and Max von Sydow.
+
+Music
+Singing is popular in Sweden; of its 9 million inhabitants 600,000 belong to various choirs.
+Several Swedish songwriters are very internationally successful. The most notable Swedish songwriter is likely Max Martin, one of the most successful in history.
+Swedish classical music has a history dating back to the Renaissance. There are many internationally notable Swedish classical composers, including Joseph Martin Kraus, Johan Helmich Roman, Wilhelm Stenhammar, Kurt Atterberg, Lars-Erik Larsson and Franz Berwald. Kungliga Hovkapellet is one of the oldest orchestras in the world, belonging to the Royal Swedish Opera. Carl Michael Bellman was an influential poet and songwriter during the late eighteenth century. Jenny Lind and Jussi Björling are among the most important Swedish opera singers.
+
+In popular music, the ABBA group was world-famous during the 1970s and early 1980s. Roxette emerged in the late 1980s and early 1990s and was very successful internationally. Europe, Ace of Base and The Cardigans are additional Swedish pop groups that have been popular internationally.
+Indie pop/rock has done well in Sweden. Gothenburg has spawned prominent bands and artists, thanks to labels such as Sincerely Yours and Service. Notable Swedish indie bands and artists include Jens Lekman, The Knife, Love Is All, The Concretes, Broder Daniel, The Tough Alliance, Peter, Bjorn and John, Little Dragon, El Perro del Mar, Maia Hirasawa, Fever Ray, Popsicle (band), Studio, The Embassy, The Honeydrips, Brainpool, Air France, jj, Joel Alme and Pacific!.
+In contrast to its large pop music output, Sweden boasts a very prolific death metal scene. Gothenburg is known for a "melodic death metal" sound. Many bands from there, such as In Flames, Dark Tranquillity, At the Gates, The Haunted, as well as Stockholm's Amon Amarth and Opeth, have seen increased commercial success in Europe and the USA. Notable there is the popular titling of Amon Amarth's style as Viking metal. The nation is well known in the extreme metal community for its late 1980s to early 1990s death metal scene, spawning bands like Entombed, as well as more obscure, brutal bands like Repugnant and Treblinka (later called Tiamat), and especially now for Meshuggah (formed in 1987 alongside the aforementioned, but most recognized for works from 2000 thru today) and Vildhjarta. Meshuggah's lead guitarist Fredrik Thordendal is often cited as the forefather of the Djent subgenre and movement; the band is thus noted as a major influence by many modern metal bands and was certainly a force in the much wider adoption of extended range guitars (see Seven-string guitar), especially 8-string guitars. Vildhjarta, a much younger group, has found greater popularity for a much more aggressive sound, marked by a mix of the low, open-string tones. Djent is known for with use of the highest frets on the guitar, which significantly shorten the vibrating segment of the string and thus produces a very different tone, especially when overdriven.
+Other Swedish music acts on the international scene are Avicii, Zara Larsson, Swedish House Mafia, Ghost, Dungen, José González, Måns Zelmerlöw, Lykke Li, Mando Diao, The Sounds, The Hives, Neverstore, Sahara Hotnights, Robyn, Movits! and The Shanes. Some are only famous on the domestic Swedish music scene, such as Kent, Håkan Hellström, Veronica Maggio, and Lars Winnerbäck.
+
+Literature
+The history of Swedish literature is heralded by runestones in Old Norse and later language variants. Like the rest of Scandinavia and Iceland, Sweden had important literature during the Viking Age; this was chiefly consisted of Old Norse poetry. During the Middle Ages, most Swedish literature was of a religious nature and written in Latin. The oldest longer historical source text in Swedish is Erik's Chronicle (Erikskrönikan). Typical Renaissance literature in Swedish appeared in the 16th and 17th centuries. In 1665–1668, the first novel in Swedish was published. Georg Stiernhielm's poetry collection was one of the first of major importance in Swedish. The main representative of non-fiction during that time is Olof Rudbeck, who came to popularize Swedish Gothicism with Atlantica. Gustav III promoted culture in many ways, including the establishment of the Swedish Academy.
+The work of Carl Linnaeus has had a profound impact on the world of taxonomy. Other Swedish authors known around the world include August Strindberg, Astrid Lindgren, best known for several children's book series, and Selma Lagerlöf. Swedish contemporary detective works belong to the popular Nordic noir sub-genre, the most famous of them being The Girl with the Dragon Tattoo from Stieg Larsson. The most significant author within Sweden is likely Vilhelm Moberg, with his series The Emigrants. The Nobel Prize in Literature, a Swedish prize, is awarded by the Swedish Academy.
+
+Design
+Folk costuming
+Colourful traditional Swedish folk costumes are sometimes worn on such special occasions as Midsummer. Sverigedräkten, designed by Märta Jörgensen, mainly in blue and yellow, has been the established National Costume since 2004 (the first since the 18th-century Nationella dräkten) and is thus worn by royal women on some official occasions. There are many other variations of the folk costumes of Sweden, many provinces and even parishes having their own designs. Some of them have long histories and traditions while others have been created or recreated in modern times. As of 2022, there are at least 840 different designs. In 2022, Fredy Clue and Ida Björs designed the first unisex Swedish folk costume, the Bäckadräkten.
+
+Fashion
+Modern Swedish clothing is internationally influenced. In recent years, Sweden has gotten more involved in the fashion industry, headquartering best-known brands like Hennes & Mauritz (operating as H&M), J. Lindeberg (operating as JL), Tiger of Sweden, Acne Jeans and Filippa K within its borders.
+Furniture design has been influenced worldwide by the considerable international success of IKEA, and the design of automobiles by Volvo and Saab. Artisan-made glass products from the so-called Kingdom of Crystal have also achieved international recognition.
+
+Art
+The most significant native Swedish artistic tradition is often considered to be Viking art, which had a strong influence throughout Europe, especially Northern Europe, during the Viking Age. There are also several other native artistic folk traditions, such as rose-painting and the Dalecarlian horse.
+
+The rise of the Swedish Empire during the seventeenth century began a period of flourishing of Swedish art. Beyond the founding of the notable Swedish royal art collection, both foreign and domestic painters established themselves internationally with portraits for the wealthy nobility and monarchy. The eighteenth century further expanded the classical tradition in Sweden, with leading painters like Alexander Roslin having a strong role within European art. The Nationalmuseum was also founded by King Gustav III in the eighteenth century.
+Modern Swedish art has proven successful internationally. Anders Zorn was a leading painter of the nineteenth century, while Carl Milles was a very important sculptor of the twentieth century. There are many art galleries within Swedish cities, especially Stockholm.
+
+Video games
+Sweden has become a major player in the Video game industry in recent years. Minecraft has become one of the best-selling video games after its unofficial release in 2009 from Swedish developer Mojang Studios. More recently, The Finals from Embark Studios attracted much media attention due to its creative gameplay loop. Another Swedish-based title, Helldivers 2 rose to even be featured at The Game Awards 2024. Swedish game design tends to focus on more creative gameplay loops, but studios tend to maintain titles less, with outliers such as Minecraft which still receive updates.
+
+See also
+Architecture of Sweden
+List of libraries in Sweden
+List of museums in Sweden
+Scandinavian Folklore
+
+References
+Further reading
+Nordstrom, Byron J. (2010). Culture and customs of Sweden. Santa Barbara, California: Greenwood Publishing Group. ISBN 9780313343711. Retrieved 6 July 2015.
+Fast, April; Thomas, Keltie (2004). Sweden: The Culture. New York: Crabtree Publishing Company. ISBN 9780778793298. Retrieved 6 July 2015.
+Máiréad Nic Craith; Johler, Reinhard; Kockel, Ullrich (2012). Everyday Culture in Europe: Approaches and Methodologies. Farnham: Ashgate Publishing. ISBN 9781409487807. Retrieved 6 July 2015.
+Demker, Marie; Leffler, Yvonne; Sigurdson, Ola (2014). Culture, Health, and Religion at the Millennium: Sweden Unparadised. London: Palgrave Macmillan. ISBN 9781137472236. Retrieved 6 July 2015.
+Fast, April; Thomas, Keltie (2004). Sweden, The People. New York, New York: Crabtree Publishing Company. ISBN 9780778793281. Retrieved 6 July 2015.
+Duchene, Alexandre; Monica Heller (2008). Discourses of endangerment : ideology and interest in the defence of languages ([Reprint.] ed.). London: A & C Black. ISBN 9781847063229. Retrieved 6 July 2015.
+Daun, Åke (2010). Swedish Mentality. University Park, Pennsylvania: Penn State University Press. ISBN 9780271041506. Retrieved 6 July 2015.
+
+External links
+
+Sweden at geographia.com
+Picturesque Sweden (1950s) Archived 9 July 2015 at the Wayback Machine at globalimageworks.com
+
+## Cuisine of Sweden
+Swedish cuisine (Swedish: svenska köket) is the traditional food of Sweden. Due to Sweden's large north-to-south expanse, there are regional differences between the cuisine of North and South Sweden.
+Historically, in the far north, meats such as reindeer, and other game dishes were eaten, some of which have their roots in the Sami culture, while fresh vegetables have played a larger role in the South. Many traditional dishes employ simple, contrasting flavours, such as the traditional dish of meatballs and brown cream sauce with tart, pungent lingonberry jam.
+
+General features
+Swedish cuisine could be described as centered around cultured dairy products, crisp and soft breads, berries and stone fruits, beef, chicken, lamb, pork, eggs, and seafood. Potatoes are often served as a side dish, often boiled. Swedish cuisine has a wide variety of breads of different shapes and sizes, made of rye, wheat, oat, white, dark, sourdough, and whole grain, and including flatbreads and crispbreads. There are many sweetened bread types and some use spices. Many meat dishes, especially meatballs, are served with lingonberry jam. Fruit soups with high viscosity, like rose hip soup (nyponsoppa) and bilberry soup (blåbärssoppa) served hot or cold, are typical of Swedish cuisine. Butter and margarine are the primary fat sources, although olive oil is becoming more popular. Sweden's pastry tradition features a variety of tortes, yeast buns, cookies, biscuits and cakes; many of them are in a very sugary style and often eaten with coffee (fika).
+
+History
+The importance of fish has governed Swedish population and trade patterns far back in history. For preservation, fish were salted and cured. Salt became a major trade item at the dawn of the Scandinavian Middle Ages, which began c. 1000 AD. Cabbage preserved as sauerkraut and various kinds of preserved berries, apples, and other fruit were used once as a source of vitamin C during the winter (today sauerkraut is very seldom used in Swedish cuisine). Lingonberry jam, still a favourite, may be the most traditional and typical Swedish way to add freshness to sometimes rather heavy food, such as steaks and stews. Black currant jelly is  often served with wild game such as venison, elk or moose.
+Both before and after this period, some new Germanic dishes were also brought in by immigrants, such as people related to the Hanseatic League, settling in Stockholm, Visby, and Kalmar. Swedish traders and aristocrats naturally also picked up some food traditions in foreign countries; cabbage rolls (kåldolmar) being one example. An early version of kåldolmar was first published in 1765 in the fourth edition of Hjelpreda i Hushållningen för Unga Fruentimber by Cajsa Warg.
+
+Husmanskost
+Swedish husmanskost denotes traditional Swedish dishes with local ingredients, the classical everyday Swedish cuisine. The word husmanskost stems from husman, meaning 'house owner', and the term was originally used for most kinds of simple countryside food outside of towns. Genuine Swedish husmanskost used predominantly local ingredients such as pork in all forms, fish, cereals, milk, potato, root vegetables, cabbage, onions, apples, berries etc.; beef and lamb were used more sparingly. Beside berries and pears, apples are the most used traditional fruit, eaten fresh or served as apple pie, apple sauce, or apple cake. Time-consuming cooking methods such as redningar (roux) and långkok (literally 'long boil') are commonly employed and spices are sparingly used. Examples of Swedish husmanskost are pea soup (ärtsoppa), boiled and mashed carrots, potato and rutabaga served with pork (rotmos med fläsk), many varieties of salmon (such as gravlax, inkokt lax, fried, pickled), varieties of herring (most commonly pickled, but also fried, au gratin, etc.), fishballs (fiskbullar), meatballs (köttbullar), potato dumplings with meat or other ingredients (palt), potato pancake (raggmunk), varieties of porridge (gröt), a fried mix of pieces of potato, different kind of meats, sausages, bacon and onion (pytt i panna), meat stew with onion (kalops), and potato dumplings with a filling of onions and pork (kroppkakor). Many of the dishes would be considered comfort food for the nostalgic value.
+Dishes akin to Swedish husmanskost and food traditions are found also in other Scandinavian countries; details may vary.
+Sweden is part of the vodka belt and historically distilled beverages, such as brännvin and snaps, have been a traditional daily complement to food.
+Consumption of wine in Sweden has increased during the last fifty years, partly at the expense of beer and stronger alcoholic beverages.
+Husmanskost has undergone a renaissance during the last decades as well known (or famous) Swedish chefs, such as Tore Wretman, have presented modernised variants of classical Swedish dishes. In this nouvel husman the amount of fat (which was needed to sustain hard manual labour in the old days) is reduced and some new ingredients are introduced. The cooking methods are tinkered with as well, in order to speed up the cooking process or enhance the nutritional value or flavour of the dishes. Many Swedish restaurateurs mix traditional husmanskost with a modern, gourmet approach.
+
+Dishes
+Swedish traditional dishes, some of which are many hundreds of years old, others perhaps a century or less, are still a very important part of Swedish everyday meals, in spite of the fact that modern Swedish cuisine adopts many international dishes.
+Internationally, the most renowned Swedish culinary tradition is the smörgåsbord and, at Christmas, the julbord, including well-known Swedish dishes such as gravlax and meatballs.
+In Sweden, traditionally, Thursday has been "soup day" because the maids had half the day off and soup was easy to prepare in advance. One of the most traditional Swedish soups, ärtsoppa, is still served in many restaurants and households every Thursday, a tradition since the Middle Ages. Ärtsoppa is a yellow pea soup, commonly served with pancakes as dessert. This is a simple meal, a very thick soup, basically consisting of boiled yellow peas, a little onion, salt and small pieces of pork. It is often served with mustard and followed by a dessert of thin pancakes (pannkakor). The Swedish Armed Forces also serve their conscripts pea soup and pancakes every Thursday.
+Potatoes are eaten year-round as the main source of carbohydrates, and are a staple in many traditional dishes. Not until the last 50 years have pasta or rice become common on the dinner table.
+There are several different kinds of potatoes; the most appreciated is the "new potato", a potato which ripens in early summer and is enjoyed at the traditional midsummer feast. New potatoes at midsummer are served with pickled herring, chives, and sour cream, and the first strawberries of the year are traditionally served as dessert.
+The most highly regarded mushroom in Sweden is the chanterelle, which is considered a delicacy. The chanterelle is usually served as a side dish together with steaks, or fried with onions and sauce served on an open sandwich. Second to the chanterelle, and considered almost as delicious, is the porcini mushroom, or karljohansvamp, named after Charles XIV John (Karl XIV Johan) who introduced its use as food.
+In August, at the traditional feast known as kräftskiva, crayfish party, Swedes eat large amounts of crayfish, boiled and then marinated in a broth with salt, a little bit of sugar, and a large amount of dill umbels (krondill, lit. crown dill).
+
+Meals
+Meals consists of breakfast in the morning (frukost), a light lunch before noon (lunch), and a heavy dinner (middag) around six or seven in the evening. It is also common to have a snack, often a sandwich or fruit, in between meals (mellanmål). Most Swedes also have a coffee break in the afternoon, often together with a pastry (fika). In all primary schools, and most, but not all secondary schools, a hot meal is served at lunch as part of Sweden's welfare state. According to Swedish school law, this meal has to be nutrient-dense.
+
+Breakfast
+Breakfast usually consists of open sandwiches (smörgås), possibly on crisp bread (knäckebröd). The sandwich is most often buttered, with toppings such as hard cheese, cold cuts, caviar, messmör (a Norwegian sweet spread made from butter and whey), ham (skinka), and tomatoes or cucumber. Filmjölk (fermented milk/buttermilk), or sometimes yogurt, is also traditional breakfast food, usually served in a bowl with cereals such as cornflakes.  Muesli, or porridge (gröt) is sometimes eaten at breakfast, made of oatmeal or cream of wheat, eaten with milk and jam or cinnamon with sugar. Common drinks for breakfast are milk, juice, tea, or coffee. Swedes are among the most avid milk and coffee drinkers in the world.
+Swedes sometimes have sweet toppings on their breads, such as jam (like the French and Americans), or chocolate (like the Danes), although many older Swedes choose not to use these sweet toppings. However, orange marmalade on white bread is common, usually with morning coffee or tea.
+Many traditional kinds of Swedish bread, such as sirapslimpa (less fashionable today, but still very popular) are somewhat sweetened in themselves, baked with small amounts of syrup. Like in many other European countries, there are also many non-sweetened breads, often made with sourdough (surdeg). Swedish breads may be made from wholegrain, fine grain, or anything in between, and there are white, brown, and very dark (like in Finland) varieties which are all common. Barkis or bergis is a localised version of challah usually made without eggs and at first only available in Stockholm and Göteborg where Jews first settled but now available elsewhere.
+
+Main courses
+Seafood
+Fish and other seafood are an important part of Swedish cuisine. Farmed salmon from Norway has become increasingly popular. Pickled, sweetened herring, inlagd sill, is a traditional Swedish appetizer. Shrimp and lobster are specialties of the Skagerrak coast. Surströmming is a fermented Baltic herring famous for its pungent aroma, both loved and hated. Crayfish, boiled in salted water with dill, are a late summer Swedish delicacy.
+
+Desserts
+Common desserts include:
+
+Pastries and treats
+Kaffebröd (coffee bread)
+Bakelser and other types of kaffebröd (or more colloquially fikabröd) are various forms of pastries, cake, cookies, and buns that are usually consumed with coffee (see fika). Popular kinds of kaffebröd available in a traditional Swedish konditori (coffee shop / pâtisserie) include:
+
+Treats
+During the winter holidays, traditional candy and pastries include:
+
+Other typical Swedish candy includes:
+
+Drinks
+Sweden is in second place among the heaviest coffee-drinking countries in the world. Milk consumption in Sweden is also very high, second only to Finland. Milk is bought in milk cartons;  Tetra Pak, the world's largest maker of milk cartons, was founded in Sweden. Milk is considered the standard drink to have with meals during weekdays in many families, for both children and adults. Cordial is very common in Sweden. In the early summer elder flower cordial, and less commonly lilac cordial, are made. In the late summer other cordials, such as black currant cordial, are made.
+
+Christmas beverages
+Sweet drinks
+Liquor
+The production of liquor has a tradition dating back to the 18th century and was at a high in the 1840s. Since the 1880s, the state-owned Systembolaget has a monopoly on selling spirits with more than 3.5% ABV, limiting access. Hembränt (moonshine) used to be made in rural Sweden, but production has lessened in recent years due to more liberal rules for the import of alcohol as well as increased smuggling.
+Punsch is a traditional liqueur in Sweden that was immensely popular during the 19th century. It was adopted as the drink of choice by university students, and many traditional songs from that time are about the consumption of punsch or are meant to be sung during the collective festivities that were part of the cultural life in the universities' student associations at the time and still is.
+
+Beer
+Beer is also widely consumed in Sweden and the typical Swedish beer is lager of a bright and malty kind. The brands Pripps Blå and Norrlands Guld are common examples. In the last few decades, many small breweries (microbreweries) have emerged all over Sweden offering a wide range of styles and brands. Nils Oscar Brewery, Dugges Ale och Porterbryggeri and Närke Kulturbryggeri are examples of these young Swedish microbreweries. Many microbreweries in Sweden are inspired by the US craft beer movement, brewing American styles or styles commonly associated with American craft breweries, e.g. American Pale Ale and American IPA.
+
+Food and society
+Brödinstitutet ('The Bread Institute') once campaigned with a quotation from the Swedish National Board of Health and Welfare, recommending eating six to eight slices of bread daily. Drinking milk has also been recommended and campaigned for by the Swedish National Board of Health and Welfare; it is often recommended to drink two to three glasses of milk per day. A survey conducted on behalf of Mjölkfrämjandet, an organisation promoting consumption of Swedish milk, concluded that 52% of Swedes surveyed drink milk at least once a day, usually one glass with lunch and another glass or two in the evening or morning.
+Low-fat products, wholemeal bread and other alternatives are common; grocery stores usually sell milk in four or five different fat levels, from 3% to 0.1%.
+
+Swedengate
+A post on Reddit went viral and gave rise to the myth that Swedes don’t feed their guests, especially children. It was named Swedengate and started with someone writing a personal post about how, as a child, had to wait in the Swedish friend’s room while the friend ate a family dinner.
+“I remember going to my Swedish friend’s house. And while we were playing in his room, his mom yelled that dinner was ready. And check this. He told me to WAIT in his room while they ate.”
+The personal story was misunderstood as part of Swedish culture because the subject of the thread was: “What is the weirdest thing you had to do at someone else’s house because of their culture/religion?”
+Especially in the 1900s, family dinners were common in Sweden, with the whole family gathered around the dinner table. So children who played at friends’ houses were expected to be home by a certain time to eat dinner with their own family. Dinner times could differ slightly between families, which could result in one child eating dinner before a friend. To eat a larger meal or stay overnight at a friend’s house, the families are expected to plan it in advance. At least the host family is expected to call the visitor's parents and ask for permission. It is about not interfering with other families’ habits or how they raise their children.
+This dinner guest culture is not only typical in Sweden, but also in other Nordic countries, the Netherlands, northern Germany and some other parts of Western and Central Europe.
+According to the original Reddit post, it was the friend who asked the guest to wait in the room, not the friend's parents. It is not clear whether the friend's parents were aware of what was happening and the fact that they had a guest.
+Children may get hungry before dinner time, especially if their friends eat dinner earlier, but this is not the same as starving and not getting any food. Also, letting children starve or keeping someone locked in a room is illegal in Sweden.
+
+See also
+Sami cuisine
+Cuisine of Finland
+Cuisine of Norway
+Culture of Sweden
+Danish cuisine
+Icelandic cuisine
+List of Christmas dishes
+Swedish festivities
+
+References
+Further reading
+Schildt-Lundgren, Margareta (2000) Simply Swedish. ISBN 91-974561-7-9
+Widenfelt, Sam, ed. (1950) Swedish Food. Gothenburg: Esselte
+
+External links
+
+VisitSweden ‒ Sweden's official website for tourism and travel information ‒ Gastronomy in Sweden
+Sweden.se ‒ Swedish culinary classics ‒ recipes with history and originality
+Gretchen's Cookbook ‒ Swedish Recipes Archived 3 February 2006 at the Wayback Machine
+
+## List of museums in Sweden
+This is a list of museums in Sweden.
+
+By county
+Blekinge
+Marinmuseum
+Ropewalk (Karlskrona)
+
+Dalarna
+Great Copper Mountain
+Zorn Collections
+
+Gävleborg
+Prison Museum of Sweden
+Swedish Railway Museum
+
+Gotland
+Gotland Museum
+
+Halland
+Bexell Cottage
+Ekomuseum nedre Ätradalen
+Göran Karlsson's Motor Museum
+Halland Museum of Cultural History
+HSwMS Najaden (1897)
+Mjellby Art Museum
+Tjolöholm Castle
+
+Jämtland
+Jamtli
+Optand Teknikland
+
+Jönköping
+Match Museum
+Gladiators – Heroes of the Colosseum
+Jönköpings läns museum
+Husqvarna Factory Museum
+
+Kalmar
+Borgholm Castle
+Döderhultarn Museum
+Eketorp
+Kalmar Castle
+Kingdom of Crystal
+
+Kronoberg
+IKEA Museum
+Kingdom of Crystal
+Swedish Emigrant Institute
+
+Norrbotten
+Gammelstad Church Town
+Norrbottens Museum
+Piteå Wall of Fame
+Teknikens Hus
+
+Skåne
+Galerie St. Petri
+Glimmingehus
+Kulturen
+Landskrona Citadel
+Malmö Konsthall
+Malmö Castle
+Museum of Failure
+Museum of Sketches for Public Art
+Rooseum
+Sofiero Castle
+Sövdeborg Castle
+Svaneholm Castle
+Teknik på farfars tid
+Wanås Castle
+
+Stockholm
+Södermanland
+Femöre battery
+Gripsholm Castle
+Östra Södermanlands Järnväg
+Sörmland Museum
+Tullgarn Palace
+
+Uppsala
+Bror Hjorths Hus
+Geijersgården
+Gustavianum
+Paleontological Museum of Uppsala University
+Upplandsmuseet
+Uppsala Castle
+Uppsala University Coin Cabinet
+Upsala-Lenna Jernväg
+
+Värmland
+Mårbacka
+Ransäters bruksherrgård
+
+Västerbotten
+Bildmuseet
+
+Västernorrland
+Gene fornby
+
+Västmanland
+Engelsberg
+Engelsberg-Norberg Railway
+Strömsholm Palace
+Tidö Castle
+
+Västra Götaland
+Gothenburg Museum of Art
+Bohus Fortress
+City Museum of Gothenburg
+Ekomuseum nedre Ätradalen
+Fladen
+Göteborgs Konsthall
+Gunnebo House
+Karlsborg Fortress
+Läckö Castle
+Nordic Watercolour Museum
+Röhsska Museum
+Skansen Kronan
+HSwMS Småland (J19)
+HSwMS Sölve
+Textile Museum of Borås
+Torpa stenhus
+Universeum
+Viking (barque)
+Volvo Museum
+Museum of World Culture
+
+Örebro
+Cookbook museum
+
+Östergötland
+Charlottenborg Castle
+Ekenäs Castle
+Löfstad Castle
+Motala longwave transmitter
+Motala Motor Museum
+Övralid
+Swedish Air Force Museum
+Vadstena Castle
+Museum of Work
+
+Other
+Internetmuseum, an online museum
+
+See also
+
+List of museums
+Tourism in Sweden
+Culture of Sweden

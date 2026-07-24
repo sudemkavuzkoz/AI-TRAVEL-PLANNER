@@ -1,0 +1,689 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Jamaica
+FILE_NAME: country_jamaica.txt
+PROCESSED_DATE: 2026-07-22 15:47:03
+----------------
+
+# Jamaica
+
+## General Overview
+Jamaica is an island country in the Caribbean, covering 10,991 square kilometres (4,244 sq mi). It is the third-largest island in the Greater Antilles and the Caribbean, after Cuba and the island of Hispaniola. Jamaica lies about 145 km (78 nmi) south of Cuba, 191 km (103 nmi) west of Hispaniola (the island containing Haiti and the Dominican Republic), and 215 km (116 nmi) southeast of the Cayman Islands (a British Overseas Territory). With 2.8 million people, Jamaica is the third most populous Anglophone country in the Americas and the fourth most populous country in the Caribbean. Kingston is the country's capital and largest city.
+The Indigenous Ciboney people of the island gradually came under Spanish rule after the arrival of Christopher Columbus in 1494. Many of the Indigenous people either were killed or died of diseases, after which the Spanish brought large numbers of Africans to Jamaica as slaves. The island remained a possession of Spain, under the name Santiago, until 1655, when England (part of what would become the Kingdom of Great Britain) conquered it and named it Jamaica. It became an important part of the colonial British West Indies. Under Britain's colonial rule, Jamaica became a leading sugar exporter, with a plantation economy dependent on continued importation of African slaves and their descendants. The British fully emancipated all slaves in 1838, and many freedmen chose to have subsistence farms rather than to work on plantations. Beginning in the 1840s, the British began using Chinese and Indian indentured labourers for plantation work. Jamaicans achieved independence from the United Kingdom on 6 August 1962.
+Jamaica is a parliamentary constitutional monarchy, with power vested in the bicameral Parliament of Jamaica, consisting of an appointed Senate and a directly elected House of Representatives. Andrew Holness has served as Prime Minister of Jamaica since March 2016. Jamaica is a Commonwealth realm, with Charles III as its king; the appointed representative of the Crown is the Governor-General of Jamaica, the office having been held by Patrick Allen since 2009. Because of a high rate of emigration for work since the 1960s, there is a large Jamaican diaspora, particularly in Canada, the United Kingdom, and the United States. Most Jamaicans are of Sub-Saharan African ancestry, with significant European, East Asian (primarily Chinese), Indian, Lebanese, and mixed-race minorities.
+Jamaica is an upper-middle-income country with an economy heavily dependent on tourism, including popular resorts. It has an average of 4.3 million tourists a year. The country has a global influence that belies its small size; it is the birthplace of the Rastafari religion and reggae music, along with the associated musical genres of dub, ska, and dancehall; and it is internationally prominent in sports, including cricket, sprinting, and athletics. Jamaica has sometimes been considered the world's least populous cultural superpower.
+
+Etymology
+The Indigenous peoples, the Ciboney, called the island Xaymaca in their language, meaning the "Land of Wood and Water" or the "Land of Springs". Yamaye has been suggested as a possible early Taíno name for the island as recorded by Christopher Columbus.
+Jamaicans often refer to their home island as "yaad" – the Jamaican Patois word for yard, meaning home. Other colloquial names such as "Jamrock", "Jamdown" ("Jamdung" in Jamaican Patois), or briefly "Ja" are also widely used.
+
+History
+Prehistory
+There is no archaeological evidence of any human presence on Jamaica until about 500 CE. A group known as the "Redware people" after their pottery arrived circa 600 CE, followed by the Taíno circa 800 CE, who most likely came from South America. They practised an agrarian and fishing economy, and at their height are thought to have numbered some 60,000 people, grouped into around 200 villages headed by caciques (chiefs). The south coast of Jamaica was the most populated, especially around the area now known as Old Harbour.
+Though often thought to have become extinct following contact with Europeans, the Taíno in fact still inhabited Jamaica when the English took control of the island in 1655. Some fled into interior regions, merging with African Maroon communities. The Jamaican National Heritage Trust is attempting to locate and document any remaining evidence of the Taíno.
+
+Spanish rule (1509–1655)
+Christopher Columbus was the first European to see Jamaica, claiming the island for Spain after landing there in 1494 on his second voyage to the Americas. His probable landing point was Dry Harbour, called Discovery Bay, and St. Ann's Bay was named "Saint Gloria" by Columbus, as the first sighting of the land. He later returned in 1503; however, he was shipwrecked and he and his crew were forced to live on Jamaica for a year while waiting to be rescued.
+One and a half kilometres west of St. Ann's Bay is the site of the first Spanish settlement on the island, Sevilla, which was established in 1509 by Juan de Esquivel but abandoned around 1524 because it was deemed unhealthy. The capital was moved to Spanish Town, then called St. Jago de la Vega, around 1534. Meanwhile, the Taínos began dying in large numbers, both from introduced diseases and from enslavement by the Spanish. As a result, the Spanish began importing slaves from Africa to the island.
+Many slaves managed to escape, forming autonomous communities in remote and easily defended areas in the interior of Jamaica, mixing with the remaining Taino; these communities became known as Maroons. Many Jews fled the Spanish Inquisition to live on the island. They lived as conversos and were often persecuted by the Spanish rulers, and some turned to piracy against the Spanish Empire's shipping.
+By the early 17th century it is estimated that no more than 2,500–3,000 people lived on Jamaica.
+
+Early British period
+The English began taking an interest in the island and, following a failed attempt to conquer Santo Domingo on Hispaniola, Admiral William Penn and General Robert Venables led an invasion of Jamaica in 1655. Battles at Ocho Rios in 1657 and the Rio Nuevo in 1658 resulted in Spanish defeats; in 1660 the Maroon community under the leadership of Juan de Bolas switched sides from the Spanish, and began supporting the English. With their help, the Spanish defeat was secured. In 1661 English civil government was formed and Roundhead soldiers turned their attention to governance and agricultural responsibilities.
+When the English captured Jamaica, most Spanish colonists fled, with the exception of Spanish Jews, who chose to remain. Spanish slave holders freed their slaves before leaving. Many slaves dispersed into the mountains, joining the already established maroon communities. During the centuries of slavery, Jamaican Maroons established free communities in the mountainous interior of Jamaica, where they maintained their freedom and independence for generations, under the leadership of Maroon leaders such as Juan de Serras.
+Meanwhile, the Spanish made several attempts to re-capture the island, prompting the British to support pirates attacking Spanish ships in the Caribbean; as a result piracy became rampant on Jamaica, with the city of Port Royal becoming notorious for its lawlessness. Spain later recognised English possession of the island with the Treaty of Madrid (1670). After that, the English authorities sought to rein in the worst excesses of the pirates. During this period, Cromwell had begun to transport Scottish prisoners of war from Scotland to the island, with 1,200 Scots being sent to the island which had recently been colonised by England. The method of sending Scottish prisoners of war to the island continued, and as a result, Scots played a significant role in the development of the island, being credited as "indentured and skilled labourers".
+In 1660, the population of Jamaica was about 4,500 white and 1,500 black. By the early 1670s, as the English developed sugar cane plantations worked by large numbers of slaves, black Africans formed a majority of the population. The Irish in Jamaica also formed a large part of the island's early population, making up two-thirds of the white population on the island in the late 17th century, twice that of the English population. They were brought in as indentured labourers and soldiers after the conquest of 1655. The majority of Irish were transported by force as political prisoners of war from Ireland as a result of the ongoing Wars of the Three Kingdoms. Migration of large numbers of Irish to the island continued into the 18th century.
+A limited form of local government was introduced with the creation of the House of Assembly of Jamaica in 1664; however, it represented only a tiny number of rich plantation owners. In 1692, the colony was rocked by an earthquake that resulted in several thousand deaths and the almost complete destruction of Port Royal.
+
+18th–19th centuries
+During the 1700s the economy boomed, based largely on sugar and other crops for export such as coffee, cotton and indigo. All these crops were worked by black slaves, who lived short and often brutal lives with no rights, being the property of a small planter-class. In the 18th century, slaves ran away and joined the Maroons in increasing numbers, and resulted in The First Maroon War (1728 – 1739/40), which ended in stalemate. The British government sued for peace, and signed treaties with the Leeward Maroons led by Cudjoe and Accompong in 1739, and the Windward Maroons led by Quao and Queen Nanny in 1740.
+
+A large slave rebellion, known as Tacky's War, broke out in 1760 but was defeated by the British and their Maroon allies. After the second conflict in 1795–96, many Maroons from the Maroon town of Cudjoe's Town (Trelawny Town) were expelled to Nova Scotia and, later, Sierra Leone.By the beginning of the 19th century, Jamaica's dependence on slave labour and a plantation economy had resulted in black people outnumbering white people by a ratio of almost 20 to 1. Although the British had outlawed the trade or transport of slaves in 1807, slaves and convicts continued to be smuggled out of Jamaica to other colonies, such as Cuba. While planning the abolition of slavery, the British Parliament passed laws to improve conditions for slaves. They banned the use of whips in the field and flogging of women; informed planters that slaves were to be allowed religious instruction, and required a free day during each week when slaves could sell their produce, prohibiting Sunday markets to enable slaves to attend church. The House of Assembly in Jamaica resented and resisted the new laws. Members, with membership then restricted to European-descended Jamaicans, claimed that the slaves were content and objected to Parliament's interference in island affairs. Slave owners feared possible revolts if conditions were lightened.
+The British abolished the slave trade in 1807, but not the institution itself. In 1831 a huge slave rebellion, known as the Baptist War, broke out, led by the Baptist preacher Samuel Sharpe. The rebellion resulted in hundreds of deaths and the destruction of many plantations, and led to ferocious reprisals by the plantocracy class.
+
+As a result of rebellions such as these, as well as the efforts of abolitionists, Britain outlawed slavery in its empire in 1834, with full emancipation from chattel slavery declared in 1838. The population in 1834 was 371,070, of whom 15,000 were white, 5,000 free black; 40,000 "coloured" or free people of colour (mixed race); and 311,070 were slaves.
+The resulting labour shortage prompted the British to begin to "import" indentured servants to supplement the labour pool, as many freedmen resisted working on the plantations. Workers recruited from India began arriving in 1845, Chinese workers in 1854.  Many Jamaicans are descendants of South Asian and Chinese people. Over the next 20 years, several epidemics of cholera, scarlet fever, and smallpox hit the island, killing almost 60,000 people (about 10 per day). Nevertheless, in 1871 the census recorded a population of 506,154 people, 246,573 of whom were males, and 259,581 females. Their races were recorded as 13,101 white, 100,346 coloured (known as the Browning Class), and 392,707 black. There was an economic slump in this period, with many Jamaicans living in poverty. Dissatisfaction with this, and continued racial discrimination and marginalisation of the black majority, led to the outbreak of the Morant Bay rebellion in 1865, led by Paul Bogle, which was put down by Governor John Eyre with such brutality that he was recalled from his position. His successor, John Peter Grant, enacted a series of social, financial and political reforms while aiming to uphold firm British rule over the island, which became a Crown Colony in 1866. In 1872 the capital was transferred from Spanish Town to Kingston.
+
+Early 20th century
+In 1907, Jamaica was struck by an earthquake which, together with the subsequent fire, resulted in considerable destruction in Kingston and caused  the deaths of between 800 and 1,000 people.
+Unemployment and poverty remained a problem for many Jamaicans. Various movements seeking political change arose as a result, most notably the Universal Negro Improvement Association and African Communities League founded by Marcus Garvey in 1917. As well as seeking greater political rights and an improvement for the condition of workers, Garvey was also a prominent Pan-Africanist and proponent of the Back-to-Africa movement. He was also one of the chief inspirations behind Rastafari, a religion founded in Jamaica in the 1930s that combined Christianity with an Afrocentric theology focused on the figure of Haile Selassie, Emperor of Ethiopia. Despite occasional persecution, Rastafari grew to become an established faith on the island, later spreading abroad.
+The Great Depression of the 1930s hit Jamaica hard. As part of the British West Indian labour unrest of 1934–39, Jamaica saw numerous strikes, culminating in a strike in 1938 that turned into a riot.
+As a result, the British government instituted a commission to look into the causes of the disturbances; their report recommended political and economic reforms in Britain's Caribbean colonies. A new House of Representatives was established in 1944, elected by universal adult suffrage. During this period Jamaica's two-party system emerged, with the creation of the Jamaican Labour Party (JLP) under Alexander Bustamante and the People's National Party (PNP) under Norman Manley.
+Jamaica slowly gained increasing autonomy from the United Kingdom. In 1958 it became a province in the Federation of the West Indies, a federation of several of Britain's Caribbean colonies. Membership of the Federation proved to be divisive, however, and a referendum on the issue saw a slight majority voting to leave. After leaving the Federation, Jamaica attained full independence on 6 August 1962. The new state retained, however, its membership in the Commonwealth of Nations (with the British monarch as head of state) and adopted a Westminster-style parliamentary system. Bustamante, at the age of 78, became the country's first prime minister.
+
+Post-independence era
+Strong economic growth, averaging approximately 6% per year, marked the first ten years of independence under conservative JLP governments; these were led by successive Prime Ministers Alexander Bustamante, Donald Sangster (who died of natural causes within two months of taking office) and Hugh Shearer. The growth was fuelled by high levels of private investment in quarrying bauxite/alumina (aluminium ore), tourism, the manufacturing industry and, to a lesser extent, the agricultural sector. In the 1967 Jamaican general election, the JLP were victorious again, winning 33 out of 53 seats, with the PNP taking 20 seats.
+In terms of foreign policy Jamaica became a member of the Non-Aligned Movement, seeking to retain strong ties with Britain and the United States whilst also developing links with Communist states such as Cuba.
+
+The optimism of the first decade was accompanied by a growing sense of inequality among many Afro-Jamaicans, and a concern that the benefits of growth were not being shared by the urban poor, many of whom ended up living in crime-ridden shanty towns in Kingston. This led to the voters electing the PNP under Michael Manley in 1972. The PNP won 37 seats to the JLP's 16.
+Manley's government enacted various social reforms, such as a higher minimum wage, land reform, legislation for women's equality, greater housing construction and an increase in educational provision. Internationally he improved ties with the Communist bloc and vigorously opposed the apartheid regime in South Africa.
+In 1976, the PNP won another landslide, winning 47 seats to the JLP's 13. The turnout was a very high 85 percent. However, the economy faltered in this period due to a combination of internal and external factors (such as the oil shocks). The rivalry between the JLP and PNP became intense, and political and gang-related violence grew significantly in this period.
+By 1980, Jamaica's gross national product had declined to some 25% below its 1972 level. Seeking change, in 1980 Jamaicans voted the JLP back in under Edward Seaga, the JLP winning 51 seats to the PNP's nine seats. Firmly anti-Communist, Seaga cut ties with Cuba and sent troops to support the US invasion of Grenada in 1983. The economic deterioration, however, continued into the mid-1980s, exacerbated by a number of factors. The largest and third-largest alumina producers, Alpart and Alcoa, closed; and there was a significant reduction in production by the second-largest producer, Alcan. Reynolds Jamaica Mines, Ltd. left the Jamaican industry. There was also a decline in tourism, which was important to the economy. Owing to rising foreign and local debt, accompanied by large fiscal deficits, the government sought International Monetary Fund (IMF) financing, which was dependent on implementing various austerity measures. These resulted in strikes in 1985 and a decline in support for the Seaga government, exacerbated by criticism of the government's response to the devastation caused by Hurricane Gilbert in 1988. Having now de-emphasised socialism and adopting a more centrist position, Michael Manley and the PNP were re-elected in 1989, winning 45 seats to the JLP's 15.
+The PNP went on to win a string of elections, under Prime Ministers Michael Manley (1989–1992), P. J. Patterson (1992–2005) and Portia Simpson-Miller (2005–2007). In the 1993 Jamaican general election, Patterson led the PNP to victory, winning 52 seats to the JLP's eight seats. Patterson also won the 1997 Jamaican general election, by another landslide margin of 50 seats to the JLP's 10 seats. Patterson's third consecutive victory came in the 2002 Jamaican general election, when the PNP retained power, but with a reduced seat majority of 34 seats to 26. Patterson stepped down on 26 February 2006, and was replaced by Portia Simpson-Miller, Jamaica's first female Prime Minister. The turnout slowly declined during this period of time, from 67.4% in 1993 to 59.1% in 2002.
+During this period various economic reforms were introduced, such as deregulating the finance sector and floating the Jamaican dollar, as well as greater investment in infrastructure, whilst also retaining a strong social safety net. Political violence, so prevalent in the previous two decades, declined significantly.
+In 2007 the PNP was defeated by the JLP by a narrow margin of 32 seats to 28, with a turnout of 61.46%. This election ended 18 years of PNP rule, and Bruce Golding became the new prime minister. Golding's tenure (2007–2010) was dominated by the effects of the global recession, as well as the fallout from an attempt by Jamaican police and military to arrest drug lord Christopher Coke in 2010 which erupted in violence, resulting in over 70 deaths. As a result of this incident Golding resigned and was replaced by Andrew Holness in 2011.
+Independence, however widely celebrated in Jamaica, has been questioned in the early 21st century. In 2011, a survey showed that approximately 60% of Jamaicans believe that the country would have been better off had it remained a British colony, with only 17% believing it would have been worse off, citing as problems years of social and fiscal mismanagement in the country. Holness and the JLP were defeated in the 2011 Jamaican general election, which saw Portia Simpson-Miller and the PNP return to power. The number of seats had been increased to 63, and the PNP swept to power with a landslide 42 seats to the JLP's 21. The voter turnout was 53.17%.
+Holness's JLP won the 2016 general election narrowly, defeating Simpson-Miller's PNP, on 25 February. The PNP won 31 seats to the JLP's 32. As a result, Simpson-Miller became Opposition Leader for a second time. The voter turnout dipped below 50% for the first time, registering just 48.37%.
+In the 2020 general election, Andrew Holness secured a second consecutive win for the Jamaica Labour Party, winning 49 seats to 14 won by the PNP, led this time by Peter Phillips. The last time a consecutive win occurred for the JLP was in 1980. However, the turnout at this election was just 37%, probably affected by the coronavirus pandemic. However, this low turnout was a trend that continued in subsequent elections.
+In the 2025 Jamaican general election, Holness created history, securing a third consecutive term for the JLP, the first time the party had won three general elections in a row. However, this victory was achieved with a much-reduced majority. The JLP won 34 seats to the 29 won by the Mark Golding led PNP. The turnout was again low, at just 39.5%.
+
+Government and politics
+Jamaica is a parliamentary democracy and constitutional monarchy. The head of state is the King of Jamaica (currently King Charles III), represented locally by the Governor-General of Jamaica. The governor-general is nominated by the Prime Minister of Jamaica and the entire Cabinet and then formally appointed by the monarch. All the members of the Cabinet are appointed by the governor-general on the advice of the prime minister. The monarch and the governor-general serve largely ceremonial roles, apart from their reserve powers for use in certain constitutional crisis situations. The position of the monarch has been a matter of continuing debate in Jamaica for many years; currently both major political parties are committed to transitioning to a republic with a president.
+Jamaica's current constitution was drafted in 1962 by a bipartisan joint committee of the Jamaican legislature. It came into force with the Jamaica Independence Act, 1962, which was passed by the Parliament of the United Kingdom, which gave Jamaica independence.
+The Parliament of Jamaica is bicameral, consisting of the House of Representatives (Lower House) and the Senate (Upper House). Members of the House (known as Members of Parliament or MPs) are directly elected, and the member of the House of Representatives who, in the governor-general's best judgement, is best able to command the confidence of a majority of the members of that House, is appointed by the governor-general to be the prime minister. Senators are nominated jointly by the prime minister and the parliamentary Leader of the Opposition and are then appointed by the governor-general.
+The Judiciary of Jamaica operates on a common law system derived from English law and Commonwealth of Nations precedents. The court of final appeal is the Judicial Committee of the Privy Council, a court of the British Crown based in London. A proposal has been made to replace the Privy Council with the Caribbean Court of Justice as part of a wider push toward full decolonization.
+
+Political parties and elections
+Jamaica has traditionally had a two-party system, with power often alternating between the People's National Party (PNP) and Jamaica Labour Party (JLP). The party with current administrative and legislative power is the Jamaica Labour Party, after its 2020 victory. There are also several minor parties who have yet to gain a seat in parliament; the largest of these is the National Democratic Movement (NDM).
+
+Military
+The Jamaica Defence Force (JDF) is the small but professional military force of Jamaica. The JDF is based on the British military model with similar organisation, training, weapons and traditions. Once chosen, officer candidates are sent to one of several British or Canadian basic officer courses depending on the arm of service. Enlisted soldiers are given basic training at Up Park Camp or JDF Training Depot, Newcastle, both in St. Andrew. As with the British model, NCOs are given several levels of professional training as they rise up the ranks. Additional military schools are available for speciality training in Canada, the United States and the United Kingdom.
+The JDF is directly descended from the British Army's West India Regiment, which was formed during the colonial era. The West India Regiment was used extensively throughout the British Empire in policing the empire from 1795 to 1926. Other units in the JDF heritage include the early colonial Jamaica Militia, the Kingston Infantry Volunteers of WWI and reorganised into the Jamaican Infantry Volunteers in World War II. The West Indies Regiment was reformed in 1958 as part of the West Indies Federation, after dissolution of the Federation the JDF was established.
+The Jamaica Defence Force (JDF) comprises an infantry Regiment and Reserve Corps, an Air Wing, a Coast Guard fleet and a supporting Engineering Unit. The infantry regiment contains the 1st, 2nd and 3rd (National Reserve) battalions. The JDF Air Wing is divided into three flight units, a training unit, a support unit and the JDF Air Wing (National Reserve). The Coast Guard is divided between seagoing crews and support crews who conduct maritime safety and maritime law enforcement as well as defence-related operations.
+The role of the support battalion is to provide support to boost numbers in combat and issue competency training in order to allow for the readiness of the force. The 1st Engineer Regiment was formed due to an increased demand for military engineers and their role is to provide engineering services whenever and wherever they are needed. The Headquarters JDF contains the JDF Commander, Command Staff as well as Intelligence, Judge Advocate office, Administrative and Procurement sections.
+In recent years the JDF has been called on to assist the nation's police, the Jamaica Constabulary Force (JCF), in fighting drug smuggling and a rising crime rate which includes one of the highest murder rates in the world. JDF units actively conduct armed patrols with the JCF in high-crime areas and known gang neighbourhoods. There has been vocal controversy as well as support of this JDF role. In early 2005, an Opposition leader, Edward Seaga, called for the merger of the JDF and JCF. This has not garnered support in either organisation nor among the majority of citizens. In 2017, Jamaica signed the UN treaty on the Prohibition of Nuclear Weapons. In September 2024 the AP reported that "20 soldiers and four police officers are scheduled to arrive in Haiti to support the UN-Kenya lead mission and they would provide command, planning and logistics support." Jamaica's PM had pledged a total of 170 soldiers and 30 police officers, but said that all would not deploy at once.
+
+Administrative divisions
+Jamaica is divided into 14 parishes, which are grouped into three historic counties that have no administrative relevance.
+In the context of local government the parishes are designated "Local Authorities". These local authorities are further styled as "Municipal Corporations", which are either city municipalities or town municipalities. Any new city municipality must have a population of at least 50,000, and a town municipality a number set by the Minister of Local Government. There are currently no town municipalities.
+The local governments of the parishes of Kingston and St. Andrews are consolidated as the city municipality of Kingston & St. Andrew Municipal Corporation. The newest city municipality is the Municipality of Portmore, created 2003. While it is geographically located within the parish of St. Catherine, it is governed independently.
+
+Geography and environment
+Jamaica is the third-largest island in the Caribbean. It lies between latitudes 17° and 19°N, and longitudes 76° and 79°W. Mountains dominate the interior: the Don Figuerero, Santa Cruz, and May Day mountains in the west, the Dry Harbour Mountains in the centre, and the John Crow Mountains and Blue Mountains in the east, the latter containing Blue Mountain Peak, Jamaica's tallest mountain at 2,256 m. They are surrounded by a narrow coastal plain. Jamaica has two cities, the first being Kingston, the capital city and centre of business, located on the south coast and the second being Montego Bay, one of the best known cities in the Caribbean for tourism, located on the north coast. Kingston Harbour is the seventh-largest natural harbour in the world, which contributed to the city being designated as the capital in 1872. 
+Blue Lagoon in Portland Parish is a dormant volcano's crater,
+Among the variety of terrestrial, aquatic and marine ecosystems are dry and wet limestone forests, rainforest, riparian woodland, wetlands, caves, rivers, seagrass beds and coral reefs. The authorities have recognised the tremendous significance and potential of the environment and have designated some of the more "fertile" areas as "protected". Among the island's protected areas are the Cockpit Country, Hellshire Hills, and Litchfield forest reserves. In 1992, Jamaica's first marine park, covering nearly 15 square kilometres (5.8 sq mi), was established in Montego Bay. Portland Bight Protected Area was designated in 1999. The following year Blue and John Crow Mountains National Park was created, covering roughly 300 square miles (780 km2) of a wilderness area which supports thousands of tree and fern species and rare animals.
+There are several small islands off Jamaica's coast, most notably those in Portland Bight such as Pigeon Island, Salt Island, Dolphin Island, Long Island, Great Goat Island and Little Goat Island, and also Lime Cay located further east. Much further out – some 50–80 km off the south coast – lie the very small Morant Cays and Pedro Cays.
+
+Climate
+The climate in Jamaica is tropical, with hot and humid weather, although higher inland regions are more temperate. Some regions on the south coast, such as the Liguanea Plain and the Pedro Plains, are relatively dry rain-shadow areas.
+Jamaica lies within the Main Development Region for Atlantic tropical cyclone activity, and because of this, the island sometimes suffers significant storm damage. Hurricanes Charlie and Gilbert hit Jamaica directly in 1951 and 1988, respectively, causing major damage and many deaths. In the 2000s (decade), hurricanes Ivan, Dean, and Gustav also brought severe weather to the island. In 2025, Hurricane Melissa made landfall as a Category 5, far surpassing Gilbert as the strongest landfalling storm in Jamaican history.
+
+Flora and fauna
+Jamaica's climate is tropical, supporting diverse ecosystems with a wealth of plants and animals. Its plant life has changed considerably over the centuries; when the Spanish arrived in 1494, except for small agricultural clearings, the country was deeply forested. The European settlers cut down the great timber trees for building and ships' supplies, and cleared the plains, savannas, and mountain slopes for intense agricultural cultivation. Many new plants were introduced including sugarcane, bananas, and citrus trees.
+Jamaica is home to about 3,000 species of native flowering plants (of which over 1,000 are endemic and 200 are species of orchid), thousands of species of non-flowering flora, and about 20 botanical gardens, some of which are several hundred years old. Areas of heavy rainfall also contain stands of bamboo, ferns, ebony, mahogany, and rosewood. Cactus and similar dry-area plants are found along the south and southwest coastal area. Parts of the west and southwest consist of large grasslands, with scattered stands of trees. Jamaica is home to three terrestrial ecoregions, the Jamaican moist forests, Jamaican dry forests, and Greater Antilles mangroves.
+Jamaica's fauna, typical of the Caribbean, includes highly diversified wildlife with many endemic species. As with other oceanic islands, land mammals are mostly several species of bats of which at least three endemic species are found only in Cockpit Country, one of which is at-risk. Other species of bat include the fig-eating and hairy-tailed bats. The only non-bat native mammal extant in Jamaica is the Jamaican hutia, locally known as the coney. Introduced mammals such as wild boar and the small Asian mongoose are also common. Jamaica is also home to about 50 species of reptiles, the largest of which is the American crocodile; however, it is only present within the Black River and a few other areas. Lizards such as anoles, iguanas and snakes such as racers and the Jamaican boa (the largest snake on the island), are common in areas such as the Cockpit Country. None of Jamaica's eight species of native snakes is venomous.
+Jamaica is home to about 289 species of birds of which 27 are endemic including the endangered black-Billed parrots and the Jamaican blackbird, both of which are only found in Cockpit Country. It is also the indigenous home to four species of hummingbirds (three of which are found nowhere else in the world): the black-billed streamertail, the Jamaican mango, the Vervain hummingbird, and red-billed streamertails. The red-billed streamertail, known locally as the "doctor bird", is Jamaica's National Symbol. Other notable species include the Jamaican tody and the Greater flamingo,
+One species of freshwater turtle is native to Jamaica, the Jamaican slider. It is found only on Jamaica and on a few islands in the Bahamas. In addition, many types of frogs are common on the island, especially treefrogs.
+Jamaican waters contain considerable resources of fresh and saltwater fish. The chief varieties of saltwater fish are kingfish, jack, mackerel, whiting, bonito, and tuna. Fish that occasionally enter freshwater and estuarine environments include snook, jewfish, mangrove snapper, and mullets. Fish that spend the majority of their lives in Jamaica's fresh waters include many species of livebearers, killifish, freshwater gobies, the mountain mullet, and the American eel. Tilapia have been introduced from Africa for aquaculture, and are very common. Also visible in the waters surrounding Jamaica are dolphins, parrotfish, and the endangered manatee.
+Insects and other invertebrates are abundant, including the world's largest centipede, the Amazonian giant centipede. Jamaica is the home to about 150 species of butterflies and moths, including 35 indigenous species and 22 subspecies. It is also the native home to the Jamaican swallowtail, the western hemisphere's largest butterfly.
+
+Aquatic life
+Coral reef ecosystems are important because they provide people with a source of livelihood, food, recreation, and medicinal compounds and protect the land on which they live. Jamaica relies on the ocean and its ecosystem for its development. However, the marine life in Jamaica is also being affected. There could be many factors that contribute to marine life not having the best health. Jamaica's geological origin, topographical features and seasonal high rainfall make it susceptible to a range of natural hazards that can affect the coastal and oceanic environments. These include storm surge, slope failures (landslides), earthquakes, floods and hurricanes. Coral reefs in the Negril Marine Park (NMP), Jamaica, have been increasingly impacted by nutrient pollution and macroalgal blooms following decades of intensive development as a major tourist destination.
+Another one of those factors could include tourism: being that Jamaica is a very touristy place, the island draws numerous people travelling here from all over the world. The Jamaican tourism industry accounts for 32% of total employment and 36% of the country's GDP and is largely based on the sun, sea and sand, the last two of these attributes being dependent on healthy coral reef ecosystems. Because of Jamaica's tourism, they have developed a study to see if the tourist would be willing to help financially to manage their marine ecosystem because Jamaica alone is unable to. The ocean connects all the countries all over the world, however, everyone and everything is affecting the flow and life in the ocean. Jamaica is a very touristy place specifically because of their beaches. If their oceans are not functioning at their best then the well-being of Jamaica and the people who live there will start to deteriorate. According to the OECD, oceans contribute $1.5 trillion annually in value-added to the overall economy. A developing country on an island will get the majority of their revenue from their ocean.
+
+Pollution
+Pollution comes from run-off, sewage systems, and garbage. However, this typically all ends up in the ocean after there is rain or floods. Everything that ends up in the water changes the quality and balance of the ocean. Poor coastal water quality has adversely affected fisheries, tourism and mariculture, as well as undermining biological sustainability of the living resources of ocean and coastal habitats. Jamaica imports and exports many goods through their waters. Some of the imports that go into Jamaica include petroleum and petroleum products. Issues include accidents at sea; risk of spills through local and international transport of petroleum and petroleum products. Oil spills can disrupt the marine life with chemicals that are not normally found in the ocean. Other forms of pollution also occur in Jamaica. Solid waste disposal mechanisms in Jamaica are currently inadequate. The solid waste gets into the water through rainfall forces. Solid waste is also harmful to wildlife, particularly birds, fish and turtles that feed at the surface of the water and mistake floating debris for food. For example, plastic can be caught around birds' and turtles' necks, making it difficult to eat and breath as they begin to grow, causing the plastic to get tighter around their necks. Pieces of plastic, metal, and glass can be mistaken for the food fish eat. Each Jamaican generates 1 kg (2 lbs) of waste per day; only 70% of this is collected by National Solid Waste Management Authority (NSWMA) — the remaining 30% is either burnt or disposed of in gullies/waterways.
+
+Environmental policies
+There are policies that are being put into place to help preserve the ocean and the life below water. The goal of integrated coastal zone management (ICZM) is to improve the quality of life of human communities who depend on coastal resources while maintaining the biological diversity and productivity of coastal ecosystems. Developing an underdeveloped country can impact the oceans ecosystem because of all the construction that would be done to develop the country. Over-building, driven by powerful market forces as well as poverty among some sectors of the population, and destructive exploitation contribute to the decline of ocean and coastal resources. Developing practices that will contribute to the lives of the people but also to the life of the ocean and its ecosystem. Some of these practices include: Develop sustainable fisheries practices, ensure sustainable mariculture techniques and practices, sustainable management of shipping, and promote sustainable tourism practices.
+
+Demographics
+Ethnic origins
+Breakdown of responses to the 2011 census by the University of the West Indies.
+
+Jamaica's diverse ethnic roots are reflected in the national motto "Out of Many One People". Some dispute the appropriateness of the motto because Jamaicans are overwhelmingly of a single race. The Jamaican founding fathers were mostly White or brown men and unrepresentative of the views of the country's majority Black population.
+Most of the population of 2,812,000 (July 2018 est.) are of African or partially African descent, with many being able to trace their origins to the West African countries of present-day Ghana and Nigeria. Other major ancestral areas are Europe, South Asia, and East Asia. It is uncommon for Jamaicans to identify themselves by race as is prominent in other countries such as the United States, with most Jamaicans seeing Jamaican nationality as an identity in and of itself, identifying as simply being "Jamaican" regardless of ethnicity. A study found that the average admixture on the island was 78.3% Sub-Saharan African, 16.0% European, and 5.7% East Asian.
+A more precise study was conducted by the local University of the West Indies – Jamaica's population is more accurately  76.3% African descent or Black, 15.1% Afro-European (or locally called the Brown Man or Browning Class), 3.4% East Indian and Afro-East Indian, 3.2% White, 1.2% Chinese and 0.8% Other. The Jamaican Maroons of Accompong and other settlements are the descendants of African slaves who fled the plantations for the interior, where they set up their own autonomous communities. Many Maroons continue to have their own traditions and speak their own language, known locally as Kromanti.
+Asians form the third-largest group (after the Browning Class – i.e. descendants of the mulattos during slavery and other interracial mixtures subsequent to emancipation) and include Indo-Jamaicans and Chinese Jamaicans. Most are descended from indentured workers brought by the British colonial government to fill labour shortages following the abolition of slavery in 1838.  Along with their Indian counterparts, Chinese Jamaicans have also played an integral part in Jamaica's community and history. There are about 20,000 Jamaicans who have Lebanese and Syrian ancestry. Most were Christian immigrants who fled the Ottoman occupation of Lebanon in the early 19th century. Eventually, their descendants became very successful politicians and businessmen.
+The first wave of English immigrants arrived on the island in 1655 after conquering the Spanish, and they have historically been the dominant group. The first Irish immigrants came to Jamaica in the 1600s as war prisoners and, later, as indentured labourers. In the 1650s, Oliver Cromwell exiled Scots prisoners of war to Jamaica, and as a result, Scots and Scottish Jamaicans have made a significant impact on the island, including many Jamaicans having common Scottish surnames, place names across the island of Scottish origins, the establishments of Presbyterian churches by Scots across the island in the 17th century, as well as the national flag of Jamaica taking inspiration from the national flag of Scotland.
+
+There is also a significant Jamaican population of Portuguese descent that is predominantly of Sephardic Jewish heritage. The first Jews arrived as explorers from Spain in the 15th century after being forced to choose between expulsion or conversion to Christianity. A small number of them became slave owners or pirates. Judaism eventually became very influential in Jamaica and can be seen today with many Jewish cemeteries around the country. During the Holocaust, Jamaica became a refuge for Jews fleeing persecution in Europe.
+
+Languages
+Jamaica is regarded as a bilingual country, with two major languages used by the population. The official language is (Jamaican) English, which is "used in all domains of public life", including the government, the legal system, the media, and education. However, the primary spoken language is an English-based creole language called Jamaican Patois (or Patwa). The two exist in a dialect continuum, with speakers using a different speech register depending on the context and to whom they speak. "Pure" Patois, though sometimes perceived as merely a particularly aberrant dialect of English, is essentially mutually unintelligible with standard English and linguists consider it a distinct language, though most of its vocabulary originally derives from English. A 2007 survey by the Jamaican Language Unit found that 17.1 percent of the population were monolingual in Jamaican Standard English (JSE), 36.5 percent were monolingual in Patois, and 46.4 percent were bilingual, although earlier surveys had pointed to a greater degree of bilingualism (up to 90 percent). The Jamaican education system had only in about 2015 begun to offer formal instruction in Patois while retaining JSE as the "official language of instruction".
+Additionally, some Jamaicans use one or more of Jamaican Sign Language (JSL), American Sign Language (ASL) or the declining indigenous Jamaican Country Sign Language (Konchri Sain). Both JSL and ASL are rapidly replacing Konchri Sain for a variety of reasons.
+
+Emigration
+Many Jamaicans have emigrated to other countries, especially the United Kingdom, the United States, and Canada. In the case of the United States, about 20,000 Jamaicans per year are granted permanent residence. There has also been emigration of Jamaicans to other Caribbeans countries such as Cuba, Puerto Rico, Guyana, and The Bahamas. It was estimated in 2004 that up to 2.5 million Jamaicans and Jamaican descendants lived abroad.
+About 800,000 Jamaicans live in the United Kingdom, making them by far the country's largest African-Caribbean group. Large-scale migration from Jamaica to the UK occurred primarily in the 1950s and 1960s when the country was still under British rule. There are Jamaican communities in most large UK cities. Concentrations of expatriate Jamaicans are quite considerable in numerous cities in the United States, including New York City, Buffalo, the Miami metro area, Atlanta, Chicago, Orlando, Tampa, Washington, D.C., Philadelphia, Hartford, Providence and Los Angeles. In Canada, the Jamaican population is centred in Toronto, with smaller communities in cities such as Hamilton, Montreal, Winnipeg, Vancouver and Ottawa. Jamaican Canadians comprise about 30% of the entire Black Canadian population.
+A notable though much smaller group of emigrants are Jamaicans in Ethiopia. These are mostly Rastafarians, in whose theological worldview Africa is the promised land, or "Zion", or more specifically Ethiopia, due to reverence in which former Ethiopian Emperor Haile Selassie is held. Most live in the small town of Shashamane about 150 miles (240 km) south of the capital Addis Ababa.
+
+Major cities
+Religion
+Christianity is the largest religion practised in Jamaica. About 70% are Protestants; Catholics are just 2% of the population. According to the 2001 census, the country's largest Protestant denominations are the Church of God (24%), Seventh-day Adventist Church (11%), Pentecostal (10%), Baptist (7%), Anglican (4%), United Church (2%), Methodist (2%), Moravian (1%) and Plymouth Brethren (1%). Bedwardism is a form of Christianity native to the island, sometimes viewed as a separate faith. The Christian faith gained acceptance as British Christian abolitionists and Baptist missionaries joined educated former slaves in the struggle against slavery.
+The Rastafari movement has 29,026 adherents, according to the 2011 census, with 25,325 Rastafarian males and 3,701 Rastafarian females. The faith originated in Jamaica in the 1930s and though rooted in Christianity it is heavily Afrocentric in its focus, revering figures such as the Jamaican black nationalist Marcus Garvey and Haile Selassie, the former Emperor of Ethiopia. Rastafari has since spread across the globe, especially to areas with large black or African diasporas.
+Various faiths and traditional religious practices derived from Africa are practised on the island, notably Kumina, Convince, Myal and Obeah.
+Other religions in Jamaica include Jehovah's Witnesses (2% population), the Bahá'í faith, which counts perhaps 8,000 adherents and 21 Local Spiritual Assemblies, Mormonism, Buddhism, and Hinduism. The Hindu Diwali festival is celebrated yearly among the Indo-Jamaican community.
+There is also a small population of about 200 Jews, who describe themselves as Liberal-Conservative. The first Jews in Jamaica trace their roots back to early 15th-century Spain and Portugal. Kahal Kadosh Shaare Shalom, also known as the United Congregation of Israelites, is a historic synagogue located in the city of Kingston. Originally built in 1912, it is the official and only Jewish place of worship left on the island. The once abundant Jewish population has voluntarily converted to Christianity over time. Shaare Shalom is one of the few synagogues in the world that contains sand covered floors and is a popular tourist destination.
+
+Other small groups include Muslims, who claim 5,000 adherents. The Muslim holidays of Ashura (known locally as Hussay or Hosay) and Eid have been celebrated throughout the island for hundreds of years. In the past, every plantation in each parish celebrated Hosay. Today it has been called an Indian carnival and is perhaps most well known in Clarendon where it is celebrated each August. People of all religions attend the event, showing mutual respect.
+
+Education
+The emancipation of the slaves heralded the establishment of an education system for the masses. Prior to emancipation there were few schools for educating locals and many sent their children off to England to access quality education. After emancipation the West Indian Commission granted a sum of money to establish Elementary Schools, now known as All Age Schools. Most of these schools were established by the churches. This was the genesis of the modern Jamaican school system.
+Presently the following categories of schools exist:
+
+Early childhood – Basic, infant and privately operated pre-school. Age cohort: 2 – 5 years.
+Primary – Publicly and privately owned (privately owned being called preparatory schools). Ages 3 – 12 years.
+Secondary – Publicly and privately owned. Ages 10 – 19 years. The high schools in Jamaica may be either single-sex or co-educational institutions, and many schools follow the traditional English grammar school model used throughout the British West Indies.
+Tertiary – Community colleges; teachers' colleges, with the Mico Teachers' College (now The MICO University College) being the oldest, founded in 1836; the Shortwood Teachers' College (which was once an all-female teacher training institution); vocational training centres, colleges and universities, publicly and privately owned. There are five local universities: the University of the West Indies (Mona Campus); the University of Technology, Jamaica, formerly The College of Art Science and Technology (CAST); the Northern Caribbean University, formerly West Indies College; the University of the Commonwealth Caribbean, formerly the University College of The Caribbean; and the International University of the Caribbean.
+Additionally, there are many community and teacher training colleges.
+Education is free from the early childhood to secondary levels. There are also opportunities for those who cannot afford further education in the vocational arena, through the Human Employment and Resource Training-National Training Agency (HEART Trust-NTA) programme, which is opened to all working age national population and through an extensive scholarship network for the various universities.
+
+Economy
+Jamaica is a mixed economy with both state enterprises and private sector businesses. Major sectors of the Jamaican economy include agriculture, mining, manufacturing, tourism, petroleum refining, financial and insurance services. Tourism and mining are the leading earners of foreign exchange. Half the Jamaican economy relies on services, with half of its income coming from services such as tourism. An estimated 4.3 million foreign tourists visit Jamaica every year. According to the World Bank, Jamaica is an upper-middle income country that, like its Caribbean neighbours, is vulnerable to the effects of climate change, flooding, and hurricanes. In 2018, Jamaica represented the CARICOM Caribbean Community at the G20 and the G7 annual meetings. In 2019 Jamaica reported its lowest unemployment rate in 50 years.
+Supported by multilateral financial institutions, Jamaica has, since the early 1980s, sought to implement structural reforms aimed at fostering private sector activity and increasing the role of market forces in resource allocation Since 1991, the government has followed a programme of economic liberalisation and stabilisation by removing exchange controls, floating the exchange rate, cutting tariffs, stabilising the Jamaican dollar, reducing inflation and removing restrictions on foreign investment. Emphasis has been placed on maintaining strict fiscal discipline, greater openness to trade and financial flows, market liberalisation and reduction in the size of government. During this period, a large share of the economy was returned to private sector ownership through divestment and privatisation programmes. The free-trade zones at Kingston, Montego Bay and Spanish Town allow duty-free importation, tax-free profits, and free repatriation of export earnings.
+
+Post–independence
+Jamaica's economy grew strongly after the years of independence, but then stagnated in the 1980s, due to the heavy falls in price of bauxite and fluctuations in the price of agriculture. The financial sector was troubled in 1994, with many banks and insurance companies suffering heavy losses and liquidity problems. According to the Commonwealth Secretariat, "The government set up the Financial Sector Adjustment Company (Finsac) in January 1997 to assist these banks and companies, providing funds in return for equity, and acquired substantial holdings in banks and insurance companies and related companies..." but it only exasperated the problem, and brought the country into large external debt. From 2001, once it had restored these banks and companies to financial health, Finsac divested them." The Government of Jamaica remains committed to lowering inflation, with a long-term objective of bringing it in line with that of its major trading partners.
+In 1996 and 1997 there was a decrease in GDP largely due to significant problems in the financial sector and, in 1997, a severe island-wide drought (the worst in 70 years) and hurricane that drastically reduced agricultural production. In 1997 and 1998, nominal GDP was approximately a high of about 8 percent of GDP and then lowered to 4½ percent of GDP in 1999 and 2000. The economy in 1997 was marked by low levels of import growth, high levels of private capital inflows and relative stability in the foreign exchange market.
+
+Recent advancements
+Recent economic performance shows the Jamaican economy is recovering. Agricultural production, an important engine of growth increased to 5.5% in 2001 compared to the corresponding period in 2000, signalling the first positive growth rate in the sector since January 1997. In 2018, Jamaica reported a 7.9% increase in corn, 6.1% increase in plantains, 10.4% increase in bananas, 2.2% increase in pineapples, 13.3% increase in dasheen, 24.9% increase in coconuts, and a 10.6% increase in whole milk production. Bauxite and alumina production increased 5.5% from January to December 1998, compared to the corresponding period in 1997. January's bauxite production recorded a 7.1% increase relative to January 1998 and continued expansion of alumina production through 2009 is planned by Alcoa. Jamaica is the fifth-largest exporter of bauxite in the world, after Australia, China, Brazil and Guinea. The country also exports limestone, of which it holds large deposits. The government is currently implementing plans to increase its extraction.
+
+Tourism industry
+Tourism, which is the largest foreign exchange earner, showed improvement as well. In 1999 the total visitor arrivals was 2 million, an increase of 100,000 from the previous year. Since 2017, Jamaica's tourism has risen exponentially, rising to 4.3 million average tourists per year. Jamaica's largest tourist markets are from North America, South America, and Europe. In 2017, Jamaica recorded a 91.3% increase in stopover visitors from Southern and Western Europe (and a 41% increase in stopover arrivals from January to September 2017 over the same period from the previous year) with Germany, Portugal and Spain registering the highest percentage gains. In 2018, Jamaica won several World Travel Awards in Portugal winning the "Chairman's Award for Global Tourism Innovation", "Best Tourist Board in the Caribbean" "Best Honeymoon Destination", "Best Culinary Destination", "World's Leading Beach Destination" and "World's Leading Cruise Destination". Two months later, the Travvy Tourism Awards held in New York City, awarded Jamaica's Tourism Minister Edmund Bartlett, with the inaugural Chairman's Award for, "Global Tourism Innovation for the Development of the Global Tourism Resilience and Crisis Management Centre (GTRCM)". Bartlett has also won the Pacific Travel Writer's Association's award in Germany for the, "2018 Best Tourism Minister of the Year".
+
+Industries
+Jamaica's agricultural exports are sugar, bananas, cocoa, coconut, molasses oranges, limes, grapefruit, rum, yams, allspice (of which it is the world's largest and "most exceptional quality" exporter), and Blue Mountain Coffee which is considered a world renowned gourmet brand.
+Jamaica has a wide variety of industrial and commercial activities. The aviation industry is able to perform most routine aircraft maintenance, except for heavy structural repairs. There is a considerable amount of technical support for transport and agricultural aviation. Jamaica has a considerable amount of industrial engineering, light manufacturing, including metal fabrication, metal roofing, and furniture manufacturing. Food and beverage processing, glassware manufacturing, software and data processing, printing and publishing, insurance underwriting, music and recording, and advanced education activities can be found in the larger urban areas. The Jamaican construction industry is entirely self-sufficient, with professional technical standards and guidance.
+
+Science and technology
+The Science, Technology and Innovation (STI) sector is guided by the National Commission on Science and Technology (NCST) and the Scientific Research Council (SRC). Both operate under the Ministry of Science, Energy, Telecommunications and Transport (MSETT).
+Since the 1990s, the government has set an agenda to push the development of science and technology in Jamaica. Despite some successes, such as the growth of the nutraceutical industry, it has been difficult to translate the results into domestic technologies, products and services – largely because of national budgetary constraints. However, with Jamaica's improved fiscal space, coming out of its recent IMF programme, the government has pledged to increase expenditure on research and development.
+Jamaicans have made noteworthy scientific and medical contributions. Amongst these include the discovery of kwashiorkor, the pioneer of treatments for paediatric sickle cell anaemia and the invention of various spacecraft support systems.
+
+Infrastructure
+Transport
+The transport infrastructure in Jamaica consists of roadways, railways and air transport, with roadways forming the backbone of the island's internal transport system.
+
+Roadways
+The Jamaican road network consists of almost 21,000 kilometres (13,000 mi) of roads, of which over 15,000 kilometres (9,300 mi) is paved. The Jamaican Government has, since the late 1990s and in cooperation with private investors, embarked on a campaign of infrastructural improvement projects, one of which includes the creation of a system of freeways, the first such access-controlled roadways of their kind on the island, connecting the main population centres of the island. This project has so far seen the completion of 33 kilometres (21 mi) of freeway.
+
+Railways
+Railways in Jamaica no longer enjoy the prominent position they once did, having been largely replaced by roadways as the primary means of transport. Of the 272 kilometres (169 mi) of railway found in Jamaica, only 57 kilometres (35 mi) remain in operation, currently used to transport bauxite. On 13 April 2011, a limited passenger service was resumed between May Pen, Spanish Town and Linstead.
+
+Air transport
+There are three international airports in Jamaica with modern terminals, long runways, and the navigational equipment required to accommodate the large jet aircraft used in modern and air travel: Norman Manley International Airport in Kingston; Ian Fleming International Airport in Boscobel, Saint Mary Parish; and the island's largest and busiest airport, Sir Donald Sangster International Airport in the resort city of Montego Bay. Manley and Sangster International airports are home to the country's national airline, Caribbean Airlines. In addition there are local commuter airports at Tinson Pen (Kingston), Port Antonio, and Negril, which cater to internal flights only. Many other small, rural centres are served by private airstrips on sugar estates or bauxite mines.
+
+Ports, shipping and lighthouses
+Owing to its location in the Caribbean Sea in the shipping lane to the Panama Canal and relative proximity to large markets in North America and emerging markets in Latin America, Jamaica receives much traffic of shipping containers. The container terminal at the Port of Kingston has undergone large expansion in capacity in recent years to handle growth both already realised as well as that which is projected in coming years. Montego Freeport in Montego Bay also handles a variety of cargo like (though more limited than) the Port of Kingston, mainly agricultural products.
+There are several other ports positioned around the island, including Port Esquivel in St. Catherine (WINDALCO), Rocky Point in Clarendon, Port Kaiser in St. Elizabeth, Port Rhoades in Discovery Bay, Reynolds Pier in Ocho Rios, and Boundbrook Port in Port Antonio.
+To aid the navigation of shipping, Jamaica operates nine lighthouses. They are maintained by the Port Authority of Jamaica, an agency of the Ministry of Transport and Works.
+
+Energy
+Jamaica depends on petroleum imports to satisfy its national energy needs. Many test sites have been explored for oil, but no commercially viable quantities have been found. The most convenient sources of imported oil and motor fuels (diesel, gasoline, and jet fuel) are from Mexico and Venezuela.
+Jamaica's electrical power is produced by diesel (bunker oil) generators located in Old Harbour. This facility has been further equipped with liquid natural gas capability and storage. Other smaller power stations (most owned by the Jamaica Public Service Company, the island's electricity provider) support the island's electrical grid including the Hunts Bay Power Station, the Bogue Power Station Saint James, the Rockfort Power Station Saint Andrew and small hydroelectric plants on the White River, Rio Bueno, Morant River, Black River (Maggotty) and Roaring River. A wind farm, owned by the Petroleum Corporation of Jamaica, was established at Wigton, Manchester.
+Jamaica has successfully operated a SLOWPOKE-2 nuclear reactor of 20 kW capacity since the early 1980s.
+In 2024, the Government committed to adding small modular reactors (SMR) to the country's energy mix, signing a memorandum of understanding (MOU) with Atomic Energy of Canada Limited (AECL) and Canadian Nuclear Laboratories to promote the adoption of nuclear power in Jamaica.
+Jamaica imports approximately 80,000 barrels (13,000 m3) of oil energy products per day, including asphalt and lubrication products. Just 20% of imported fuels are used for road transportation, the rest being used by the bauxite industry, electricity generation, and aviation. 30,000 barrels/day of crude imports are processed into various motor fuels and asphalt by the Petrojam Refinery in Kingston.
+Jamaica produces enormous quantities of drinking alcohol (at least 5% water content), most of which appears to be consumed as beverages, and none used as motor fuel. Facilities exist to refine hydrous ethanol feedstock into anhydrous ethanol (0% water content), but as of 2007, the process appeared to be uneconomic and the production plant was idle. The facility has since been purchased by West Indies Petroleum Ltd. and repurposed for petroleum distillates.
+
+Communication
+Jamaica has a fully digital telephone communication system with a mobile penetration of over 95%.
+The country's two mobile operators – FLOW Jamaica (formerly LIME, bMobile and Cable and Wireless Jamaica) and Digicel Jamaica have spent millions in network upgrades and expansion. The newest operator, Digicel was granted a licence in 2001 to operate mobile services in the newly liberalised telecom market that had once been the sole domain of the incumbent FLOW (then Cable and Wireless Jamaica) monopoly. Digicel opted for the more widely used GSM wireless system, while a past operator, Oceanic (which became Claro Jamaica and later merged with Digicel Jamaica in 2011) opted for the CDMA standard. FLOW (formerly "LIME" – pre-Columbus Communications merger) which had begun with TDMA standard, subsequently upgraded to GSM in 2002, decommissioned TDMA in 2006 and only utilised that standard until 2009 when LIME launched its 3G network. Both operators currently provide islandwide coverage with HSPA+ (3G) technology. Currently, only Digicel offers LTE to its customers whereas FLOW Jamaica has committed to launching LTE in the cities of Kingston and Montego Bay, places where Digicel's LTE network is currently only found in, in short order.
+A new entrant to the Jamaican communications market, Flow Jamaica, laid a new submarine cable connecting Jamaica to the United States. This new cable increases the total number of submarine cables connecting Jamaica to the rest of the world to four. Cable and Wireless Communications (parent company of LIME) acquired the company in late 2014 and replaced their brand LIME with FLOW. FLOW Jamaica currently has the most broadband and cable subscribers on the island and also has 1 million mobile subscribers, second to Digicel (which had, at its peak, over 2 million mobile subscriptions on its network).
+Digicel entered the broadband market in 2010 by offering WiMAX broadband, capable of up to 6 Mbit/s per subscriber. To further their broadband share post-LIME/FLOW merger in 2014, the company introduced a new broadband service called Digicel Play, which is Jamaica's second FTTH offering (after LIME's deployment in selected communities in 2011). It is currently only available in the parishes of Kingston, Portmore and St. Andrew. It offers speeds of up to 200 Mbit/s down, 100 Mbit/s up via a pure fibre optic network. Digicel's competitor, FLOW Jamaica, has a network consisting of ADSL, Coaxial and Fibre to the Home (inherited from LIME) and only offers speeds up to 100 Mbit/s. FLOW has committed to expanding its Fibre offering to more areas in order to combat Digicel's entrance into the market.
+It was announced that the Office and Utilities Regulations (OUR), Ministry of Science, Technology, Energy and Mining (MSTEM) and the Spectrum Management Authority (SMA) have given approval for another mobile operator licence in January 2016. The identity of this entrant was ascertained on 20 May 2016, when the Jamaican Government named the new carrier as Symbiote Investments Limited operating under the name Caricel. The company will focus on 4G LTE data offerings and will first go live in the Kingston Metropolitan Area and will expand to the rest of Jamaica thereafter.
+
+Culture
+Music
+Jamaican culture has a strong global presence. The musical genres reggae, ska, mento, rocksteady, dub, and, more recently, dancehall and ragga all originated in the island's vibrant, popular urban recording industry. These have themselves gone on to influence numerous other genres, such as punk rock (through reggae and ska), dub poetry, New Wave, two-tone, lovers rock, reggaeton, jungle, drum and bass, dubstep, grime and American rap music. Some rappers, such as The Notorious B.I.G., Busta Rhymes, and Heavy D, are of Jamaican descent.
+Bob Marley is probably the best known Jamaican musician; with his band the Wailers he had a string of hits in 1960s–70s, popularising reggae internationally and going on to sell millions of records.
+
+Literature
+The journalist and author H. G. de Lisser used his native country as the setting for his many novels. Born in Falmouth, Jamaica, de Lisser worked as a reporter for the Jamaica Times at a young age and in 1920 began publishing the magazine Planters' Punch. The White Witch of Rosehall is one of his better-known novels. He was named Honorary President of the Jamaican Press Association; he worked throughout his professional career to promote the Jamaican sugar industry. Roger Mais, a journalist, poet, and playwright wrote many short stories, plays, and novels, including The Hills Were Joyful Together (1953), Brother Man (1954), and Black Lightning (1955).
+Ian Fleming, who had a home in Jamaica where he spent considerable time, repeatedly used the island as a setting in his James Bond novels, including Live and Let Die, Doctor No, "For Your Eyes Only", The Man with the Golden Gun, and Octopussy and The Living Daylights. Marlon James (1970), novelist has published three novels: John Crow's Devil (2005), The Book of Night Women (2009) and A Brief History of Seven Killings (2014), winner of the 2015 Man Booker Prize.
+
+Film
+Jamaica has a history in the film industry dating from the early 1960s. A look at delinquent youth in Jamaica is presented in the 1970s musical crime film The Harder They Come, starring Jimmy Cliff as a frustrated (and psychopathic) reggae musician who descends into a murderous crime spree. Other notable Jamaican films include Countryman, Rockers, Dancehall Queen, One Love, Shottas, Out the Gate, Third World Cop and Kingston Paradise. Jamaica is also often used as a filming location, such as the James Bond film Dr. No (1962), Papillon (1973) starring Steve McQueen, Cocktail (1988) starring Tom Cruise, and the 1993 Disney comedy Cool Runnings, which is loosely based on the true story of Jamaica's first bobsled team trying to make it in the Winter Olympics.
+
+Cuisine
+The island is famous for its Jamaican jerk spice, curries and rice and peas which is integral to Jamaican cuisine. Jamaica is also home to Red Stripe beer and Jamaican Blue Mountain Coffee.
+
+Sport
+While the most popular local sport is cricket, on the international stage Jamaicans have tended to do particularly well at track and field athletics. A July 2024 analysis by The Economist ranked Jamaica number one in the world for Olympic medals won relative to GDP since 2000, highlighting the country’s outsized impact in global athletics.
+The country was one of the venues of 2007 Cricket World Cup and the West Indies cricket team is one of 12 ICC full member teams that participate in international Test cricket. The Jamaica national cricket team competes regionally, and also provides players for the West Indies team. Sabina Park is the only Test venue in the island, but the Greenfield Stadium is also used for cricket.
+Since independence, Jamaica has consistently produced world-class athletes in track and field. Over the past six decades Jamaica has produced dozens of world-class sprinters.
+Association football and horse-racing are other popular sports in Jamaica. The national football team qualified for the 1998 FIFA World Cup. Horse racing was Jamaica's first sport.
+Race car driving is also a popular sport in Jamaica with several car racing tracks and racing associations across the country. Jamaican drivers have achieved growing international success. Other notable competitors include Thomas Gore, a podium finisher in ADAC GT4 Germany and part of the 2024 Team Championship‑winning squad; 
+The Jamaica national bobsled team was once a serious contender in the Winter Olympics, beating many well-established teams. Chess and basketball are widely played in Jamaica and are supported by the Jamaica Chess Federation (JCF) and the Jamaica Basketball Federation (JBF), respectively. Netball is also very popular on the island, with the Jamaica national netball team called The Sunshine Girls consistently ranking in the top five in the world.
+Rugby league has been played in Jamaica since 2006.
+The Jamaica national rugby league team is made up of players who play in Jamaica and from UK based professional and semi professional clubs (notably in the Super League and Championship). In November 2018 for the first time ever, the Jamaican rugby league team qualified for the Rugby League World Cup after defeating the USA and Canada. Jamaica will play in the 2021 Rugby League World Cup in England.
+
+See also
+List of Jamaicans
+Outline of Jamaica
+
+Notes
+References
+Further reading
+External links
+
+Government of Jamaica, 2025
+Jamaica, CIA Factbook, 2024
+
+## Tourism in Jamaica
+Jamaica has a developing economy heavily reliant on services, accounting for 71% of the country's GDP. It has natural resources and a climate conducive to agriculture and tourism. The discovery of bauxite in the 1940s and the subsequent establishment of the bauxite-alumina industry shifted Jamaica's economy from sugar, and bananas. Weakness in the financial sector, speculation, and lower levels of investment erode confidence in the productive sector. The government continues its efforts to raise new sovereign debt in local and international financial markets to meet its U.S. dollar debt obligations, to mop up liquidity to maintain the exchange rate and to help fund the current budget deficit. The Jamaican government's economic policies encourage foreign investment in areas that earn or save foreign exchange, generate employment, and use local raw materials. The government also provides a wide range of incentives to investors.
+Free trade zones have stimulated investment in garment assembly, light manufacturing, and data entry by foreign firms. However, over the last 5 years, the garment industry has suffered from reduced export earnings, continued factory closures, and rising unemployment. The Government of Jamaica hopes to encourage economic activity through a combination of privatisation, financial sector restructuring, reduced interest rates, and by boosting tourism and related productive activities. Since the first quarter of 2006, the economy of Jamaica has undergone a period of staunch growth. With inflation for the 2006 calendar year down to 6.0% and unemployment down to 8.9%, the nominal GDP grew by an unprecedented 2.9%. An investment programme in island transportation and utility infrastructure and gains in the tourism, mining, and service sectors all contributed this figure. All projections for 2007 show an even higher potential for economic growth with all estimates over 3.0% and hampered only by urban crime and public policies. Jamaica was ranked 79th in the Global Innovation Index in 2024.
+In 2006, Jamaica became part of the CARICOM Single Market and Economy (CSME) as one of the pioneering members. The global economic downturn had a significant impact on the Jamaican economy for the years 2007 to 2009, resulting in negative economic growth. The government implemented a new Debt Management Initiative, the Jamaica Debt Exchange (JDX) on 14 January 2010. The initiative would see holders of Government of Jamaica (GOJ) bonds returning the high interest earning instruments for bonds with lower yields and longer maturities. The offer was taken up by over 95% of local financial institutions and was deemed a success by the government.
+
+Economic history
+Before independence, Jamaica's economy was largely focused on agriculture with the vast majority of the labour force engaged in the production of sugar, bananas, and tobacco. According to one study, 18th century Jamaica had the highest wealth inequality in the world, as a very small, slave-owning elite was extremely wealthy while the rest of the population lived on the edge of subsistence. These products were mainly exported to the United Kingdom, Canada, and to the United States of America.
+Jamaica's trade relationships expanded substantially from 1938 to 1946, with total imports almost doubling from £6,485,000 to £12,452,000.
+In the years following independence, Jamaica experienced an economic boom driven largely by the bauxite industry and expanding tourism sector. By the late 1960s, Jamaica was producing around 21 percent of the world's bauxite output, making bauxite one of the country's most important industries. The Jamaican government also encouraged foreign investment, particularly from American corporations, as part of its economic development strategy.
+After independence in 1962, the Jamaican government pursued policies aimed at economic growth. However, by the late 1990s, many sectors of the economy had contracted, with the exception of bauxite/alumina, energy, and tourism. In 2000, Jamaica recorded its first year of positive economic growth since 1995, which was attributed to continued tight macroeconomic policies.
+Inflation fell from 25% in 1995 to single digits in 2000, reaching a multidecade low of 4.3% in 2004. Through periodic intervention in the market, the central bank also has prevented any abrupt drop in the exchange rate. The Jamaican dollar has been slipping, despite intervention, resulting in an average exchange rate of J$73.40 per US$1.00 and J136.2 per €1.00 (February 2011). In addition, inflation has been trending upward since 2004 and is projected to once again reach a double digit rate of 12–13% through the year 2008 due to a combination of unfavorable weather damaging crops and increasing agricultural imports and high energy prices.
+Over the last 30 years, real per capita GDP increased at an average of just one per cent per year, making Jamaica one of the slowest growing developing countries in the world. To reverse this trajectory, the Government of Jamaica embarked on a comprehensive and ambitious program of reforms for which it has garnered national and international support:  a four-year Extended Fund Facility (EFF)  by  the International Monetary Fund (IMF) providing  a  support package of US$932 million;  World Bank Group and the Inter-American Development Bank (IDB) programs providing  US$510 million each to facilitate the GoJ's economic reform agenda to stabilise the economy, reduce debt and create the conditions for growth and resilience. In addition, the International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA) will continue to support private sector development. The Bruce Golding-led government was successful in entering into a borrowing arrangement with the IMF on 4 February 2010 for the amount of US$1.27b. The loan agreement is for a period of three years.
+In April 2014, the Governments of Jamaica and China signed the preliminary agreements for the first phase of the Jamaican Logistics Hub (JLH) – the initiative that aims to position Kingston as the fourth node in the global logistics chain, joining Rotterdam, Dubai and Singapore, and serving the Americas. The Project, when completed, is expected to provide many jobs for Jamaicans, Economic Zones for multinational companies and much needed economic growth to alleviate the country's heavy debt-to-GDP ratio. Strict adherence to the IMF's refinancing programme and preparations for the JLH has favourably affected Jamaica's credit rating and outlook from the three biggest rating agencies. In 2018, both Moody's and Standard and Poor Credit ratings upgraded Jamaica's ratings to both "stable and positive" respectively.
+The reform program is beginning to bear fruit: Institutional reforms and measures to improve the environment for the private sector have started to restore confidence in the Jamaican economy. Jamaica jumped 27 places to 58 among 189 economies worldwide in the 2015 Doing Business ranking, the country's credit rating has improved and the Government has successfully raised more than US$2 billion in the international capital in the markets in 2014 and 2015. Despite some revival, economic growth is still low: the Jamaican Government is forecasting real gross domestic product (GDP) growth of 1.9 per cent for the fiscal year 2015/2016 and the country continues to be  confronted by serious social issues that predominantly affect youth, such as high levels of crime and violence and high unemployment. Jamaica, which had seen its poverty rate drop almost 20 per cent over two decades, saw it increase by eight per cent in a few years. The unemployment rate in Jamaica is approximately  6.0% (April 2022, Statistical Institute of Jamaica), with youth unemployment more than twice the national rate, albeit trending downwards (15%). However, among Jamaica's assets are its skilled labour force and strong social and governance indicators.
+
+Primary industries
+Agriculture
+Agricultural production is an important contributor to Jamaica's economy. However, it is vulnerable to extreme weather, such as hurricanes and to competition from neighbouring countries such as the USA. Other difficulties faced by farmers include thefts from the farm, known as praedial larceny.  Agricultural production accounted for 7.4% of GDP in 1997, providing employment for nearly a quarter of the country. Jamaica's agriculture, together with forestry and fishing, accounted for about 6.6% of GDP in 1999. Sugar has been produced in Jamaica for centuries, it is the nation's dominant agricultural export. Sugar is produced in nearly every parish. The production of raw sugar in the year 2000 was estimated at 175,000 tons, a decrease from 290,000 tons in 1978.
+Jamaican agriculture has been less prominent in GDP in the 2000s than other industries, hitting an all-time low between 2004 and 2008. This may have been due to a reaction to increased competition as international trade policies were enacted. For example, as NAFTA was enacted in 1993, a significant amount of Caribbean exports to the United States diminished, being out competed by Latin American exports. Another example is the Banana Import Regime's 3rd phase, in which EU nations had first given priority in banana imports to previously colonised nations. Under pressure by the World Trade Organization, the EU policy was altered to provide a non-discriminatory trade agreement. Jamaica's banana industry was easily outpriced by American companies exporting Latin American goods. Jamaica's agriculture industry is now bouncing back, growing from being 6.6% of GDP to 7.2%.
+Sugar formed 7.1% of the exports in 1999 and Jamaica made up about 4.8% of the total production of sugar in the Caribbean. Sugar is also used for the production of by-products such as molasses, rum and some wallboard is made from bagasse.
+Banana production in 1999 was 130,000 tons. Bananas formed 2.4% of the exports in 1999 and Jamaica formed around 7.5% of the total production of banana in the Caribbean. Jamaica stopped exporting banana in 2008 after suffering from several years of hurricanes that devastated the plantations.
+Coffee is mainly grown around the Blue Mountains and in hilly areas. One type in particular, Jamaican Blue Mountain Coffee, is considered among the best in the world because at those heights in the Blue Mountains, the cooler climate causes the berries to take longer to ripen and the beans develop more of the substances which on roasting give coffee its flavor. Coffee formed 1.9% of exports in 1999. The picking season lasts from August to March. The coffee is exported from Kingston.
+Cocoa is grown throughout Jamaica and local sales absorb about 1/3 of the output to be made into instant drinks and confectionery. Citrus fruit is mainly grown in the central parts of Jamaica, particularly between the elevations of 1,000–2,500 feet. The picking season lasts from November to April. Two factories in Bog Walk produce fruit juices, canned fruit, essential oils and marmalade. Coconuts are grown on the northern and eastern coasts, which provide enough copra to supply factories to make butterine, margarine, lard, edible oil and laundry soap.
+Vanilla is also grown.
+Other export crops are pimento, ginger, tobacco, sisal and other fruit are exported. Rice is grown around swampy areas around the Black River & around Long Bay in Hanover and Westmoreland parishes for local consumption.
+As tastes have changed in Jamaica in favour of more meat and packaged food the national food import bill has grown to the point that it threatens the health of the economy. The government has responded by encouraging gardening and farming, a response which has had limited success. For example, the percentage of potatoes grown locally has increased, but imports of french fries have continued at a high level.
+
+Animal husbandry
+Pastures form a good percentage of the land in Jamaica. Many properties specialise in cattle rearing. Livestock holdings include 400,000 head of cattle, 440,000 goats and 180,000 pigs. Dairying has increased since the erection of a condensed milk factory at Bog Walk in 1940. Even so, the supply of dairy products is not enough for local requirements and there are large imports of powdered milk, butter and cheese.
+
+Fishing
+The fishing industry grew during the 1900s, primarily from the focus on inland fishing. Several thousand fishermen make a living from fishing. The shallow waters and cays off the south coast are richer than the northern waters. Other fishermen live on the Pedro Cays, 80 miles (130 km) to the south of Jamaica.
+Jamaica supplies about half of its fish requirements; major imports of frozen and salted fish are imported from the United States and Canada.
+The total catch in 2000 was 5,676 tons, a decrease from 11,458 tons in 1997; the catch was mainly marine, with freshwater carp, barbel, etc., crustaceans & molluscs.
+
+Forestry
+By the late 1890, only 185,000 hectares (460,000 acres) of Jamaica's original 1,000,000 hectares (2,500,000 acres) of forest remained. Roundwood production was 881,000 cu m (31.1 million cu ft) in 2000. About 68% of the timber cut in 2000 was used as fuel wood while 32% was used for industrial use. The forests that once covered Jamaica now exist only in mountainous areas. They only supply 20% of the island timber requirements. The remaining forest is protected from further exploitation. Other accessible mountain areas are being reforested, mainly with pines, mahoe and mahogany.
+
+Mining
+Jamaica was the third-leading producer of bauxite and alumina in 1998, producing 12.6 million tons of bauxite, accounting for 10.4% of world production, and 3.46 million tons of alumina, accounting for 7.4% of world production. 8,540 million tons of bauxite was mined in 2012 and 10,200 million tons of bauxite in 2011.
+Mining and quarrying made up 4.1% of the nation's gross domestic product in 1999. Bauxite and alumina formed 55.2% of exports in 1999 and are the second-leading money earner after tourism. Jamaica has reserves of over 2 billion tonnes, which are expected to last 100 years. Bauxite is found in the central parishes of St. Elizabeth, Manchester, Clarendon, St. Catherine, St. Ann, and Trelawny. There are four alumina plants and six mines.
+Jamaica has deposits of several million tons of gypsum on the southern slopes of the Blue Mountains. Jamaica produced 330,441 tons of gypsum in the year 2000, some of which was used in the local cement industry and in the manufacturing of building materials.
+Other minerals present in Jamaica include marble, limestone, and silica, as well as ores of copper, lead, zinc, manganese and iron. Some of these are worked in small quantities. Petroleum has been sought, but so far none has been found.
+
+Secondary Industries
+Manufacturing
+The manufacturing sector is an essential contributor to the Jamaican economy. Though manufacturing accounted for 13.9% of GDP in 1999. Jamaican companies contribute many manufactures such as food processing; oil refining; produced chemicals, construction materials, plastic goods, paints, pharmaceuticals, cartons, leather goods and cigars & assembled electronics, textiles and apparel. The garment industry is a major job employer for thousands of hundreds of locals and they formed 12.9% of exports in 1999 earning US$159 million. Chemicals formed 3.3% of the exports in 1999 earning US$40 million.
+A portion of the bauxite mined on the island is processed into alumina before export.
+An oil refinery is located near Kingston converts crude petroleum obtained from Venezuela into gasoline and other products. These are mainly for local use. The construction industry is growing due to new hotels and attractions being built for tourism. Construction and installation formed 10.4% of the GDP in 1999.
+Manufactured goods were imported and formed 30.3% of the imports and cost US$877 million in 1999.
+Since the launch of the Jamaican Logistics Hub initiative, various economic zones have been proposed throughout the country to assemble goods from other parts of the world for distribution to the Americas.
+
+Petroleum industry
+Petrojam, Jamaica's national and only petroleum refinery, is co-owned by the Government of Venezuela. Petrojam, "..operates a 35,000 barrel per day hydro-skimming refinery, to produce Automotive Diesel Oil; Heavy Fuel Oil; Kerosene/Jet Fuel, Liquid Petroleum Gas (LPG), Asphalt and Gasoline." Customers include the Power industry, Aircraft refuellers, and Local Marketing companies. On 20 February 2019, the Jamaican Government voted to retake ownership of Venezuela's 49% share.
+
+Tertiary industries
+Banking and finance
+Education
+Healthcare
+Retail and hospitality
+Telecommunications
+Tourism
+Tourism is tied with remittances as Jamaica's top source of revenue. The tourism industry earns over 50 per cent of the country's total foreign exchange earnings and provides about one-fourth of all jobs in Jamaica. Most tourist activity is centered on the island's northern coast, including the communities of Montego Bay, Ocho Rios, and Port Antonio, as well as in Negril on the island's western tip.
+
+Some destinations include Ocho Rios, Green Grotto Caves, Y.S. Falls and Appleton Estate.  Most of the tourist sites are landmarks as well as homes for many Jamaicans. Many of the most frequented tourist sites are located mainly by water such as rivers and beaches where fishermen make a living from seafood. One of the most famous beach towns in Jamaica is Ocho Rios, a located in the parish of Saint Ann on the north coast of Jamaica. It was once a fishing village but now attracts millions of tourists yearly. The site is popular today because of the food and culture that can be found there.
+Another famous location in Jamaica that attracts millions yearly is Dunn's River Falls, located in Ocho Rios; this waterfall is approximately 600 feet long and runs off into the sea. Around the location many hotels and restaurants are available and many street vendors sell food around the clock. Another well-known beach town is Negril, the party capital of the country. This beach town has many different factors to add to the night life.
+
+Logistics
+In April 2014, the Governments of Jamaica and China signed the preliminary agreements for the first phase of the Jamaican Logistics Hub (JLH) – the initiative that aims to position Kingston as the fourth node in the global logistics chain, joining Rotterdam, Dubai and Singapore, and serving the Americas. The Project, when completed, is expected to provide many jobs for Jamaicans, Economic Zones for multinational companies and much needed economic growth to alleviate the country's heavy debt-to-GDP ratio. Strict adherence to the IMF's refinancing programme and preparations for the JLH has favourably affected Jamaica's credit rating and outlook from the three biggest rating agencies.
+
+ICT/BPO
+Jamaica has made strides in developing its Information and Communications Technology (ICT) infrastructure.
+As the largest English speaking territory in the Caribbean, Jamaica is the region's leading contact centre location with over 87 information communications technology/business process outsourcing (ICT/BPO) companies operating in the country employing 44,000 full-time agents.
+
+Infrastructure
+Energy
+Water supply and sanitation
+Transport
+Trade and investment
+Taxation/Tax Rates
+Jamaican tax rates are extremely favourable in world standards, the brackets are as follows:
+
+Separate Tax Rates apply for foreign nationals.
+
+Economic Data
+The following table shows the main economic indicators in 1980–2024. Inflation below 5% is in green.
+
+See also
+List of companies of Jamaica
+Climate finance in Jamaica
+Jamaica and the International Monetary Fund
+Jamaica and the World Bank
+Science and technology in Jamaica
+Bank of Jamaica
+Ministry of Economic Growth and Job Creation
+Ministry of Foreign Affairs and Foreign Trade (Jamaica)
+Ministry of Labour and Social Security (Jamaica)
+Economy of the Caribbean
+
+References
+Further reading
+Bahl, R., & Wallace, S. (2007). From income tax to consumption tax? The case of Jamaica Archived 31 July 2020 at the Wayback Machine. FinanzArchiv/Public Finance Analysis, 396–414.
+
+External links
+World Bank Trade Summary Statistics Jamaica 2012 Archived 13 April 2014 at the Wayback Machine
+Partners in Austerity: Jamaica, the United States and the International Monetary Fund, from the Center for Economic and Policy Research, April 2015
+
+## Culture of Jamaica
+Jamaican culture consists of the religion, norms, values, and lifestyle that define the people of Jamaica. The culture is mixed, with an ethnically diverse society, stemming from a history of inhabitants beginning with the original inhabitants of Jamaica (the Taínos). The Spaniards originally brought slavery to Jamaica. Then they were overthrown by the English. Jamaica later gained emancipation on 1 August 1838, and independence from the British on 6 August 1962. Black slaves became the dominant cultural force as they suffered and resisted the harsh conditions of forced labour. After the abolition of slavery, Chinese and Indian migrants were transported to the island as indentured workers, bringing with them ideas from their country.
+
+Language
+The official language of Jamaica is Jamaican Standard  English, which is used in all official circumstances in the country. In addition to English, there is a creole derivative called Jamaican Patois (pronounced patwa, ()) which is the common language among Jamaican citizens.
+
+Religion
+By far, the largest religion in Jamaica is the Christian faith. The Anglican Church, Catholic Church, Methodist Church, Baptists, Seventh-Day Adventists and the Church of God are present throughout the country. Many old churches have been carefully maintained and/or restored. The Rastafari movement is a derivative of the larger Christian culture, but its origins were influenced by rising consciousness of Africa, and an awareness of political events in that continent. There is also a small number of Jewish synagogues in Jamaica, dating from the 17th century along with a few mosques. 
+Elements of ancient African religions remain, especially in remote areas throughout the island. Some of these practices are described generally as Obeah, 
+Kumina, or Pocomania. Though the congregations are small, they are visited by many Christians and non-Christians seeking an experience they have not found in the churches. It is estimated that as much as 40% of the population secretly seek the services of the African traditional religious healers (also called Obeah workers) when confronted with serious problems that conventional medicine cannot remedy.
+The Baháʼí Faith arrived in Jamaica in 1943, brought by an American Baháʼí pioneer, Dr. Malcolm King. In 2003, as part of the 60th anniversary celebration of the establishment of Baháʼí in Jamaica, the Governor General of Jamaica, Sir Howard Cooke, proclaimed a National Baháʼí Day to be held annually on 25 July. In 2005, the community of about 5000 celebrated their activity and presence in Jamaica with the international Baháʼí choir, The Voices of Bahá. The choir performed at Ward Theater and the University of the West Indies' Chapel, with proceeds earmarked to two Jamaican charities, (one serving families of policemen slain in the line of duty, and the one Denham Town Golden Age Home).
+Other religions practiced in Jamaica include Buddhism, Hinduism, and Islam.
+
+Rastafari
+Originating in the 1930s, one of the most prominent, internationally known aspects of Jamaica's African-Caribbean culture is the Rastafari movement, particularly those elements that are expressed through reggae music. In the 1970s and early 1980s, Bob Marley became the most high-profile exponent of the Rastafari culture and belief system. His reputation as an innovative musician devoted to his faith has continued to grow since his death, so that by 2004 his greatest hits compilation, Legend, had sold 20 million copies worldwide, making him arguably the world's most famous Jamaican in the music industry, and certainly the nation's biggest-selling recording artist.
+Rastafari itself is a monotheistic belief system, based on teachings found in the Old Testament and the New Testament – particularly the Book of Revelation. However, what distinguishes Rastafari from Christianity, Islam, and Judaism, (which also cite Abrahamic beliefs), is that Rastas believe in the divinity of the Emperor Haile Selassie of Ethiopia.
+Hailed by Rastas as H.I.M. (His Imperial Majesty), Haile Selassie I is regarded as God himself, the true descendant of Solomon, and the earthly embodiment of Jah (God) – in what believers see as a fulfillment of prophecy regarding the second coming of the Messiah.
+Those Rasta beliefs, which are not explicitly mentioned in the Bible (such as the specific name of H.I.M. "Haile Selassie"), are not gathered into a single holy text. Instead, Rasta beliefs are primarily shared through a community of songs, chants, and oral testimonies, as well as in written texts (including websites). The extensive use of song makes Rastafari a particularly musical source of Jamaican culture.
+Rasta cultural traditions include wearing their hair in uncut, uncombed strands known as dreadlocks (in adherence to the Nazarite vow), as well as eating unprocessed (natural) foods which are called Ital. However, neither tradition is regarded as compulsory – many people who wear dreadlocks are not Rastas, and many Rastas do not wear them.
+One of the most controversial cultural traditions is Rastas' use of ganja as a sacrament which is smoked to aid in reasoning (contemplation and discussion) during their religious rituals. 
+In its Jamaican homeland, Rastafari is a minority culture and receives little in the way of official recognition. Jamaica is an overwhelmingly Christian country, so Rasta beliefs and practices – such as the divinity of H.I.M Hailie Selassie – are sometimes regarded as pagan by Christian Jamaicans. (Some Rastas also express hostility towards aspects of Christianity.) Nevertheless, the artistic contributions of the movement, particularly by Bob Marley, are widely respected. Marley was awarded the Jamaican Order of Merit in 1981, and there are two official monuments to him.
+Rastas can be found in many countries outside Jamaica and among many non-Jamaicans. Because it is not a centrally organised religion, there is no way of knowing how many devotees there are.
+
+Dance
+Dance has always been important to Jamaica – from colonial times until the present. Early folk rhythms and movements often enhanced Christian religious celebrations or were associated with Christian holidays. More recently, dances have become associated with the music of Jamaica, particularly dancehall styles.
+Dance theatre is also growing in importance. Rex Nettleford, Eddy Thomas, Tony Wilson,  Olive Lewin, and Edna Manley are five Jamaicans whose influences on the arts – music and dance in particular – have been extremely important. Nettleford, Thomas, and Ivy Baxter formed the National Dance Theatre Company in 1962. Other important Jamaicans in dance theatre have included the Tony Award-winning choreographer Garth Fagan (The Lion King on Broadway). 
+Dancehall, or reggae, music has inspired a number of dance styles as well. To understand the evolution of popular dance, it helps to understand the musical progression. Ska music, with fast beats, also had fast dances. The slow to rocksteady also developed slower dances, allowing dancers to stay on the floor longer. Reggae is associated with many things, including the Rastafarian movement, but influenced the newer styles.
+Dancehall music often creates its own dances based on moves in the lyrics of the songs themselves. Soca music from Trinidad and Tobago is popular with most of the popular artists from Trinidad, but many soca Jamaican artists such as Byron Lee, Fab 5, and Lovindeer are famous but also represent Jamaican music.
+Daggering is a form of dance originating from Jamaica. The dance incorporates dry sex, wrestling and other forms of frantic movement.
+Bruckins is a Jamaican dance performed to celebrate Emancipation Day.
+List of Dances:
+
+Theatre
+Jamaica's earliest theatre was built in 1682. Several more theatres opened in the 1700s and 1800s, attracting performances by both professional touring companies and amateur groups. But performances weren't limited to official venues. Many took place in houses, stores, courthouses, and enclosed outdoor spaces large enough to hold them. During this period, classic plays such as Shakespeare were most often produced. However, the Jewish and French communities became large enough to merit productions aimed at them, too.
+After the abolishment of slavery, Jamaicans began fusing music, humour, and dance into public theatrical performances. Although it took many years for true Jamaican styles to develop, eventually they became more prevalent than European works. Today's most popular theatrical form in Jamaica, pantomime, began in the 1940s as a fusion of English pantomime with Jamaican folklore. Another popular style, "Roots" (Grassroots) Theatre, evolved in the 1960s and 1970s. These riotous bawdy tales remained crowd favourites in Kingston's open-air theatres.
+One artist involved in root plays is Winsome (code name), a Jamaican writer and producer chronicled in Deborah Thomas' book "Modern Blackness". Winsome handled all the publicity for her plays herself, and ended up putting them on in the rural areas surrounding Kingston – the city theaters refused to house her plays because of their controversial nature. In her plays, Winsome explores how sex, money, and power interact every day for Jamaicans. In 1997, Winsome wrote and produced a root play entitled Ruff Rider, in which family, sexual abuse, love, work, and friendship all intersect. According to author Thomas, author of, "In all of her work, the sympathetic characters are those she portrays as struggling to balance their own pursuit of individual gain with 'living well together' with others. As they negotiate the fine lines between egalitarianism and hierarchy, her characters also contribute to the public debate regarding the gendered dimensions of respectability and reputation."
+Other notable roots play figures include Ralph Holness, Ginger Knight, Balfour Anderson, Michael Denton, Ian Reid, Paul Beil, Everton Dawkins, Luke Ellington (Lukington), Buddy Pouyat and the late Hyacinth Brown.
+
+Literature and writing
+Derek Walcott, a Nobel Prize laureate, born and educated in St. Lucia, attended college in Jamaica. Other significant writers from the island include Claude McKay and Louis Simpson. Plays and works in Jamaican English, or patois, attract special attention. Louise Bennett, Andrew Salkey and Mikey Smith have contributed to this phenomenon by writing works in patois. Ian Fleming wrote his famous James Bond novels while living in Jamaica. Jean Rhys is also well known for her novel Wide Sargasso Sea, which was set in Jamaica.  Jamaican writer Marlon James won the 2015 Man Booker Prize for his novel A Brief History of Seven Killings.
+Jamaican authors are always faced with the decision of writing in standard English for a huge worldwide audience, or in the local patois, for a much smaller, but more trendy, audience. Jamaican films with patois sound-tracks such as The Harder They Come (1972) require sub-titles for export to general markets. In general, the use of patois severely limits the potential audience for the otherwise universal Jamaican message.
+Recent poets laureate of Jamaica include Mervyn Morris (appointed in 2014) and his successor Lorna Goodison, appointed in 2017.
+
+Film
+Jamaica's film industry is not widely known, but it is growing. The Harder They Come, Rasta Rockett, Shottas, Third World Cop, Rockers, Countryman, Dancehall Queen & " Real Ghetto Youths" are a few of the best-known Jamaican movies. However, many popular Hollywood movies have also been filmed in Jamaica. A short list includes The Blue Lagoon, Cocktail, Cool Runnings and James Bond films, Dr. No, Live and Let Die and No Time to Die.
+Jamaica's leading annual film event The Reggae Film Festival takes place each February in Jamaica's capital city, Kingston. Members of Jamaica's film industry gather here to make new links and many new projects have grown from the event.
+Jamaica has many talented film makers but there is a great lack of available funds and resources for filmmakers. Since the creation of the Reggae Film Festival there have been many new films made in Jamaica and the event has given the industry a real boost, this combined with the recent CARICOM European film treaty which enables Jamaican filmmakers to seek funding in Europe, has opened up a new door for film makers looking to apply for funding and this will hopefully make a real difference to the future of the industry.
+Other more recent feature films made in Jamaica are: 'Almost Heaven', 'Roots Time', 'Wah Do Dem', 'Concrete Jungle', 'Redemption Paradise', 'Real Ghetto Youths', and 'Smile Orange'.
+
+Sport
+Woodwork, furniture, and metalwork
+Jamaicans have a long history of fine craftsmanship in wood and metal. Jamaica was home to many excellent furniture factories dating from colonial times, and Jamaican "Georgian" furniture was exported to the metropolitan countries.
+Jamaica is in the Caribbean so its exports of furniture is important.
+
+See also
+Jamaican art
+Jamaican English
+Jamaican Georgian architecture
+John Canoe, ritual
+Kariba suit
+List of museums in Jamaica
+Mauger (Jamaican Patois term)
+Music of Jamaica
+National Gallery of Jamaica
+Nine nights, funerary tradition
+Public holidays in Jamaica
+Pushcart derby, street race
+Ratchet knife
+Jamaican cuisine
+
+References
+Further reading
+Mordecai, Martin and Pamela. Culture and Customs of Jamaica. Greenwood Press. 2001.
+Hill, Errol. The Jamaican Stage, 1655–1900: Profile of a Colonial Theatre. University of Massachusetts Press. 1992.
+
+External links
+The Company Dance Theatre Jamaica
+Jamaica National Heritage Trust
+Embracing their African roots – More Jamaicans identifying with African culture — PoliticalArticles.NET
+Jamaican art and culture in the tourism sector, an interview with Jane Issa
+Jamaican art and culture reflectively captured in photography by Max Earle Archived 6 October 2016 at the Wayback Machine
+
+## Cuisine of Jamaica
+Jamaican cuisine includes a mixture of cooking techniques, flavours and spices influenced by Amerindian, West African, Irish, English, French, Portuguese, Spanish, Indian, Chinese and Middle Eastern people who have inhabited the island. It is also influenced by indigenous crops, as well as crops and livestock introduced to the island from Mesoamerica, Europe, tropical West Africa and Southeast Asia, which are now grown locally. A wide variety of seafood, tropical fruits and meats are available.
+Some Jamaican dishes are variations of cuisines brought to the island from elsewhere, which are often modified to incorporate local produce and spices. Many others are novel or Creole dishes, created from a fusion of dishes, techniques and ingredients from different cultures, which have developed locally over time. Popular Jamaican dishes include curry goat, fried dumplings, brown stew (oxtail), ackee and saltfish and jerk.
+Jamaican patties along with various pastries, breads and beverages are also popular.
+Jamaican cuisine has spread with migration, between the mid-17th and 20th centuries. Contingents of Jamaican merchants and labourers, who settled in coastal Latin America, to establish businesses, and  work in agriculture and the construction of railroads, ports and the Panama Canal, contributed Jamaican dishes to the region. Also, Jamaicans who have sought economic opportunities in other parts of the world,   have spread their culture and culinary practices.
+
+History
+Development of the cuisine
+Taíno and Arawak influences
+The Indigenous inhabitants of Jamaica, the Taínos, developed dishes such as jerk meats, roasted fish, bammy, cassava bread, callaloo (made with native amaranth) and pepperpot (made with callaloo and Scotch bonnet pepper). Taíno influence can also be found in dishes like turned cornmeal, duckunoo, Jamaican hominy corn porridge and Saturday beef soup. They kept a stockpot in which meat, fish and vegetables were collected for soup. The Taínos also made intoxicating drinks from cassava and maize, as well as, a tree-bark based drink known for its health benefits, called mauby, which was also made with mâ'bi, the Arawak word for red sweet potato.
+Many native crops and local staples, such as peppers (Scotch bonnet, cayenne pepper and other cultivars) and beans (like kidney beans) were taken to Jamaica in canoes from Mesoamerica, along with maize, sweet potato, cashew,  cacao and cassava. They also cultivated chayote (cho cho), arrowroot, kenep (guinep), mammee apple, coco, squash, pumpkin, yam (yampi or cush-cush yam), peanut, guava, potato, pineapple, starapple, papaya, soursop, naseberry, custard apple, sweetsop and other native crops. According to historian, James Delbourgo, the brewing of cocoa beans, which led to the recipe for chocolate milk and traditional Jamaican chocolate tea, was practiced by the Taínos, as far back as 1494.
+Cooking techniques such as jerking, grilling, roasting, smoking and barbecuing, as well as, the use of earth ovens, charcoal, pimento wood, plantain or banana leaves and corn husks in cooking, can be traced back to them. They  often wrapped meats in papaya leaves to tenderize them. Food colouring with annatto was inherited from the Taínos, as were calabash (gourd) bowls and utensils, and tools which were used to grind cocoa beans, corn, and cassava for flour and bammy the traditional way. These include stone and wooden mortars, pestles, grinders and graters called metate, mano and guaio/guayo, a long funnel-shaped basket called a matapi, used for extracting cassava juice, and a flat earthenware griddle (burén) used for baking cassava breads.
+
+Spanish and Portuguese influences
+The Spanish, the first European arrivals to Jamaica, contributed many dishes and introduced a variety of crops and ingredients to the island— such as Asian rice, sugar cane, citrus like sweet orange, sour orange (Seville and Valencia), lime and lemon, tamarind, cacao, coconut, tomato, avocado, banana, grape, pomegranate, plantain, lettuce, carrot, fig and many other fruits and vegetables. They also brought cattle, goat, pig and other livestock that are eaten on the island, as well as, rum, herbs and spices such as rosemary, thyme, garlic, onion, oregano, ginger and others.
+Many beans and pea dishes, stews, fish and rice dishes that are Jamaican staples, originated in Spain. Spanish culinary contributions include the vinegary escovitch/escoveitch fish (Spanish escabeche), Creole dishes like rice and peas, Jamaican Spanish rice, stews like brown stew meats (chicken, pork, cow foot, oxtail etc.), stew peas  and red peas soup with cured meats, as well as, the soaking of fruits in wine for desserts like Jamaican wedding and Christmas cakes. Spanish and Portuguese Jews
+who had escaped the inquisition in the 1500s, also introduced coconut macaroons, gizzada, steamed and fried fish, saltfish fritters and salted codfish which is used in breakfast dishes and Jamaica's national dish— ackee and saltfish. It has become a staple from the time it was eaten by enslaved Africans as a long-lasting source of affordable protein. By the 1700s, saltfish, also called "the faithful friend" in Portuguese cuisine, was not only consumed as a cheap, accessible source of protein, as it had become a staple food for most Portuguese people, including the upper echelons of society
+— like escoveitch, it has been a dietary mainstay during Lent and other holy days. The Jamaican patty, a pasty or empanada-styled turnover filled with spiced meat was influenced by the Spanish and Cornish. Sweets like peanut drops/cake, coconut drops, peanut  brittle and grater cake have Portuguese and Spanish influences, as well as, African and Middle Eastern influences.
+Cooking and preservation techniques which include stewing, frying, brining, pickling and curing meats were also influenced by the Spaniards.
+
+African influences
+Influences from African cuisine developed on the island as a result of waves of slavery and indentureship, which can be found in dishes like okra, taro  and callaloo— made with indigenous amaranth grown and used by the Taínos, and comparable to the Angolan dish calulu. Along with the Europeans and Indians, Africans contributed to the cultivation of rice, cow peas and pigeon peas (known as 'gungo' locally) in the Americas, which are key ingredients in some local dishes. While some crops were taken from Africa on ships by the Europeans, it is believed that enslaved Africans also brought seeds of plants which they grew, such as African rice, kola nut (bissy), sesame, watermelon, bonavist beans and sorrel. Their knowledge  of cultivating and using crops that were introduced by the Europeans, from Africa and other regions, helped to shape cuisines in the Americas including Jamaica's.
+African influences can be seen in one-pot dishes like seasoned rice, rice and peas, callaloo rice, ackee and saltfish and turned cornmeal. Dishes prepared with offals like tripe and bean, cow foot stew, cow skin or cow cod soup and mannish water (goat head soup), were also influenced by them. They adopted and added the use of certain spices and ground provisions to variations of dishes from other cultures, as well as, Creole dishes that were created on the island during the colonial era. Sorrel drink, one of Jamaica's Christmas mainstays, has African and Chinese influences. It is primarily consumed as a tea and spice-infused drink, which is sometimes combined with rum. Also, sorrel is used in a variety of Jamaican products like beers, sauces, glazes, ice-creams, cakes and other desserts. Its popularity has spread to Latin America and Mexican communities in North America, where the drink is called agua de Jamaica, flor de Jamaica, rosa de Jamaica or Jamaica. Red drink, as it is called in Black American communities, has also been adopted as part of Juneteenth celebrations.
+A popular Jamaican sweet called Bustamante backbone or stagga back can be traced back to the Africans, along with the names of foods like "asham", "duckunoo" and "gungo".
+In the past, tools like the wooden mortar and pestle were used to grind dried and roasted coffee and cocoa beans, while clay pots called 'yabba' were used for mixing cakes or puddings and seasoning or salting meats—both of which have African origins.
+
+English, Irish and Scottish influences
+Baked goods like puddings, rock cake, sponge cakes, fruit cakes, muffins, breads, pies, biscuits and spiced bun were influenced by the British— who ruled the island until its independence, as well as, indentured labourers from England, Scotland and Ireland who arrived on the island after the abolition of slavery to replace slaves. As such, Jamaican Easter bun and cheese, jams, other sweet treats like  confectioneries and gelatin desserts, teas, macaroni and cheese, and some colonial era Creole dishes have British influences. Sunday roast variations which include pot roast meats, potato and vegetables, as well as, breakfast dishes which include baked beans (adopted from Native Americans by the British), are made in Jamaica. British influences can be seen in the way Jamaicans prepare dinners for holidays and Sundays. Irish moss and porridges were influenced by the Irish and Scottish respectively.
+Also, deep frying, a cooking technique used to prepare dishes like Jamaican fried chicken, fried dumpling and festival may have been influenced by the Scots, along with the Spanish and Portuguese.
+Staple crops like breadfruit, Otaheite apple, various mangoes, rose apple, coffee, rice (Gold Seede), ackee and black pepper were  introduced to the island by the British. They also contributed to the distillation of rum, which they exported and traded along with molasses for flour, pork and pickled fish. Additionally, the introduction and development of beers like stout, porter and ale can be traced back to the British. Their influence can be found in Jamaica's toffee-like sweet, Bustamante backbone.
+Due to the migration of British settlers, enslaved and emancipated Afro-Jamaicans and Creole Jamaicans to coastal Central America, between the 17th and 20th centuries, Jamaican dishes some of which were influenced by the British, were introduced to Belize and the Caribbean coast of Costa Rica, Nicaragua, Panama, Honduras, Guatemala and San Andrés, Providencia and Santa Catalina.
+
+Indian influences
+During the period of indentureship other labourers migrated to Jamaica from India, China, Germany and the Azores in Portugal. Consequently, East Indian influences can be found in Jamaican cuisine like roti, lentil dishes like dhal and a variety of ginger and curried dishes. The Indians brought curry and turmeric to Jamaica,
+which have been modified to create Jamaican curry powder, a key ingredient in dishes such as curried goat/mutton, chicken and seafood (shrimp, lobster, crab, fish and conch). Indian influences can also be found in eggplant dishes, pelau, pickled unripe mango (with salt and pepper), roasted saltfish choka, takari dishes (with potato, mango and pumpkin), pholourie and sweets which have been modified like gulgula and khurma. Along with spices, they brought jackfruit, plums, tamarind, banyan, neem and bilimbi (also called 'kamranga' locally)— which is pickled and served as a relish.
+While Indian influences are present in some Jamaican Creole or fusion dishes, and vegetarian dishes in ital cuisine (prepared by Jamaican Rastafarians), some of the aforementioned (like the sweets and relish) and the cooking of unripe jackfruit and bamboo shoots, which have become popular vegetarian dishes internationally, are not widely prepared by all locals. Also, Indian restaurants are operated on the island by more recent Indian migrants (not Indo-Jamaicans), which offer flavours from India that differ from Indo-Jamaican cuisine.
+A flat iron griddle called tawah, which is used to make flatbreads, was adopted from the Indians. The karahi pot, also used by Chinese Jamaicans, originated in India. The Indians were the first to manage growing rice in Jamaica, establishing the island's first successful rice mill in the 1890s, and they  dominated the island's vegetable production until well into the 1940s.
+
+Chinese influences
+Chinese labourers, mostly Hakka, who arrived during indentureship also contributed to Jamaican cuisine.  Chinese (especially Hakka and Cantonese) influences can be found in dishes with pak choy, pork, dungoo (Chinese mushrooms) and mustard. Upon arrival many of the original ingredients used in China were not available, and they were imported later, so the Chinese had to improvise and adapt in order to recreate their dishes— as such, Jamaican Chinese food emerged. In the 1940s, Jamaican tamarind was substituted for Chinese sour plums, key ingredients in the preparation of a popular Chinese duck dish.
+Their most notable culinary contributions are hard dough bread and the use of soy sauce, ginger and escallion on meats, particularly in Jamaican brown stew and fricassee dishes. They also added the use of ginger and five-spice to Jamaican beverages like sorrel, influenced other  Jamaican fusion dishes, and contributed stir-fry, chow mein, chop suey, fried rice, sweet and sour meats/seafood, pineapple chicken, Szechuan chicken and others— which can be found on the menus of non-Chinese local restaurants. In Jamaica, many Chinese restaurants have their own variations of Chinese dishes, modified with a local twist, like "Jamaicanized" wontons, fried rice with saltfish and barbie-fry chicken. Commonly prepared local Chinese dishes include Jamaican malah chicken, pork with muknee or hamchoy, cha su (Cantonese-style roast pork), pork and yam, foo gwa/gah (stuffed bitter melon known in Jamaica as cerasee), chicken and pig tails, hot pepper chicken (pork, beef and shrimp), Chinese five-spice roast meats, sui/suey mein, lo mein, "2 or 3 meat choy fan" (which includes a combination of dishes), Chinese-style curry chicken, meats cooked in black bean sauce, shrimp, chicken or beef broccoli, char-siu pork and others. They have also contributed condiments like oyster sauce, hoisin sauce, sweet and sour sauce, satay sauce and Scotch bonnet-infused soy sauce, sesame oil and various noodles. Jamaican twist donut (a variation of mahua) and moon cake are of Chinese origin.
+A cast iron pot called 'Chinese karahi' (a Cantonese-style wok) was also introduced by the Chinese, along with the pow wok and technique of stir-frying. Chinese Jamaican families who owned most of the island's bakeries, also perfected making Jamaican patties, which they commercialized locally in the 1960s and 70s— contributing to the dish's popularity and demand.
+
+French influences
+The French, possibly those who fled from Haiti during different periods, or French Jews who went to Jamaica during the inquisition, along with the Spanish, may have influenced dishes like Jamaican fricassee chicken, lobster thermidor, casseroles and pelau made with chicken or shrimp. French and English influences can be found in the use of bouillon or stock cubes, and Jamaican smoked herring pâté called Solomon Gundy. Many Jamaican gourmet dishes, desserts and pastries like tarts, gâteaux and macarons, were adopted from the French. Local variations of French dishes like crêpe, bisque and fries are prepared in Jamaica, often incorporating local ingredients.
+A variety of French cooking techniques have also been adopted by Jamaicans, including cutting techniques such as batonnet and julienne used for vegetables in escoveitch  and stir-fry dishes, as well as, rondelle. Bouquet garni (made with escallion, thyme and other herbs) is used in local stews and soups, and béchamel sauce or roux are used in macaroni and cheese, stews and sauces.  Other French cooking techniques which have been adopted include sautéing, blanching, braising, rotisserie and flambéing with rum. A traditional cooking tool used for Jamaican beef and pork pot roasts, called a 'Jesta pot' (Digester pot) is of French origin.
+Jamaica Blue Mountain coffee and the introduction of coffea arabica to Jamaica can be traced back to one of three coffee plants sent to Martinique by King Louis XV of France— gifted to the Governor of Jamaica from the Governor of Martinique, in the 1700s.
+The French who fled to Jamaica during the Haitian Revolution, partly helped with the rapid expansion of the local coffee industry— French masters and their slaves brought their experience and expertise in coffee production.
+
+Other European influences
+During the 17th century, Dutch traders settled in Jamaica and they brought sugarcane from Brazil. Also, before and during the Holocaust, Dutch Jews and Polish Jews sought refuge on the island.
+Between the late 1700s and 20th century, German Jews, Jews from Curacao, Brazil, British Guiana and Suriname also settled in Jamaica. As such, influences from other Europeans can be found in Jamaican cuisine. Jamaica's must-have cooking tool, the Dutch pot or Dutchie, was imported from the Netherlands by Dutch traders. It is typically used to cook meat, stew, and pot roast dishes, as well as, to bake bammies and puddings. The coal stove, another important cooking tool used for preparing a wide range of foods like roast breadfruit (especially outdoors), was introduced by Dutch traders during the colonial era. German influence became especially notable through migrants who arrived in the 1960s. They introduced dishes such as pork and wiener schnitzel, along with other foods including knockwurst, German sausages, frankfurter, wiener, and smoked marlin. Other dishes which have been adopted with German and other European influences include Christmas ham, coleslaw, donuts, coconut rolls, cinnamon rolls, ginger biscuits, Black Forest cake, raisin bread and marble cakes.
+
+Middle Eastern influences
+Middle Eastern contributions to Jamaica's culinary repertoire began when Syrian, Lebanese and Palestinian people, mostly Christians and some Jews, fled to Jamaica in the late 19th century, due to religious persecution under Ottoman rule. Jews from other places such as Egypt also settled on the island. Contingents of Syrian and Lebanese merchants settled in Jamaica and established businesses— as such, Middle Eastern, particularly Levantine influences can be found in some dishes. Variations of kebabs, wraps, meatballs, pelau, stuffed grape leaf rolls (known as 'mehshi') which are made with cabbage as a substitute, hummus, baba ghanoush, kibbeh, laban, tabbouleh and Syrian bread have been adopted. Though some of these dishes are not widely prepared by all locals, their influences can be seen in some fusion dishes, and Syrian, Lebanese and kosher restaurants can be found across the island. Jamaican peanut drops or cake and peanut brittle have Middle Eastern and other influences.
+Simmering, a popular cooking style in Jewish cuisine  is also used for Jamaican stews, and the use of garlic as a primary seasoning is a culinary tradition inherited from the Jews. Local variations of kosher food with a Jamaican twist can be found in Jamaica, and some kosher dishes have been modified by Rastafarians to create ital dishes.
+
+Jamaican Rastafari cuisine
+Jamaican Rastafari have a holistic vegan approach to preparing food, cooking, and eating, and they have introduced a host of unique vegetarian dishes to Jamaican cuisine. Rastafari dishes are referred to as ital, meaning "natural", derived from the English word "vital". Their diet is based on maintaining a balanced life, good health and longevity by consuming fresh, organic and locally sourced ingredients. Popular ital foods include ackee, lentil, tofu, okra and bean and pea dishes, pumpkin rice, callaloo and other vegetables. Some Rastas adhere to a pescatarian diet, and have adopted kosher dishes. Modern Rastas are blending global plant-based trends with ital roots, creating new fusion dishes such as jerk hummus.
+
+Popular dishes
+A typical Jamaican breakfast may include ackee and saltfish, seasoned callaloo, boiled green bananas, and fried dumplings.
+
+Main courses
+Meat and seafood dishes
+Baked chicken
+Barbecue meats (chicken, wings, pork, beef etc.)
+Barbie-fry chicken
+Boiled crab
+Brown stew (beef, chicken, fish, goat, mutton, pork, oxtail and turkey neck etc.)
+Chop suey (chicken, shrimp, beef and pork)
+Coconut curry (shrimp, fish, lobster and chicken)
+Conch (stewed, roasted, jerked and curried)
+Corned pork or beef
+Cow foot stew
+Curried meats and seafood (chicken, goat, mutton, shrimp, lobster, fish, crab, beef, pork and oxtail)
+Escoveitch fish (and other seafood)
+Fricassee chicken
+Fried chicken
+Fried fish and seafood (shrimp in batter and lobster)
+Garlic chicken and seafood (shrimp, fish, lobster and conch)
+Grilled meats and seafood (chicken, steak, fish and  lobster etc.)
+Jerked meats and seafood (chicken, pork, fish, conch, shrimp, lobster and sausage etc.)
+Liver (typically brown stew chicken or cow's liver)
+Lobster thermidor
+Mala chicken
+Meatballs
+Minced meat (chicken or beef)
+Pan chicken
+Peppered shrimp
+Pepper steak
+Pineapple chicken
+Pot-roast (chicken, beef, pork and mutton etc.)
+Roasted meats and seafood (chicken, ham, beef, pork, fish etc.)
+Rundown
+Saltfish (sautéed or roasted)
+Salt mackerel (sautéed)
+Stir-fry (chicken and shrimp)
+Steamed fish with okra and carrot
+Stew peas
+Sweet and sour (chicken, pork and shrimp)
+Tripe and bean
+
+Soups
+Side dishes
+Boiled plantain
+Bok choy
+Breadfruit (boiled, fried or roasted)
+Callaloo
+Callaloo rice
+Coconut rice
+Cooked rice
+Dumplings (boiled or fried)
+Festival
+Bammy (fried or steamed)
+Fried plantain
+Pressed green plantain
+Fried rice
+Green banana
+Ground provisions (boiled or roasted)
+Macaroni and cheese
+Potato (boiled, fried, mashed, roasted or baked)
+Potato salad
+Pumpkin rice
+Rice and peas
+Roti
+Spanish rice
+Seasoned rice (containing saltfish and spices).
+Shredded cabbage and carrot (coleslaw)
+Stir-fry or steamed vegetables
+Turned cornmeal
+
+Breads and pastries
+Bammy
+Banana loaf
+Bread pudding
+Black cake
+Bulla cake
+Carrot cake
+Cheese bread
+Cinnamon roll and loaf
+Coco bread
+Coconut bread
+Coconut roll
+Corn bread (a smooth, sweet, yellow roll)
+Donut (including twist donut)
+Grotto bread
+Hard dough bread
+Hummingbird cake
+Jamaican patty
+Madeira cake
+Marble cake and sponge cake
+Peg bread
+Raisin bread
+Rock cake
+Rum cake
+Spiced bun
+Sugar bun (similar to cinnamon roll)
+
+Beverages
+Bigga and D&G sodas
+Box juices
+Bush/herbal teas
+Carrot juice with spices such as nutmeg and vanilla
+Cherry malt
+Chocolate tea
+Chocolate milk
+Coconut water
+Cocktails
+Coffee drinks
+Cream soda
+D&G Malta
+Eggnog
+Fruit juices (june plum, guava, mango, otaheite apple, pawpaw, pineapple, soursop, cherry, ribena, starfruit, jimbilin etc.)
+Ginger beer
+Guinness punch with spices such as nutmeg and vanilla
+Irish moss
+Jamaica Blue Mountain coffee
+Kola Champagne
+Lasco Jamaica food drinks
+Limeade
+Liqueurs (Sangster's, Tia Maria, etc.)
+Mauby
+Peanut punch
+Pimento dram
+Red Label wine
+Red Stripe
+Rums
+Rum creams (including flavours like coffee, chocolate, rum & raisin, coconut and banana)
+Sorrel
+Supligen
+Tamarind Fizz
+Tia Maria
+Ting (grapefruit soda)
+
+Desserts and sweets
+Grapenut and rum and raisin ice cream are popular desserts. Jamaican ice cream comes in many flavours like, coffee, pistachio, jackfruit, coconut, mango, pineapple, guava, soursop and Dragon Stout.
+Other popular desserts include batata pudding, cornmeal pudding, cassava pone, gizzada, grater cake, toto, banana fritters, coconut drops, plantain tarts, guava cheese, banana bread, rum cake, carrot cake, pineapple cake, fruit cake and coconut macaroons.
+Tie-a-leaf or blue drawers is a dish made by combining a starch (usually cornmeal, cassava or sweet potato) with coconut milk, spices like cinnamon and nutmeg, sugar and vanilla, then wrapped and tied in banana leaf before boiling.
+Asham is parched corn that is ground and combined with brown sugar.
+Jackass corn is a sweet thin biscuit that is made from corn, and is hard to bite.
+Tamarind balls are candy made with the sticky flesh of the fruit, rolled with brown sugar into sweet and sour balls. A spicy version containing hot pepper can be made.
+Bustamante Backbone, also called Busta, stagga back or buss mi jaw, is a toffee-like candy named after Jamaica's first Prime Minister Alexander Bustamante. It is made with brown sugar, coconut, ginger and molasses, and can also include coffee, vanilla and lime juice.
+
+Jamaican food abroad
+Jamaican cuisine is available throughout North America, the United Kingdom, and other places with a sizeable Jamaican population or descendants, such as coastal Central America and the Caribbean. Jamaican food can be found in other regions, and popular dishes often appear on the menus of non-Jamaican restaurants.
+In the United States, numerous restaurants are located throughout New York's boroughs, Atlanta, West Palm Beach, Fort Lauderdale, Washington DC, Philadelphia, and other metropolitan areas. In Canada, Jamaican restaurants can be found in the Toronto metropolitan area, as well as Vancouver, Montreal, and Ottawa.
+Golden Krust Caribbean Bakery & Grill is a chain of about 120 franchised restaurants found throughout the U.S., which sells Jamaican patties, buns, breads, and other popular Jamaican dishes. They also supply food to several institutions in New York. Juicy Patties, one of Jamaica's first patty companies to be established, has also expanded to other regions.
+
+Other cuisines in Jamaica
+International cuisines have been introduced and blended with Jamaican cuisine,
+due to waves of migration from other parts of the world, tourism, the growth of the restaurant and hotel industries, the establishment of businesses (including eateries) by foreigners in Jamaica, and the exposure of locals and the diaspora, particularly Jamaican chefs, to international gastronomy and culinary practices. As such, other cuisines like Latin, Japanese, Korean, Thai, Italian, Greek, French, Spanish, Mediterranean and American cuisines can be found in Jamaica. It is common to find fusion restaurants across the island offering blends of Jamaican foods and beverages with dishes from other cuisines. An array of fusion dishes are created on the island, especially in eateries and hotels, like Jamaican-style tacos, tapas, soul food, pastas, pizzas, calzone (called "pizza patty"), tostadas, paninis, burgers, quesadillas, salads, crêpes, waffles, frittatas, cocktails, desserts and a variety of international epicurean dishes.
+
+See also
+Caribbean cuisine
+Ital
+
+References
+External links
+ Media related to Cuisine of Jamaica at Wikimedia Commons
+
+## List of museums in Jamaica
+A list of museums in Jamaica.
+
+Bank of Jamaica Currency Museum
+Bob Marley Mausoleum
+Bob Marley Museum
+Bustamante Museum
+Cecil Charlton Park
+Firefly Estate
+Fort Charles Museum
+Fort Charlotte
+Fort George
+Fort Haldane
+Jamaica Music Museum
+Hanover Museum
+Liberty Hall: The Legacy of Marcus Garvey
+[Michael Manley Foundation]
+Military Museum
+Museum of St. James
+National Gallery of Jamaica
+Natural History Museum of Jamaica
+Peoples’ Museum of Craft and Technology
+Peter Tosh Museum
+Sir Noël Coward Museum
+Taino Museum of the First Jamaicans
+Trench Town Culture Yard

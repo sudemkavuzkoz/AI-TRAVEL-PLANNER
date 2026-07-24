@@ -1,0 +1,439 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Ghana
+FILE_NAME: country_ghana.txt
+PROCESSED_DATE: 2026-07-22 15:46:12
+----------------
+
+# Ghana
+
+## General Overview
+Ghana (  GAH-nə), officially the Republic of Ghana, is a country in West Africa. It is situated with the Gulf of Guinea and the Atlantic Ocean to the south, and shares borders with Ivory Coast to the west, Burkina Faso to the north, and Togo to the east. Ghana covers an area of 239,567 km2 (92,497 sq mi), spanning various ecologies, from coastal savannas to tropical rainforests. With over 35 million inhabitants, Ghana is ranked the thirteenth-most populous country in Africa, and the second-most populous country in West Africa. The capital and most populous city is Accra.
+The earliest kingdoms to emerge in Ghana were Bonoman in the south and the Kingdom of Dagbon in the north, with Bonoman existing in the area during the 11th century. The Asante Empire and other Akan kingdoms in the south emerged over the centuries. Beginning in the 15th century, the Portuguese Empire, followed by other European powers, contested the area for trading rights, until the British ultimately established control of the coast by the 19th century. Following more than a century of colonial resistance, the later borders of the country took shape, encompassing four separate British colonial territories: Gold Coast, Ashanti, the Northern Territories, and British Togoland. These were unified as an independent dominion within the Commonwealth of Nations. On 6 March 1957, Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty. Under President Kwame Nkrumah, it became influential in decolonisation efforts and the Pan-African movement.
+Ghana is a multi-ethnic country with various linguistic and religious groups; while the Akan are the largest ethnic group, they constitute a plurality. Most Ghanaians are Christians (71.3%); almost a fifth are Muslims; a tenth practise traditional faiths or report no religion. Ghana is a unitary constitutional democracy led by a president who is head of state and head of government. For political stability in Africa, it ranked seventh in the 2022 Ibrahim Index of African Governance and fifth in the 2024 Fragile States Index. Ghana is a founding member of the Non-Aligned Movement and the African Union, and a member of the United Nations, South Atlantic Peace and Cooperation Zone, Economic Community of West African States, the Group of 24 and the Commonwealth of Nations.
+
+Etymology
+Empire of Ghana
+The name Ghana comes from Wagadu, an empire in west Africa from the 3rd to 12th centuries; Wagadu was termed Ghana by Arab traders involved in the trans-Saharan trade. Ghana is thought to originate from the title Kaya Maghan of the rulers of Wagadu, which translates as ruler of gold.
+
+Adoption in precolonial scholarship
+The earliest attempt to associate the peoples of the Gold Coast with ancient Ghana had been made by Rev. J. B. Anaman around the turn of the 20th century. Anaman drew on D. W. Cooley's 19th-century interpretation of Arabic geographical sources to make an argument for a historical connection, suggesting an alternative derivation connecting the name to the Wangara.  Lady Flora Shaw later compiled both Arabic and European writings to create detailed narratives of the kingdom. She presented it as a major African power comparable to contemporary Western European states.
+According to Jack Goody, the theory that the Akan peoples originated from the medieval Empire of Ghana was continuously promoted through the teachings of Rev. W. T. Balmer between 1907 and 1911, who instructed students that the Akan had migrated from the ancient kingdom located near the Upper Niger. Goody states that Balmer's hypothesis lacked linguistic and historical evidence, yet it later became influential among educated elites and nationalist intellectuals.
+The hypothesis gained more popularity when it was introduced into educational institutions, primarily in Achimota, during the 1920s where it later spread to other schools. The theory was later publicized by J. B. Danquah's academic writings; he used Arabic and French translations to claim that the Akan migrated from the Upper Niger region. Danquah proposed that the term Ghana was a corruption of Akane or Akana and associated it with the ancient region of Akkad. Eva L. R. Meyerowitz expanded this rhetoric through a series of publications that sought to reconstruct early history. She claimed that Akan origins and culture came from areas in the Sahara and the Near East, and argued that Akan culture was not mainly black African, but could instead be considered Libya-Berber or connected to Mediterranean or Near Eastern cultures.
+
+National acceptance and symbolic meaning
+By the period leading to independence, the name "Ghana" was accepted and adopted as a symbol of precolonial prestige, cultural unity, and national legitimacy.
+
+Geography
+Ghana lies on the Gulf of Guinea in West Africa, a few degrees north of the Equator. It covers 238,540 km2 (92,101 sq mi) and has an Atlantic coastline of about 560 kilometres (350 miles). It is situated between latitudes 4°45′N and 11°N, and longitudes 1°15′E and 3°15′W. The Prime Meridian passes through Tema, near Accra, making Ghana the country closest to the intersection of the Prime Meridian and the Equator (0°, 0°), located offshore in the Atlantic.
+Grasslands mixed with south coastal shrublands and forests dominate Ghana, with forest extending northward from the coast 320 kilometres (200 miles) and eastward for a maximum of about 270 kilometres (170 miles) with locations for mining of industrial minerals and timber. Ghana is home to five terrestrial ecoregions: Eastern Guinean forests, Guinean forest–savanna mosaic, West Sudanian savanna, Central African mangroves, and Guinean mangroves.
+The White Volta River and its tributary Black Volta, flow south through Ghana to Lake Volta, the world's third-largest reservoir by volume and largest by surface area, formed by the hydroelectric Akosombo Dam, completed in 1965. The Volta flows out of Lake Volta into the Gulf of Guinea. The northernmost part of Ghana is Pulmakong and the southernmost part of Ghana is Cape Three Points.
+Ghana consists of low coastal plains, forested hills in the centre, and savanna in the north. Its main geographical units are: the Coastal Plain along the Gulf of Guinea, the Ashanti uplands in the centre, the Volta Basin in the east, which is dominated by Lake Volta, and the Northern Plains stretching to Burkina Faso. The highest point is Mount Afadja (885 m) in the Akwapim-Togo Range. The northernmost settlement in Ghana is Pulmakong near the Burkina Faso border, while the southernmost point is Cape Three Points.
+
+Climate
+The climate of Ghana is tropical, and there is wet season and dry season. Ghana sits at the intersection of three hydro-climatic zones. The eastern coastal belt is warm and comparatively dry, the south-west corner of Ghana is hot and humid, and the north of Ghana is hot and dry.
+Climate change in Ghana has impacts on the people of Ghana. Increasing temperatures and changes in rainfall, extreme weather, drought, wild fires, floods and sea-level rise are expected to negatively affect the country's infrastructure, hydropower production, food security, water supply, and coastal and agricultural livelihoods such as farming and fisheries. Ghana's economy will be impacted by climate change, due to its dependence on climate-sensitive sectors such as agriculture, energy, and forestry. Diseases like malaria, dengue fever and cholera are predicted to increase due to changes in water conditions. Ghana signed the Paris Agreement in 2016. It aims to avoid 64 million metric tons of greenhouse gas emissions by 2030, compared to a business-as-usual scenario for 2020–2030. Ghana has committed to net zero by 2060.
+
+History
+Medieval kingdoms
+The earliest kingdoms to emerge in Ghana were Bonoman in the south and the Kingdom of Dagbon in the north, with Bonoman existing in the area during the 11th century. From the 17th century, Akan states began to emerge from what is believed to have been the Bonoman area, mainly based on gold trading. These states included Bonoman (Brong-Ahafo region), Adansi and Asante (Ashanti Region), Denkyira (Western North region), Mankessim Kingdom (Central region), Akyem and Akwamu (Eastern region). By the 19th century, the territory of the southern part of Ghana was included in the Asante Kingdom. The government of the Ashanti Empire operated first as a loose network and eventually as a centralised kingdom with a specialised bureaucracy centred in the capital city of Kumasi. Prior to Akan contact with Europeans, the Akan people created an economy based on principally gold and gold bar precious metals, which were traded with other states in Africa.
+The Ga-Dangme migrated westward from south-western Nigeria. The Ewe, formerly known as Dogbo, migrated from Ketu (Benin) area with their Gbe-speaking kinsmen (Adja, Fon, Phla/Phera and Ogun/Gun) and, in transition, settled at Tado in Togo, and Dogbo Nyigbo in Benin Republic, with Nortsie (a walled town in what later is Togo) as their final dispersal point. Their dispersal from Nortsie was necessitated by the high-handed rule of King Agorkorli (Agɔ Akɔli), who was the reigning monarch of the tribe at that time. The Ewe in Ghana speak three principal dialects: Anlo (along the coast), Tongu (along the Volta River) and Ewedome (in the hill country side). The Ga-Dangme occupy the Greater Accra Region and parts of the Eastern Region, while the Ewe are found in the Volta Region and the neighbouring Togo, Benin Republic and Nigeria (around Badagry area).
+
+European contact and colonialism
+Akan trade with European states began after contact with the Portuguese in the 15th century. European contact was by the Portuguese people, who came to the Gold Coast region in the 15th century to trade. The Portuguese then established the Portuguese Gold Coast (Costa do Ouro), focused on the availability of gold. The Portuguese built a trading lodge at a coastal settlement called Anomansah ("the perpetual drink"), which they renamed São Jorge da Mina. In 1481, King John II of Portugal commissioned Diogo de Azambuja to build Elmina Castle, which was completed in three years. By 1598, the Dutch had joined the Portuguese in the gold trade, establishing the Dutch Gold Coast (Nederlandse Bezittingen ter Kuste van Guinea – "Dutch properties at the Guinea coast") and building forts at Fort Komenda and Kormantsi. In 1617, the Dutch captured Elmina Castle from the Portuguese and Axim in 1642 (Fort St Anthony).
+European traders had joined in gold trading by the 17th century, including the Swedes, establishing the Swedish Gold Coast (Svenska Guldkusten), and Denmark–Norway, establishing the Danish Gold Coast (Danske Guldkyst or Dansk Guinea). European traders participated in the Atlantic slave trade in this area. More than 30 forts and castles were built by the merchants. The Germans established the Brandenburger Gold Coast or Groß Friedrichsburg. In 1874, Great Britain established control over some parts of the country, assigning these areas the status of the British Gold Coast. Military engagements occurred between the British colonial powers and Akan nation-states. The Kingdom of Ashanti defeated the British some times in the 100-year-long Anglo-Ashanti wars and eventually lost with the War of the Golden Stool in 1900.
+
+Transition to independence
+In 1947, the United Gold Coast Convention led by "The Big Six" called for "self-government within the shortest possible time." Following the 1946 Gold Coast legislative election, Kwame Nkrumah, a Ghanaian nationalist who led Ghana from 1957 to 1966 as the country's first prime minister and president, formed the Convention People's Party in 1949 with the motto "self-government now". The party initiated a "positive action" campaign involving non-violent protests, strikes and non-cooperation with the British authorities. Nkrumah was arrested and sentenced to one year imprisonment during this time. In the Gold Coast's 1951 general election, he was elected to Parliament and was released from prison. 
+At midnight on 6 March 1957, the Gold Coast, Ashanti, the Northern Territories, and British Togoland were unified as one single independent dominion within the British Commonwealth under the name Ghana. This was done under the Ghana Independence Act 1957. The flag of Ghana, consisting of the colours red, gold, green, and a black star, dates back to this unification. On 1 July 1960, following the Ghanaian constitutional referendum and Ghanaian presidential election, Nkrumah declared Ghana a republic and assumed the presidency. The nation's Independence Day is 6 March, and 1 July is celebrated as Republic Day.
+Nkrumah led an authoritarian regime in Ghana, repressing political opposition and conducting elections that were not  free and fair. In 1964, a constitutional amendment made Ghana a one-party state, with Nkrumah as president for life of the nation and its party. Nkrumah was the first African head of state to promote the concept of Pan-Africanism, which he had been introduced to during his studies at Lincoln University, Pennsylvania in the United States, at the time when Marcus Garvey was known for his "Back to Africa Movement". He merged the teachings of Garvey, Martin Luther King Jr. and the naturalised Ghanaian scholar W. E. B. Du Bois into the formation of 1960s Ghana. Osagyefo Dr. Kwame Nkrumah, as he became known, played a part in the founding of the Non-Aligned Movement, and in establishing the Kwame Nkrumah Ideological Institute to teach his ideologies of communism and socialism. His life achievements were recognised by Ghanaians during his centenary birthday celebration, and the day was instituted as a public holiday in Ghana (Founders' Day).
+
+Operation Cold Chop and aftermath
+The government of Nkrumah was subsequently overthrown in a coup by the Ghana Armed Forces, codenamed "Operation Cold Chop". This occurred while Nkrumah was abroad with Zhou Enlai in the People's Republic of China, on a mission to Hanoi, Vietnam, to help end the Vietnam War. The coup took place on 24 February 1966, led by Colonel Emmanuel Kwasi Kotoka and Brigadier Akwasi Afrifa. The National Liberation Council was formed, chaired by Lieutenant General Joseph A. Ankrah.
+A series of alternating military and civilian governments, mostly affected by economic instabilities, ruled Ghana from 1966, ending with the ascent to power of Flight Lieutenant Jerry John Rawlings of the Provisional National Defence Council in 1981. These changes resulted in the suspension of the constitution in 1981 and the banning of political parties. The economy declined, so Rawlings negotiated a structural adjustment plan, changing some economic policies, and growth recovered during the 1980s. A new constitution restoring multi-party system politics was promulgated in the presidential election of 1992, in which Rawlings was elected, and again in the general election of 1996.
+In a tribal war in Northern Ghana in 1994, between the Konkomba and other ethnic groups, including the Nanumba, Dagomba and Gonja, between 1,000 and 2,000 people were killed and 150,000 people were displaced.
+
+After the 2000 general election, John Kufuor of the New Patriotic Party became president of Ghana on 7 January 2001 and was re-elected in 2004, thus also serving two terms (the term limit) as president of Ghana and marking the first time under the fourth republic that power was transferred from one legitimately elected head of state and head of government to another.
+Nana Akufo-Addo, the ruling party candidate, was defeated in the 2008 general election by John Atta Mills of the National Democratic Congress. Mills died of natural causes and was succeeded by Vice President John Mahama on 24 July 2012. Following the 2012 general election, Mahama became president in his own right, and Ghana was described as a "stable democracy". As a result of the 2016 general election, Nana Akufo-Addo became president on 7 January 2017. He was re-elected after the 2020 election. John Mahama is later the president after being elected again in 2024, by beating Mahamudu Bawumia by the 4th largest margin since 1992. 
+To combat deforestation, on 11 June 2021, Ghana inaugurated Green Ghana Day, with the aim of planting five million trees.
+
+Politics
+Ghana is a unitary presidential constitutional democracy with a parliamentary multi-party system that is dominated by two parties—the National Democratic Congress (NDC) and the New Patriotic Party (NPP). Ghana alternated between civilian and military governments until January 1993, when the military government gave way to the Fourth Republic of Ghana after presidential and parliamentary elections in late 1992. The 1992 constitution of Ghana divides powers among a commander-in-chief of the Ghana Armed Forces (President of Ghana), parliament (Parliament of Ghana), cabinet (Cabinet of Ghana), council of state (Ghanaian Council of State), and an independent judiciary (Judiciary of Ghana). The government is elected by universal suffrage after every four years.
+The 2012 Fragile States Index indicated that Ghana is ranked the 67th-least fragile state in the world and the fifth-least fragile state in Africa. Ghana ranked 112th out of 177 countries on the index. Ghana ranked as the 64th-least corrupt and politically corrupt country in the world out of all 174 countries ranked and ranked as the fifth-least politically corrupt country in Africa out of 53 countries in the 2012 Transparency International Corruption Perception Index. Ghana was ranked seventh in Africa out of 53 countries in the 2012 Ibrahim Index of African Governance. The Ibrahim Index is a comprehensive measure of African government, based on variables that reflect the success with which governments deliver essential political goods to its citizens. According to 2023 V-Dem Democracy indices Ghana is ranked 67th electoral democracy worldwide and 10th electoral democracy in Africa.
+
+Foreign relations
+Since independence, Ghana has been devoted to ideals of nonalignment and is a founding member of the Non-Aligned Movement. Ghana favours international and regional political and economic co-operation, and is an active member of the United Nations and the African Union.
+Three U.S. presidents have made diplomatic trips to Ghana (Bill Clinton, George W. Bush and Barack Obama), along with a Vice President (Kamala Harris). Some Ghanaian diplomats and politicians hold positions in international organisations, including Ghanaian diplomat and former Secretary-General of the United Nations Kofi Annan, International Criminal Court Judge Akua Kuenyehia, and former President Jerry John Rawlings and former President John Agyekum Kufuor, who both served as diplomats of the United Nations.
+In September 2010, President John Atta Mills visited China on an official visit. Mills and then-general secretary of the Chinese Communist Party Hu Jintao marked the 50th anniversary of diplomatic ties between the two nations, at the Great Hall of the People. China reciprocated with an official visit in November 2011, by the vice-chairman of the Standing Committee of the National People's Congress of China, Zhou Tienong who visited Ghana and met with Ghana's president John Mahama. China became one of the top investing countries of Ghana, which predominantly focus on infrastructure, natural resources, and the manufacturing sector, have promoted economic growth, job creation, and technology transfer in Ghana. Concerns regarding the sustainability of Chinese-financed projects, environmental impacts, and the lack of transparency in their investments call for a careful assessment of these collaborations. Iranian President Mahmoud Ahmadinejad met with Mahama in 2013 to hold discussions on strengthening the Non-Aligned Movement and also co–chair a bilateral meeting between Ghana and Iran at the Ghanaian presidential palace Flagstaff House.
+The Sustainable Development Goals (SDG) were integrated into Ghana's development agenda and the budget. According to reports, the SDGs were implemented through a decentralized planning approach. This allows for stakeholders' participation, such as in UN agencies, traditional leaders, civil society organizations, academia, and others. The 17 SDGs are a global call to action to end poverty among others, and the UN and its partners in the country are working towards achieving them. According to the President Nana Akufo-Addo, Ghana was "the first Sub-Saharan African country to achieve the goal of halving poverty, as contained in Goal 1 of the Millennium Development Goals".
+
+Military
+In 1957, the Ghana Armed Forces (GAF) consisted of its headquarters, support services, three battalions of infantry and a reconnaissance squadron with armoured vehicles. President Nkrumah aimed at rapidly expanding the GAF to support the United States of Africa ambitions. Thus, in 1961, 4th and 5th Battalions were established, and in 1964 6th Battalion was established, from a parachute airborne unit originally raised in 1963. Today, Ghana is a regional power and regional hegemon. In his book Shake Hands with the Devil, Canadian Forces commander Roméo Dallaire highly rated the GAF soldiers and military personnel.
+The military operations and military doctrine of the GAF are conceptualised in the constitution, Ghana's Law on Armed Force Military Strategy, and Kofi Annan International Peacekeeping Training Centre agreements to which GAF is attestator. GAF military operations are executed under the auspices and imperium of the Ministry of Defence. Ghana has experienced political violence in the past and 2017 has thus far seen an upward trend in incidents motivated by political grievances.
+
+Law enforcement
+The Ghana Police Service and the Criminal Investigation Department are the main law enforcement agencies, responsible for the detection of crime, maintenance of law and order and the maintenance of internal peace and security. The Ghana Police Service has eleven specialised police units, including a Militarized police Rapid deployment force and Marine Police Unit. The Ghana Police Service operates in 12 divisions: ten covering the regions of Ghana, one assigned specifically to the seaport and industrial hub of Tema, and the twelfth being the Railways, Ports and Harbours Division. The Ghana Police Service's Marine Police Unit and Division handles issues that arise from the country's offshore oil and gas industry.
+
+The Ghana Prisons Service and the sub-division Borstal Institute for Juveniles administers incarceration. The new sustainable development goals adopted by the United Nations call for the international community to come together to promote the rule of law; support equal access to justice for all; reduce corruption; and develop effective, accountable, and transparent institutions at all levels.
+Ghana is used as a key narcotics industry transshipment point by traffickers, usually from South America and some from other African nations. In 2013, the UN chief of the Office on Drugs and Crime stated that "West Africa is completely weak in terms of border control and the big drug cartels from Colombia and Latin America have chosen Africa as a way to reach Europe." The social context within which narcotic trafficking, storage, transportation, and repacking systems exist in Ghana and the state's location along the Gulf of Guinea makes Ghana a more attractive country for the narcotics business. The Narcotics Control Board has impounded container ships at the Sekondi Naval Base in the Takoradi Harbour. These ships were carrying thousands of kilograms of cocaine, with a street value running into billions of Ghana cedis. Drug seizures saw a decline in 2011. Drug cartels are using new methods in narcotics production and narcotics exportation, to avoid Ghanaian security agencies. Underdeveloped institutions, porous open borders, and the existence of established smuggling organisations contribute to Ghana's position in the narcotics industry. President Mills initiated ongoing efforts to reduce the role of airports in Ghana's drug trade.
+
+Human rights
+Homosexual acts are prohibited by law in Ghana. According to a 2013 survey by the Pew Research Center, 96% of Ghanaians believe that homosexuality should not be accepted by society. In 2026 further laws were introduced creating a duty to report homosexual acts and to criminalise "supporters" of LGBTQ+ people. Sometimes elderly women in Ghana are accused of witchcraft, particularly in rural Ghana. Issues of witchcraft mainly remain as speculations based on superstitions within families. In some parts of northern Ghana witch camps exist. These are said to house a total of around 1,000 people accused of and ostracised for witchcraft. The Ghanaian government announced that it intended to close the camps. Over a decade later, in 2023, the Anti-Witchcraft bill passed in parliament, to address accusations and the social impacts of being accused of being a witch, and the president refused to sign it into law. The legislation was reintroduced in 2025.
+
+Economy
+Ghana possesses industrial minerals, hydrocarbons and precious metals. It is an emerging designated digital economy with mixed economy hybridisation and an emerging market. It has an economic plan target known as the "Ghana Vision 2020". This plan envisions Ghana as the first African country to become a developed country between 2020 and 2029 and a newly industrialised country between 2030 and 2039. This excludes fellow Group of 24 member and Sub-Saharan African country South Africa, which is a newly industrialised country.
+Ghana's economy has ties to the Chinese yuan renminbi along with Ghana's gold reserves. In 2013, the Bank of Ghana began circulating the renminbi throughout Ghanaian state-owned banks and to the Ghana public as hard currency along with the national Ghanaian cedi for second national trade currency.
+Between 2012 and 2013, 38% of rural dwellers were experiencing poverty whereas 11% of urban dwellers were. Urban areas hold greater opportunity for employment, particularly in informal trade, while 94% of "rural poor households" participate in the agricultural sector.
+The Volta River Authority and the Ghana National Petroleum Corporation, both state-owned, are the two major electricity producers. The Akosombo Dam, built on the Volta River in 1965, along with the Bui Dam, the Kpong Dam and other hydroelectric dams, provide hydropower. 
+The Ghana Stock Exchange is the fifth largest on continental Africa and third largest in sub-Saharan Africa, having a market capitalisation of GH¢ 57.2 billion or CN¥180.4 billion in 2012, with the South Africa JSE Limited ranked first. The Ghana Stock Exchange was the second best performing stock exchange in Sub-Saharan Africa in 2013.
+Ghana produces cocoa. It is the second largest producer of cocoa globally and its ICCO membership helps in its international cocoa trade. Ghana is classified as a middle-income country. Services account for 50% of GDP, followed by manufacturing (24.1%), extractive industries (5%), and taxes (20.9%).
+Ghana's economy is characterized by a growing manufacturing sector and the export of digital technology products. The country is also engaged in the assembly and export of automobiles and ships. Ghana's economy benefits from a range of resource-rich exports, including industrial minerals and agricultural products, with cocoa being a primary commodity. The nation is a producer and exporter of petroleum and natural gas.
+The information and communications technology (ICT) sector plays a role in Ghana's industrial landscape, with companies such as Rlg Communications, a state-affiliated digital technology corporation, leading in the production of tablet computers, smartphones, and consumer electronics.
+Urban electric cars have been manufactured in Ghana since 2014.
+Ghana announced plans to issue government debt by way of social and green bonds in autumn of 2021, making it the first African country to do so. The country, which was planning to borrow up to $5 billion in international markets, would use the proceeds from these sustainable bonds to refinance debt used for social and environmental projects and pay for educational or health. The country will use the proceeds to forge ahead with a free secondary-school initiative started in 2017 among other programs, while having recorded its lowest economic growth rate in 37 years in 2020.
+
+Ghana produces and exports hydrocarbons such as sweet crude oil and natural gas. The 100%-state-owned filling station company, Ghana Oil Company, is the number one petroleum and gas filling station, and the 100%-state-owned state oil company Ghana National Petroleum Corporation oversees hydrocarbon exploration and production of petroleum and natural gas reserves. Ghana aims to further increase the output of oil to 2.2 million barrels (350,000 m3) per day and gas to 34,000,000 cubic metres (1.2×10^9 cu ft) per day. The Jubilee Oil Field, which contains up to 3 billion barrels (480,000,000 m3) of sweet crude oil, was discovered in 2007. Ghana is believed to have up to 5 billion barrels (790,000,000 m3) to 7 billion barrels (1.1×109 m3) of petroleum in reserves, which is the fifth-largest in Africa and the 21st-to-25th-largest proven reserves in the world. It also has up to 1.7×1011 cubic metres (6×10^12 cu ft) of natural gas in reserves. The government has drawn up plans to nationalise petroleum and natural gas reserves to increase government revenue.
+In 2015, Ghana produced 88 metric tonnes of gold as per the Our World in Data report. As of 2019, Ghana was the 7th largest producer of gold in the world, producing ~140 tonnes that year. This record saw Ghana surpass South Africa in output for the first time, making Ghana the largest gold producer in Africa. In addition to gold, Ghana exports silver, timber, diamonds, bauxite, and manganese, and has other mineral deposits. Ghana ranks 9th in the world in diamond export and reserve size. The government has drawn up plans to nationalize mining industry to increase government revenue.
+"Shortages" of electricity in 2015 and 2016 led to dumsor ("persistent, irregular and unpredictable" electric power outages), increasing the interest in renewables. As of 2019, there is a surplus of electricity.
+The judicial system of Ghana deals with corruption, economic malpractice and lack of economic transparency. According to Transparency International's Corruption Perceptions Index of 2018, out of 180 countries, Ghana was ranked 78th, with a score of 41 on a scale where a 0–9 score means highly corrupt, and a 90–100 score means very clean. This was based on perceived levels of public sector corruption.
+
+Science and technology
+Ghana launched a cellular mobile network in 1992. It was later connected to the Internet and introduced ADSL broadband services.
+Ghana was ranked 101st in the Global Innovation Index in 2025.
+The Ghana Space Science and Technology Centre (GSSTC) and Ghana Space Agency (GhsA) oversee space exploration and space programmes. GSSTC and GhsA worked to have a national security observational satellite launched into orbit in 2015. Ghana's annual space exploration expenditure has been 1% of its GDP, to support research in science and technology. In 2012, Ghana was elected to chair the Commission on Science and Technology for Sustainable Development in the South (Comsats); Ghana has a joint effort in space exploration with the South African National Space Agency.
+
+Tourism
+In 2011, tourists visiting Ghana numbered 1,087,000, with arrivals including South Americans, Asians, Europeans, and North Americans. Among the attractions and tourist destinations are waterfalls such as Kintampo waterfalls and the largest waterfall in west Africa, Wli waterfalls, the coastal palm-lined sandy beaches, caves, mountains, rivers, and reservoirs and lakes such as Lake Bosumtwi and the largest human-made lake in the world by surface area, Lake Volta, dozens of forts and castles, World Heritage Sites, nature reserves and national parks. Castles include Cape Coast Castle and the Elmina Castle. Castles mark where blood was shed in the slave trade and preserve and promote the African heritage stolen and destroyed through the slave trade. The World Heritage Convention of UNESCO named Ghana's castles and forts as World Heritage Monuments: "The Castles and Forts of Ghana shaped not only Ghana's history but that of the world over four centuries as the focus of first the gold trade and then the slave trade. They are a significant and emotive symbol of European–African encounters and of the starting point of the African Diaspora."
+The World Economic Forum statistics in 2010 showed that out of the world's favourite tourist destinations, Ghana was ranked 108th out of 139 countries. The country had moved two places up from the 2009 rankings. In 2011, Forbes magazine published that Ghana was ranked the 11th most friendly country in the world. The assertion was based on a survey in 2010 of a cross-section of travellers. Of all the African countries that were included in the survey, Ghana ranked highest. Tourism is the fourth highest earner of foreign exchange for the country. In 2024, Ghana ranked as the 55th most peaceful country in the world.
+Up and down the coastline, surfing spots have been identified and cultivated by locals and internationals. Surfers have made trips to the country to sample the waves. Surfers carried their boards amid traditional fishing vessels.
+According to Destination Pride, Ghana's Pride score is 22 (out of 100).
+
+Demographics
+As of 2024, the United Nations reports Ghana has a population of 34,581,288. As of 2018, around 29% of the population is under the age of 15, while persons aged 15–64 make up 57.8% of the population. The 2010 census reported that the largest ethnic groups are the Akan (47.3%), the Mole-Dagbani (18.5%), the Ewe (13.9%), the Ga-Dangme (7.4%), the Gurma (5.7%) and the Guan (3.7%). As of 2024, the United Nations reports the median age of Ghanaian citizens is 21 years old. Ghana contributes 0.42% to the total world population.
+With legal immigration of skilled workers who possess Ghana Cards, there is an increasing population of Chinese, Malaysian, Indian, Middle Eastern, American and European nationals and their descendants born in Ghana. In 2010, the Ghana Immigration Service reported economic migrants and undocumented immigrants inhabiting Ghana: 14.6% (or 3.1 million) of Ghana's 2010 population (mostly Nigerians, Burkinabe citizens, Togolese citizens, and Malian citizens). In 1969, under the "Ghana Aliens Compliance Order" enacted by then Prime Minister Kofi Abrefa Busia, the Border Guard Unit deported more than 3,000,000 aliens and undocumented immigrants in three months as they made up 20% of the population at the time. In 2013, there was a mass deportation of undocumented miners, more than 4,000 of whom were Chinese nationals.
+
+Languages
+English is the official language of Ghana. There are 11 languages that have the status of government-sponsored languages:
+
+Akan languages (Asante Twi, Akuapem Twi, Fante, which have a high degree of mutual intelligibility, and Nzema, which is less intelligible with the above)
+Dangme
+Ewe
+Ga
+Gonja
+Kasem
+Mole–Dagbani languages (Dagaare and Dagbanli)
+Of these, Asante Twi is the most widely spoken.
+Because Ghana is surrounded by French-speaking countries, French is also taught in schools and used for commercial and international economic exchanges. Hausa is most widely spoken in the northern part of Ghana especially among the Muslim communities. Since 2005, Ghana has been an associate member of the Organisation internationale de la Francophonie, the global organisation that unites French-speaking countries (84 nations on six continents). In 2005, more than 350,000 Ghanaian children studied French in schools. Since then, its status has been progressively updated to a mandatory language in every junior high school, and it is in the process of becoming an official language.
+Ghanaian Pidgin English, also known as Kru English (or in Akan, kroo brofo), is a variety of West African Pidgin English spoken in Accra and in the southern towns. It can be divided into two varieties, referred to as "uneducated" or "non-institutionalized" pidgin and "educated" or "institutionalized" pidgin, the former associated with uneducated or illiterate people and the latter acquired and used in institutions such as universities.
+
+Religion
+Christianity is the largest religion in Ghana, with 71.3% of the population being members of various Christian denominations as of the 2021 census. Islam is practiced by 16.8% of the total population. According to a 2012 report by Pew Research, 60.71% of Muslims are followers of Sunni Islam, while around 9.52% identify with Shia Islam, while the remainder 29.76% are non-denominational Muslims. There is "no significant link between ethnicity and religion in Ghana". Approximately 16% belong to the Ahmadiyya religion. Rest 8.7% are others.
+Ghana has around 150,000 Jehovah's Witnesses.
+The Grand Orange Lodge of Ghana is a Protestant fraternal organization within the Orange Order. The one governed by the Grand Lodge is The Loyal Leopold Lodge No. 907. It was founded in 1894 by a British colonial official, Dr. A. D. MacDonald. The lodge initially served as a social club for European administrators, military officers, and merchants. Over time, it began to admit local African members, which was a departure from the lodges in Ireland and Britain that were overwhelmingly white and Protestant. Its members participate in events and parades, including The Twelfth. They also are involved in community and charitable work.
+
+Health
+Ghana has a universal health care system, National Health Insurance Scheme (NHIS), which is strictly designated for Ghanaian nationals. Health care is variable throughout Ghana and in 2012, more than 12 million Ghanaian nationals were covered by the NHIS. Urban centres are served and contain most of the hospitals, clinics, and pharmacies. There are more than 200 hospitals, and Ghana is a destination for medical tourism. In 2010, there were 0.1 physicians per 1,000 people and as of 2011, 0.9 hospital beds per 1,000 people. In 2010, 5.2% of Ghana's GDP was spent on health. In 2020, the WHO announced Ghana became the second country in the WHO African Region to attain regulatory system "maturity level 3", the second-highest in the four-tiered WHO classification of National medicines regulatory systems.
+Life expectancy at birth in 2021 was 68.6 for a female and 63.7 for a male. In 2013, infant mortality was to 39 per 1,000 live births. Sources vary on life expectancy at birth; the World Health Organization (WHO) estimated 64 years for women and 62 years for men born in 2016. The fertility rate declined from 3.99 (2000) to 3.28 (2010) with 2.78 in urban region and 3.94 in rural region. The United Nations reports a fertility decline from 6.95 (1970) to 4.82 (2000) to 3.93 live births per woman in 2017.
+As of 2012, the HIV/AIDS prevalence was estimated at 1.40% among adults aged 15–49.
+
+Education
+The education system is divided into three parts: basic education, secondary cycle, and tertiary education. "Basic education" lasts 11 years (ages 4‒15). It is divided into kindergarten (two years), primary school (two modules of three years) and junior high (three years). Junior high school ends with the Basic Education Certificate Examination. Once certified, the pupil can proceed to the secondary cycle. Hence, the pupil has the choice between general education (offered by the senior high school) and vocational education (offered by the technical senior high school or the technical and vocational institutes). Senior high school lasts three years and leads to the West African Senior School Certificate Examination, which is a prerequisite for enrollment in a university bachelor's degree programme. Polytechnics are open to vocational students.
+A bachelor's degree requires four years of study. It can be followed by a one- or two-year master's degree programme, which can be followed by a PhD programme of at least three years. A polytechnic programme lasts two or three years. Ghana possesses colleges of education. Some of the universities are the University of Ghana, Kwame Nkrumah University of Science and Technology, and University of Cape Coast.
+There are more than 95% of children in school. The literacy rate of youth ages 15 to 24 years old was 81% in 2010, with males at 82%, and females at 80%. The education system annually attracts foreign students, particularly in the university sector.
+Ghana has a free education six-year primary school education system beginning at age 6. The government largely funds basic education comprising public primary schools and public junior high schools. Senior high schools were subsidised by the government until September 2017/2018 academic year that senior high education became free. At the higher education level, the government funds more than 80% of resources provided to public universities, polytechnics and teacher training colleges. As part of the Free Compulsory Universal Basic Education, Fcube, the government supplies all basic education schools with all their textbooks and other educational supplies, like exercise books. Senior high schools are provided with all their textbook requirements by the government. Private schools acquire their educational material from private suppliers.
+
+Culture
+Cuisine
+Ghanaian cuisine includes an assortment of soups and stews with varied seafoods; most Ghanaian soups are prepared with vegetables, meat, poultry or fish. Fish is in the diet with tilapia, roasted and fried whitebait, smoked fish and crayfish, all being components of Ghanaian dishes. Banku (akple) is a starchy food made from ground corn (maize), and cornmeal based staples kɔmi (kenkey) and banku (akple) may be accompanied by some form of fried fish (chinam) or grilled tilapia and a spicy condiment made from raw red and green chillies, onions and tomatoes (pepper sauce). Banku and tilapia is a combo served in some restaurants. Fufu is the most common exported Ghanaian dish and is a delicacy across the African diaspora. Rice is an established staple meal across the country, with various rice-based dishes serving as breakfast, lunch and dinner, the main variants are waakye, plain rice and stew (either kontomire or tomato gravy), fried rice and jollof rice.
+
+Clothing
+During the 13th century, Ghanaians developed their art of adinkra printing. Hand-printed and hand-embroidered adinkra clothes were made and used exclusively by royalty for devotional ceremonies. Each of the motifs that make up the corpus of adinkra symbolism has a name and meaning derived from a proverb, a historical event, human attitude, ethology, plant life-form, or shapes of inanimate and man-made objects. The meanings of the motifs may be categorised into aesthetics, ethics, human relations, and concepts. The Adinkra symbols have a decorative function as tattoos and also represent objects that encapsulate evocative messages that convey traditional wisdom, aspects of life, or the environment. There are symbols with meanings, with some linked with proverbs. In the words of Anthony Appiah, they were one of the means in a pre-literate society for "supporting the transmission of a complex and nuanced body of practice and belief". Kente cloth, the traditional or national cloth of Ghana, is worn by most southern Ghanaian ethnic groups, especially, the Akan Along with the adinkra cloth, Ghanaians use cloth fabrics for their traditional attire. The different ethnic groups have their own individual cloth. The most well known is the Kente cloth. Kente is a national costume and clothing, and these clothes are used to make traditional and modern Kente attire. Different symbols and colours mean different things. Kente is a ceremonial cloth hand-woven on a horizontal treadle loom and strips measuring about 4 inches wide are sewn together into larger pieces of cloths. Cloths come in various colours, sizes and designs and are worn during social and religious occasions. In a cultural context, kente is more important than just a cloth as it is a visual representation of history and also a form of written language through weaving. The term "kente" has its roots in the Akan word kɛntɛn, which means a basket, and the first kente weavers used raffia fibres to weave cloths that looked like kenten (a basket); and thus were referred to as kenten ntoma; meaning "basket cloth". Kente is also woven by the Ewe people (Ewe Kente) in the Volta Region. The main weaving centres are Agortime area and Agbozume. Agbozume has a kente market that attracts patrons from all over West Africa and the diaspora.
+
+Later Ghanaian fashion includes traditional and modern styles and fabrics and has made its way into the African and global fashion scene. The cloth known as African print fabric was created out of Dutch wax textiles. It is believed that in the 19th century, Dutch ships on their way to Asia stocked with machine-made textiles that mimicked Indonesian batik stopped at West African ports on the way. In West Africa—mainly Ghana where there was an already established market for cloths and textiles—the client base grew and it was changed to include local and traditional designs, colours and patterns to cater to the taste of the new consumers. Outside of Africa, it is called "Ankara", and has a client base beyond Ghana and Africa as a whole. It is present among Caribbean peoples and African Americans; celebrities such as Solange Knowles and her sister Beyoncé have been seen wearing African print attire. Designers from countries in North America and Europe use African prints. British luxury fashion house Burberry created a collection around Ghanaian styles. Ghanaian-British designer Ozwald Boateng introduced African print suits in his 2012 collection.
+
+Music and dance
+Music incorporates types of musical instruments such as the talking drum ensembles, Akan Drum, goje fiddle and koloko lute, court music, including the Akan Seperewa, the Akan atumpan, the Ga kpanlogo styles, and log xylophones used in asonko music. Afro-jazz — "the reuniting of African-American jazz with its African roots" — was created by Kofi Ghanaba. A form of secular music called highlife originated in the 19th and 20th centuries and spread throughout West Africa.
+In the 1990s, a genre of music was created incorporating the influences of highlife, Afro-reggae, dancehall and hip hop. This hybrid was called hiplife.
+There are dances for occasions. Dances for celebrations include the Adowa, Kpanlogo, Azonto, Klama, Agbadza, Borborbor and Bamaya. The Nana Otafrija Pallbearing Services, also known as the Dancing Pallbearers, were featured in a BBC feature story in 2017, and footage from the story became part of an Internet meme in the wake of the COVID-19 pandemic.
+
+Media
+Chapter 12 of the 1992 Constitution of Ghana guarantees freedom of the press and independence of the media, while Chapter 2 prohibits censorship. Post-independence, private outlets closed during the military governments, and media laws prevented criticism of government. Press freedoms were restored in 1992, and after the election in 2000 of Kufuor, the tensions between the private media and government decreased. Kufuor supported press freedom and repealed a libel law, and maintained that the media had to act responsibly. The media have been described as "one of the most unfettered" in Africa.
+
+Architecture
+There are two types of construction: the series of adjacent buildings in an enclosure around a common, and the round huts with grass roof. The round huts with grass roof architecture are situated in the northern regions, while the series of adjacent buildings are in the southern regions. Postmodern architecture and high-tech architecture buildings are in the southern regions, while heritage sites are evident in the more than 30 forts and castles in the country, such as Fort William and Fort Amsterdam. Ghana has museums that are situated inside castles, and two are situated inside a fort. The Military Museum and the National Museum organise temporary exhibitions.
+Ghana has museums that allow an in-depth look at specific regions, with a number of museums providing insight into the traditions and history of the geographical areas. The Cape Coast Castle Museum and St. George's Castle (Elmina Castle) Museum offer guided tours. The Museum of Science and Technology provides its visitors with a look into the domain of scientific development.
+
+See also
+Outline of Ghana
+
+References
+Further reading
+External links
+
+Country Profile from BBC News
+Ghana profile from ECOWAS
+News headline links from Al Jazeera
+ Wikimedia Atlas of Ghana
+Government
+
+Government of Ghana
+Parliament of Ghana
+National Commission on Culture
+Travel
+
+Official website of Visit Ghana
+
+## Tourism in Ghana
+Tourism in Ghana is regulated by the Ministry of Tourism, Arts & Culture. This ministry is responsible for the development and promotion of tourism related activities in Ghana.
+
+Tourist attractions and statistics
+Tourist arrivals to Ghana include visitors from South and Latin America, Asia and Europe.It has waterfalls such as Kintampo waterfalls and the Tagbo Falls along with palm-lined sandy beaches, caves, mountains, rivers, castles, forts, UNESCO World Heritage Sites, nature reserves and national parks.
+
+The World Economic Forum statistics in 2010 showed that Ghana was ranked 108th out of 139 countries as the world's favourite tourism destination. The country had moved two places up from the 2009 rankings. In 2011, Forbes Magazine, published that Ghana was ranked the eleventh-most friendly country in the world. The assertion was based on a survey conducted in 2010 of a cross-section of travelers. Of all the African countries that were included in the survey, Ghana ranked highest. Ghana ranks as the seventieth-most stable country in the world and as the 58th–most peaceful country in the world.
+In 2011, Ghana made $2.19 billion ($2,019,000,000) from the tourism sector, from an estimated 1.1 million international tourist arrivals. In 2012, Ghana's tourism sector made $1.7 billion from 993,600 international tourists, providing employment for 359,000 people. Ghana will annually make US$8.3 billion from the tourism sector per year by the year 2027, on the back of an estimated 4.3 million international tourist arrivals.
+To enter Ghana, it is necessary to have a visa authorized by the Government of Ghana, except for certain business incubators and business magnates who are on business trips.
+Ghana welcomed 1,288,804 international visitors in 2024, a 12% increase over 2023, according to the Ghana Tourism Authority's 2024 Tourism Report.
+
+Heritage tourism
+Heritage tourism in Ghana is led by a festival called the Pan-African Historical Festival or PANAFEST. The festival is a cultural event with the intention of increasing the notion of Pan-Africanism and African development. It consists of the festival itself as well as the celebration surrounding Emancipation Day. PANAFEST primarily takes place in two cities, Elmina and Cape Coast, which were the largest slave-trading forts in the nation. The festival takes place over eight to nine days and begins with a ceremonial wreath laying. Events during PANAFEST include carnival day, a journey of return from those located in other nations, Rita Marley's birthday, an academic lecture on the women and youth, a naming ceremony from people from the diaspora, and finally the "Reverential Night".
+PANAFEST is a direct manifestation of Ghanaian culture. It is also the appropriation of it and capitalization by the Rawlings administration. Indeed, Rawlings' developed international cultural festivals (including PANAFEST) are sources of income for Ghana.
+
+Appropriated beginnings
+Before the Jerry Rawlings administration in 1981, tourism in Ghana was not an effective source of income for the Ghanaian society and was thus a missed opportunity in helping to diversify the Ghanaian economy. The Rawlings administration appropriated the Ghanaian culture and used it as a source of revenue. Through the restoration of castles that were once used for the slave industry, establishment of public memorials honouring the "illustrious sons" of Ghana, coupled with encouragement from the government via incentives for private investments, the Rawlings administration was able to push tourism forward with the cost of capitalizing on Ghanaian culture.
+The tourist industry in Ghana is known to promote sustainable tourism that includes: cultural tourism, heritage tourism, recreational tourism, adventure tourism and event tourism. Cultural tourism focuses on festivals and events, whereas heritage tourism focuses on the history of the slave routes. Recreational tourism allows tourists to explore beaches and theme parks. Adventure tourism takes a look at rain forests and game parks, and event tourism focuses on resources and conferences.
+Many of the heritage tourism sites highlight the legacy of the African Diaspora and the social composition of communities. As a result, these studies have impacted the tourists' connection to the heritage tourism sites by providing cultural depth to their trading experience.
+
+Significance to national development
+Tourism is noted to be a significant contributor to Ghana's economic growth and development. For several years, Ghana has generated huge sums of revenue from the tourism sector; most especially during the 2019 Year of Return. Tourism generates foreign exchange earnings which boosts up the economy and also facilitates infrastructural development. This sector creates jobs and stimulates local/informal economies.
+
+Transportation and traveling in Ghana
+In Ghana, various methods of transportation are used by tourists. The Tro tro is one method of transportation that usually uses a minivan and are used to travel in Ghana. The "hurry cars" are private cars that have set destinations and wait for passengers that are going to the set destination of the hurry car. They are typically found by transport  stations and is definitely a more comfortable method of travel as opposed to a Tro Tro. The drivers of hurry cars will usually hold signs or give some type of information letting passengers know the destination they are set to go.
+Uber, Bolt and Yango are the major ride-hailing services available.
+
+Major tourist sites
+Aburi Botanical Gardens – Aburi Botanical Gardens features a diverse collection of tropical plants and is a popular spot for picnics and nature walks
+Kakum National Park – Kakum National Park offers opportunities for hiking and wildlife viewing in the rainforest
+Digya National Park  –  Digya National Park is home to a rich array of wildlife, including elephants, hippos, crocodiles, antelopes, monkeys, buffalo, warthogs, and numerous bird species.
+Mole National Park – Mole National Park is home to elephants, antelopes, baboons, and various bird species.
+Ankasa National park –  Ankasa National Park is home to an impressive array of wildlife, including various primate species, mammals, and numerous bird species, including the endangered yellow-headed picathartes.
+Cape Coast Castle – UNESCO World Heritage Site
+Elmina Castle – UNESCO World Heritage Site
+Nzulezo – UNESCO World Heritage Site
+Bonwire – home of Asante kente cloth
+Shai Hills Resource Reserve – a resource reserve
+Lake Bosomtwi – a natural lake
+Kintampo waterfalls – waterfalls
+Boabeng Fiema Monkey Sanctuary – village where monkeys are revered
+Larabanga Mosque – one of the oldest in Ghana
+Kwame Nkrumah Mausoleum – refurbished and reopened in July 2023
+Lake Volta
+Wli Waterfalls
+Paga Crocodile Pond
+National Museum of Ghana
+Fort Metal Cross
+W.E.B. Du Bois Memorial Center
+Ada Foah
+Tafi Atome Monkey Sanctuary
+
+Gallery
+See also
+Visa policy of Ghana
+Ghana's material cultural heritage
+Ministry of Tourism, Arts & Culture
+Transport in Ghana
+
+Notes and references
+External links
+ Ghana travel guide from Wikivoyage
+Ministry of Tourism, Arts & Culture
+K. Effah, "Ghana Named As One Of Top Travel Destinations", Yen.
+
+## Culture of Ghana
+Ghana is a country of 33.48 million people and many native groups, such as:
+
+The Akans in the center and South of the country,
+The Ga and Adangbe in, around, and East of Accra,
+The Guan people in the rainforest,
+The Dagombas, Mamprusi, and related peoples in the North,
+The Gurunsi languages speaking peoples in the far North,
+The Gonjas in the Northern Region.
+English is the official language, with the indigenous Twi of the Ashantis, the Fante language, and the Akwapem language (https://en.wikipedia.org/wiki/Akuapem_people), Frafra, Dangme, Ga, Dagbani, Mampruli, Gonja, and Ewe also having official status, and being taught in schools as indigenous (local) languages in the respective areas where they are predominant.
+
+People
+Akans
+The Akan people primarily live in Ghana, parts of Ivory Coast, and Togo. They are one of the few matrilineal societies in West Africa. The Akan matrilineal system continues to be economically and politically important. Each lineage controlled the land farmed by its members, functioned as a religious unit in the veneration of its ancestors, supervised marriages, and settled internal disputes among its members.
+Once renowned for their splendor and wealth, the Akan kings retained dignitary status after colonization. Celebration of the Akan kings lives on in the tradition of the Golden Stool. The Akan are noted for their expertise in several forms of craftwork, particularly their weaving, wood carving, ceramics, fertility dolls, metallurgy, and kente cloth). Traditional kente cloth is woven outdoors, exclusively by men, in complex patterns of bright, narrow strips. The manufacturing of many Akan crafts is restricted to male specialists. Pottery-making is the only craft that is primarily a female activity; men usually fashion pots or pipes depicting anthropomorphic or zoomorphic figures.
+The various Akan groups speak various dialects of the Akan language, a language rich in proverbs, the use of proverbs is considered a sign of wisdom. Euphemisms are also very common, especially concerning events connected with death.
+The coastal Akans were the first to have relations with Europeans during the "Scramble for Africa". As a result of this long association, these groups absorbed aspects of British culture and language. For example, it became customary among these peoples to adopt British surnames. The coastal Akans live predominantly in the Central Region and Western Region of Akanland.
+
+Ga-Adangbe
+The Ga-Adangbe people or simply Ga people (named for the common proto-Ga-Adangbe ancestral language) inhabit the Greater Accra Region. The Ga-Adangde have different but common languages, Ga, Krobo, Sh3, Osudoko, Shai, Gbugblaa, and Ada, Ningo to mention a few.  The Adangbe inhabit the eastern plain, while the Ga groups occupy the western portions of the Accra coastlands. Both languages are derived from a common root language, and modern Ga and Adangbe languages are still similar today.
+Despite the archeological evidence that proto-Ga-Adangbe-speakers relied on millet and yam cultivation, the modern Ga-Adangbe reside in what used to be fishing communities, and more than 75 percent of the Ga-Adangbe live in urban centers. The presence of major industrial, commercial, and governmental institutions in the city and towns, as well as the increasing migration of other people into the area, has not prevented the Ga people from maintaining aspects of their traditional culture, even though Twi is an important immigrant language in their lands.
+
+Dagomba
+The Dagomba speak the Dagbani language and live in the Kingdom of Dagbon. The kingdom is the earliest in Ghana. For centuries, the area inhabited by Dagomba peoples has been the scene of movements of people engaged in conquest, expansion, and north–south and east–west trade. Many terms from Arabic, Hausa, and Dyula are seen in the Dagbani language, due to the importance of trans-saharan trade and West African trade and the historic impact that the Islamic religion has had in the area. The Dagomba kingdom has a defined system of governance. The paramount chief of the Dagomba kingdom bears the title Ya-Naa. The system is  meritocratic and promotional. To become the Ya-Na, a candidate must usually have occupied one of the three "gate" skins: Karaga, Savelugu, or Mion. This "gate" system ensures that only experienced sub-chiefs ascend to the highest office.
+
+Ewé
+The Ewe people occupy southeastern Ghana and parts of neighboring Togo and Benin. The Ewe follow a patrilineal structure, meaning that the founder of a community becomes chief and is usually succeeded by his paternal relatives. Ewe religion is organized around a creator or deity, Mawu, and over 600 other deities. The Ewe are more traditionally inclined in terms of religion and belief. Many village celebrations and ceremonies take place in honor of one or more deities.
+Coastal Ewe depend on the fishing trade, while inland Ewe are usually farmers and keep livestock. The local variations in economic activities have led to craft specialization. The Ewe also weave kente cloth, often in geometrical patterns and symbolic designs that have been handed down through the ages.
+
+Role and status of women
+Women in pre-modern society were seen as bearers of children, retailers of fish, and farmers. Traditionally, women's childbearing abilities were perceived as a way for lineage ancestors to be reborn. In pre-colonial times, polygamy was encouraged, especially by wealthy men. In patrilineal societies, dowry received from marrying off daughters was traditionally seen as an acknowledgment to parents for raising their daughters well. In the last couple of decades, female gender roles have evolved tremendously. Ghanaian women now account for 43.1% of the working class in Ghana. Females have climbed to the upper leadership echelons of politics, career, business, and all other sectors. Notable political personalities include Joyce Bamford-Addo (Speaker of the 5th Session of the Parliament), Georgina Theodora Wood (Chief Justice) as well as multiple past and current political office holders.
+
+Festival
+The Akwasidae Festival (alternate, Akwasiadae) is celebrated by the Ashanti people and chiefs in Ashanti, as well as the Ashanti diaspora. The festival is celebrated on a Sunday, once every six weeks.
+The Panafest celebrates roots, and African Americans with roots from the region, often visit and celebrate their heritage. 
+Ashanti Yam Festival
+is observed for five days starting with a Tuesday, as dictated by the local chief priest. It marks the first harvest of yams during autumn, after the monsoon season. This festival has both religious and economic significance. Religiously, the festival is used to thank the gods and the ancestors for the new harvest and to traditionally outdoor the new yam.
+The Damba festival is celebrated by the people of Dagbon and other ethnic groups in Ghana. During this festival, there is a colorful and vibrant display of the Ghanaian Smock and other traditional dresses.
+Also, the Fire festival is celebrated during the first month of the Dagomba lunar calendar. This festival takes place at night and involves fire procession and drumming and dancing to war songs.
+When the first yam tubers are harvested, the people of Dagbon mark a ceremony to declare the opening of the yam season.
+
+Music
+There are three distinct types of music: ethnic or traditional music, normally played during festivals and at funerals; "highlife" music, which is a blend of traditional and 'imported' music; and choral music, which is performed in concert halls, churches, schools, and colleges.°
+
+Dance
+Each ethnic group has its traditional dances, with specific dances for different occasions. Some of these specific dances are meant for funerals, celebrations, storytelling, praise, and worship. There are various dances in Ghana performed by the sixteen regions across the country, most frequently during festivals and occasions such as funerals, marriage ceremonies, etc. These dances are performed to entertain and educate people. ( e.g. The 'Gome' dance, as performed by the Gas of the Greater Accra region of Ghana during the Homowo festival in August). Other dances in Ghana include Kpanlogo performed by the Gas, Agbadza by the Ewes, Adowa by the Akans, Bambaya by the Northerners, Patsa and Dbahsh by the Ga-Adangbes, and many others. Many dances have originated from Ghana and its ethnic groups.
+
+Customs
+Funerals and libations are poured. African time is practiced. Sexuality is not discussed in Ghana. Being Left handed is frowned upon.
+
+Superstition
+Black magic belief is strong.  Ghanaian churches openly promote the idea that disease and misfortune can be caused by supernatural forces. Superstition is so strong women who are accused of witchcraft are banished to Witch camps.
+
+Religion
+Ghana is a highly religious country where evangelical prophets are extremely popular.
+
+Cuisine
+The cuisine has diverse traditional dishes from each ethnic group. Generally, most dishes consist of a starchy portion, and a sauce or soup, with fish, snails, meat, or mushrooms.
+
+Sport
+Association football is the most popular sport in the country. The national men's football team is known as the Black Stars, with the under-20 team known as the Black Satellites. The under-17 team is known as the Black Starlets, while the national men's Olympic team is known as the Black Meteors. They have participated in many championships including the African Cup of Nations, the FIFA World Cup, and the FIFA U-20 World Cup.
+On October 16, 2009, Ghana became the first African nation to win the FIFA U-20 World Cup by defeating Brazil 4–3 in a penalty shootout. On June 13, 2010, Ghana defeated Serbia 1–0 in first-round play in the 2010 FIFA World Cup becoming the first African team to win a FIFA World Cup game hosted on African soil and subsequently became the only African team to progress from the group stage to the knock out phase at the 2010 event. On June 26, 2010, Ghana defeated the US by 2 goals to 1 in their round of 16 matches, becoming the third African country to reach the quarter-final stage of the World Cup after Cameroon in 1990 and Senegal in 2002.  A loss to Uruguay in Johannesburg on July 2, 2010, by a penalty shoot-out ended Ghana's attempt at reaching the semi-finals of the competition.
+While men's football is the most widely followed sport in Ghana, the national women's football team is gaining exposure, participating in the FIFA Women's World Cup and the CAF Women's Championship. The Ghana women's national football team is known as the Black Queens, while the Ghana national women's under-20 football team is called the Black Princesses.
+There are several club football teams in Ghana, which play in the Ghana Premier League and Division One league, both managed by the Ghana Football Association. Notable among these are Accra Hearts of Oak SC and Asante Kotoko, which play at the premier league level and are the dominant contenders in the tournament.
+Prominent football players recognized at the international level include Tony Yeboah, Michael Essien, Kevin-Prince Boateng, Emmanuel Agyemang-Badu, Abedi Pele, Asamoah Gyan, Anthony Annan, Quincy Owusu-Abeyie, John Pantsil, Samuel Osei Kuffour, Richard Kingson, Sulley Muntari, Laryea Kingston, Stephen Appiah, André Ayew, John Mensah and Dominic Adiyiah.
+Ghana is also the birthplace of World Wrestling Entertainment Wrestler Kofi Kingston (born Kofi Sarkodie-Mensah), who is wrestling on the Smackdown brand. Also is Kwame Nkrumah-Acheampong who competed in the Vancouver Winter Olympics. There have also been quite a few quality boxers produced such as Azumah Nelson a three-time world champion, Nana Yaw Konadu also a three-time world champion, Ike Quartey, as well as boxers Joshua Clottey and IBF bantamweight champion Joseph Agbeko.
+
+See also
+National Museum of Ghana
+
+References
+Sources
+Some of the information, where noted, was reproduced from Ghana: a Country Study edited by LaVerle Berry. Text and graphics contained in the online Country Studies are not copyrighted. They are considered to be in the public domain and thus available for free and unrestricted use. As a courtesy, however,  appropriate credit should be given to the series.
+
+External links
+National Commission on Culture (Ghana), Official Website
+Ghana: a Country Study
+People and Culture of Ghana Africa Guide
+Ghanaian Funerals and Design Coffin
+Traditional Krobo Beads
+Music in Ghana Music in Ghana.
+
+## Cuisine of Ghana
+Ghanaian cuisine refers to the typical meals of the Ghanaian people. The main dishes of Ghanaian cuisine are centered around starchy staple foods, accompanied by either a sauce or soup and a source of protein. The primary ingredients for the vast majority of soups and stews are tomatoes, hot peppers, onions, and some local species. As a result of these main ingredients, most Ghanaian jollof rice, soups, and stews appear red or orange.
+Ghanaian foods heavily rely on traditional food crops grown in Ghana, combined with crops introduced through colonial and globalized crops, gardens and cuisine.
+
+Main staple foods
+The typical staple foods in the southern part of Ghana include cassava and plantain. In the north, the main staple foods include millet and sorghum. Yam, maize, and beans are eaten across Ghana, and sweet potatoes and cocoyam are important vegetables in Ghanaian cuisine. With the advent of globalization, cereals such as rice and wheat have been increasingly incorporated into Ghanaian cuisine, notably in the form of bread. The foods below represent Ghanaian dishes made from  these staple foods.
+
+Foods made with maize
+Abolo is a steamed corn dough and sugar mixture. It is eaten with various soups and sauces by the Ewe.
+Akple, a traditional meal of the Ewe, is made with corn flour. It can be eaten with pepper sauces, stews, or any soup, but it is typically served with okra soup (fetri detsi) or herring stew (abɔbitadi).
+Ba mi ku or banku are balls of slightly fermented corn and cassava flour mix that are boiled in hot water. It is a traditional meal of the Ga-Dangme (or Ga) tribe of the Greater Accra Region, and can be eaten with pepper sauces, stews, or any soup. Banku requires the use of a special preformulated watery material called "slightly fermented corn-cassava dough mix", which is cooked to a soft solid consistency called "corn-cassava dough AFLATA". Sometimes only corn flour is used, but in many areas, cassava dough is cooked together with fermented corn dough in different ratios. Banku cooked with cassava and corn dough is called agbelimorkple by the Ewe people; banku made with corn dough but without cassava dough is known as kutornu-kple (cotonou banku) to the Ewe people or mmore to the Akan people.
+Kenkey or komi is fermented corn dough wrapped in corn, originating from the Ga people of the Ga-Adangbe. A variation on the dish originating from the Fanti people is called Fante dokono or Fanti kenkey, and is wrapped with plantain leaves that give it a different texture, flavor, and colour compared to the Ga kenkey. Both are boiled for long periods until they form solid balls.
+Fonfom is a maize dish popular in south-western Ghana.
+Nkyekyeraa is a Ghanaian dish made up of dry corn and groundnuts, which is mostly found in the Bono, Bono East and Ahafo regions. It is usually wrapped in corn leaves and boiled until it becomes soft enough to be chewed easily.
+Tuozaafi is a millet, sorghum, or maize dish originating from Northern Ghana and is a staple food of the Dagaaba people. The grain is boiled until it becomes firm.
+Yoroyoro is widely eaten across Dagbon and many parts of Northern Ghana. It is made by boiling maize until it is softened. The food is eaten with pepper and onions.
+
+Foods made with rice
+Angwa moo, or oiled rice, is made by frying onions in oil, then adding water and rice. It may be cooked with other vegetables or minced meat. It is typically served with earthenware-ground pepper, and either tinned sardines or fried eggs.
+Jollof rice is a rice cooked in a stew made of stock, tomatoes, spices, and meat. This dish originated from the Jolof traders from Senegal who settled in the Zongo settlements before the colonial period. Adapted to local Ghanaian tastes, it is typically eaten with goat, lamb, chicken, or beef that has been stewed, roasted, or grilled.
+Omo tuo, or rice ball, is sticky mashed rice, often eaten with groundnut or palm nut soup.
+Fried rice is a Chinese-style dish adapted to Ghanaian tastes. It is popularly known as Check Check.
+Waakye is a dish of rice and beans with black-eyed peas or kidney beans, coconut, and Sorghum bicolor, which gives waakye a reddish color.
+
+Foods made with cassava
+Attiéké or akyeke is a culinary specialty of the lagoon people (Ebrié, Adjoukrou, Alladian, Abidji, Avikam, Ahizi, Attie) of southern Ivory Coast. It is popular among the Ahanta, Nzema and Akan-speaking people of Ivory Coast.
+Garri, cassava flour, can be eaten dry with beans, or mixed with tomatoes and spices and then kneaded. Garri is often served with red red, a fish and black-eyed pea stew, or shito and fish.
+Fufu is a dish made from pounded cassava and plantains, yam and plantain, or cocoyam/taro. It is a side dish that is always accompanied by one of the many Ghanaian soups.
+Kokonte, or abete, is made from dried peeled cassava powder and is usually served with groundnut soup that includes some meat, such as tripe or lamb.
+Plakali is similar to banku but is made from cassava only. It is popular among the Ahanta, Nzema and Akan-speaking people of Ivory Coast.
+Yakayake is an Ewe dish made from steamed grated cassava. It is eaten with various stews or soups.
+
+Foods made with beans
+A deviation from the starch and stew combination are bean-based foods such as red red and tubaani. 
+
+Red red is a popular Ghanaian bean and fish stew served with fried ripe plantains and often accompanied with garri, fish, and pulses. It earns its name from the palm oil that tints the bean stew and the bright orange color of the fried, ripe plantains. In some cases boiled egg is added and also avocado when in season.
+Tubaani is a boiled bean cake, called moin moin in Nigeria.
+Koose is a pea fritter that can be served between two slices of bread or with porridge.
+
+Foods made with yam
+Ampesie, boiled yam, is a dish that can also be made with plantains, cocoyams, potatoes, or cassava. It is a side dish traditionally eaten with a fish stew containing tomatoes, oil, and spices.
+Fried yam can be served with a variety of stews and pepper sauces. The yam chips are deep-fried so that the outside is crispy and the inside is soft.
+Mpoto mpoto (yam casserole or porridge) are slices of yam cooked in a lot of water with pepper, onions, tomatoes, salt, and seasoning.
+Roasted tam is a popular street snack made from white yam with brown bark.
+Yam fufu is fufu made with yam instead of cassava, plantains, or cocoyam. It is also traditionally eaten with Ghanaian soups. It is popular in Northern and southeastern Ghana.
+Yam balls are similar to Scotch eggs, with fillings like meat pie, spring rolls, samosa, or shawarma.
+
+Soups and stews
+In Ghanaian cuisine, soups and stews are served as a main course rather than a starter, and accompanied by side dishes. Ghanaian stews and soups are quite sophisticated, with a liberal and delicate use of exotic ingredients and a wide variety of flavours, spices, and textures.
+Vegetables such as palm nuts, peanuts, cocoyam leaves, ayoyo, spinach, wild mushroom, okra, garden eggs (eggplant), tomatoes, and various types of pulses are the main ingredients in Ghanaian soups and stews. Pulses may serve as the main protein ingredient in vegetarian dishes.
+Beef, pork, goat, lamb, chicken, smoked turkey, tripe, dried snails, and fried fish are common sources of protein in Ghanaian soups and stews. It is common to find seafood in Ghanaian soups and stews, including crabs, shrimp, periwinkles, octopus, snails, grubs, duck, offal, pig's trotters, and oysters. Sometimes different types of meat and occasionally fish are mixed into one soup.
+
+Meat, mushrooms, and seafood may be smoked, salted, or dried for flavour enhancement and preservation. Salt fish is widely used to flavour fish-based stews. Spices such as thyme, garlic, onions, ginger, peppers, curry, basil, nutmeg, sumbala, Tetrapleura tetraptera (prekese) and bay leaf are typical flavours that characterize Ghanaian cuisine.
+Some common Ghanaian soups include groundnut soup, light (tomato) soup, kontomire (taro leaves) soup, palm nut soup, ayoyo soup and okra soup. Ghanaian tomato stew or gravy is a stew that is often served with rice or waakye. Other vegetable stews are made with kontomire, garden eggs, egusi (pumpkin seeds), spinach, and okra. Among the Ewes, some soups are prepared with gboma (Solanum macrocarpa), yevugboma (European gboma), water leaf or ademe (jute mallow). These are commonly eaten with akple, abolo (steamed corn dough), and yakayake (steamed cassava dough).
+Palm oil, coconut oil, shea butter, palm kernel oil, and peanut oil are important oils used for cooking or frying. Certain Ghanaian dishes require specific oils, which may not be substituted for (for example, palm oil is necessary in okro stew, eto, or fante fante, red red or Gabeans, egusi stew, or mpihu/mpotompoto). Coconut oil, palm kernel oil, and shea butter have declined in popularity for cooking in Ghana, due to negative advertisements and the introduction of refined oils; they are now mostly used in a few traditional homes, for soap making, and by commercial (street food) food vendors as a cheaper substitute to refined cooking oils.
+
+Breakfast
+Typical breakfast foods in Ghanaian cuisine include tea or chocolate drinks; fruit; bread; porridge; and foods like koose/akara or maasa (beans, ripe plantain and maize meal fritters).
+Bread is an important feature in Ghanaian breakfasts. Ghanaian bread is baked with wheat flour, and cassava flour may be added for an improved texture. There are four major types of bread in Ghana: tea bread (similar to the baguette), sugar bread (a sweet bread), brown (whole wheat) bread, and butter bread. Rye bread, oat bread and malt bread are also quite common.
+Porridges are another common breakfast item and can be made from a variety of grains, including rice porridge, millet porridge, cereal (locally called rice water), kooko (fermented maize porridge) ortombrown (roasted maize porridge). A popular porridge in Northern Ghana is called Hausa koko (northern porridge). It is a sweet dish, often eaten with koose or bread with groundnuts.
+
+Sweet foods
+There are many sweet local foods that have been marginalized due to their low demand and long preparation process. Ghanaian sweet foods (or confectionery) may be fried, barbecued, boiled, roasted, baked or steamed. There is a popular belief in Ghana that overconsuming sugar can make men impotent, and any consumption will impact their libido.
+Fried sweet foods include: kelewele (cubed and spiced ripe plantains, sometimes served with peanuts); koose (made from peeled beans) and its close twin acarajé or akara (made from unpeeled beans); maasa, pinkaaso, and bofrot or Puff-puff (made from wheat flour); waakye, dzowey, and nkate cake (made from peanuts); kaklo and tatale (ripe plantain fritters); kube cake and kube toffee (made from coconut); bankye krakro, gari biscuit, and krakye ayuosu (made from cassava); condensed milk; toffee; plantain chips or fried plantain; and wagashi(fried farmer's cheese).
+Kebabs are popular barbecued foods and can be made from beef, goat, pork, soy flour, sausages, and guinea fowl. Other roasted savoury foods include roasted plantains, maize, yam and cocoyam.
+Steamed fresh maize, yakeyake, kafa, akyeke, tubani, moimoi (bean cake), emo dokonu (rice cake), and esikyire dokonu (sweetened kenkey) are all examples of steamed and boiled foods, while sweet bread (plantain cake), meat pie similar to Jamaican patties, and empanadas are baked savoury foods. Aprapransa, eto (mashed yam), and atadwe milk (tiger nut juice) are other savory foods. Gari soakings are a modern favorite. It is a blend of gari (dried, roasted cassava), sugar, groundnut (peanut) and milk.
+
+Beverages
+In southern Ghana, Ghanaian drinks such as asaana (made from fermented maize) are common. Along Lake Volta and in southern Ghana, palm wine extracted from the palm tree can be found, but it ferments quickly, and then it is used to distill akpeteshie (a local gin). Akpeteshie can be distilled from molasses too. In northern Ghana, common non-alcoholic beverages include ice kenkey (made from refrigerated kenkey), bisaap/sorrel, toose, and lamujee (a spicy sweetened drink); pitoo (a local beer made of fermented millet) is an alcoholic beverage popular in northern Ghana.
+In urban areas of Ghana, drinks may include fruit juice, cocoa drinks, fresh coconut water, yogurt, ice cream, carbonated drinks, malt drinks, and soy milk. In addition, Ghanaian distilleries produce alcoholic beverages from cocoa, malt, sugar cane, local medicinal herbs, and tree barks. They include bitters, liqueur, dry gins, beer, and aperitifs.
+
+Street foods in Ghana
+Street food is very popular in both rural and urban areas of Ghana. Many Ghanaian families patronize street food vendors, from whom all kinds of foods can be bought, including staple foods such as kenkey, red red and waakye. Other savoury foods, such as meat kebabs, boiled corn cob, boflot/bofrot and roasted plantain (Kofi Brokeman) with groundnuts are sold mainly by street food vendors.
+Ice kenkey is a popular chilled dessert sold by street vendors in open-air markets.
+Kosua ne meko (eggs with pepper) is a street food sold mostly by street vendors.
+
+Common Ghanaian dishes
+See also
+Chop bar
+West African cuisine
+List of African cuisines
+La Tante DC10 Restaurant
+
+References
+Further reading
+There are some cookbooks which concentrate on Ghanaian food, including the following:
+
+Osseo-Asare, Fran (2018). The Ghana cookbook. Barbara Baeta. New York: Hippocrene Books. ISBN 978-0-7818-1343-3. OCLC 896840053.
+Adjonyoh, Zoe (2021). Zoe's Ghana kitchen.  New York:  Voracious.  ISBN 978-0-316-33503-4
+Adjepong, Eric (2025).  Ghana to the world: Recipes and stories that look forward while honoring the past. Korsha Wilson.  New York:  Clarkson Potter.  ISBN 978-0-593-23477-8
+
+
+== External links ==
+
+## List of museums in Ghana
+Museums in Ghana are administered by the Ghana Museums and Monuments Board (GMMB). The agency's history starts with the establishment of an Ethnographic Museum at Achimota College in 1929. The museum was transferred to the Department of Archaeology at the University of the Gold Coast, when the establishment was opened in 1948.
+In order to preserve the country's past, the British set up an "Interim Council of the National Museum of the Gold Coast", focus on the creation of a national museum. Both the "Interim Council of the National Museum of the Gold Coast" and the Monuments and Relics Commission merged, leading to the passing of the Museum and Monuments Board Ordinance (GOLD COAST No. 20 of 1957), resulting in the establishment of the GMMB.
+There are approximately 28 museums located in the country. The following is a list of museums, including botanical collections and gardens, in Ghana.
+
+List
+See also
+Lists of museums
+
+References
+External links
+
+List of museums and parks in Ghana partnered with the International Council of Museums
+List of museums in Ghana partnered with the  International Council of African Museums

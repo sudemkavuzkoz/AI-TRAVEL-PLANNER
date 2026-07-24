@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+*.db
+*.sqlite
+*.sqlite3
+travel_rag.db
+model_cache/
+.DS_Store
+out.txt
+out2.txt

@@ -1,0 +1,814 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Uruguay
+FILE_NAME: country_uruguay.txt
+PROCESSED_DATE: 2026-07-22 15:52:02
+----------------
+
+# Uruguay
+
+## General Overview
+Uruguay, officially the Oriental Republic of Uruguay, is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 176,215 square kilometers (68,037 sq mi). It has a population of almost 3.5 million people, of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.
+The area that became Uruguay was first inhabited by groups of hunter gatherers 13,000 years ago. The first European explorer to reach the region was Juan Díaz de Solís in 1516, but the area was colonized later than its neighbors. At the time of European arrival, the Charrúa were the predominant tribe, alongside other groups such as the Guaraní and the Chaná. However, none of these peoples were socially or politically organized in large groups, which contributed to their decline. Amid territorial disputes, the Portuguese established Colônia do Sacramento in 1680, and the Spanish founded Montevideo as a military stronghold. Uruguay secured its independence between 1811 and 1828, following a four-way struggle involving Portugal, Spain, and later the United Provinces of the Río de la Plata and the Empire of Brazil. In 1830, the country enacted its constitution and was formally established as an independent state.
+During the early years following its independence, Uruguay remained subject to foreign influence and intervention, along with a series of internal conflicts and political turmoil. From the second half of the 19th century, the country saw significant waves of European migration—mainly from Spain, Italy, and France—which greatly influenced its demographics and laid the foundation for modern-day Uruguayan culture and society. National politics were dominated by two political parties: the Colorado Party and the National Party, which clashed in several civil wars during the 19th century and are collectively known as the 'Traditional Parties'. In the early 20th century, a series of pioneering economic, labor, and social reforms laid the foundations of an advanced welfare state. Combined with a period of sustained political stability, these developments earned the country the reputation of being the "Switzerland of the Americas". A series of economic crises and the fight against far-left urban guerrilla warfare in the late 1960s and early 1970s culminated in the 1973 coup d'état, which established a civic-military dictatorship until 1985. Uruguay is today a democratic constitutional republic, with a president who serves as both head of state and head of government.
+Uruguay is highly ranked in international measurements of democracy, government transparency, economic freedom, social progress, income equality, per capita income, innovation, and infrastructure. It is classified as a high-income economy. It is also highly socially liberal, and has fully legalized cannabis—the first country in the world to do so—as well as same-sex marriage, abortion and euthanasia. Uruguay is also a founding member of the United Nations, the OAS, and Mercosur.
+
+Etymology
+The country of Uruguay takes its name from the Río Uruguay in the Indigenous Guaraní language. There are several interpretations, including "bird-river" ("the river of the uru", via Charruan, urú being a common noun for any wild fowl). The name could also refer to a river snail called uruguá (Pomella megastoma) that was plentiful across its shores.
+One of the most popular interpretations of the name was proposed by the renowned Uruguayan poet Juan Zorrilla de San Martín, "the river of painted birds"; this interpretation, although dubious, still holds an important cultural significance in the country.
+In Spanish colonial times and for some time thereafter, Uruguay and some neighbouring territories were called Banda Oriental [del Uruguay] ("Eastern Bank [of the Uruguay River]"), then for a few years the Provincia Oriental ("Eastern Province").
+Since its independence, the country has been known as "República Oriental del Uruguay", which literally translates to "Republic East of the Uruguay [River]". However, it is officially translated either as the "Oriental Republic of Uruguay" or the "Eastern Republic of Uruguay".
+
+History
+Prehistory
+Human presence in the region now known as Uruguay dates back approximately 13,000 years, with evidence of hunter-gatherer communities. It is estimated that at the time of the first contact with Europeans in the 16th century, there were about 9,000 Charrúa and 6,000 Chaná and some Guaraní island settlements.
+There is an extensive archaeological collection of man-made tumuli known as "Cerritos de Indios" in the eastern part of the country, some of them dating back to 5,000 years ago. Very little is known about the people who built them as they left no written record, but evidence has been found in place of indigenous agriculture and of extinct indigenous woolly dogs.
+
+Colonial rule
+The Portuguese were the first Europeans to enter the region of present-day Uruguay in 1512. The Spanish arrived in present-day Uruguay in 1515 but were the first to set foot in the area, claiming it for the crown. The indigenous peoples' fierce resistance to conquest, combined with the absence of valuable resources, limited European settlement in the region during the 16th and 17th centuries. Uruguay then became a zone of contention between the Spanish and Portuguese empires. In 1603, the Spanish began introducing cattle, which became a source of regional wealth. The first permanent Spanish settlement was founded in 1624 at Soriano on the Río Negro. In 1680, the Portuguese built a fort at Colonia del Sacramento.
+Montevideo, the current capital of Uruguay, was founded by the Spanish in 1726 as a military stronghold. Its natural harbour soon developed into a commercial area competing with Río de la Plata's capital, Buenos Aires. Uruguay's early 19th-century history was shaped by ongoing fights for dominance in the Platine region between British, Spanish, Portuguese, and other colonial forces. In 1806 and 1807, the British army attempted to seize Buenos Aires and Montevideo as part of the Napoleonic Wars. Montevideo was occupied by British forces from February to September 1807.
+
+Independence struggle
+In 1811, José Gervasio Artigas, who became Uruguay's national hero, launched a successful revolt against the Spanish authorities, defeating them on 18 May at the Battle of Las Piedras. In 1813, the new government in Buenos Aires convened a constituent assembly where Artigas emerged as a champion of federalism, demanding political and economic autonomy for each area and the Banda Oriental in particular. The assembly refused to seat the delegates from the Banda Oriental; however, Buenos Aires pursued a system based on unitary centralism.
+As a result, Artigas broke with Buenos Aires and besieged Montevideo, taking the city in early 1815. Once the troops from Buenos Aires had withdrawn, the Banda Oriental appointed its first autonomous government. Artigas organized the Federal League under his protection, consisting of six provinces, five of which later became part of Argentina.
+In 1816, 10,000 Portuguese troops invaded the Banda Oriental from Brazil; they took Montevideo in January 1817. After nearly four more years of struggle, the Portuguese Kingdom of Brazil annexed the Banda Oriental as a province under the name of "Cisplatina". The Brazilian Empire became independent of Portugal in 1822. In response to the annexation, the Thirty-Three Orientals, led by Juan Antonio Lavalleja, declared independence on 25 August 1825, supported by the United Provinces of the Río de la Plata (present-day Argentina). This led to the 500-day-long Cisplatine War. Neither side gained the upper hand, and in 1828, the Treaty of Montevideo, fostered by the United Kingdom through the diplomatic efforts of Viscount John Ponsonby, gave birth to Uruguay as an independent state. 25 August is celebrated as Independence Day, a national holiday. The nation's first constitution was adopted on 18 July 1830. The country was officially the Oriental State of Uruguay.
+
+19th century
+At the time of independence, Uruguay had an estimated population of just under 75,000. The political scene in Uruguay became split between two parties: the conservative Blancos (Whites), headed by the second President Manuel Oribe, representing the agricultural interests of the countryside, and the liberal Colorados (Reds), led by the first President Fructuoso Rivera, representing the business interests of Montevideo. The Uruguayan parties received support from warring political factions in neighbouring Argentina, which became involved in Uruguayan affairs.
+The Colorados favoured the exiled Argentine liberal Unitarios, many of whom had taken refuge in Montevideo, while the Blanco president Manuel Oribe was a close friend of the Argentine ruler Manuel de Rosas. On 15 June 1838, an army led by the Colorado leader Rivera overthrew President Oribe, who fled to Argentina. Rivera declared war on Rosas in 1839. The conflict would last 13 years and become known as the Guerra Grande (the Great War). In 1843, an Argentine army overran Uruguay on Oribe's behalf but failed to take the capital. The siege of Montevideo began in February 1843 and lasted nine years. The besieged Uruguayans called on resident foreigners for help, which led to a French and an Italian legion being formed, the latter led by the exiled Giuseppe Garibaldi.
+
+In 1845, Britain and France intervened against Rosas to restore commerce to normal levels in the region. Their efforts proved ineffective, and by 1849, tired of the war, both withdrew after signing a treaty favourable to Rosas. It appeared that Montevideo would finally fall when an uprising against Rosas, led by Justo José de Urquiza, governor of Argentina's Entre Ríos Province, began. The Brazilian intervention in May 1851 on behalf of the Colorados, combined with the uprising, changed the situation, and Oribe was defeated. The siege of Montevideo was lifted, and the Guerra Grande finally came to an end. Montevideo rewarded Brazil's support by signing treaties that confirmed Brazil's right to intervene in Uruguay's internal affairs.
+In accordance with the 1851 treaties, Brazil intervened militarily in Uruguay as often as it deemed necessary. In 1865, the Triple Alliance was formed by the emperor of Brazil, the president of Argentina, and the Colorado general Venancio Flores, the Uruguayan head of government whom they both had helped to gain power. The Triple Alliance declared war on the Paraguayan leader Francisco Solano López. The resulting Paraguayan War ended with the invasion of Paraguay and its defeat by the armies of the three countries. Montevideo was used as a supply station by the Brazilian navy, and it experienced a period of prosperity and relative calm during the war.
+The first railway line was assembled in Uruguay in 1867, and a branch consisting of a horse-drawn train was opened. The present-day State Railways Administration of Uruguay maintains 2,900 km (1,800 mi) of extendable railway network.
+The constitutional government of General Lorenzo Batlle y Grau (1868–72) suppressed the Revolution of the Lances by the Blancos. After two years of struggle, a peace agreement was signed in 1872 that gave the Blancos a share in the emoluments and functions of government through control of four of the departments of Uruguay. This establishment of the policy of co-participation represented the search for a new formula of compromise based on the coexistence of the party in power and the opposition party. Despite this agreement, the Colorado rule was threatened by the failed Tricolor Revolution in 1875 and the Revolution of the Quebracho in 1886.
+The Colorado effort to reduce Blancos to only three departments caused a Blanco uprising of 1897, which ended with creating 16 departments, of which the Blancos now had control over six. Blancos were given ⅓ seats in Congress. This division of power lasted until President Jose Batlle y Ordonez instituted his political reforms, which caused the last uprising by Blancos in 1904 that ended with the Battle of Masoller and the death of Blanco leader Aparicio Saravia.
+Between 1875 and 1890, the centre of power shifted toward the military. During this authoritarian period, the government took steps toward the organization of the country as a modern state, encouraging its economic and social transformation. Pressure groups (consisting mainly of businessmen, hacendados, and industrialists) were organized and had a strong influence on the government. A transition period (1886–90) followed, during which politicians began recovering lost ground, and some civilian participation in government occurred. After the Guerra Grande, there was a sharp rise in the number of immigrants, primarily from Italy and Spain. By 1879, the total population of the country was over 438,500. The economy reflected a steep upswing (if demonstrated graphically, above all other related economic determinants) in livestock raising and exports. Montevideo became a major financial centre of the region and an entrepôt for goods from Argentina, Brazil, and Paraguay.
+
+20th century
+The Colorado leader José Batlle y Ordóñez was elected president in 1903. The following year, the Blancos led a rural revolt, and eight bloody months of fighting ensued before their leader, Aparicio Saravia, was killed in battle. Government forces emerged victorious, leading to the end of the co-participation politics that had begun in 1872. Batlle had two terms (1903–07 and 1911–15) during which he instituted major reforms, such as a welfare program, government participation in the economy, and a plural executive.
+Gabriel Terra became president in March 1931. His inauguration coincided with the effects of the Great Depression, and the social climate became tense as a result of the lack of jobs. There were confrontations in which police and leftists died. In 1933, Terra organized a coup d'état, dissolving the General Assembly and governing by decree. A new constitution was promulgated in 1934, transferring powers to the president. In general, the Terra government weakened or neutralized economic nationalism and social reform.
+In 1938, general elections were held, and Terra's brother-in-law, General Alfredo Baldomir, was elected president. Under pressure from organized labour and the National Party, Baldomir advocated free elections, freedom of the press, and a new constitution. Although Baldomir declared Uruguay neutral in 1939, British warships and the German ship Admiral Graf Spee fought a battle not far off Uruguay's coast. The Admiral Graf Spee took refuge in Montevideo, claiming sanctuary in a neutral port, but was later ordered out.
+
+In 1945, Uruguay formally signed the Declaration by the United Nations and entered World War II, leading the country to declare war on Germany and Japan. Following the end of the war, it became a founding member of the United Nations.
+An armed group of Marxist–Leninist urban guerrillas, known as the Tupamaros, emerged in the 1960s, engaging in activities such as bank robbery, kidnapping, and assassination, in addition to attempting an overthrow of the government.
+
+Civic-military dictatorship
+President Jorge Pacheco declared a state of emergency in 1968, followed by a further suspension of civil liberties in 1972. In 1973, amid increasing economic and political turmoil, the armed forces, asked by President Juan María Bordaberry, disbanded Parliament and established a civilian-military regime. The CIA-backed campaign of political repression and state terror involving intelligence operations and assassination of opponents was called Operation Condor.
+According to one source, around 180 Uruguayans are known to have been killed and disappeared, with thousands more illegally detained and tortured during the 12-year civil-military rule from 1973 to 1985. Most were killed in Argentina and other neighbouring countries, with 36 of them having been killed in Uruguay. According to Edy Kaufman (cited by David Altman), Uruguay at the time had the highest per capita number of political prisoners in the world. "Kaufman, who spoke at the U.S. Congressional Hearings of 1976 on behalf of Amnesty International, estimated that one in every five Uruguayans went into exile, one in fifty were detained, and one in five hundred went to prison (most of them tortured)." Social spending was reduced, and many state-owned companies were privatized. However, the economy did not improve and deteriorated after 1980; the gross domestic product (GDP) fell by 20%, and unemployment rose to 17%. The state intervened by trying to bail out failing companies and banks.
+
+Return to democracy (1984–present)
+A new constitution, drafted by the military, was rejected in a November 1980 referendum. Following the referendum, the armed forces announced a plan for the return to civilian rule, and national elections were held in 1984. Colorado Party leader Julio María Sanguinetti won the presidency and served from 1985 to 1990. The first Sanguinetti administration implemented economic reforms and consolidated democracy following the country's years under military rule. The National Party's Luis Alberto Lacalle won the 1989 presidential election, and a referendum endorsed amnesty for human rights abusers. Sanguinetti was then reelected in 1994. Both presidents continued the economic structural reforms initiated after the reinstatement of democracy.
+The 1999 national elections were held under a new electoral system established by a 1996 constitutional amendment. Colorado Party candidate Jorge Batlle, aided by the support of the National Party, defeated Broad Front candidate Tabaré Vázquez. The formal coalition ended in November 2002, when the Blancos withdrew their ministers from the cabinet, although the Blancos continued to support the Colorados on most issues. Low commodity prices and economic difficulties in Uruguay's main export markets (starting in Brazil with the devaluation of the real, then in Argentina in 2002) caused a severe recession; the economy contracted by 11%, unemployment climbed to 21%, and the percentage of Uruguayans in poverty rose to over 30%.
+In 2004, Uruguayans elected Tabaré Vázquez as president while giving the Broad Front a majority in both houses of Parliament. Vázquez stuck to economic orthodoxy. As commodity prices soared and the economy recovered from the recession, he tripled foreign investment, cut poverty and unemployment, cut public debt from 79% of GDP to 60%, and kept inflation steady. In 2009, José Mujica, a former left-wing guerrilla leader (Tupamaros) who spent almost 15 years in prison during the country's military rule, emerged as the new president as the Broad Front won the election for a second time. Abortion was legalized in 2012, followed by same-sex marriage and cannabis in the following year, making Uruguay the first country in the modern era to legalize cannabis.
+In 2014, Tabaré Vázquez was elected to a non-consecutive second presidential term, which began on 1 March 2015. In 2020, after 15 years of left-wing rule, he was succeeded by Luis Alberto Lacalle Pou, a member of the conservative National Party, as the 42nd President of Uruguay. On 1 March 2025, Yamandu Orsi took office as Uruguay's new president, as the left-wing coalition of the Broad Front returned to power after a five-year interruption.
+
+Geography
+With 176,214 km2 (68,037 sq mi) of continental land and 125,436 km2 (48,431 sq mi) of territorial waters, Uruguay is the second-smallest sovereign nation in South America (after Suriname) and the third smallest territory (French Guiana is the smallest). The landscape features mostly rolling plains and low hill ranges (cuchillas) with a fertile coastal lowland. Uruguay has 660 km (410 mi) of coastline. The highest point in the country is the Cerro Catedral, whose peak reaches 514 m (1,686 ft) AMSL in the Sierra Carapé hill range. To the southwest is the Río de la Plata, the estuary of the Uruguay River (the river which forms the country's western border).
+A dense fluvial network covers the country, consisting of four river basins, or deltas: the Río de la Plata Basin, the Uruguay River, the Laguna Merín, and the Río Negro. The major internal river is the Río Negro ("Black River"), dammed in 1945, resulting in the formation of the artificial Rincón del Bonete Lake in the heart of Uruguay. Several lagoons are found along the Atlantic coast.
+Montevideo is the southernmost national capital in the Americas and the third most southerly in the world (after Canberra and Wellington). Uruguay is the only country in South America situated entirely south of the Tropic of Capricorn, and is the southernmost sovereign state in the world when ordered by northernmost point of latitude. There are ten national parks in Uruguay: Five in the wetland areas of the east, three in the central hill country, and one in the west along the Rio Uruguay. Uruguay is home to the Uruguayan savanna terrestrial ecoregion. The country had a 2019 Forest Landscape Integrity Index mean score of 3.61/10, ranking it 147th globally out of 172 countries.
+
+Climate
+Located entirely within the southern temperate zone, Uruguay has a climate that is relatively mild and fairly uniform nationwide. According to the Köppen climate classification, most of the country has a humid subtropical climate (Cfa). Only in some spots of the Atlantic Coast and at the summit of the highest hills of the Cuchilla Grande is the climate oceanic (Cfb).
+The country experiences four seasons, with summer from December to March and winter from June to September. Seasonal variations are pronounced, but extremes in temperature are rare. Summers are tempered by winds off the Atlantic, and severe cold in winter is unknown. Although it never gets too cold, frosts occur every year during the winter months, and precipitation such as sleet and hail occur almost every winter, but snow is very rare; it does occur every couple of years at higher elevations, but almost always without accumulation. As would be expected with its abundance of water, high humidity and fog are common.
+The absence of mountains, which act as weather barriers, makes all locations vulnerable to high winds and rapid changes in weather as fronts or storms sweep across the country. These storms can be strong; they can bring squalls, hail, and sometimes even tornadoes. The country experiences extratropical cyclones but no tropical cyclones, due to the fact that the South Atlantic Ocean is rarely warm enough for their development. Both summer and winter weather may vary from day to day with the passing of storm fronts, where a hot northerly wind may occasionally be followed by a cold wind (pampero) from the Argentine Pampas.
+Even though both temperature and precipitation are quite uniform nationwide, there are considerable differences across the territory. The average annual temperature of the country is 17.5 °C (63.5 °F), ranging from 16 °C (61 °F) in the southeast to 19 °C (66 °F) in the northwest. Winter temperatures range from a daily average of 11 °C (52 °F) in the south to 14 °C (57 °F) in the north, while summer average daily temperatures range from 21 °C (70 °F) in the southeast to 25 °C (77 °F) in the northwest. The southeast is considerably cooler than the rest of the country, especially during spring, when the ocean with cold water after the winter cools down the temperature of the air and brings more humidity to that region. However, the south of the country receives less precipitation than the north. For example, Montevideo receives approximately 1,100 mm (43 in) of precipitation per year, while the city of Rivera in the northeast receives 1,600 mm (63 in). The heaviest precipitation occurs during the autumn months, although more frequent rainy spells occur in winter. But periods of drought or excessive rain can occur anytime during the year.
+National extreme temperatures at sea level are 44 °C (111 °F) in Paysandú city (20 January 1943) and Florida city (14 January 2022) and −11.0 °C (12.2 °F) in Melo city (14 June 1967).
+
+Government and politics
+Government
+Uruguay is a representative democratic republic with a presidential system. The Uruguayan Constitution establishes a separation of powers intended to provide a system of checks and balances and members of government are elected for a five-year term by a universal suffrage system. Uruguay is a unitary state: justice, education, health, security, foreign policy and defence are all administered nationwide.
+The Executive branch is exercised by the president of the Republic who serves both as head of state and head of government, along with a Council of Ministers of 14 members. Together with the Vice President, the President is elected through a direct popular vote for a five-year term, with no possibility of immediate re-election. Each party presents a single presidential ticket—determined through primary elections—and the winning ticket must receive an absolute majority of votes.
+The Legislative branch is constituted by the General Assembly, a bicameral legislature made up of the Chamber of Representatives and the Chamber of Senators. The former consists of 99 members representing the 19 departments, elected for a five-year term based on proportional representation, while the latter comprises 31 members—30 elected for five-year terms by proportional representation—and the Vice President, who presides over the chamber and has the right to vote. Parliamentary elections are held jointly with the presidential election in a general vote.
+The Judicial branch is headed by the Supreme Court, whose members—known as “Ministers”—are appointed by the General Assembly with a two-thirds majority and serve ten-year terms or until reaching the age of 70. The Court functions as the highest appellate body and the court of last resort, while also reviewing the constitutionality of laws. Below it are the Courts of Appeals—each composed of three members—and the Lawyer Judges and the Justices of the Peace, the latter two being single-member courts, with all appointed by the Supreme Court.
+Uruguay adopted its current constitution in 1967, with the most recent reform occurring in 1997. Drawing on Switzerland and its use of the initiative, the Uruguayan Constitution allows citizens to propose bills, call for referendums to repeal laws, and submit constitutional reform proposals, which are ultimately decided in a nationwide referendum.
+For most of Uruguay's history, the country was characterized by a two-party system between the Colorado and National parties, although the former held power for longer periods. At certain times, Uruguay has had periods of collegial executive governance. The earlier period, under the National Council of Administration (1919–1933), was a diarchic system in which the Council shared executive power with the President and Cabinet. The later period, under the National Council of Government (1952–1967), authority was largely concentrated in the Council itself, which acted as the sole executive body.
+In 2024, Uruguay was classified as a "full democracy" by The Economist’s Democracy Index, ranking 15th globally and first in Latin America. Latinobarómetro surveys consistently place the country among the highest in terms of public support for democracy and satisfaction with it. Moreover, according to the 2023 V-Dem Democracy Indices, Uruguay ranked 31st in the world for electoral democracy and 2nd globally—behind Switzerland—for citizen-initiated direct democracy.
+
+Administrative divisions
+Uruguay is divided into 19 departments whose local administrations replicate the division of the executive and legislative powers. Each department elects its own authorities through a universal suffrage system. The departmental executive authority resides in a superintendent and the legislative authority in a departmental board.
+
+Foreign relations
+The country's foreign policy is directed by the Ministry of Foreign Relations. Uruguay has traditionally had strong political and cultural ties with its neighbouring countries and with Europe, and its international relations have been guided by the principles of non-intervention and multilateralism. The country is a founding member of international organizations such as the United Nations, the Organization of American States, the Southern Common Market, and the Latin American Integration Association. The headquarters of the latter two are located in its capital Montevideo, for which the role of the city has been compared to that of Brussels in Europe.
+
+Uruguay has two uncontested boundary disputes with Brazil, over Isla Brasilera and the 235 km2 (91 sq mi) Invernada River region near Masoller. The two countries disagree on which tributary represents the legitimate source of the Quaraí/Cuareim River, which would define the border in the latter disputed section, according to the 1851 border treaty between the two countries. The disputed areas remain de facto under Brazilian control, with little to no actual effort by Uruguay to assert its claims. Both countries have friendly diplomatic relations and strong economic ties.
+Uruguay is also a founding member of The Forum of Small States (FOSS), a voluntary and informal grouping at the UN. The country has friendly relations with the United States since its transition back to democracy. Commercial ties between both countries have expanded with the signing of a bilateral investment treaty in 2004 and a Trade and Investment Framework Agreement in January 2007. The United States and Uruguay have also cooperated on military matters, with both countries playing significant roles in the United Nations Stabilization Mission in Haiti. In 2017, Uruguay signed the UN treaty on the Prohibition of Nuclear Weapons. It also rejoined the Inter-American Treaty of Reciprocal Assistance (TIAR or "Rio Pact") in 2020.
+
+Military
+The Uruguayan Armed Forces are constitutionally subordinate to the president of the Republic, through the minister of defence. Armed forces personnel number about 18,000 for the Army, 6,000 for the Navy, and 3,000 for the Air Force. Enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies.
+Uruguay ranks first in the world on a per capita basis for its contributions to the United Nations peacekeeping forces, with 2,513 soldiers and officers in 10 UN peacekeeping missions. As of February 2010, Uruguay had 1,136 military personnel deployed to Haiti in support of MINUSTAH and 1,360 deployed in support of MONUC in the Congo. In December 2010, Uruguayan Major General Gloodtdofsky, was appointed Chief Military Observer and head of the United Nations Military Observer Group in India and Pakistan.
+Since May 2009, homosexuals have been allowed to serve in the military after the defence minister signed a decree stating that military recruitment policy would no longer discriminate on the basis of sexual orientation. In the fiscal year 2010, the United States provided Uruguay with $1.7 million in military assistance, including $1 million in Foreign Military Financing and $480,000 in International Military Education and Training.
+
+Economy
+In 1991, the country experienced an increase in strikes to obtain wage compensation to offset inflation and to oppose the privatizations desired by the government of Luis Alberto Lacalle. A general strike was called in 1992, and the privatization policy was widely rejected by the referendum. In 1994 and 1995, Uruguay faced economic difficulties caused by the liberalization of foreign trade, which increased the trade deficit. The Montevideo Gas Company and the Pluna airline were turned over to the private sector, but the pace of privatization slowed down in 1996. Uruguay experienced a major economic and financial crisis between 1999 and 2002, principally a spillover effect from the economic problems of Argentina. The economy contracted by 11%, and unemployment climbed to 14–21%.
+In 2004, the Batlle government signed a three-year $1.1 billion stand-by arrangement with the International Monetary Fund (IMF), committing the country to a substantial primary fiscal surplus, low inflation, considerable reductions in external debt, and several structural reforms designed to improve competitiveness and attract foreign investment. Uruguay terminated the agreement in 2006 following the early repayment of its debt but maintained a number of the policy commitments. Vázquez, who assumed the government in March 2005, created the Ministry of Social Development and sought to reduce the country's poverty rate with a $240 million National Plan to Address the Social Emergency (PANES), which provided a monthly conditional cash transfer of approximately $75 to over 100,000 households in extreme poverty. In exchange, those receiving the benefits were required to participate in community work, ensure that their children attended school daily, and have regular health check-ups.
+Following the 2001 Argentine credit default, prices in the Uruguayan economy made a variety of services, including information technology and architectural expertise, once too expensive in many foreign markets, exportable. The Frente Amplio government, while continuing payments on Uruguay's external debt, also undertook an emergency plan to attack the widespread problems of poverty and unemployment. The economy grew at an annual rate of 6.7% during the 2004–2008 period. Uruguay's export markets have been diversified to reduce dependency on Argentina and Brazil. Poverty was reduced from 33% in 2002 to 21.7% in July 2008, while extreme poverty dropped from 3.3% to 1.7%.
+Between 2007 and 2009, Uruguay was the only country in the Americas that did not technically experience a recession (two consecutive downward quarters). Unemployment reached a record low of 5.4% in December 2010 before rising to 6.1% in January 2011. While unemployment is still at a low level, the IMF observed a rise in inflationary pressures, and Uruguay's GDP expanded by 10.4% for the first half of 2010. According to IMF estimates, Uruguay was probably to achieve growth in real GDP of between 8% and 8.5% in 2010, followed by 5% growth in 2011 and 4% in subsequent years. Gross public sector debt contracted in the second quarter of 2010, after five consecutive periods of sustained increase, reaching $21.885 billion US dollars, equivalent to 59.5% of the GDP.
+Uruguay was ranked 68th in the Global Innovation Index in 2025. The number of union members has quadrupled since 2003, rising from 110,000 to more than 400,000 in 2015 for a working population of 1.5 million. According to the International Trade Union Confederation, Uruguay has "ratified all eight core ILO labour Conventions". The growth, use, and sale of cannabis were legalized on 11 December 2013, by former president José "Pepe" Mujica, making Uruguay the first country in the world to fully legalize marijuana. The law was voted on at the Uruguayan Senate on the same date with 16 votes to approve it and 13 against.
+
+Agriculture
+In 2010, Uruguay's export-oriented agricultural sector contributed to 9.3% of the GDP and employed 13% of the workforce. Official statistics from Uruguay's Agriculture and Livestock Ministry indicate that meat and sheep farming in Uruguay occupies 59.6% of the land. The percentage further increases to 82.4% when cattle breeding is linked to other farm activities such as dairy, forage, and rotation with crops such as rice.
+According to FAOSTAT, Uruguay is one of the world's largest producers of soybeans (9th), wool (12th), horse meat (14th), beeswax (14th), and quinces (17th). Most farms (25,500 out of 39,120) are family-managed; beef and wool represent the main activities and main source of income for 65% of them, followed by vegetable farming at 12%, dairy farming at 11%, hogs at 2%, and poultry also at 2%. Beef is the main export commodity of the country, totalling over US$1 billion in 2006.
+In 2007, Uruguay had cattle herds totalling 12 million head, making it the country with the highest number of cattle per capita at 3.8. However, 54% is in the hands of 11% of farmers, who have a minimum of 500 head. At the other extreme, 38% of farmers exploit small lots and have herds averaging below one hundred head.
+
+Tourism
+The tourism industry in Uruguay is an important part of its economy. In 2012, the sector was estimated to account for 97,000 jobs and (directly and indirectly) 9% of GDP. Uruguay is the Latin American country that receives the most tourists in relation to its population. In 2023, 3.8 million tourists entered Uruguay, of which the majority were Argentines and Brazilians, followed by Chileans, Paraguayans, Americans and Europeans of various nationalities.
+
+Cultural experiences in Uruguay include exploring the country's colonial heritage, as found in Colonia del Sacramento. Historical monuments include Torres García Museum and Estadio Centenario. One of the main natural attractions in Uruguay is Punta del Este, situated on a small peninsula off the southeast coast of Uruguay. Its beaches are divided into Mansa, or tame (river) side and Brava, or rugged (ocean) side. Punta del Este adjoins the city of Maldonado, while to its northeast along the coast are found the smaller resorts of La Barra and José Ignacio
+Another popular tourist attraction is Cabo Polonio, a seaside resort located in the municipality of Castillos, in the Rocha Department of Uruguay. This seaside resort is part of Cabo Polonio National Park. It lies a short distance from the resort town of Valizas and features three small islands off its coast, known as the Torres Islands: Isla Rasa, Isla Encantada, and El Islote.
+
+Transportation
+The Port of Montevideo is one of the major container terminal ports; it handles over 1.1 million containers annually. Its quay can handle 14-meter draft (46 ft) vessels. Nine straddle cranes allow for 80 to 100 movements per hour. The port of Nueva Palmira is a major regional merchandise transfer point and houses both private and government-run terminals.
+
+Air
+Carrasco International Airport was initially inaugurated in 1947, and in 2009, Puerta del Sur, the airport owner and operator, commissioned Rafael Viñoly Architects to expand and modernize the existing facilities with a spacious new passenger terminal with an investment of $165 million. The airport can handle up to 4.5 million users per year. PLUNA was the flag carrier of Uruguay and was headquartered in Carrasco.
+The Punta del Este International Airport, located 15 kilometers (9.3 mi) from Punta del Este in the Maldonado Department, is the second busiest air terminal in Uruguay, built by the Uruguayan architect Carlos Ott. It was inaugurated in 1997.
+
+Land
+The Administración de Ferrocarriles del Estado is the autonomous agency in charge of rail transport and the maintenance of the railroad network. Uruguay has about 1,200 km (750 mi) of operational railroad track. Until 1947, about 90% of the railroad system was British-owned. In 1949, the government nationalized the railways, along with the electric trams and the Montevideo Waterworks Company. However, in 1985, the "National Transport Plan" suggested passenger trains were too costly to repair and maintain. Cargo trains would continue, but bus transportation became the "economic" alternative for travellers. Passenger service was then discontinued in 1988. However, rail passenger commuter service into Montevideo was restarted in 1993, and now comprises three suburban lines.
+
+Surfaced roads connect Montevideo to the other urban centres in the country, the main highways leading to the border and neighbouring cities. Numerous unpaved roads connect farms and small towns. Overland trade has increased markedly since Mercosur (Southern Common Market) was formed in the 1990s and again in the later 2000s. Most of the country's domestic freight and passenger service is by road rather than rail. The country has several international bus services connecting the capital and frontier localities to neighbouring countries. These include 17 destinations in Argentina, 12 destinations in Brazil, and the capital cities of Chile and Paraguay.
+
+Telecommunications
+The telecommunications industry is more developed than in most other Latin American countries, being the first country in the Americas to achieve complete digital telephone coverage in 1997. The system is government-owned, and there have been controversial proposals to partially privatize it since the 1990s.
+The mobile phone market is shared by the state-owned ANTEL and two private companies, Movistar and Claro. ANTEL has the largest market share at 49% of Uruguay's mobile lines. ANTEL has launched a commercial 5G network in April 2019 with still continual development. Movistar and Claro have 30% and 21% market share, respectively. The Google Search engine accounted for 95% of total search engine market share in 2023–2024.
+
+Energy
+In 2010, the Ministry of Energy, Mining and Industry of Uruguay approved Decree 354 on the Promotion of Renewable Energies. In 2021, Uruguay had, in terms of installed renewable electricity, 1,538 MW in hydropower, 1,514 MW in wind power (35th largest in the world), 258 MW in solar power (66th largest in the world), and 423 MW in biomass. In 2023, 98% of Uruguay's electricity comes from renewable energy. The dramatic shift, taking less than ten years and without government funding, lowered electricity costs and slashed the country's carbon footprint. Most of the electricity comes from hydroelectric facilities and wind parks. Uruguay no longer imports electricity. In 2022, 49% of the country's total carbon dioxide emissions came from the burning of diesel fuel, followed by gasoline, with a 25% share.
+
+Demographics
+Uruguayans are of predominantly European origin, with 88.0% of the population claiming "white" as their dominant ancestry self-identified in the 2023 census, a decrease from 93.9% over the 2011 census.
+Most Uruguayans of European ancestry are descendants of 19th and 20th century immigrants from Spain and Italy, and to a lesser degree France, Germany, and Britain. Earlier settlers had migrated from Argentina. People of African descent make up around ten percent of the total population. There are also important communities of Japanese descent. Overall, the ethnic composition is similar to neighbouring Argentine provinces as well as Southern Brazil.
+From 1963 to 1985, an estimated 320,000 Uruguayans emigrated. The most popular destinations for Uruguayan emigrants are Argentina, followed by the United States, Australia, Canada, Spain, Brazil, Italy, France and Portugal. In 2009, for the first time in 44 years, the country saw an overall positive influx when comparing immigration to emigration. 3,825 residence permits were awarded in 2009, compared with 1,216 in 2005. 50% of new legal residents come from Argentina and Brazil. A migration law passed in 2008 gives immigrants the same rights and opportunities that nationals have, with the requisite of proving a monthly income of $650.
+Metropolitan Montevideo is the only large city, with around 1.9 million inhabitants, or more than half the country's total population. The rest of the urban population lives in about 30 towns. Uruguay's rate of population growth is much lower than in other Latin American countries. Its median age is 35.3 years, higher than the global average due to its low birth rate, high life expectancy, and relatively high rate of emigration among younger people. A quarter of the population is less than 15 years old, and about a sixth are aged 60 and older. In 2017, the average total fertility rate (TFR) across Uruguay was 1.70 children born per woman, below the replacement rate of 2.1. It remains considerably below the high of 5.76 children born per woman in 1882. A 2017 IADB report on labour conditions for Latin American nations ranked Uruguay as the region's leader overall in all but one subindexes, including gender, age, income, formality, and labour participation.
+
+Largest cities
+Language
+Spanish is the de facto national language. Uruguayan Spanish, as a variant of Rioplatense, employs both voseo and yeísmo (with [ʃ] or [ʒ]) and has a great influence of the Italian language and its different dialects since it incorporates lunfardo. In the border areas with Brazil in the northeast of the country, Uruguayan Portuguese is spoken, which consists of a mixture of Spanish with Brazilian Portuguese. It is a dialect without formally defined orthography and without any official recognition. English is the most widely known foreign language among the Uruguayan people. Russian Mennonites living in Uruguay may also speak Plautdietsch.
+As few indigenous people exist in the population, no indigenous languages are thought to remain in active use in the country. Historically, Guaraní and Chaná were spoken in rural areas, although their speakership has all but vanished. Another spoken dialect was the Patois, which is an Occitan dialect. The dialect was spoken mainly in the Colonia Department, where the first pilgrims settled, in the city called La Paz. There are still written tracts of the language in the Waldensians Library (Biblioteca Valdense) in the town of Colonia Valdense, Colonia Department. Patois speakers arrived to Uruguay from the Piedmont. Originally, they were Vaudois who become Waldensians, giving their name to the city Colonia Valdense, which translated from the Spanish to mean "Waldensian Colony".
+In 2001, Uruguayan Sign Language (LSU) was recognized as an official language of Uruguay under Law 17.378.
+
+Religion
+Christianity is the largest religion in Uruguay. The country has no official religion; church and state are officially separated, and religious freedom is guaranteed. A 2008 survey by the INE of Uruguay showed Catholic Christianity as the main religion, with 45.7% of the population; 9.0% are non-Catholic Christians, 0.6% are Animists or Umbandists (an Afro-Brazilian religion), and 0.4% are Jewish. 30.1% reported believing in a god, but not belonging to any religion, while 14% were atheists or agnostics. Among the sizeable Armenian community in Montevideo, the dominant religion is Christianity, specifically Armenian Apostolic.
+Political observers consider Uruguay the most secular country in the Americas. Uruguay's secularization began with the relatively minor role of the church in the colonial era, compared with other parts of the Spanish Empire. The small numbers of Uruguay's indigenous peoples and their resistance to proselytism reduced the influence of the ecclesiastical authorities.
+After independence, anti-clerical ideas spread to Uruguay, particularly from France, further eroding the influence of the church. In 1837, civil marriage was recognized, and in 1861, the state took over the running of public cemeteries. In 1907, divorce was legalized, and in 1909, all religious instruction was banned from state schools. Under the influence of the Colorado politician José Batlle y Ordóñez (1903–1911), complete separation of church and state was introduced with the new constitution of 1917. Uruguay's capital has 12 synagogues and a community of 20,000 Jews as of 2011. With a peak of 50,000 during the mid-1960s, Uruguay has the world's highest rate of aliyah as a percentage of the Jewish population.
+
+Education
+Education in Uruguay is secular, free, and compulsory for 14 years, starting at the age of 4. The system is divided into six levels of education: early childhood (3–5 years), primary (6–11 years), basic secondary (12–14 years), upper secondary (15–17 years), higher education (18 and up), and postgraduate education. Public education is managed by three main institutions: the Ministry of Education and Culture, which coordinates national policies; the National Administration of Public Education, responsible for early childhood through secondary education; and the University of the Republic, which oversees higher education as the nation's leading institution.
+The country maintains an adult literacy rate approaching 100% and ranks high at the regional level in standardized assessments, including PISA. In 2023, the government invested 4.9% of GDP in education.
+Uruguay is part of the One Laptop per Child project, and in 2009 it became the first country in the world to provide a laptop for every primary school student as part of the Plan Ceibal. Over the 2007–2009 period, 362,000 pupils and 18,000 teachers were involved in the scheme; around 70% of the laptops were given to children who did not have computers at home. The OLPC project represents less than 5% of the country's education budget.
+
+Culture
+Uruguayan culture is predominantly European. The tradition of the gaucho has been an important element in the art and folklore of both Uruguay and Argentina.
+
+Visual arts
+Abstract painter and sculptor Carlos Páez Vilaró was a prominent Uruguayan artist. He drew from both Timbuktu and Mykonos to create his best-known work: his home, hotel and atelier Casapueblo near Punta del Este. The 19th-century painter Juan Manuel Blanes, whose works depict historical events, was the first Uruguayan artist to gain widespread recognition. The Post-Impressionist painter Pedro Figari did pastel studies in Montevideo and the countryside. Most of the paintings were part of the abstract trend, not muralism.
+Uruguay has many art museums, most of which are in Montevideo, such as the Torres García Museum and the Gurvich Museum. The Torres García Museum was dedicated in honor of the Uruguayan artist Joaquín Torres-García.
+
+Music
+The folk and popular music of Uruguay shares its gaucho roots with Argentina and the tango. One of the most famous tangos, "La cumparsita" (1917), was written by the Uruguayan composer Gerardo Matos Rodríguez. The candombe is a folk dance performed at Carnival, especially Uruguayan Carnival, mainly by Uruguayans of African ancestry. The guitar is the preferred musical instrument, and in a popular traditional contest called the payada, two singers, each with a guitar, take turns improvising verses to the same tune. Folk music is called canto popular and includes some guitar players and singers such as Los Olimareños, and Numa Moraes.
+There are numerous radio stations and musical events of rock music and the Caribbean genres. Early classical music in Uruguay showed Spanish and Italian influence, but since the 20th century, a number of composers of classical music, including Eduardo Fabini, Héctor Tosar, and Eduardo Gilardoni, have made use of Latin American musical idioms more. There are two symphony orchestras in Montevideo, OSSODRE and Filarmonica de Montevideo. Some of the well-known classical musicians are pianists Albert Enrique Graf; guitarists Eduardo Fernandez and Marco Sartor; and singers Erwin Schrott.
+Tango has especially affected Uruguayan culture during the 20th century, particularly the 1930s and 1940s with Uruguayan singers such as Julio Sosa from Las Piedras. When tango singer Carlos Gardel was 29 years old, he changed his nationality to be Uruguayan, saying he was born in Tacuarembó. Nevertheless, a Carlos Gardel museum was established in 1999 in Valle Edén, near Tacuarembó.
+Rock and roll was first introduced into Uruguay with the arrival of the Beatles and other British bands in the early 1960s. A wave of bands appeared in Montevideo, including Los Shakers, Los Iracundos, Los Moonlights, and Los Malditos, of which all became major figures in the so-called Uruguayan Invasion of Argentina. Popular Uruguayan rock bands include La Vela Puerca, El Cuarteto de Nos, and Cursi. In 2004, the Uruguayan musician and actor Jorge Drexler won an Academy Award for composing the song "Al otro lado del río" from the movie The Motorcycle Diaries, which narrated the life of Che Guevara.
+
+Literature
+José Enrique Rodó (1871–1917), a modernist, is considered Uruguay's most significant literary figure. His book, Ariel (1900), deals with the need to maintain spiritual values while pursuing material and technical progress. It also stresses resisting cultural dominance by Europe and the United States. Notable amongst Latin American playwrights is Florencio Sánchez (1875–1910), who wrote plays about contemporary social problems that are still performed today.
+From about the same period came the romantic poetry of Juan Zorrilla de San Martín (1855–1931), who wrote epic poems about Uruguayan history. Also notable are Juana de Ibarbourou (1895–1979), Delmira Agustini (1866–1914), Idea Vilariño (1920–2009), and the short stories of Horacio Quiroga and Juan José Morosoli (1899–1959). The psychological stories of Juan Carlos Onetti (such as "No Man's Land" and "The Shipyard") have earned widespread critical praise, as have the writings of Mario Benedetti.
+Uruguay's best-known contemporary writer is Eduardo Galeano, author of Las venas abiertas de América Latina (1971; "Open Veins of Latin America") and the trilogy Memoria del fuego (1982–87; "Memory of Fire"). Other modern Uruguayan writers include Sylvia Lago, Jorge Majfud, and Jesús Moraes.
+
+Media
+The Reporters Without Borders worldwide press freedom index has ranked Uruguay as 19th of 180 reported countries in 2019. Freedom of speech and media are guaranteed by the constitution, with qualifications for inciting violence or "insulting the nation". Uruguay's freedom of the press was severely curtailed during the years of military dictatorship. On his first day in office in March 1985, Sanguinetti reestablished complete freedom of the press. Consequently, Montevideo's newspapers expanded their circulations. Uruguayans have access to more than 100 private daily and weekly newspapers, more than 100 radio stations, and some 20 terrestrial television channels, and cable TV is widely available.
+State-run radio and TV are operated by the official broadcasting service SODRE. Some newspapers are owned by, or linked to, the main political parties. El Día was the nation's most prestigious paper until its demise in the early 1990s, founded in 1886 by the Colorado party leader and (later) president José Batlle y Ordóñez. El País, the paper of the rival Blanco Party, has the largest circulation. Búsqueda serves as a forum for political and economic analysis. Although it sells only about 16,000 copies a week, its estimated readership exceeds 50,000.
+
+Cuisine
+Uruguayan cuisine reflects the country's history of immigration, particularly from Spain and Italy, and to a lesser extent from England, France, and Germany, among others. Pasta, pizza, seafood, pastries, and other dishes of European origin are widely incorporated into the national cuisine, while beef occupies a central place in traditional meals.
+Among the best known dishes are asado and the chivito. Asado consists of meat cooked over a grill or open fire and is an important social tradition in Uruguay. The chivito is a sandwich generally containing thin grilled beef and toppings such as lettuce, tomatoes, fried egg, ham, and olives. Other commonly eaten dishes include milanesa, a kind of fried breaded meat cutlet, and a variety of pastas reflecting Italian cultural influence.
+One of the most consumed spreads in Uruguay is dulce de leche (a caramel confection from Latin America prepared by slowly heating sugar and milk). The most typical sweet is alfajor, which is a small cake, filled with dulce de leche and covered with chocolate or meringue. Other typical desserts include the pastafrola (a type of cake filled with quince jelly) and chajá (meringue, sponge cake, whipped cream and fruits, typically peaches and strawberries are added). Mate, an herbal drink, is the most typical beverage in Uruguay.
+
+Sports
+Association football (Spanish: fútbol; USA: soccer) is the most popular sport in Uruguay. The first international match outside the British Isles was played between Uruguay and Argentina in Montevideo in July 1902. Football was introduced to Uruguay by English sailors and workers in the 19th century alongside rugby and cricket.  Uruguay won gold at the 1924 Paris Olympic Games and again in 1928 in Amsterdam. Its national football team has won the FIFA World Cup on two occasions. Uruguay won the inaugural tournament on home soil in 1930 and again in 1950, famously defeating home favourites Brazil in the final match. Uruguay has won the Copa América (an international tournament for South American nations and guests) 15 times, one less than Argentina, the last one in 2011. Uruguay has by far the smallest population of any country that has won a World Cup. Despite their early success, they missed three World Cups in four attempts from 1994 to 2006. Uruguay reached the semifinal for the first time in 40 years in the 2010 FIFA World Cup. Diego Forlán was presented with the Golden Ball award as the best player of the 2010 tournament. Uruguay exported 1,414 football players during the 2000s, almost as many players as Brazil and Argentina. In 2010, the Uruguayan government enacted measures intended to retain players in the country. There are two Montevideo-based football clubs, Nacional and Peñarol; they have won three Intercontinental Cups each. When the two clubs play each other, it is known as Uruguayan Clásico. In the rankings for June 2012, Uruguay was ranked the second best team in the world, according to the FIFA world rankings, their highest ever point in football history, falling short of the first spot to the Spain national football team.
+Another popular sport is basketball. Its national team qualified for the Basketball World Cup seven times, more often than other countries in South America, except Brazil and Argentina. Uruguay hosted the official Basketball World Cup for the 1967 FIBA World Championship and the official Americas Basketball Championship in 1988 and 1997, and was a host of the 2017 FIBA AmeriCup.
+
+See also
+Outline of Uruguay
+
+Notes
+References
+Further reading
+External links
+Key Development Forecasts for Uruguay from International Futures
+
+Government
+Uruguay – Official website of the Oriental Republic of Uruguay
+Government – Official website of the Government of Uruguay
+Presidency – official website of the president of Uruguay
+General Assembly – official website of the General Assembly of Uruguay
+Senate – official website of the Senate of Uruguay
+Chamber of Representatives – official website of the Chamber of Representatives of Uruguay
+Statistics – official website of the National Statistics Institute
+
+History
+Uruguay (1811–2011) Archived 18 July 2024 at the Wayback Machine – website describes Uruguay in this period
+"History" – Uruguayan history at Guía del Mundo
+
+Tourism
+Visit Uruguay – Uruguay's official tourism portal
+
+Maps
+ Wikimedia Atlas of Uruguay
+ Geographic data related to Uruguay at OpenStreetMap
+
+## Tourism in Uruguay
+Tourism in Uruguay is an important part of the nation's economy. Uruguay's tourist destinations include: Punta del Este, Piriápolis, Montevideo, Colonia del Sacramento, Salto, Lavalleja, Rocha, Artigas, Rivera, and others.
+In 2023, 3.8 million tourists entered Uruguay, of which the majority were Argentines and Brazilians, followed by Chileans, Paraguayans, Americans and Europeans of various nationalities.
+This is an increase which showed that in 2007, 1.8 million tourists visited and spent around US$800 million. Domestic tourist expenditures account for around 60% of the nation's tourist activity.
+Uruguay is the Latin American country that receives the most tourists in relation to its population. For Uruguay, Argentine tourism  represents 56% of international inbound tourism, and 70% during the summer months. Although Argentine holidaymakers are an important target market for tourism in Uruguay, in recent years the country has managed to position itself as an important tourist destination to other markets, receiving a high flow of visitors from countries such as Brazil, Paraguay and the United States, among others.
+
+Statistics
+In 2024 about 200,000 tourists visited the country.
+
+Regions
+Punta del Este
+Punta del Este is located at the extreme southeast of the country, on a small peninsula that gives it its name and taken as conventional limit on the Uruguayan coast between Atlantic Ocean and River Plate. Its beaches are divided into Mansa, or meek, (river side) and Brava, or brave, (ocean side). The name given to these beaches is because the first, to give to the River Plate and be sheltered from the winds and currents from the Atlantic Ocean, almost always presents its fairly calm waters, while the "Brava" beach, the longer ocean has a much more impetuous waves. Punta del Este is virtually connected to the city of Maldonado and eastward spread widely, encompassing La Barra and José Ignacio. It has 122 hotels, 80 restaurants, an international airport and a yacht port that can accommodate 500 boats. About 8 kilometers southeast of Punta del Este is the Lobos Island full of South American fur seals.
+
+Piriápolis
+Piriápolis is a city and resort of Maldonado Department, located an hour's drive east of the capital, Montevideo. It has a fixed population of 7,579 inhabitants, although the floating population is much higher, especially between December and March. It was the first resort town in the country, today under the shadow of Punta del Este, the largest and most popular. It welcomes many Argentine visitors and a growing number of Europeans, although domestic tourism is very important.
+The city has its axis around the Rambla de los Argentinos, a coastal avenue that takes its name from the major customers of the founder of the city, the hotel Francisco Piria. With an economy centred on tourism, the city has hotels and casinos, a very active nightlife in the summer months as well as public parks, religious centers, viewpoints, etc. In high season, one can reach Piriápolis by ferry from the port of Montevideo and Buenos Aires.
+The Chapel of San Antonio, on top of the homonymous hill, one of many around the city, offers a panoramic view and can be reached by road or by air chair. For more intrepid travellers it offers the possibility to climb the third highest mountain in the country, the Pan de Azúcar, near its namesake city, about 10 km outside the resort.
+Near Piriápolis are rock formations by the sea, called Punta Fría, Punta Colorada and Punta Negra, which have excellent fishing all year round. There are also white sand beaches such as  San Francisco  and  Playa Hermosa , which are a very short distance from the resort centre.
+
+La Paloma
+La Paloma is an ocean resort located at the Cape of Santa María, founded on September 1, 1874. It is located in the east in the Rocha Department. It is 240 km from Montevideo and is approximately 90 km from Punta del Este and 160 km from Chuy, a town bordering Brazil. It is known for its tranquility and its beautiful beaches, whose length is approximately 20 km. It has a permanent population of 5,300 inhabitants, but with tourist arrivals  it swells to 30,000 in the summer months (January–February–March). The resort owes its name to that formerly the Cape Santa María was a very feared by sailors tip, and from afar because of the amount of rocks and the foam of the waves, it seems to make the outline of a dove.
+The homes are alpine style of French design. Most are for rent. La Paloma has different beaches with different characteristics (with rocks, with waves, calm waters, deep, fishing). Some of them are La Aguada, Costa Azul, La Balconada, Anaconda y El Cabito.
+In the department of Rocha, it is also a paradise for fans of Birdwatching
+
+Punta del Diablo
+The Resort Punta del Diablo was originally a small fishing village.  It is located on the coast of Rocha Department. It is 298 km from Montevideo.
+Its beaches, framed on three rocky headlands that make up the "trident", occupy about 10 km of coastline.
+Its permanent population is about 650 inhabitants, mostly fishermen and craftsmen. In summer it becomes one of the main Uruguayan resorts welcoming a large influx of Argentine, Brazilian and European tourists.
+
+La Pedrera
+La Pedrera is located at km 227.200 of Route 10, Juan Díaz de Solís, a little east of Cape of Santa María, on a narrow and small peninsula called Punta Rubia.
+It is a small resort with an excellent infrastructure for accommodation. It has a strong exclusive and cosmopolitan character and is ideal for family holidays. Its beaches are excellent for both rest and recreation, hosting such activities as fishing and many other water sports.
+
+Barra del Chuy
+The resort Barra del Chuy is 14 km from the city of Chuy.
+
+La Coronilla
+La Coronilla is a place where peace of mind is lived. Through its extensive beaches of fine sand it can feel the peace of nature.
+Fans to watch of marine wildlife and sport fishing, found at this site many possible embodiments. Is possible to see whales, dolphins and sea turtles from the observatories of Cerro Verde, and it can also enjoy one of nature's finest fishing in the world.
+
+Santa Teresa
+This is a National Park where, outside the summer months, one can go surfing with virtually no crowd. It is a beach frequented by Brazilian tourists.
+
+Aguas Dulces
+Aguas Dulces is located at km 277,500 of Route 10, Juan Díaz de Solís.
+
+Cabo Polonio
+Cabo Polonio is a lovely, lonely fishing village. It owes its attraction to the magical environment thanks to its hardiness is generated and the primitive state that is its nature. The time seems stopped in this place sheltered from the civilization that preserves the peace of a lost place. No electricity, no running water, no gas, Cabo Polonio attracts each day more tourists who do not feel the lack of these services because they value the ability to disconnect from the world.
+What began as a small fishing village, it was getting more and more number of people that created a large increase in tourism activities. This peculiar place in the world, has a small stable population and a large floating population, but its tranquility is interrupted only by the low flight of the wombs or the howl of sea lions.
+
+Montevideo
+Montevideo is the southernmost capital city in the Americas. As broad green walks, both within the city and in the periphery, are featured the Parque Rodó neighborhood, characterized by the large namesake park of 25 hectares;  Parque Batlle, with several kilometers long situated where is the Estadio Centenario, stadium hosted the first World Cup in history, two more football stadiums and the velodrome of the city, and the running track; the neighborhood of Prado also offers ample green spaces and places worth visiting; the Cerro neighborhood, looking at the coast is the Parque Dr. Carlos Vaz Ferreira along with the Cerro golf club; in the Santiago Vazquez in western border with the department of San José, is the Parque Lecocq and south of the same the Parque Artigas.
+Plaza Independencia is also a short walk from the Montevideo Esplanade. The Esplanade (Rambla) is one of the city's numerous waterfront districts, which also include Ramírez Beach (home to the Mercosur Common Market headquarters), Pocitos, and a row of similar communities. A new terminal at Carrasco International Airport was completed in 2009, contributing to Montevideo's standing as the major city with the highest quality of life in Latin America.
+For fans of equestrian sports is the Maroñas National Racecourse, where numerous races are run, being the most traditional the Premio Ramírez, which takes place every January 6.
+Montevideo has Torres García Museum, José Gurvich Museum, the National Museum of Visual Arts and the Juan Manuel Blanes Museum. The grounds of the Blanes Museum host the Japanese Garden of Montevideo with a koi pond.  
+The "shoppings" or malls is an attraction for Montevideans and tourists: Tristán Narvaja (Sunday), in the central district of Cordón; Villa Biarritz and La Teja (Saturday and Tuesday), Parque Rodó (Sunday) Piedras Blancas and Belvedere (also on Sundays).
+
+Colonia del Sacramento
+Colonia del Sacramento, that locals call Colonia, is the capital of Colonia. Located a few kilometers southeast of the confluence of the Uruguay River and River Plate, its historic district has been declared a World Heritage in 1995, to illustrate the successful fusion of the Portuguese, Spanish and post-colonial styles. Because of its proximity with the city of Buenos Aires has strong bond with her. There are many travelers who come and go to that destination, as well as the inhabitants of Buenos Aires who have property there. There was a project to join both cities through a binational bridge. The unique preservation of the environment has allowed the use of its streets and exterior of several period films such as De eso no se habla (1993) of María Luisa Bemberg with Marcello Mastroianni as protagonist.
+The Real de San Carlos is the area on the outskirts of Colonia where the Spanish troops laid siege to the Portuguese stronghold in 1761. Its name is a tribute to the king Charles III of Spain. It has a small chapel dedicated to Benedict, the first black saint of the Catholic Church. It is now a residential area with many weekend houses, where it can enjoy quiet beaches on the River Plate of fine sand. In the Real de San Carlos was developed at the beginning of 20th century a tourist complex, by initiative of Argentine businessman Nicolás Mihanovich, today in lamentable neglect, which had a hotel-casino (which only has built an "Annex"), bullring, fronton of basque pelota (the largest in South America) and an own power plant.
+Other tourist and historical place in Colonia is the Calera de las Huérfanas, located just before the entrance to the city of Carmelo, remnants of the Jesuit Estancia de Belén.
+
+Salto
+Salto is 500 km Montevideo; it has several hot springs resorts. The most important is of Daymán 7 km from the city of Salto, which has a public resort and several private options. 10 km of this city is the Hotel Horacio Quiroga (5 Stars) also features a thermal water park. Going along Route 5 and 70 km is the complex Arapey which has a public sector and a private sector with a Hotel (5 stars). In the departamental capital there buildings of the famous Ing Eladio Dieste.
+
+Hot springs of Arapey
+The Termas del Arapey are located in Salto. They are the oldest, and have the most important and professional tourist infrastructure of Uruguay.
+
+Hot springs of Daymán
+Termas del Dayman are in Salto, whose waters have characteristic that can be used for therapeutic purposes, due to the combination of heat and salinity. They also have the Hydrothermal Daymán Complex, institution of high scientific and ethical standards recognized internationally.
+
+Paysandú
+In the Uruguayan coast, along the Uruguay River, Paysandú is rooted land in traditions and architectural heritage of the country, festivals and sporting events, generous in delicacies where it mix the river fishing with citrus aromas and perfumes of blueberry plantations. Also in this land it emanate thermal waters that turn into fun and quality of life, and it can live fully in its Thermal Centers, served by staff who receives and serves to tourists with warmth and human quality.
+
+Artigas
+The Artigas Department has several touristic attractions which include: the Piedra Pintada (Painted Rock) with swimming pools, camping and fauna reserve 18 km from the capital, the park on the Cuareim river called Paseo 7 de Setiembre where is the Estadio Matías González, also with camping area and barbecue; while in the vicinity of Bella Unión are found: La Barra, the Parque General Rivera, and Los Pinos resort on the Uruguay River.
+Special mention have the Carnival of Artigas, which stands out from other carnivals of Uruguay, due to the link with the Brazilian Samba, infecting its rhythm, color and fun. Between 20 and 30 thousand people attend witness each year, being the pillar in tourist attraction of the department.
+Another point of future tourist attraction are its hot springs, which to date have not been exploited commercially, but have great potential due to the triple frontier: Uruguay-Brasil-Argentina.
+
+Lavalleja
+Lavalleja is one of the departments of the country with most scenic variations, but is recognized as the center of mountain tourism in Uruguay. The landscape stretches along the la Cuchilla Grande and its branches which are surrounded by rivers, streams, creeks and waterfalls.
+A great tourist attraction of the department is Villa Serrana, known as "La Villa" and the product of an urban planning of architect. Julio Vilamajó. There it can visit the Mesón de las Cañas, the Ventorrillo de la Buena Vista, the Dam Stewart Vargas and adding the wide range of holiday cottages.
+It also find unmissable places of Lavalleja like the Salus Park with its source of cougar, big Penitente Waterfall, the luxurious Holiday Park UTE y ANTEL, Camping Arequita with its wide range of amenities, Lake and Hill de los Cuervos, Camping and Dam Aguas Blancas, beautiful Buddhist temples, Gold Mine, the amazing Arequita Hill with its large caves, Verdún Hill and Sanctuary, tourist estancias (La Calaguala, La Fortaleza, Águila Blanca, La Salamora, etc.), the former Castle Batlle, the mysterious Hilo de la Vida, Complex Entre Sierras; and many other attractive places.
+Undoubtedly, its capital Minas is a thread very important for Lavallejino tourism. Within the Urban Grid of the city found the luxurious Theatre Lavalleja are its great hall and its museum of the cartoon (unique in South America), the Parque Rodo (Minas) with its large variety of amenities, the Park and Dam of OSE with big green land, the Zorrilla Park, the Fabini Park, the Rambla Estér Moré, the beautiful and historic Plaza Libertad, the House of Culture where is maintained the birthplace of Juan Antonio Lavalleja and also has with many museums, the Park and Hill Artigas with the world's largest equestrian statue in honor of Jose Gervasio Artigas, the Cathedral of the Immaculate Conception of the Minas; and other attractions.
+
+Durazno
+The departament is located in the center of the country, it is bordered by the Department of Flores, Florida, Río Negro, Tacuarembó, Cerro Largo and Treinta y Tres.
+The tourism in the department offers various veins: massive cultural artistic activities (such as Pilsen Rock, Festival de folclore, Llamadas, Movida tropical, etc.), tourism of camping and beach on the Yí River, tourism of estancias and tourism in relation to historical, architectural or other heritage. These veins it complement because, for example, visitors arriving to the Pilsen Rock or the festival de folclore also usually concur to camping and/or the beach.
+The mentioned camping is called "33 Orientales", is located in beach El Sauzal on the shores of Yí River, and has a dense native forest.
+From the point of view of heritage tourism are highlighted the cave paintings nearby streams Maestre Campo and Chamangá and the Chapel Farruco, one of the oldest colonial buildings of Uruguay.
+
+Tacuarembó
+At north of the country, is the most widespread department of Uruguay. In it, it highlight the Iporá Resort and Valle Edén, near the city of Tacuarembó, and San Gregorio de Polanco, with its murals, made by some of the most important Uruguayan artists, and its sandy beach on shores of Artificial Lake Rincón de Bonete. Valle Edén attracts a special attraction for visitors in search of the birthplace of Carlos Gardel.
+
+Rivera
+Rivera is located north of the Uruguay, is a department that is in a big commercial boom, its main source of tourism is shopping tourism, based on duty-free shops; there are currently approximately 70 duty-free shops in the city and in 2012 a shopping mall, Siñeriz Shopping, was opened. Two more shopping malls are scheduled to begin construction.
+In the department there is also ecotourism, such as the Lunarejo, which was recently named Protected Area.
+
+Ethical travel
+Uruguay was included in both the 2011 and the 2012 lists of "The Developing World's 10 Best Ethical Destinations". This ranking was produced by Ethical Traveler magazine based on metrics such as environmental protection, social welfare, and human rights.
+
+Retirement in Uruguay
+Publications such as the Huffington Post recommend Uruguay as a destination for people wishing to retire in peace and enjoyment, and paying reasonable taxes.
+
+See also
+Visa policy of Uruguay
+
+References
+External links
+
+Tourism in Uruguay (in Spanish)
+Fascinating Uruguay (in Spanish)
+
+## Culture of Uruguay
+The culture of Uruguay is diverse since the nation's population is one of multicultural origins. Modern Uruguayan culture and lifestyle are heavily influenced by European traditions, due to the contributions of large numbers of immigrants who arrived in the country from the 19th century onwards, especially from Italy and Spain. 
+From the year 1858 to 1950 large waves of European immigrants began arriving to Uruguay, with the majority of the immigrants coming from Italy. Minor European immigrant groups – French, Germans, Swiss, Russians, Jews, and Armenians, among others –  also migrated to Uruguay. Uruguay has century-old remains and fortresses of the colonial era. Its cities have a rich architectural heritage, and a number of writers, artists, and musicians. Carnaval and candombe are the most important examples of African influence by slaves, as well as Umbanda religious beliefs and practices. Guarani traditions can be seen in the national drink, mate.
+
+Visual arts
+Painting and sculpture
+Well-known Uruguayan painters include realists such as Juan Manuel Blanes, constructivists such as Joaquín Torres García, nativists like Carlos María Herrera, post-impressionists such as Pedro Figari and Felipe Seade, abstract artists such as Carlos Páez Vilaró, and numerous others.
+
+Well-known sculptors include realists Pablo Atchugarry, José Belloni, and José Luis Zorrilla de San Martín, as well as contemporary sculptors such as Juan José Calandria, Águeda Dicancro, Hugo Nantes, Claudio Silveira Silva, Mariví Ugolino, and Carlos Páez Vilaró, who created an internationally renowned "livable sculpture", Casapueblo.
+
+Architecture
+Due to European migration, new forms of art and design started to enter during the formation of Uruguay. Many buildings in Uruguay are European influenced, for example, the Palacio Salvo was designed by Italian architect Mario Palanti.
+Many well recognized architects around the world are Uruguayan. Some famous Uruguayan architects include Juan Antonio Scasso, Juan Giuria, Leopoldo Artucio, Eladio Dieste, and Carlos Ott.
+Rafael Viñoly is a Uruguayan architect known for his most recognized project being the 432 Park Avenue in New York City. The building stands at 1,396 feet (425.5 m) with 96 floors, making it the tallest residential building in the world. He is also credited for designing other buildings such as the Tokyo International Forum, Kimmel Center for the Performing Arts, and Uruguay's international airport Carrasco International Airport.
+
+Modern society
+Immigration
+Among the several peoples who settled Uruguay and formed the backbone of its society must be highlighted Spaniards and Italians, together with some descendants of African slaves. While Spaniards being the greatest contributor to other South American countries, Italians are arguably the greatest contributor to Uruguay. There are also significant minorities: Armenians, Austrians, Basque, Britons, Bulgarians, Croats, French, Germans, Greeks, Roma, Hungarians, Irish, Scots, Jews, Lebanese, Lithuanians, Poles, Russians, Slovaks, Slovenes, Swiss, and Ukrainians. There are very small Asian communities, mainly from China, Japan and Korea.
+
+Languages
+Spanish is the de facto national language, and is virtually spoken by the entire population. The standard language is Uruguayan Spanish, which is a variant of Rioplatense Spanish. This variant is known in the Hispanosphere for its marked Italian influence in its intonation and vocabulary. Additionally, lunfardo argot is widely used among the population. 
+The Uruguayan Portuguese or fronteiriço—a set of varieties of Portuguese—are spoken in the northeast of the country, where cultural exchanges occur between communities on both sides of the border. Minority languages in Uruguay include Italian, French, German, Hebrew, and other European languages, which are present in the country due to the significant waves of migration from Europe. English is the most widespread foreign language among the Uruguayan people.
+Since 2001, Uruguayan Sign Language is an official language.
+
+Gestures
+Uruguayan gestures are mostly adopted from Southern European culture, with hand gestures and tones being all used commonly throughout the country. A gesture that is only specifically used in Argentina and Uruguay is males kissing other males on the cheek, sometimes both cheeks, as a way of greeting. For the rest of Latin America, kissing on cheek as a form of greeting is mostly towards a male and female, or a female to another female.
+
+Popular culture
+Humour
+Uruguayan humour has been present for over 200 years. Written humour has been developed by notable writers. Later on, during the civic-military dictatorship, satirical magazines such as El dedo and Guambia were notable vehicles for expressing dissatisfaction.
+Modern media have been crucial in its development. The television programme Telecataplúm made history both in Uruguay and Argentina, followed by Decalegrón. 
+Currently the radio figure Orlando Petinatti leads the radio programme Malos Pensamientos.
+
+Music
+Uruguayans enjoy music such as tango, folk, and waltz as well as local forms such as candombe, milonga and murga. Both tango and candombe have been recognized by UNESCO as Intangible Cultural Heritage of Humanity. Uruguay's annual Carnival is a major event with many unique features distinguishing it from those of its neighbours. Rock, jazz, pop and other international genres also enjoy great popularity in Uruguay.
+
+Motion pictures
+The first Uruguayan motion picture is "Carrera de bicicletas en el velódromo de Arroyo Seco". The film was directed by Félix Oliver, the pioneer of cinematography in Uruguay. The best reviewed Uruguayan movie is the 2004 film, Whisky. Directed by Juan Pablo Rebella and Pablo Stoll, with a starring cast of Andrés Pazos, Mirella Pascual, and Jorge Bolani, it was well-received by film critics.
+
+Smoking
+Roughly 1/3 of Uruguayan adults smoke tobacco, according to Uruguayan research groups. On March 1, 2006, a law went into effect banning smoking in all enclosed public spaces in Uruguay, including restaurants and bars, among the toughest smoking bans worldwide and the strictest in Latin America. The penalty for businesses that allow smoking is a fine of roughly US $1,100 or a three-day closure. One opinion poll found that 70% of smokers supported the ban. Current President of Uruguay in that year, Tabaré Vázquez, was a medic doctor specializing in cancer treatment.
+
+Literature
+One of Uruguay's most famous works of literature is Ariel by José Enrique Rodó (1871–1917). Written in 1900, the book deals with the need to maintain spiritual values while pursuing material and technical progress. Florencio Sánchez (1875–1910) wrote plays about social problems that are still performed today. Juan Zorrilla de San Martín (1855–1931) wrote epic poems about Uruguayan history (notably Tabaré). Juana de Ibarbourou (1895–1979) and Delmira Agustini (1866–1914) were also notable poets.
+The Generación del 45 (Generation of '45) were of group of writers, mainly from Uruguay, who were famously known to have an influence on literature and culture of the region. Well-known writers belonged to this group such as Mario Benedetti, Amanda Berenguer, Juan Carlos Onetti, Mauricio Müller, Humberto Megget, Armonía Somers, Idea Vilariño, Emir Rodríguez Monegal, Carlos Maggi, Zenobia Camprubí and among others.
+
+Religion
+Since 1919, church and state have been separated, and the constitution, as revised in 1966, guarantees religious freedom. The largest religion in Uruguay are the Roman Catholics, making about 66% of the population. Most Uruguayans baptize their children and marry in churches, but don't attend church that often. There is an estimated amount of 20,000 Jews in Uruguay, making it one of the largest Jewish communities in South America and in the world. Most Jews in Uruguay are Sephardi Jews,  followed by Ashkenazim, Mizrahim, and Italkim. During European migration to South America, many German Jews and Italian Jews migrated to Uruguay. There are also several Evangelical Protestant groups, making 2% of the Uruguayan population. Macumba and Umbanda, religions of Afro-Brazilian origin, are currently the fastest-growing religions in Uruguay. There are a few Christian missionary organizations in Uruguay, such as Serve the City (Run by Matthew Daniels). There is also a number of Jehovah's Witnesses, with 11,825 publishers and 156 congregations located within the country.
+
+Cuisine
+Uruguayans consume a large amount of beef, primarily at gatherings known in the continent as the asado. The parrillada (beef platter), chivito (a substantial steak sandwich), and pasta are the national dishes. Uruguayan cuisine is greatly influenced by Italian cuisine, due to the large number of immigrants who arrived in the country in the 19th and 20th centuries.
+Other Uruguayan dishes include morcilla dulce (a type of blood sausage cooked with ground orange fruit, orange peel, and walnuts) and milanesa (a veal breaded cutlet similar to the German Wienerschnitzel). Snacks include olímpicos (club sandwiches), húngaras (spicy sausage in a hot dog roll), and masas surtidas (bite-sized pastries). Typical drinks include mate, tea, clericó (a mixture of white wine and fruit juice), and medio y medio (part sparkling wine and part white wine).
+
+Wine
+Plantings of Tannat (also known in Uruguay as Harriague) have been increasing in Uruguay each year as that country's wine industry develops, and the country is considered the second most notable Tannat region after Madiran, France. The Tannat wines produced here are characterized by more elegant and softer tannins and blackberry fruit notes. Vineyards in Uruguay have begun to distinguish between the "old vines" that are descendants from the original cuttings brought over from Europe and the new clones being produced today. The newer vines tend to produce more powerful wines with a higher alcohol level, but less acidity and complex fruit characteristics. Some wineries utilize both vines to make blends. Now the wines typically spend about 20 months in oak prior to release. Today it is often blended with Pinot noir and Merlot, and is made in a variety of styles including those reminiscent of Port and Beaujolais.
+
+Sports
+Sports in Uruguay have been a key element to the culture since the nation's independence.
+Football (Spanish: fútbol) is the most popular sport in Uruguay. Uruguay has won an Olympic gold medal in 1924, and another one in 1928, which were considered the most important tournaments in football, before the FIFA World Cup began in 1930, hence the four stars on the Uruguayan jersey. The first World Cup, which Uruguay won, was held in 1930 in Montevideo. The Estadio Centenario was built for the World Cup, and serves to this day as the country's main football stadium.
+Uruguay also won the World Cup in 1950, beating Brazil in Rio de Janeiro at the Estádio do Maracanã. The event has had astounding impacts on the history of the sport, due to Brazil being a heavily favoured team at that time, and is also known as the Maracanazo.
+Uruguay has the second most Copa América titles, the most important football tournament in the South American region. Uruguay currently has 15 titles to their name, the most recent being the 2011 Copa América hosted by Argentina.
+Uruguay has two major clubs, Peñarol and Club Nacional de Football, which both have won major tournaments both nationally and internationally. Peñarol has won the Uruguayan Primera División a total of 49 times, while Nacional have won the division 46 times. Peñarol has won the Copa Libertadores, the most prestigious club tournament in South America, 5 times and Nacional have won 3 times. Both teams have won the Intercontinental Cup a total of 3 times (which is the present day FIFA Club World Cup). In September 2009, Peñarol was chosen as the South American Club of the Century by the IFFHS.
+Uruguayans are internationally known in the football world and have produced some of the biggest names of the sport. Some names include:
+
+Enzo Francescoli
+Juan Alberto Schiaffino
+Hector Scarone
+Diego Forlán
+Luis Suárez
+Álvaro Recoba
+Jose Nasazzi
+Diego Godín
+Edinson Cavani
+Diego Lugano
+Alcides Ghiggia
+Antonio Pacheco D'Agosti
+Ladislao Mazurkiewicz
+Paolo Montero
+Other popular sports in Uruguay include athletics, auto racing, basketball, boxing, cycling, field hockey, fishing, golf, handball, mountaineering, padel tennis, polo, roller hockey, rowing, rugby union, sailing, skiing, swimming, tennis, and volleyball.
+
+References
+External links
+Uruguayan Government Portal
+Uruguayan writers in Centro Virtual Cervantes
+
+## Cuisine of Uruguay
+Uruguayan cuisine is a fusion of cuisines from several European countries, especially of Mediterranean foods from Spain, Italy, Portugal and France. Other influences on the cuisine resulted from immigration from countries such as Germany and Scotland. Uruguayan gastronomy is a result of immigration, rather than local Amerindian cuisine, because of late-19th and early 20th century immigration waves.
+The base of the country's diet is meat and animal products: primarily beef but also chicken, lamb, pig and sometimes fish. The preferred cooking methods for meats and vegetables are still boiling and roasting, although modernization has popularized frying. Although Uruguay has considerable native flora and fauna, with the exception of yerba mate, native plants and animals are largely absent from Uruguayan cuisine. Popular sweets are membrillo quince jam and dulce de leche.
+
+Description
+Uruguayan gastronomy is a result of immigration, rather than local Amerindian cuisine, because of late-19th and early 20th century immigration waves of, mostly, Italians. Uruguayan cuisine is a fusion of cuisines from several European countries, especially of Mediterranean foods from Spain, Italy, Portugal and France. Other influences on the cuisine resulted from immigration from countries such as Germany and Scotland. Although Uruguay has considerable native flora and fauna, with the exception of yerba mate, native plants and animals largely do not figure into Uruguayan cuisine.
+The base of the country's diet is meat and animal products: primarily beef but also chicken, lamb, pig and sometimes fish. The preferred cooking methods for meats and vegetables are still boiling and roasting, although modernization has popularized frying (see milanesas and chivitos). Meanwhile, wheat and fruit are generally served fried (torta frita and pasteles), comfited (rapadura and ticholos de banana), and sometimes baked (rosca de chicharrones), a new modern style. Bushmeat comes from mulitas and carpinchos. Regional fruits like butia and pitanga are commonly used for flavoring caña, along with quinotos and nísperos.
+Spanish influences are abundant: desserts like churros (cylinders of pastry, usually fried, sometimes filled with dulce de leche), flan, ensaimadas (Catalan sweet bread), and alfajores were all brought from Spain. There are also various kinds of stews known as guisos or estofados, arroces (rice dishes such as paella), and fabada (Asturian bean stew). All of the guisos and traditional pucheros (stews) are also of Spanish origin. Portuguese and Brazilian influence was also added during Portuguese colonization. Feijoada was incorporated into the rest of the guisos.
+Uruguayan preparations of fish, such as dried salt cod (bacalao), calamari, and octopus, originate from the Basque and Galician regions, and also Portugal. Due to its strong Italian tradition, all of the famous Italian pasta dishes are present in Uruguay including ravioli, lasagne, tortellini, fettuccine, and the traditional gnocchi. Although the pasta can be served with many sauces, there is one special sauce that was created by Uruguayans. Caruso sauce is a pasta sauce made from double cream, meat, onions, ham and mushrooms. It is very popular with sorrentinos and agnolotti.
+Additionally, there is Germanic influence in Uruguayan cuisine as well, particularly in sweet dishes. The pastries known as bizcochos are Germanic in origin: croissants, known as medialunas, are the most popular of these, and can be found in two varieties: butter- and lard-based. Also German in origin are the Berlinese known as bolas de fraile ("friar's balls"), and the rolls called piononos. The Biscochos were re-christened with local names given the difficult German phonology, and usually Uruguayanized by the addition of a dulce de leche filling. Even dishes like chucrut (sauerkraut) have also made it into mainstream Uruguayan dishes.
+Polenta comes from Northern Italy and is very common throughout Uruguay. Unlike Italy, this cornmeal is eaten as a main dish, with tuco (meat sauce) and melted cheese and or ham.
+
+History
+The current roots of Uruguayan cuisine can be traced back to a subsistence economy adopted by gauchos, and sustained on subsistence agriculture implanted by the Spanish and Criollos at the start of European colonization. The native peoples did not stay in one place, and Uruguay was used as a remote port, with few incursions for treasure hunting. The only permanent establishment at the time was constituted by Franciscan friars and was located in a territory now belonging to Brazil called Misiones, because their mission there was to Christianize the native peoples. The tradition of mate started during this time, with the monks brewing a beverage with the leaves of yerba mate that the Guarani people used to chew.
+Cattle was later introduced by Hernando Arias de Saavedra. The first group of immigrants came from poor families from Buenos Aires and the Canary Islands, along with their empanadas and cocidos. Everything was sold from pulperias that were both stores and saloons. The asado tradition came with gauchos that lived in the country, descendants of those first families that having no land nor home, made cattle raiding their way of life.
+Food was rudimentary and based on Spanish tradition until immigration at the end of the 19th century and the beginning of the 20th century when the first families came mostly from Italy and Spain. Immigration increased following World War I and World War II, when people from all over Europe and the Middle East came to Uruguay, including people from Germany, Russia, Italy, and Armenia. Such immigration enriched the importation of dishes, as there is now pasta, Russian salad and innumerable types of pastries from France and Germany, resulting in chajá and alfajores.
+
+Appetizers, entrees and snacks
+In Uruguayan cuisine, there is a significant list of preparations and dishes that are included in this category, the most typical or autochthonous is the picada, probably descending from the Spanish tapas, and as for everyday food there are also matambre relleno and lengua a la vinagreta.
+
+Aperitif
+Common spirits produced in Uruguay include grappa and caña; grappa is considered an excellent apéritif, and caña is considered a liqueur. Liquor made with caña has good digestive qualities and is mainly consumed as a drink and not as an aperitif. Apéritifs such as martini, vermouth, whisky, medio y medio (half and half) and also uvita, sangria and wine are popular.
+Medio y medio is a special blend of dry wine and sparkling wine, or sparkling wine and caña (rum). Uvita is a fortified wine with caña that resembles marsala wine.
+
+Entrees
+Picada
+Picada can be described as the main entrée of a typical asado (barbecue) and is consumed with aperitifs.  It is constituted by cheese (typically Colonia, of Uruguayan origin), olives, longaniza, salami, chips and salted peanuts; peanuts and other snacks are served on small pots and all of the other ingredients are served on a wood table with slices of bread.
+
+Matambre relleno
+Matambre relleno is a common dish in Rio de la plata, both in Uruguay as in Argentina. It is one of two dishes prepared from matambre, a meat cut that is a flank steak. It is prepared as luncheon meat by rolling thin slices over spinach, carrots and boiled eggs, tied up and sewn with a strong string, boiled and later pressed and consumed cold.
+
+Lengua a la vinagreta
+Lengua a la vinagreta (Spanish for tongue with vinaigrette) is a cold preparation of beef tongue that is previously peeled and boiled and served with a vinagreta sauce made with chopped boiled eggs, parsley, garlic, onions, olive oil, and vinegar.
+
+Pescado en escabeche
+Escabeche is a preserved method common in Spain and Spanish-speaking countries. It consists of a mix of oil and vinegar that is used as a marination that also preserves the food.
+Pescado en escabeche (escabeche fish) is a cold dish often made from Argentine hake that is buttered as in pescado a la marinera.
+After being separately fried, it is parboiled on a vinaigrette made of oil and vinegar that is added to sliced onions and carrots and whole garlic cloves and black pepper.
+
+Side dishes
+Food is mostly eaten with bread, and sometimes rice, salad or chips. Along with asado, accompaniments are chorizo, morcilla, offal, and also stuffed peppers, and papas al plomo (roasted potatoes).
+
+Sauces
+The most notable sauces in Uruguayan cuisine are chimichurri, salsa criolla and salsa Caruso.
+
+Picantina
+Picantina is a spicy sauce commonly added to frankfurters (panchos), hungaras, choripanes and hamburgers. It is common to find in fast food dispensers in the street and is locally called 'carritos'. It resembles hot mustard or mayonnaise.
+
+Mojo
+Sharing the same name as the Spanish mojo, it is a simple sauce made with garlic, oil, parsley, oregano, paprika, water and salt, and is added to asado during the cooking process and optionally on the dish. Mojo differs from chimichurri in that it has water besides vinegar and less paprika.
+
+Chimichurri
+Chimichurri is between a vinaigrette and a pesto variant, made with parsley, chopped garlic, oregano, red pepper flakes, paprika, oil, vinegar, and salt. Along with salsa criolla it is preferred for asado.
+
+Salsa criolla
+Made with finely chopped tomatoes and onions, oil and salt, salsa criolla is used for garment of asado, choripán and sometimes panchos.
+
+Salsa golf
+Mostaza La pasiva
+La Pasiva is a famous chain of restaurants in Uruguay, dedicated to fast food or minutas, as known in the region.  Their specialties are panchos and hungaras and they are renowned for their chivito. Moustard La pasiva is a white-colored hot mustard served along with panchos. It is made with beer, starch, mustard grains, pepper, salt and vinegar. Though it has never been sold commercially, small quantities are sometimes given as a gift for clients.
+Mostaza La pasiva is also used among other mustards as a sauce for puchero meat.
+
+Salsa Caruso, estofado and tuco
+All three are necessary pasta sauces among other foreign pasta sauces. Salsa Caruso was made in honor of the opera singer Enrico Caruso and became a popular sauce (especially for its main dish 'cappelettis a la Caruso'); estofado is a stewed version of ragu made from steaks and sometimes eaten alone; tuco, when it is with chopped meat, resembles a bolognese sauce.
+
+Barbecue and salads
+Salads
+Uruguayan cuisine has adopted and created many salads, the most typical being ensalada criolla.
+
+Ensalada criolla
+With slight variants, it is common for a family of salads that are widespread over the southern south cone region; most variants as in the Chilean salad always include onion and lettuce. The salad common to Uruguay contains tomato along with lettuce and onion and is served with a single vinaigrette made of oil, vinegar, salt, garlic, and oregano. As it is a basic form of salad, it is an ideal accompaniment for asado.
+
+Ensalada rusa
+More similar to the polish sałatka jarzynowa than the typical olivier salad, it contains potatoes, carrots, and peas with mayonnaise.
+
+Ensalada de papa y huevo
+This is a potato and egg salad or onion and potato salad or simply potato mayonnaise and parsley.
+
+Ropa vieja
+Resembling an old Spanish salpicon, ropa vieja (Spanish for old clothes) intends to include everything that exceeds from asado, mainly the best cuts of meat chopped with vegetables such as potatoes or ensalada criolla. It is not to be confused with the Cuban ropa vieja which is also a derivative dish but resembles more a sancocho than a salad.
+
+Salpicon de ave
+Another derivative salpicon, chicken salpicon is made with chicken, eggs, and potatoes.
+
+Palmitos con salsa golf
+Simply heart of palm sometimes rolled in ham slices and served with salsa.
+
+Watercress salad
+Basically watercress, olive oil and lemon juice.
+
+Asado
+Barbecue asado can be said to make the meal or is the meal itself. The meal and cut of meat are also called asado or tira de asado.
+In most Uruguayan homes, it is common to find a special grill on the patio called an asador.  It is a structure made of iron and brick. Most asadores are at least two meters by one meter, have a chimney, a place for firewood and a large grill for the meat. Embers produced by the firewood are placed under the grill.
+In many towns and cities, street vendors sell asado. These small barbecue grills are called medio tanque (half barrel), because they are made with on adaptation of a split steel drum. Asado cooked this way is sold often on the street as a snack or light lunch.
+
+In the larger cities, such as Montevideo, markets commonly have one or more grill stations where customers can order and eat asado directly at the bar, which may be served with offal, sausages, tapenades, and tapas. It is usually served with lager beer for lunch.
+The person making the meal is also called asador.
+Asado is often preceded by apéritives such as vermouth, uvita, and medio y medio, an entree called picada and some chorizos, morcillas, and some offal.
+
+Ingredients
+Ingredients of a complete Uruguayan asado include chorizo, morcilla, pulpon, entraña, tira de asado, cow gizzards, chinchulines, chotos, and kidneys. Poultry may also be included.
+Sometimes, especially on festive days, pork, fish, and lamb are consumed as a substitute for beef, constituting a variant.
+
+Preparation
+A typical asado takes from one hour to two hours to be prepared, and even more, if a different kind of meat is going to be barbecued (for example a whole pig takes at least four hours to be ready).
+The asador starts the fire in the burner and, once the fire is started, the meat is salted and condiments added; condiments may include oregano, garlic, paprika, parsley and mojo.  The first embers are put in place, the meat put on the grill and embers added to as they fall from the burner. The meat is slowly cooked and smoked on the asador and mojo is added periodically for flavor.
+The meat is served with bread and salads, condiments such as mojo, chimichurri and Uruguayan salsa criolla and beverages such as wine, clerico and sangria.
+
+Variants - Asado con cuero
+Asado con cuero (barbecue with its leather), is a favorite variant rurally and is also appreciated in the capital.  It requires a more complex technique than that employed for making asado in that the animal is barbecued whole and even with its hide, though the bones are discarded.  This practice was initiated by the pampa people who, if they needed to move on in a hurry, could easily take with them the rolled-up meat.
+
+Beverages
+Typical Uruguayan beverages are mate, caña, uvita, grappamiel and medio y medio (half and half). Although Uruguay has considerable native flora and fauna, with the exception of yerba mate, native plants and animals largely do not figure into  Uruguayan cuisine.  Wine is also a popular drink. Other spirits consumed in Uruguay are caña, grappa, lemon-infused grappa, and grappamiel (a grappa honey liquour).
+
+Grappa
+Grappa was brought by Italian immigrants as they kept coming at the immediation of SXIX. Grappamiel and grapa con limon were made in the Country from this Italian influence.
+
+Uvita
+A taste for wine was acquired from Mediterranean influence, also sangria and clerico. Uvita (little grape) is a fortified wine resembling marsala wine.
+
+Medio y medio
+Literally meaning half and half, medio y medio is a drink blend of caña and sparkling wine or dry wine and sparkling wine. It is made and sold under the trademark Roldos.
+
+Mate
+Mate is consumed at any time and on any occasion, solely with tortas fritas or biscochos. It is so important that the act of drinking mate is a ritual of friendship between those involved. Even carrying a thermos of hot water facilitates this practice and on hot summer days it is still said to be refreshing.
+The dried leaves and twigs of the yerba mate plant (Ilex paraguariensis) are placed in a small cup. Hot water is then poured into a gourd just below the boiling point, to avoid burning the herb and spoiling the flavor. The drink is sipped through a metal or reed straw, known as a bombilla.
+
+Uruguay is the first global consumer of mate, with a consumption of 6.8 kilograms of yerba mate per capita a year, surpassing Argentina by 1.2 kilograms per capita at year.
+Yerba mate also is consumed as mate cocido. When it is prepared with milk it is called mate de leche and milk is added, it is called mate con leche.
+
+Grapa con limon
+Grappa is sold under various trademarks but the most significant one is San Remo.  It is distilled and bottled by ANCAP and there was also an attempt to produce the original Italian grappa by some local cellars. When macerated with lemon it is called grapa con limon.
+
+Caña
+Caña is an amber-coloured drink distilled similar to aguardiente made from sugar cane mill. Its caramel colour is due to aging in barrels. It is distilled and bottled under the brand name De los 33.
+
+Grappamiel
+Grappamiel or Grapamiel is a mixed alcoholic beverage popular in Uruguay containing grappa, spirits obtained from various grains plus honey and water. In agreements with the European Union, the drink is a food protected by geographical indications. The definition is provided by CONSULTA Nº 4.548 of the Uruguay Government.  Grappamiel is very popular in rural areas, and is often consumed in the cold autumn and winter mornings to warm up the body.
+
+Stews and puchero
+Specially suitable for cold days, Uruguayan guisos or stews are highly revitalizing, especially for their puchero, followed by buseca, guiso carrero, guiso de fideos (noodle stew), estofado and feijoada.
+Spanish culinary influence is marked in Uruguayan stews, Also there are Italian and Portuguese-Brazilian influences, this last coming from the Luso-Brazilian invasion of Uruguay.
+
+Puchero
+From Spanish tradition puchero, Uruguayan puchero differs not much from others of the region, it is like a rough soup where dry ingredients are separated from the broth after cooked to make two separate preparations, a new soup that is first consumed, and later the soup all the other succulent ingredients are consumed with bread.
+A typical puchero may contain all type of cuts with bones, skirt steak, ossobucco, bacon, cabbage, sweet corn, rape, onions, celery, carrot, sweet potato, squash, and potatoes.
+All these ingredients cut in big pieces are cooked and served, with the broth are made different soups containing small noodles, rice or any cereal of predilection.
+It is usual that each commensal makes their puree on his dish with all the cooked vegetables that have been served, aligning it with oil if desired, and also to take off the caracu (bone marrow) from the ossobucco bone and spread it over pieced bread.
+Mustards of the brand Savora and also La pasiva are used for garnishing puchero meat.
+
+Ensopado
+A dish for summer days and popular on rural areas, consisted on broth, noodles and gross slices of meat, chorizo sausage and tocino bacon boiled together.
+Its vegetable composition is reduced due is pretended to not ferment on hot days, so it only has few onions and squash.
+Its name comes from verb ensopar (to moist, to soup), participle ensopado (being souped).
+
+Guiso carrero
+Sometimes it is hard to say what is Argentinian and what is Uruguayan (history links people strongly). Guiso carrero is part of not only cuisine, but Uruguayan folklore. It is a succulent meal consistent of meat, butterbeans, and noodles.
+Popular chefs can assure that it is a delicious stew containing potato, sweet potato, noodles, squash, onion, tomato, beans, and the best meat.
+Guiso carrero is served with red wine, bread and grated cheese.
+When guiso carrero does not contain noodles, it is called guiso de porotos, and when it does not have beans, it is called guiso de fideos or ensopado.
+
+Buseca
+Buseca from Italian tradition also known as cazuela de mondongo in Spain.
+Its main ingredient is the mondongo, which is a tripe from the cow's stomach, it is pre-cooked and boiled along with meat, chorizo, peachick, tomato and potato.
+
+Feijoada
+A dish originating from Portuguese Brazilian influence that takes a bit from the main Rioplatense culture.
+Very popular all over Brazil, feijoada also is popular in Uruguay (though not in Argentina). Consumed not only on the northeast but also all along with the country, it is a black bean stew that, unlike the Brazilian feijoada, comes with potatoes (besides bananas and fariña), and made with beef more often than pork. It is also common to find chorizo and chorizo Colorado in Uruguayan feijoada.
+
+Bacalao
+Bacalao is a dry fish stew made from dried and salted cod, chickpeas, onions, potatoes, tomato sauce, and parsley, it is usually consumed on Uruguay over Easter, as it is a Spanish catholic tradition.
+
+Italian-style stews
+Also very popular on Uruguayan cuisine, ragu-style stews still are very popular, such as albondigas con papas and estofado.
+
+Niños envueltos
+Literally meaning wrapped children, a stew consisting of small wraps the length of a human finger.  They are made of loin slices that are filled with bacon, spinach, and carrots, and later boiled in a tomato sauce and served with peas and boiled potatoes.
+
+Estofado
+Made from poultry or cow meat, it is called estofado de pollo when made with poultry and estofado de carne when it has cow meat.  It is a dish that contains meat and chorizo or chicken, stewed in tomato sauce, and sometimes served with a side of boiled potatoes or pasta.
+
+Albondigas con papas
+Spanish for meatballs with potatoes, albondigas con papas is a dish made from meatballs boiled in tomato sauce with potatoes and peas.
+Albondigas con papas are eaten with cheese and parsley.
+
+Minutas
+Minuta is the local name for Río de la Plata's fast food.
+Common side dishes are fried eggs, croquetas, French fries, purée, and salads.
+The most notable minutas are milanesas, refuerzos such as choripanes, chivitos and pizza and faina; also, the bauru is common along the Brazilian border.
+
+Choripan
+Choripan, Spanish portmanteau for sausage (chorizo) and bread (pan) also called chorizo al pan (sausage on bread), is a sandwich made with barbecued chorizo (that is sliced in half to fit), mayonnaise, ketchup, tomato, lettuce, onions, etc.
+
+Hungaras
+Hungaras are like panchos, boiled sausages but more spicy and thinner and longer; like panchos also they come served on bread and they are found on the street served as fast food and also sold apart in supermarkets.
+
+Milanesas
+Milanesa (from Italian cotoletta alla milanese) is a thin breaded cutlet that can be veal, chicken or fish.
+
+Breading consists of three successive steps that its order defines mostly the character of the milanesa, most of Montevideo's bars and old style restaurants make breading starting with egg so that the latest dip is also egg, this method generated by galician and Spanish barists leaves a coat of egg that turns into a film at frying, it is a curious variation that is often served on those restaurants because the main breading has inverse order and is the type of milanesa that is served everywhere else including homemade milanesas.
+Also milanesas are sold on butcher shops on every step previous to frying: sliced, tendered or breaded and ready to fry.
+
+A typical dish of milanesa is sided with fried eggs (or "a caballo" -horse riding- when egg garn besides siding), french fries or salad, The way that milanesa is served determinates the name of the dish that can be served "a caballo" or "a la napolitana" (Naples style) or "al pan" (milanesa sandwich).
+A milanesa a la napolitana, not original from Naples, consists of a milanesa garnished with tomato sauce, ham and mozzarella cheese slices (on that order) that is finely grated.
+Milanesa al pan consists of a sandwich made with milanesa, felipe bread (a type of bread roll), tomato slices, lettuce, mayonnaise, bacon, ham, cheese and olives, when a milanesa al pan is mayor in size it is cut in half and called milanesa en dos panes (double bread), home made and street versions of this dish are called refuerzo de milanesa and it differs in that it is made with baguette besides felipe bread.
+
+Postas de pescado a la marinera
+Often served on portuary sides of the country, pescado a la marinera battered fish fry that it is commonly served sided with lemon slices.
+Battering is made from beer (preferably from brand Patricia), flour and salt.
+
+Panchos
+Hot dogs are referred to as panchos, coming in two sizes: cortos (short ones) and largos (longer ones).
+La Pasiva is a restaurant chain in Uruguay that specializes in serving panchos and with time, was renowned by its La Pasiva mustard sauce for panchos that comes among every pancho order and also serves local specialities as panchos con panceta (panchos with bacon) and panchos porteños.
+
+Panchos con panceta. Grilled frankfurter that is previously wrapped on a spiral with sliced bacon and served on bread.
+Panchos porteños. frankfurter wrapped with mozzarella cheese and served on bread.
+
+Croquetas
+Croquetas are croquettes made with potato and ham, rice and ham, béchamel and ham.
+
+Empanadas
+Empanadas are a kind of pastry that originated in Spain. In Uruguay, empanadas are more commonly baked and usually include a filling of choice. Empanadas de carne are filled with ground meat, chopped boiled eggs, garlic and onions, Empanadas de carne may also be "dulces" (sweet, filled with raisins) or "saladas" (salty, filled with olives). Empanadas de pollo are made with ground poultry meat. Empanadas de jamon y choclo or humitas are filled with ham and corn. Empanadas de queso y cebolla are filled with onion and cheese. Empandas de dulce, or empanadas de membrillo are filled with quince cheese.
+Empanadas are not to be confused with pasteles, a similar baked good.
+
+Buñuelos
+Buñuelos are fried dough balls of different types, the most common one are buñuelos de acelga, buñuelos de sesos (doughs that contains brain), buñuelos de manzana (apple dough) and buñuelos de banana (banana dough).
+Sweet buñuelos are served powdered with cane sugar.
+
+Pizzas, pastas and breads
+Brought by Italian tradition and spread all over the world, pizza is not an exception, pizza-like bread and pasta are part of everyday food.
+Pizza (locally pronounced pisa or pitsa) has been wholly included in Uruguayan cuisine, and in its Uruguayan form more closely resembles an Italian calzone than it does its Italian ancestor. Typical Uruguayan pizzas include pizza rellena (stuffed pizza), pizza por metro (pizza by the meter), and pizza a la parrilla (grilled pizza). While Uruguayan pizza derives from Neapolitan cuisine, the Uruguayan fugaza (fugazza) comes from the focaccia xeneise (Genoan), but in any case its preparation is different from its Italian counterpart, and the addition of cheese to make the dish (fugaza con queso or fugazzeta) started in Argentina or Uruguay.
+
+Sliced pizza is often served along with fainá, made with chickpea flour and baked like pizza. For example, it is common for pasta to be eaten with white bread ("French bread"), which is unusual in Italy. This can be explained by the low cost of bread, and that Uruguayan pasta tends to come together with a large amount of tuco sauce (Italian: suco - juice), and accompanied by estofado (stew). Less commonly, pastas are eaten with a sauce of pesto, a green sauce made with basil, or salsa blanca (Béchamel sauce). During the 20th century, people in pizzerias in Montevideo commonly ordered a "combo" of moscato, which is a large glass of a sweet wine called (muscat), plus two stacked pieces (the lower one being pizza and the upper one fainá). Despite both pizza and faina being Italian in origin, they are never served together in Italy.
+
+Pizza
+Uruguayan style pizza, usually rectangular in shape, has a thicker crust and this rising higher than the usual Neapolitan pizza. It is commonly sliced squared, resembling pizza al taglio or Sicilian pizza. Pizzas with an even thicker crust are referred to as "pizza de cumpleaños" (birthday party pizzas) as it is common to serve to guests on such occasions.
+Pizza can come with a lot of ingredients, but most common are pizza (without cheese nor topings) and pizza-muzzarella.
+
+Fainá
+Fainás are often served in pizza bars and restaurants throughout the country.
+It consists of a thin, round chickpea flour baked crepe paste than can be ordered as "fainá de orilla" (fainá from the border) when is the thinnest part of the border. that is desired or "fainá del medio" (faina from the middle) when it is referred to the taller middle part of a fainá.
+Unlike the common use in Italy that fainá is peppered on the plate by the crust, Uruguayan use implies peppering on the plate with white chopped pepper by the other side.
+When fainá is served upside a pizza it is called "pizza a caballo" that may be translated as horse-riding pizza.
+
+Figazza
+A figazza is a pizza bread not containing tomato sauce, topped with onions and often also muzzarella. It is probably descended from the Genoese focaccia (where it is known as fügàssa), and it is also consumed in Argentina under the name fugazzeta.
+Typical ingredients of a figazza are onions, peppers, and olives.
+
+Lahmajun
+Lahmajun (locally known as "lehmeyún") was brought by Armenian immigrants. Nowadays it is very popular, found at several small restaurants and pizzerias.
+
+Fideos con tuco
+Tuco is an Uruguayan tomato sauce made with chopped meat, tomato sauce, onions, oreganon and garlic, fideos meaning noodles.
+Tuco can be served with any pasta, fresh or dry, but most common are tallarines con tuco (spaghetti with tuco), ñoquis con tuco (gnocchi), moñitas con tuco (farfalle), raviolis con tuco (ravioli), and canelones con tuco (cannelloni).
+Canelones con tuco are covered with bechamel and later covered with tuco.
+
+Fideos con estofado
+Estofado and tuco are interchangeable for any of the mentioned noodles though estofado can serve also as a dish by itself when served alone or with potatoes.
+Estofado is made by cooking meat pieces in tomato sauce by long coctions.
+
+Ñoquis
+Gnocchi, or ñoquis of the 29th is a tradition of having gnocchi every 29, brought in by the immigration from Veneto, the tradition of Saint Pantaleo, who had many miracles attributed to him, is said to honor him.
+Families and friends gather on the 29th to eat gnocchi, the tradition is that everyone at the table puts money under the plate for good fortune.
+
+Capeletis a la Caruso
+Caruso sauce was invented by chef Raymundo Monti and takes its name from the famous tenor Enrico Caruso. It is a warm sauce that is made of cream, sliced onions, ham, cheese, nuts, and mushrooms and is served with cappelletti.
+
+Breads
+Pan de chicharrones
+Literally meaning rind bread, also rosca de chicharrones, is a leavened bread made of cow lard and added with small rinds made of cow fat, commonly found on local bakeries among with sweet variations without rinds such as rosca de membrillo, (quince (cheese-filled) bread) and rosca de dulce de leche (dulce de leche (filled) bread).
+
+Flauta
+Pan flauta (flute bread) is an elongated bread that is a variant of baguette.
+
+Tortuga
+Pan tortuga it is a small round-shaped bread with a soft crust, thus its name tortuga (Spanish for turtle).
+
+Felipe
+Felipe is a hard-crusted small bread.
+
+Porteño
+Porteño is called after the eponym of the inhabitants of Buenos Aires and is similar to Felipe but with a smaller crumb.
+
+Marsellés
+Marsellés is named after the city of Marseille and resembles a pair of twin Vienna bread with harder crust and covered with maize flour.
+
+Pan de sándwich
+Pan de sándwich is a soft crumb mold bread specially made for making sandwiches.
+
+Sandwiches
+There is a wide variety of sandwiches in Uruguay which are locally classified into two types called refuerzo (reinforcement) and sándwich (sandwich) respectively.
+Sandwiches in Rio de la Plata are particular and different of those from other parts of the world because of the bread with which are made that is pan de sándwich, this type of sandwiches are simply called sándwiches and are commonly sold on local bakeries.
+Also note that the Spanish distinction between refuerzo and sándwich which is also present in Mexico with torta and sándwich, which differentiates common bread sandwich from others similar to the British train sandwich, is not so pronounced on the Argentinian dialect where difference is simply made by adding de miga (crumby) to the latter.
+Notable types of refuerzos are chivito, choripán and milanesa al pan.
+
+Chivito
+Chivito meaning literally small goat is a popular type of sandwich originated in Uruguay, its name comes from an unaccomplished desire from a client that literally wanted a beef of small goat or a chivito, being that goat is not consumed in Uruguay client had to be satisfied anyway with this now popular dish.. Hence a thin slice of filet mignon substituted the beef of small goat, nowadays it is uncertain if bacon, mozzarella, ham, onion, Hard-cooked eggs, tomato slices, mayonnaise, olives and bread really complement the goat flavour.
+Variants from chivito are, as milanesa en dos panes, chivito en dos panes, chivito canadiense (added with Canadian bacon), chivito canadiense al plato and chivito al plato (platted chivito).
+A complete chivito is served with french fries and when is dished is also sided with ensalada rusa and ensalada criolla.
+
+Choripán
+Choripán, Spanish portmanteau for sausage (chorizo) and bread (pan) also called chorizo al pan (sausage on bread), is a sandwich made with barbecued chorizo (that is sliced in half to fit), mayonnaise, ketchup, tomato, lettuce, onions, etc.
+
+Sándwich Olímpico
+Sándwich Olímpico (Olympic sandwich) is a very popular sandwich in Uruguay made with three slices of pan de sándwich filled with ham, cheese, olives tomato and lettuce.
+
+Sándwich caliente
+Sándwich caliente (hot sandwich) or "tostado" (toasted) as it is called in Argentina is a variant of the croqué monsieur made with two slices of pan de sánguche filled ham and cheese and toasted.
+
+Jesuitas
+Jesuitas are made with two layers of puff pastry filled with ham and cheese and covered with meringue icing. This is a sweet and salty taste. The same sandwich in Argentina is known as a fosforito.
+
+Confectioneries for mate
+Uruguayan food often comes with fresh bread; bizcochos and tortas fritas are a must for drinking mate, the national drink.
+
+Tortas fritas
+Tortas fritas (fried cakes) are a simple pastry, typical from Uruguay and Argentina and which has many variants along South America. The recipe for the sopaipilla, from which it descends,  is argued to be from what is now Germany but they were introduced to Spain by the Arabs at the times of the invasion.
+
+Specifically Tortas fritas are leavened fried thin round pieces of bread but the aspects that describe them best is the flourishing with sugar, its distinctive hole in the center and the use of cow fat, both for frying and for making the batter.
+
+Within Uruguayan folklore is stated that tortas fritas are better if made and eaten on rainy days.
+
+Bizcochos
+Uruguayan bizcochos are small pastries different from the Spaniard sponge cake of the same name that in Uruguay is called bizcochuelo.
+Bizcochos are consumed with mate, coffee and tea, they are the more common pastry of Uruguay, and commonly sold on local bakeries.
+Bizcochos come in various kinds, like corazanes, margaritas and pan con grasa.
+
+Pasteles
+Pasteles (pastries) are triangular-shaped empanadas that are made from a batter identical to such of tortas fritas with the addition of being puffed using cow fat. As tortas fritas they are also flourished with sugar after frying. Pasteles are filled only with quince jam or dulce de leche.
+
+Tortas fritas and pasteles are commonly sold on streets.
+
+Alfajores
+Alfajores consist of two round sweet spongy doughs poured together filled with dulce de leche and covered onto two variants: ″chocolate″ and ″nieve″ (snow).
+Nieve variant is called due to its white snowy aspect conferred by the meringue covering.
+
+Yo-yo: Layered pastry filled with Dulce de Leche and coated with chocolate on the upper half. It is shaped like a yo-yo.
+
+Desserts
+Popular sweets are membrillo quince jam and dulce de leche, which is made from caramelized milk. A sweet paste, dulce de leche, is used to fill cookies, cakes, pancakes, milhojas, and alfajores. The alfajores are shortbread cookies sandwiched together with dulce de leche or a fruit paste. Dulce de leche is used also in flan con dulce de leche.
+
+Cakes
+[[Chajá (postre)]]: a dessert with meringue, sponge cake, "Chajá" cream and peaches. It is created by a well known firm in the city of Paysandú.
+Isla Flotante, made with egg white and sugar, and served with zabaione.
+Massini: Made of two layers of pionono (a thin sponge cake), filled with whipped cream and topped with caramelized sabayon.
+Bizcocho borracho: a dessert from Spanish origin, it is a spongy dough dipped with a syrup made of liquor
+
+Confectioneries
+Garrapiñadas: a very popular treat, made with peanuts covered with cocoa, vanilla and sugar, resembling whole-nut pralines. It is sold in little bags in the downtown streets.
+Damasquitos: Jelly apricot candies, a delicacy from the city of Minas.
+Yemas acarameladas: Egg candy made mainly with egg yolks, vanilla, and sugar. It has a spherical shape of about one-inch diameter and covered with a thin layer of hard, transparent, caramelized sugar coating.
+Zapallo en almíbar: Squash in syrup.
+
+Cookies
+Churros: came from Spain, and are just like those, except some have fillings, like custard cream or Dulce de Leche.
+
+Custards and ice creams
+Dulce de leche: a sweet treat made of milk and sugar. It is used in many Uruguayan desserts.
+Dulce de membrillo: a sweet quince jelly-like preserve.
+Budín inglés: in English, 'English pudding'. A pudding with fruits and nuts, very popular on Christmas and New Year's Eve.
+Flan: a kind of rich custard dessert with a layer of soft caramel on top. as opposed to crème brûlée.
+Martín Fierro: a slice of cheese and a slice of quince preserve (dulce de membrillo).
+Ricardito: Also as popular, this is a cream-filled treat, covered with chocolate on a waffle base. It has different variants and it is sold in most kiosks in individual boxes.
+
+Pastries
+Pastafrola: pie made of quince paste (dulce de membrillo).
+
+See also
+Cuisine of Argentina
+Cuisine of Montevideo
+List of Uruguayan cheeses
+
+References
+External links
+ Media related to Cuisine of Uruguay at Wikimedia Commons
+
+## List of museums in Uruguay
+This is a list of museums in Uruguay.
+
+Museo del Hombre y la Tecnología
+Juan Manuel Blanes Museum
+Museo de la Casa de Luis Alberto de Herrera
+Museum of the Sea (Uruguay)
+Museo Torres García
+National Museum of Natural History, Uruguay
+National Museum of Visual Arts (Uruguay)
+Story of the Andes Survivors Museum
+Museo de Artes Decorativas
+Museo de Arte Precolombino e Indigena
+Museo Paleontologico
+Museo del Origami
+Colonel Jaime Meregalli Aeronautical Museum
+Museo Gurevich
+
+See also
+
+List of museums in Montevideo
+List of museums by country

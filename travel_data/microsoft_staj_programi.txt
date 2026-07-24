@@ -1,0 +1,84 @@
+MICROSOFT STAJ PROGRAMI
+40 Günlük Proje Tabanlı Staj Planı
+Rumeli Üniversitesi · Üniversite Yerleşkesi
+8 Öğrenci · 2 Aşama · 2 Proje
+Aşama 1 (Gün 1–20): Microsoft Foundry Local ile Yerel RAG Uygulaması
+Aşama 2 (Gün 21–40): PyTorch ile Zaman Serisi Tahmin Modeli (LSTM / GRU)
+
+1. Programa Genel Bakış
+Bu belge, Rumeli Üniversitesi yerleşkesinde gerçekleştirilecek 40 günlük Microsoft staj programının yapısını, proje başlıklarını, haftalık takvimini ve değerlendirme kriterlerini tanımlar. Programa toplam 8 öğrenci katılacaktır. Her öğrenci, staj boyunca iki farklı alanda birer proje geliştirecektir.
+Program iki ana aşamaya bölünmüştür. İlk 20 günde her öğrenci, Microsoft Foundry Local altyapısını kullanarak internet bağlantısı gerektirmeyen (offline) bir Retrieval-Augmented Generation (RAG) belge soru-cevap asistanı geliştirir. İkinci 20 günde ise PyTorch kullanarak bir zaman serisi tahmin projesi (LSTM ve GRU modelleriyle) gerçekleştirir. Böylece her öğrenci hem modern üretken yapay zekâ (RAG) hem de klasik makine öğrenmesi (derin öğrenme tabanlı tahmin) alanlarında uygulamalı deneyim kazanır.
+Neden bu iki aşama birbirini tamamlıyor?
+Birinci aşamada öğrenilen "metni anlamlı sayısal biçimde temsil etme" mantığı (embedding, vektör benzerliği, cosine similarity) ikinci aşamadaki makine öğrenmesi sezgisiyle doğrudan örtüşür. RAG projesinde veriyi vektörlere dönüştürüp aramayı öğrenen öğrenci, ML projesinde veriyi tensörlere dönüştürüp model eğitmeye geçtiğinde tanıdık bir zemine basar. İki proje birbirini pekiştirir.
+
+1.1 Temel Bilgiler
+Süre: 40 iş günü (2 × 20 gün).
+Katılımcı: 8 öğrenci (bilgisayar bilimi / yazılım altyapısı olan başlangıç seviyesi).
+Yer: Rumeli Üniversitesi yerleşkesi (yüz yüze).
+Çalışma biçimi: Tam zamanlı, mentör destekli, proje odaklı.
+Konu seçimi: Her öğrenci, kendi ilgi alanına göre her aşamada bir proje konusu seçer.
+
+2. Aşamalı Yapı ve Zaman Çizelgesi
+Aşağıdaki tablo, her öğrencinin 40 gün boyunca yapacağı iki projeyi özetler. İlk sütun grubu birinci aşamayı, ikinci sütun grubu ikinci aşamayı temsil eder. Konular öneri niteliğindedir ve öğrenci tercihlerine göre güncellenebilir.
+Ö1: Aşama 1: Üniversite yönetmeliği asistanı (Staj ve ders yönetmeliği PDF'lerinden soru cevaplayan offline chatbot). Aşama 2: Hava durumu tahmini (Açık meteoroloji verileriyle LSTM tabanlı sıcaklık tahmini)
+Ö2: Aşama 1: Teknik dokümantasyon asistanı (Microsoft / Python API dokümanlarını tarayıp yanıtlayan RAG sistemi). Aşama 2: Enerji tüketim tahmini (Bina/kampüs tüketim verileriyle GRU tabanlı tahmin modeli)
+Ö3: Aşama 1: Çok dilli eğitim asistanı (Türkçe + İngilizce ders notlarını indeksleyen RAG chatbot). Aşama 2: Kripto para fiyat tahmini (Borsa verisiyle LSTM ve GRU karşılaştırması)
+Ö4: Aşama 1: Yazılı sınav soru üreteci (Ders materyalinden otomatik soru + cevap üreten sistem). Aşama 2: Trafik yoğunluğu tahmini (Açık trafik sensörü verisiyle saatlik yoğunluk tahmini)
+Ö5: Aşama 1: Kampüs etkinlik asistanı (Etkinlik ve duyuru belgelerinden bilgi veren RAG bot). Aşama 2: Öğrenci not tahmini (Geçmiş sınav verileriyle GRU regresyon modeli)
+Ö6: Aşama 1: Kariyer rehberi asistanı (İş ilanı ve CV belgelerinden öneri sunan RAG asistanı). Aşama 2: Hisse senedi fiyat tahmini (Borsa CSV verisiyle LSTM tahmini)
+Ö7: Aşama 1: Kod dokümantasyon asistanı (GitHub README ve docstring'lerde arama yapan RAG sistemi). Aşama 2: Su tüketimi tahmini (Açık kent verisiyle GRU zaman serisi modeli)
+Ö8: Aşama 1: Hukuki metin asistanı (Kanun ve yönetmelik belgelerinden yanıt veren RAG Q&A). Aşama 2: Döviz kuru tahmini (Merkez Bankası verisiyle LSTM tahmin modeli)
+Not: Yukarıdaki 16 proje başlığı yalnızca çeşitliliği göstermek içindir.
+
+3. Aşama 1 — Foundry Local ile Yerel RAG Asistanı (Gün 1–20)
+Bu aşamanın amacı, öğrencilerin tamamen bir bilgisayar üzerinde, internet bağlantısı olmadan çalışan bir belge soru-cevap asistanı geliştirmesidir. Sistem, bir belge koleksiyonundan ilgili bilgiyi yerel olarak arar ve bunu yerel bir büyük dil modeline (LLM) bağlam olarak vererek yanıt üretir.
+3.1 Temel Teknolojiler
+Microsoft Foundry Local: Modelleri cihaz üzerinde çalıştıran, bulut hesabı ve GPU gerektirmeyen yerel AI çalışma zamanı ve SDK.
+RAG (Retrieval-Augmented Generation): Belgeden ilgili içeriği getir (retrieve), modele bağlam olarak ekle (augment), yanıt üret (generate) deseni.
+Embedding ve vektör arama: Metnin anlamını sayısal vektörlerle temsil etme ve cosine similarity ile benzerlik ölçme.
+SQLite: Belge metinlerini ve embedding vektörlerini saklayan hafif, sunucusuz yerel veritabanı.
+Prompt mühendisliği: Modele bağlamı doğru sunma, kaynak gösterme ve bilinmeyen durumda "bilmiyorum" dedirtme teknikleri.
+3.2 Haftalık Takvim
+Gün 1–5: RAG kavramı ve kurulum: Foundry Local kurulumu, "Merhaba Model" testi, proje iskeleti. Çıktı: Foundry Local çalışır durumda; küçük bir modelden ilk çıktı alınmış; temel Python proje yapısı hazır.
+Gün 6–10: Temel teknikler: embedding üretimi, vektör benzerliği, SQLite ile veri saklama, temel prompt denemeleri. Çıktı: Embedding + benzerlik araması çalışıyor; test SQLite veritabanı oluşturulmuş.
+Gün 11–15: Veri hattı ve getirme: belgeleri parçalara (chunk) ayırma, embedding'leri veritabanına yazma, sorguya en yakın parçaları bulan fonksiyon. Çıktı: Embedding'lerle dolu SQLite veritabanı ve çalışan getirme fonksiyonu hazır.
+Gün 16–20: LLM entegrasyonu ve arayüz: yerel modeli bağlama, uçtan uca soru-cevap, basit CLI veya Streamlit arayüzü, test ve dokümantasyon. Çıktı: Çalışan offline Q&A uygulaması + README + kısa sunum. Aşama 1 teslimi.
+
+3.3 Aşama 1 Teslim Kriterleri
+1. Belirlenen belge koleksiyonu üzerinde çalışan, offline bir soru-cevap uygulaması.
+2. Kaynak gösterebilen ve bağlamda bilgi yoksa "bilmiyorum" diyebilen bir asistan.
+3. Temiz kod ve kurulum/kullanım talimatları içeren bir README.
+4. 5 dakikalık canlı demo ve kısa sunum.
+
+4. Aşama 2 — PyTorch ile Zaman Serisi Tahmini (Gün 21–40)
+Bu aşamada öğrenciler makine öğrenmesinin temellerini öğrenip PyTorch ile bir regresyon tabanlı zaman serisi projesi geliştirir. LSTM ve GRU modelleri kurulur ve karşılaştırılır.
+4.1 Temel Teknolojiler
+Python veri araçları: Pandas ile veri yükleme, temizleme ve keşifsel analiz; Jupyter Notebook ortamı.
+Makine öğrenmesi temelleri: denetimli/denetimsiz öğrenme, regresyon vs sınıflandırma, eğitim/test ayrımı, MSE / RMSE metrikleri.
+PyTorch: Tensörler, Dataset/DataLoader, nn.Module ile model tanımı, eğitim döngüsü, geri yayılım (backprop), optimizasyon.
+Zaman serisi ve RNN: LSTM ve GRU mimarileri, kayan pencere (sliding window) yöntemi, dizisel veriden gelecek değeri tahmin etme.
+Model değerlendirme: MSE/RMSE hesaplama, aşırı öğrenme (overfitting) tespiti, gerçek vs tahmin grafikleri, LSTM–GRU karşılaştırması.
+
+4.2 Haftalık Takvim
+Gün 21–25: ML temelleri ve Python/Pandas: denetimli/denetimsiz öğrenme, regresyon, ortam kurulumu, Pandas ile veri işleme, basit regresyon egzersizi. Çıktı: ML temel kavramları kavranmış; Jupyter/Pandas ortamı hazır.
+Gün 26–30: PyTorch temelleri ve RNN kavramları: PyTorch quickstart, tensör ve eğitim döngüsü, zaman serisi ve LSTM/GRU sezgisi, proje planı. Çıktı: PyTorch ile kod yazabiliyor; RNN/LSTM/GRU mantığını açıklayabiliyor.
+Gün 31–35: Proje uygulaması: veri hazırlama (ölçekleme, kayan pencere), LSTM ve GRU model tanımları, eğitim döngüsü, ilk eğitim sonuçları. Çıktı: Ön işlenmiş veri tensörleri; LSTM/GRU model tanımları ve çalışan eğitim döngüsü.
+Gün 36–40: Eğitim, değerlendirme ve dokümantasyon: her iki modeli eğitme, MSE/RMSE hesaplama, LSTM–GRU karşılaştırması, kod temizliği, README ve sunum. Çıktı: Eğitilmiş LSTM ve GRU modelleri; metrik karşılaştırması; temiz Jupyter Notebook + GitHub deposu + README + sunum. Aşama 2 teslimi.
+
+4.3 Aşama 2 Teslim Kriterleri
+1. Baştan sona hatasız çalışan, açıklamalı bir Jupyter Notebook.
+2. README içeren, düzenli bir GitHub deposu.
+3. LSTM ve GRU modellerinin MSE/RMSE ve eğitim süresi açısından karşılaştırması.
+4. Gerçek vs tahmin edilen değerlerin en az bir grafiği ve kısa yorumu.
+5. 5 dakikalık canlı demo ve kısa sunum.
+
+5. Değerlendirme ve Teslimler
+5.1 Her Aşamada Beklenen Ortak Çıktılar
+Çalışan proje: canlı demo yapılabilen, hatasız çalışan uygulama.
+GitHub deposu: temiz kod, anlamlı commit geçmişi ve açıklayıcı README.
+Sunum: yaklaşık 5 dakikalık demo ve soru-cevap.
+Staj Defteri ve Diğer Evraklar
+Öz değerlendirme: öğrenilen dersler ve karşılaşılan zorlukları içeren kısa bir not.
+
+5.2 Mentörlük ve Takip
+Her aşamada öğrencilere haftalık ilerleme hedefleri (kilometre taşları) verilir. Mentörler, öğrencilerin takıldıkları noktalarda kurulum, hata ayıklama ve tasarım kararlarında yardımcı olur. Öğrenciler resmi Microsoft kaynaklarını (kurulum kılavuzları, tutorial'lar) ve yüksek kaliteli öğreticileri temel alarak ilerler; böylece her bileşeni entegre etmeden önce anlamış olurlar.

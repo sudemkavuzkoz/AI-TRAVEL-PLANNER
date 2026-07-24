@@ -1,0 +1,817 @@
+--- METADATA ---
+SOURCE_URL: Wikipedia & Web Search for Romania
+FILE_NAME: country_romania.txt
+PROCESSED_DATE: 2026-07-22 15:50:07
+----------------
+
+# Romania
+
+## General Overview
+Romania is a country in Central and Southeastern Europe. It lies on the lower course of the Danube, north of the Balkan Peninsula, and on the northwestern shore of the Black Sea. It borders Ukraine to the north and east, Hungary to the west, Serbia to the southwest, Bulgaria to the south, Moldova to the east, and the Black Sea to the southeast. It is the twelfth-largest country in Europe by area, covering 238,397 km2 (92,046 mi2), and the sixth-most populous member state of the European Union, with 19 million inhabitants. The capital, largest city and economic centre is Bucharest. Other major cities include Cluj-Napoca, Iași, Constanța, Timișoara and Brașov.
+Romania was settled during the Lower Paleolithic, later becoming Dacia before Trajan's Dacian Wars and Romanisation. The modern Romanian state was formed in 1859 with the unification of Moldavia and Wallachia under Alexandru Ioan Cuza, becoming the Kingdom of Romania in 1881 under Carol I of Romania. Romania gained independence from the Ottoman Empire in 1877, formalised by the Treaty of Berlin. After World War I, Transylvania, Banat, Bukovina, and Bessarabia joined the Old Kingdom, forming Greater Romania, which reached its largest territorial extent. In 1940, under Axis pressure, Romania lost territories to Hungary, Bulgaria, and the Soviet Union. Following the Act of 23 August, Romania switched sides to join the Allies. After World War II, it regained Northern Transylvania through the Paris Peace Treaties. Under Soviet occupation, King Michael I was forced to abdicate, and Romania became a socialist republic and Warsaw Pact member. After the fall of communism and the Romanian revolution in 1989, Romania transitioned to liberal democracy.
+Romania is a developed country with a high-income economy and is widely regarded as a middle power in international relations. The country possesses 11 UNESCO World Heritage Sites. Romania is a global net exporter of automotive parts and is an increasingly prominent technology centre with some of the fastest internet speeds in the world. Romania is a member of several international organisations, including the European Union, NATO, and the BSEC.
+
+Etymology
+Romania derives from the local name for Romanian (Romanian: român), which in turn derives from Latin romanus, meaning "Roman" or "of Rome". This ethnonym for Romanians is first attested in the sixteenth century by Italian humanists travelling in Transylvania, Moldavia, and Wallachia. The oldest known surviving document written in Romanian that can be precisely dated, a 1521 letter known as the "Letter of Neacșu from Câmpulung", is notable for including the first documented occurrence of Romanian in a country name: Wallachia is mentioned as Țara Rumânească.
+
+History
+Prehistory
+Human remains found in Peștera cu Oase ("Cave with Bones"), radiocarbon date from circa 40,000 years ago, and represent the oldest known Homo sapiens in Europe. Neolithic agriculture spread after the arrival of a mixed group of people from Thessaly in the 6th millennium BC. Excavations at the Poiana Slatinei site near a salt spring next to Lunca, Neamț yielded the earliest evidence for salt exploitation in Europe; here salt production began between the 5th and 4th millennium BC. The first permanent settlements developed into "proto-cities", which were larger than 320 hectares (800 acres). The Cucuteni–Trypillia culture—the best known archaeological culture of Old Europe—flourished in Muntenia, southeastern Transylvania and northeastern Moldavia in the 3rd millennium BC.
+The first fortified settlements appeared around 1800 BC, showing the militant character of Bronze Age societies.
+
+Antiquity
+Greek colonies established on the Black Sea coast in the 7th century BC became important centres of commerce with the local tribes. Among the native peoples, Herodotus listed the Getae of the Lower Danube region, the Agathyrsi of Transylvania and the Syginnae of the plains along the river Tisza at the beginning of the 5th century BC. Centuries later, Strabo associated the Getae with the Dacians who dominated the lands along the southern Carpathian Mountains in the 1st century BC. Burebista was the first Dacian ruler to unite the local tribes. He also conquered the Greek colonies in Dobruja and the neighbouring peoples as far as the Middle Danube and the Balkan Mountains between around 55 and 44 BC. After Burebista was murdered in 44 BC, his kingdom collapsed.
+The Romans reached Dacia during Burebista's reign and conquered Dobruja in 46 AD. Dacia was again united under Decebalus around 85 AD. He resisted the Romans for decades, but the Roman army defeated his troops in 106 AD. Emperor Trajan transformed Banat, Oltenia and the greater part of Transylvania into a new province called Roman Dacia, but Dacian, Germanic and Sarmatian tribes continued to dominate the lands along the Roman frontiers. The Romans pursued an organised colonisation policy, and the provincials enjoyed a long period of peace and prosperity in the 2nd century. Scholars accepting the Daco-Roman continuity theory—one of the main theories about the origin of the Romanians—say that the cohabitation of the native Dacians and the Roman colonists in Roman Dacia was the first phase of the Romanians' ethnogenesis. The Carpians, Goths and other neighbouring tribes made regular raids against Dacia from the 210s. The Romans could not resist, and Emperor Aurelian ordered the evacuation of the province Dacia Trajana in the 270s. Scholars supporting the continuity theory are convinced that most Latin-speaking commoners stayed behind when the army and civil administration was withdrawn. The Romans did not abandon their fortresses along the northern banks of the Lower Danube for decades, and Dobruja (known as Scythia Minor) remained an integral part of the Roman Empire until the early 7th century.
+
+Middle Ages
+The Goths were expanding towards the Lower Danube from the 230s, forcing the native peoples to flee to the Roman Empire or to accept their suzerainty. The Goths' rule ended abruptly when the Huns invaded their territory in 376, causing new waves of migrations. The Huns forced the remnants of the local population into submission, but their empire collapsed in 454. The Gepids took possession of the former Dacia province. Place names that are of Slavic origin abound in Romania, indicating that a significant Slavic-speaking population lived in the territory. The first Slavic groups settled in Moldavia and Wallachia in the 6th century, in Transylvania around 600. The nomadic Avars defeated the Gepids and established a powerful empire around 570. The Bulgars, who also came from the European Pontic steppe, occupied the Lower Danube region in 680.
+
+After the Avar Khaganate collapsed in the 790s, the First Bulgarian Empire became the dominant power of the region, occupying lands as far as the river Tisa. The First Bulgarian Empire had a mixed population consisting of the Bulgar conquerors, Slavs and Vlachs (or Romanians) but the Slavicisation of the Bulgar elite had already begun in the 9th century. Following the conquest of southern Transylvania around 830, people from the Bulgar Empire mined salt at the local salt mines. The Council of Preslav declared Old Church Slavonic the language of liturgy in the country in 893. The Vlachs also adopted Old Church Slavonic as their liturgical language.
+The Magyars (or Hungarians) took control of the steppes north of the Lower Danube in the 830s, but the Bulgarians and the Pechenegs forced them to abandon this region for the lowlands along the Middle Danube around 894. Centuries later, the Gesta Hungarorum wrote of the invading Magyars' wars against three dukes—Glad, Menumorut and the Vlach Gelou—for Banat, Crișana and Transylvania. The Gesta also listed many peoples—Slavs, Bulgarians, Vlachs, Khazars, and Székelys—inhabiting the same regions. The reliability of the Gesta is debated. Some scholars regard it as a basically accurate account, others describe it as a literary work filled with invented details. The Pechenegs seized the lowlands abandoned by the Hungarians to the east of the Carpathians.
+Byzantine missionaries proselytised in the lands east of the Tisa from the 940s and Byzantine troops occupied Dobruja in the 970s. The first king of Hungary, Stephen I, who supported Western European missionaries, defeated the local chieftains and established Roman Catholic bishoprics (office of a bishop) in Transylvania and Banat in the early 11th century. Significant Pecheneg groups fled to the Byzantine Empire in the 1040s; the Oghuz Turks followed them, and the nomadic Cumans became the dominant power of the steppes in the 1060s. Cooperation between the Cumans and the Vlachs against the Byzantine Empire is well documented from the end of the 11th century. Scholars who reject the Daco-Roman continuity theory say that the first Vlach groups left their Balkan homeland for the mountain pastures of the eastern and southern Carpathians in the 11th century, establishing the Romanians' presence in the lands to the north of the Lower Danube.
+
+Exposed to nomadic incursions, Transylvania developed into an important border province of the Kingdom of Hungary. The Székelys—a community of free warriors—settled in central Transylvania around 1100 and moved to the easternmost regions around 1200. Colonists from the Holy Roman Empire—the Transylvanian Saxons' ancestors—came to the province in the 1150s. A high-ranking royal official, styled voivode, ruled the Transylvanian counties from the 1170s, but the Székely and Saxon seats (or districts) were not subject to the voivodes' authority. Royal charters wrote of the "Vlachs' land" in southern Transylvania in the early 13th century, indicating the existence of autonomous Romanian communities. Papal correspondence mentions the activities of Orthodox prelates among the Romanians in Muntenia in the 1230s. Also in the 13th century, the Republic of Genoa started establishing colonies on the Black Sea, including Calafat, and Constanța.
+The Mongols destroyed large territories during their invasion of Eastern and Central Europe in 1241 and 1242. The Mongols' Golden Horde emerged as the dominant power of Eastern Europe, but Béla IV of Hungary's land grant to the Knights Hospitallers in Oltenia and Muntenia shows that the local Vlach rulers were subject to the king's authority in 1247. Basarab I of Wallachia united the Romanian polities between the southern Carpathians and the Lower Danube in the 1310s. He defeated the Hungarian royal army in the Battle of Posada and secured the independence of Wallachia in 1330. The second Romanian principality, Moldavia, achieved full autonomy during the reign of Bogdan I around 1360. A local dynasty ruled the Despotate of Dobruja in the second half of the 14th century, but the Ottoman Empire took possession of the territory after 1388.
+Princes Mircea I and Vlad III of Wallachia, and Stephen III of Moldavia defended their countries' independence against the Ottomans. Most Wallachian and Moldavian princes paid a regular tribute to the Ottoman sultans from 1417 and 1456, respectively. John Hunyadi, organised the defence of the Kingdom of Hungary and anti-Ottoman campaigns from 1440 until his death in 1456. Increasing taxes outraged the Transylvanian peasants, and they rose up in an open rebellion in 1437, but the Hungarian nobles and the heads of the Saxon and Székely communities jointly suppressed their revolt. The formal alliance of the Hungarian, Saxon, and Székely leaders, known as the Union of the Three Nations, became an important element of the self-government of Transylvania. The Orthodox Romanian knezes ("chiefs") were excluded from the Union.
+
+Early modern times and national awakening
+The Kingdom of Hungary collapsed, and the Ottomans occupied parts of Banat and Crișana in 1541. Transylvania and Maramureș, along with the rest of Banat and Crișana, developed into a new state under Ottoman suzerainty, the Principality of Transylvania. The Reformation, initiated in Germany by Martin Luther in 1517, encouraged the spread of Protestantism across the region; by 1568, the Edict of Torda formally granted local communities the right to choose their own preachers, sanctioning the existence of four "received" religions (Catholicism, Lutheranism, Calvinism, and Unitarianism). The Romanians' Orthodox faith remained only tolerated, although they made up more than one-third of the population, according to 17th-century estimates. In June 1609, Gabriel Báthory freed the Romanian Orthodox clergy from both taxation and service demands.
+The princes of Transylvania, Wallachia, and Moldavia joined the Holy League against the Ottoman Empire in 1594. The Wallachian prince, Michael the Brave, united the three principalities under his rule in May 1600. The neighbouring powers forced him to abdicate in September, but he became a symbol of the unification of the Romanian lands in the 19th century. Although the rulers of the three principalities continued to pay tribute to the Ottomans, the most talented princes—Gabriel Bethlen of Transylvania, Matei Basarab of Wallachia, and Vasile Lupu of Moldavia—strengthened their autonomy.
+The united armies of the Holy League expelled the Ottoman troops from Central Europe between 1684 and 1699, and the Principality of Transylvania was integrated into the Habsburg monarchy. The Habsburgs supported the Catholic clergy and persuaded the Orthodox Romanian prelates to accept the union with the Roman Catholic Church in 1699. In the 18th century, Moldavia and Wallachia maintained their internal autonomy, but in 1711 and 1716, respectively, the period of the Phanariots began, with rulers appointed directly by the Porte from among the noble families of Greek origin in Constantinople. With the signing of the Ausgleich in 1867, Transylvania quickly lost its remaining political autonomy, being politically and administratively incorporated into the Kingdom of Hungary. The Church Union strengthened the Romanian intellectuals' devotion to their Roman heritage. The Orthodox Church was restored in Transylvania only after Orthodox monks stirred up revolts in 1744 and 1759. The organisation of the Transylvanian Military Frontier caused further disturbances, especially among the Székelys in 1764.
+Princes Dimitrie Cantemir of Moldavia and Constantin Brâncoveanu of Wallachia concluded alliances with the Habsburg Monarchy and Russia against the Ottomans, but they were dethroned in 1711 and 1714, respectively. The sultans lost confidence in the native princes and appointed Orthodox merchants from the Phanar district of Istanbul to rule Moldavia and Wallachia. The Phanariot princes pursued oppressive fiscal policies and dissolved the army. The neighbouring powers took advantage of the situation: the Habsburg Monarchy annexed the northwestern part of Moldavia, or Bukovina, in 1775, and the Russian Empire seized the eastern half of Moldavia, or Bessarabia, in 1812.
+A census revealed that the Romanians were more numerous than any other ethnic group in Transylvania in 1733, but legislation continued to use contemptuous adjectives (such as "tolerated" and "admitted") when referring to them. The Uniate bishop, Inocențiu Micu-Klein, who demanded recognition of the Romanians as the fourth privileged nation, was forced into exile. Uniate and Orthodox clerics and laymen jointly signed a plea for the Transylvanian Romanians' emancipation in 1791, but the monarch and the local authorities refused to grant their requests.
+
+The Treaty of Küçük Kaynarca authorised the Russian ambassador in Istanbul to defend the autonomy of Moldavia and Wallachia (known as the Danubian Principalities) in 1774. Taking advantage of the Greek War of Independence, a Wallachian lesser nobleman, Tudor Vladimirescu, stirred up a revolt against the Ottomans in January 1821, but he was murdered in June by Phanariot Greeks. After a new Russo-Turkish War, the Treaty of Adrianople strengthened the autonomy of the Danubian Principalities in 1829, although it also acknowledged the sultan's right to confirm the election of the princes.
+Mihail Kogălniceanu, Nicolae Bălcescu and other leaders of the 1848 revolutions in Moldavia and Wallachia demanded the emancipation of the peasants and the union of the two principalities, but Russian and Ottoman troops crushed their revolt. The Wallachian revolutionaries were the first to adopt the blue, yellow and red tricolour as the national flag, which included the motto "Justice, Fraternity" (Dreptate, Frăție) to symbolise the bond between Wallachians and Moldavians. In Transylvania, most Romanians supported the imperial government against the Hungarian revolutionaries after the Diet passed a law concerning the union of Transylvania and Hungary. Bishop Andrei Șaguna proposed the unification of the Romanians of the Habsburg Monarchy in a separate duchy, but the central government refused to change the internal borders.
+
+Unification and the Kingdom of Romania
+From the Little Union to the Great War
+The modern Romanian state was created through the unification of the principalities of Moldavia and Wallachia, accepted as a federative structure by the Great Powers following the Paris Convention of 1858, and later cemented by the simultaneous election as ruler of both states of the unionist Alexandru Ioan Cuza. After carrying out numerous reforms that laid the foundations for the modernisation of the state, he was forced in 1866 by a broad coalition of the political parties of the time, also known as the "Monstrous coalition", to abdicate and leave the country.
+The union was at one time in peril, but the political leaders of the era succeeded in placing on the princely throne Carol I of Romania, who accepted the Constitution and took the oath on 10 May 1866. Eleven years later, on 10 May 1877, Romania proclaimed its independence—achieved on the battlefield—and in 1881, on the same day of the year, Carol was crowned as King of Romania. In 1913, Romania entered the Second Balkan War against Bulgaria, at the end of which it obtained Southern Dobruja. In 1914, King Carol I died, and his nephew, Ferdinand I, succeeded him on the throne.
+
+World War I and the Great Union
+In 1916, Romania entered World War I on the side of the Entente Powers. Although the Romanian forces did not perform well militarily, by the end of the war the Austrian and Russian Empires had disintegrated; the National Assembly in Transylvania, and the Sfatul Țării in Bessarabia and Bukovina proclaimed their union with Romania, and King Ferdinand I and Queen Maria were crowned sovereign of all Romanians in Alba Iulia on 15 October 1922.
+After World War I, the union of Bukovina with Romania was ratified in 1919 by the Treaty of Saint Germain. Most of the territories claimed by Romania from the Kingdom of Hungary—Crișana, Transylvania and parts of Banat and Maramureș—were annexed to the Kingdom of Romania. This act was ratified in 1920 by the Treaty of Trianon, which defined the new border between Hungary and Romania.
+
+Interwar period
+After having left the country and renounced his claim to the throne in 1925, Carol II returned in 1930 and usurped his son's throne; influenced by his inner circle—referred to by historians as the "Royal Camarilla"—he gradually undermined the democratic system, and in 1938 he assumed dictatorial powers. Although he was pro-Western (especially Anglophile), Carol attempted to appease extreme centrifugal forces by appointing nationalist governments that adopted anti-Semitic measures, such as the Goga cabinet and the one led by the Orthodox Patriarch Miron Cristea.
+
+World War II
+Following the Molotov–Ribbentrop Pact of 1939, in June 1940 Romania accepted the loss of Bessarabia, Northern Bukovina and the Hertsa region in favour of the USSR (as stipulated in the Soviet ultimatum of 28 June 1940). Unaware of the details of the Soviet–German pact, Carol attempted to secure an alliance with Nazi Germany, and appointed Ion Gigurtu as President of the Council of Ministers, who declared that he would pursue a Nazi pro-Axis (Berlin–Rome) policy that was anti-Semitic and fascist-totalitarian in nature. Between 4 July and 4 September 1940, by accepting Hitler's arbitration over Transylvania (after Gigurtu declared on radio that Romania must make territorial sacrifices to justify its Nazi orientation and full adherence to the Berlin–Rome Axis), Romania ceded Northern Transylvania—including the city of Cluj—to Hungary. The vast territories in Transylvania ceded by Ion Gigurtu to Hungary contained important natural resources, including gold mines. Ion Gigurtu also initiated negotiations to cede 8,000 km2 of Southern Dobruja to Bulgaria, these negotiations were interrupted by Antonescu's unconditional acceptance of the territorial cession.
+In response to the chaotic withdrawal from Bessarabia, the territorial cessions, public discontent, and protests from political leaders, King Carol II suspended the 1938 Constitution of Romania and appointed General Ion Antonescu as Prime Minister. This measure, supported by the Iron Guard, demanded that the king abdicate in favour of his son, Mihai. Subsequently, Antonescu assumed dictatorial powers and became President of the Council of Ministers, as the self-titled "Leader" of the state.
+In 1941, as an ally of Nazi Germany, Romania entered World War II by declaring war on the Soviet Union. A shift in fortunes only became discernible after the defeat at Stalingrad and the subsequent change of the USSR from a defensive to an offensive posture. On 23 August 1944, with the Soviet army having been present in northern Moldova since March, King Mihai I forcibly removed Marshal Ion Antonescu from power, as he refused to sign an armistice with the Allies of World War II. Following Antonescu's outright refusal, King Mihai I ordered the dismissal and arrest of the marshal, and Romania switched sides to join the Allies.
+
+Socialist Romania (1947–1989)
+Less than three years after the Soviet occupation of Romania, in 1947, King Michael I was forced to abdicate and the People's Republic of Romania—a state of "popular democracy"—was proclaimed. The newly established communist regime, led by the Romanian Workers' Party, consolidated its power through a Stalinist-type policy aimed at suppressing any political opposition and transforming the economic and social structures of the old bourgeois regime.
+In the early 1960s, the Romanian government began asserting a certain degree of independence from the Soviet Union in its foreign policy, although it did not abandon its repressive policies (which it labelled "revolutionary conquests") in domestic affairs. In 1965, communist leader Gheorghe Gheorghiu-Dej died, ushering in a period of change in Romania. After a brief power struggle, Nicolae Ceaușescu emerged as the head of the communist party, becoming General Secretary of the Romanian Communist Party in 1965, President of the State Council in 1967, and President of the Socialist Republic of Romania in 1974. Ceaușescu's rule from 1965 to 1989 grew increasingly authoritarian during the 1980s.
+
+Romania since 1989
+In the context of the fall of communism throughout Eastern Europe during the revolutions of 1989, a protest in support of Reformed pastor László Tőkés that began in December 1989 in Timișoara quickly escalated into a national uprising against the communist regime, ultimately resulting in the execution of Ceaușescu and his wife Elena on 25 December 1989.
+An interim council composed of figures from civil society and former communist officials assumed control of the government, and Ion Iliescu became the provisional president of the country. The new government reversed many of the authoritarian communist policies and dismissed several leaders of the former regime, although still influenced by members of the former regime (the basis for the Golaniad, and Mineriads).
+In May 1990, the first free elections in Romania since the 1937 elections were held, with Iliescu of the National Salvation Front winning the presidency with 85% of the vote. In 1992, he was reelected in the first election after the adoption of a permanent constitution via a referendum held the previous year. Illiescu lost the 1996 election to Emil Constantinescu, but returned to power in 2000. Traian Băsescu was elected president in 2004 and 2009, serving until 2014 at which point Klaus Iohannis succeeded him, being re-elected in 2019 and serving until 2025. During these years several events occurred. In 2009, the country was bailed out by the International Monetary Fund as result of the Great Recession in Europe following the 2008 financial crisis.
+The post-1989 period has been characterised by the privatisation and closure of several former industrial and economic enterprises from the communist period, while corruption has been a major issue in contemporary politics.
+A National Anticorruption Directorate was formed in the country in 2002. During the 2000s, Romania had one of the highest economic growth rates in Europe and has been referred at times as "the Tiger of Eastern Europe". This has been accompanied by a significant improvement in living standards as the country successfully reduced domestic poverty and established a functional democratic state. However, Romania's development suffered a major setback during the late 2000s' recession leading to a large gross domestic product contraction and a budget deficit in 2009. This led to Romania borrowing from the International Monetary Fund. Worsening economic conditions led to unrest and triggered a political crisis in 2012.
+Since 2014, Romania launched an anti-corruption effort that led to the prosecution of medium- and high-level political, judicial and administrative offences by the National Anticorruption Directorate. In 2015, massive anti-corruption protests which developed in the wake of the Colectiv nightclub fire led to the resignation of prime minister Victor Ponta. During 2017–2019, in response to measures which were perceived to weaken the fight against corruption, some of the biggest post-1989 protests took place in Romania, with over 500,000 people protesting nationwide.
+The 2021 Romanian political crisis led to the ousting of Florin Cîțu's incumbent government. The Ciucă Cabinet then took power, with Romania since having experienced a shift towards authoritarianism and illiberalism, as well as an increased corruption. Around this time, Romania was also hit by the COVID-19 pandemic. In the 2024 presidential election, Independent candidate Călin Georgescu achieved a surprise win in the first round. However, the Constitutional Court annulled the election results, citing Russian meddling. The cancellation led to far-right protests, criticism by the Trump administration, and Ilie Bolojan becoming acting president in February 2025 as Iohannis resigned to political pressure. In the subsequent 2025 Romanian presidential election, Bucharest Mayor Nicușor Dan was elected president.
+
+Geography
+Romania is the largest country in Southeastern Europe and the twelfth-largest in Europe, having an area of 238,397 square kilometres (92,046 sq mi). It lies between latitudes 43° and 49° N and longitudes 20° and 30° E. The terrain is distributed roughly equally between mountains, hills, and plains. The Carpathian Mountains dominate the centre of Romania, with 14 mountain ranges reaching above 2,000 m or 6,600 ft—the highest is Moldoveanu Peak at 2,544 m or 8,346 ft. They are surrounded by the Moldavian and Transylvanian plateaus, the Pannonian Plain and the Wallachian plains.
+Romania is home to six terrestrial ecoregions: Balkan mixed forests, Central European mixed forests, East European forest steppe, Pannonian mixed forests, Carpathian montane conifer forests, and Pontic steppe. Natural and semi-natural ecosystems cover about 47% of the country's land area. There are almost 10,000 km2 (3,900 sq mi) (about 5% of the total area) of protected areas in Romania covering 13 national parks and three biosphere reserves. The Danube river forms a large part of the border with Serbia and Bulgaria, and flows into the Black Sea, forming the Danube Delta, which is the second-largest and best-preserved delta in Europe, and a biosphere reserve and a biodiversity World Heritage Site. At 5,800 km2 (2,200 sq mi), the Danube Delta is the largest continuous marshland in Europe, and supports 1,688 different plant species alone.
+Romania has one of the largest areas of undisturbed forest in Europe, covering almost 27% of its territory. The country had a 2019 Forest Landscape Integrity Index mean score of 5.95/10, ranking it 90th globally out of 172 countries. Some 3,700 plant species have been identified in the country, from which to date 23 have been declared natural monuments, 74 extinct, 39 endangered, 171 vulnerable, and 1,253 rare.
+The fauna of Romania consists of 33,792 species of animals, 33,085 invertebrate and 707 vertebrate, with almost 400 unique species of mammals, birds, reptiles, and amphibians, including about 50% of Europe's (excluding Russia) brown bears and 20% of its wolves.
+Romania is often seen by most as having the shape resembling one of a goldfish.
+
+Climate
+Owing to its distance from open sea and its position on the southeastern portion of the European continent, Romania has a climate that is continental, with four distinct seasons. The average annual temperature is 11 °C (52 °F) in the south and 8 °C (46 °F) in the north. In summer, average maximum temperatures in Bucharest rise to 28 °C (82 °F), and temperatures over 35 °C (95 °F) are fairly common in the lower-lying areas of the country. In winter, the average maximum temperature is below 2 °C (36 °F). Precipitation is average, with over 750 mm (30 in) per year only on the highest western mountains, while around Bucharest it drops to approximately 570 mm (22 in).
+There are some regional differences: in western sections, such as Banat, the climate is milder and has some Mediterranean influences; the eastern part of the country has a more pronounced continental climate. In Dobruja, the Black Sea also exerts an influence over the region's climate.
+
+Government and politics
+Romania is a unitary semi-presidential representative democratic republic with a structured system of governance and an active civil society. The President, elected by popular vote, serves as the head of state, representing the country in international affairs, safeguarding constitutional order, and acting as supreme commander of the Romanian Armed Forces. The Prime Minister, appointed by the President and confirmed by the Parliament, acts as the head of government, responsible for overseeing the executive branch, implementing domestic and foreign policies, and managing public administration. Legislative authority is vested in a bicameral Parliament, consisting of the Chamber of Deputies and the Senate, whose members are elected through a proportional representation system. The judiciary operates independently, with the High Court of Cassation and Justice as the highest court of appeal.
+According to International IDEA's Global State of Democracy (GSoD) Indices and Democracy Tracker, Romania performs in the mid- range on overall democratic measures, with particular strengths in inclusive suffrage and elected government.
+
+Government
+Romania has a democratic, multi-party system, with legislative power vested in the government and the two chambers of the Parliament, more specifically the Chamber of Deputies and the Senate. The judiciary is independent of the executive and the legislature. The latter is elected by popular vote for a maximum of two terms of five years and appoints the prime minister who in turn appoints the Council of Ministers. The legislative branch of the government, collectively known as the Parliament (residing at the Palace of the Parliament), consists of two chambers (Senate and Chamber of Deputies) whose members are elected every four years by simple plurality.
+The justice system is independent of the other branches of government and is made up of a hierarchical system of courts with the High Court of Cassation and Justice being the supreme court of Romania. There are also courts of appeal, county courts and local courts. The Romanian judicial system is strongly influenced by the French model, is based on civil law and is inquisitorial in nature. The Constitutional Court (Curtea Constituțională) is responsible for judging the compliance of laws and other state regulations with the constitution, which is the fundamental law of the country and can be amended only through a public referendum. Romania's 2007 entry into the EU has been a significant influence on its domestic policy, and including judicial reforms, increased judicial cooperation with other member states, and measures to combat corruption. The Economist Intelligence Unit rated Romania as a "flawed democracy" in 2025.
+
+Administrative divisions
+Romania is divided into 41 counties (județe) and the municipality of Bucharest. Each county is administered by a county council, responsible for local affairs, as well as a prefect responsible for the administration of national affairs at the county level. The prefect is appointed by the central government but cannot be a member of any political party. Each county is subdivided further into cities and communes, which have their own mayor and local council. There are a total of 320 cities and 2,861 communes in Romania. A total of 103 of the larger cities have municipality status, which gives them greater administrative power over local affairs. The municipality of Bucharest is a special case, as it enjoys a status on par to that of a county. It is further divided into six sectors and has a prefect, a general mayor (primar general), and a general city council.
+The NUTS-3 (Nomenclature of Territorial Units for Statistics) level divisions of the EU reflect Romania's administrative-territorial structure and correspond to the 41 counties plus Bucharest. The cities and communes correspond to the NUTS-5 level divisions, but there are no current NUTS-4 level divisions. The NUTS-1 (four macroregions) and NUTS-2 (eight development regions) divisions exist but have no administrative capacity and are used instead for coordinating regional development projects and statistical purposes.
+
+Foreign relations
+Since December 1989, Romania has pursued a policy of strengthening relations with the West in general, more specifically with the United States and the EU, albeit with limited relations involving the Russian Federation. It joined NATO on 29 March 2004, the EU on 1 January 2007, while it joined the International Monetary Fund and the World Bank in 1972, and is a founding member of the World Trade Organization. Romania is recognised as a middle power for its military capabilities, as well as its active diplomatic engagement on the global stage.
+Recent governments have stated that their goals include strengthening ties with and helping other countries (in particular Moldova, Ukraine, and Georgia) with better integration with the rest of the West. Romania has also made clear since the late 1990s that it supports NATO and EU membership for the democratic former Soviet republics in Eastern Europe and the Caucasus.
+Romania applied to join to the Schengen Area in 2007, acquiring full membership in 2025 along with Bulgaria. In December 2005, President Traian Băsescu and United States Secretary of State Condoleezza Rice signed an agreement that would allow a U.S. military presence at several Romanian facilities primarily in the eastern part of the country. In 2009, US Secretary of State Hillary Clinton referred to Romania as "one of the most trustworthy and respectable US allies". However, by 2025, relations had worsened, with US vice president JD Vance in February scolding "flimsy suspicions" and "enormous pressure from its continental neighbours" for causing the annulment of the 2024 Romanian presidential election in which Călin Georgescu won the first round.
+Relations with Moldova are a special case given that the two countries share the same language and a common history. A movement for unification of Moldova and Romania appeared in the early 1990s after both countries achieved emancipation from communist rule but lost ground in the mid-1990s when a new Moldovan government pursued an agenda towards preserving a Moldovan republic independent of Romania. After the 2009 protests in Moldova and the subsequent removal of Communists from power, relations between the two countries have improved considerably.
+
+Military
+The Romanian Armed Forces consist of land, air, and naval forces led by a Commander-in-chief under the supervision of the Ministry of National Defence, and by the president as the Supreme Commander during wartime. The Armed Forces consist of approximately 55,000 reservists and 71,500 active military personnel—35,800 for land, 10,700 for air, 6,600 for naval forces, and 16,500 in other fields. Total defence spending in 2023 accounted for 2.44% of total national GDP, or approximately US$8.48 billion, with a total of $9 billion intended to be spent until 2026 for modernisation and acquisition of new equipment. Conscription stopped in 2007, when Romania switched to a volunteer army.
+The Air Force operates F-16AM/BM MLU fighters, C-27J Spartan and C-130 Hercules transport aircraft, as well as IAR 330 and IAR 316 helicopters. A procurement programme for F-35 fifth-generation fighters is also currently being carried out. The Naval Forces operate three frigates, of which two are Type 22 frigates acquired from the British Royal Navy, as well as four corvettes. The River Flotilla operates Mihail Kogălniceanu and Smârdan-class river monitors.
+Romania contributed troops to the international coalition in Afghanistan beginning in 2002, with a peak deployment of 1,600 troops in 2010 (which was the 4th largest contribution according to the US). Its combat mission in the country concluded in 2014. Romanian troops participated in the occupation of Iraq, reaching a peak of 730 soldiers before being slowly drawn down to 350 soldiers. Romania terminated its mission in Iraq and withdrew its last troops on 24 July 2009, among the last countries to do so. The frigate the Regele Ferdinand participated in the 2011 military intervention in Libya.
+In December 2011, the Romanian Senate unanimously adopted the draft law ratifying the Romania-United States agreement signed in September of the same year that would allow the establishment and operation of a US land-based ballistic missile defence system in Romania as part of NATO's efforts to build a continental missile shield. The Aegis Ashore missile system based at Deveslu became operational in 2016.
+In 2024, construction work started on expanding the Mihail Kogălniceanu Air Base (RoAF 57th Air Base). The air base is set to become the largest NATO base in Europe after the implementation of a project spanning 20 years.
+
+Economy
+In 2024, Romania had a GDP (PPP) of around $894 billion and a GDP per capita (PPP) of $47,203. According to the World Bank, Romania is a high-income economy. According to Eurostat, Romania's GDP per capita (PPS) was 77% of the EU average (100%) in 2022, an increase from 44% in 2007 (the year of Romania's accession to the EU), making Romania one of the fastest growing economies in the EU.
+The Bucharest Stock Exchange (BVB) is the stock exchange of Romania, located in Bucharest. In 2024, the BVB boasted a $74 billion market capitalisation and a trading volume of $7.2 billion. As of 2024, 86 companies were listed on the exchange. In September 2020, FTSE Russell upgraded the BVB from a Frontier market to a Secondary Emerging Market.
+
+After 1989 the country experienced a decade of economic instability and decline, led in part by an obsolete industrial base and a lack of structural reform. From 2000 onwards, however, the Romanian economy was transformed into one of relative macroeconomic stability, characterised by high growth, low unemployment and declining inflation. In 2006, according to the Romanian Statistics Office, GDP growth in real terms was recorded at 7.7%, one of the highest rates in Europe. However, the Great Recession forced the government to borrow externally, including an IMF €20 billion bailout programme. According to The World Bank, GDP per capita in purchasing power parity grew from $13,703 in 2007 to $47,903 in 2023.
+
+Romania's main exports are vehicles, software, clothing and textiles, industrial machinery, electrical and electronic equipment, metallurgic products, raw materials, military equipment, pharmaceuticals, fine chemicals, and agricultural products (fruits, vegetables, and flowers). Trade is mostly centred on the member states of the EU, with Germany, Italy and France being the country's single largest trading partners.
+In 2005, the government replaced Romania's progressive tax system with a flat tax of 16% for both personal income and corporate profit, among the lowest rates in the EU. The economy is based predominantly on services, which account for 56.2% of the country's total GDP as of 2017, with industry and agriculture accounting for 30% and 4.4% respectively.
+Approximately 25.8% of the Romanian workforce is employed in agriculture, one of the highest rates in Europe.
+
+Romania has attracted increasing amounts of foreign investment following the end of communism, with the stock of foreign direct investment (FDI) in Romania rising to €83.8 billion in June 2019. Romania's FDI outward stock (an external or foreign business either investing in or purchasing the stock of a local economy) amounted to $745 million in December 2018, the lowest value among the 28 EU member states.
+Since 1867 the official currency has been the Romanian leu ("lion"), which "was redenominated, with the exchange rate set at 1 new leu = 10,000 old lei" in 2005 according to the National Bank of Romania. As it joined the EU in 2007, Romania plans to adopt the euro in 2029.
+
+Infrastructure
+According to the Romania's National Institute of Statistics (INS), Romania's total road network was estimated in 2015 at 86,080 kilometres (53,488 mi). The World Bank estimates the railway network at 22,298 kilometres (13,855 mi) of track, the fourth-largest railway network in Europe. Romania's rail transport experienced a dramatic decline after 1989 and was estimated at 99 million passenger journeys in 2004, but has experienced a recent (2013) revival due to infrastructure improvements and partial privatisation of lines, accounting for 45% of all passenger and freight movements in the country. Bucharest Metro, the only underground railway system, was opened in 1979 and measures 80.01 km (49.72 mi) with an average ridership in 2021 of 720,000 passengers during the workweek in the country. There are sixteen international commercial airports in service today. Over 12.8 million passengers flew through Bucharest's Henri Coandă International Airport in 2017.
+Romania is a net exporter of electrical energy and is 52nd worldwide in terms of consumption of electric energy. Around a third of the produced energy comes from renewable sources, mostly as hydroelectric power. It has one of the largest refining capacities in Eastern Europe, even though oil and natural gas production has been decreasing for more than a decade. With one of the largest reserves of crude oil and shale gas in Europe it is among the most energy-independent countries in the EU, and is looking to expand its nuclear power plant at Cernavodă further.
+There were almost 18.3 million connections to the Internet in June 2014. According to Bloomberg, in 2013 Romania ranked fifth in the world, and according to The Independent, it ranks number one in Europe at Internet speeds, with Timișoara ranked among the highest in the world.
+
+Tourism
+Tourism is a significant contributor to the Romanian economy, generating around 5% of GDP. The number of tourists has been rising steadily, reaching 9.33 million foreign tourists in 2016, according to the Worldbank. Tourism in Romania attracted €400 million in investments in 2005. More than 60% of the foreign visitors in 2007 were from other EU countries. The popular summer attractions of Mamaia and other Black Sea Resorts attracted 1.3 million tourists in 2009.
+Among Romania's spa towns and resorts are Buziaș, Băile Călacea, Moneasa, Băile Lipova, Călimănești, Amara, and Geoagiu-Băi. At the same time, seaside resorts such as Eforie, Mangalia, Saturn, Venus, Neptun, Olimp, and Mamaia (sometimes also called the Romanian Riviera) are among the main tourist attractions during the summer. Most popular skiing resorts are along the Valea Prahovei, Muntele Mic, Semenic, Straja and Poiana Brașov. Wine tourism is represented by areas such as Recaș, Silagiu, Odobești, Drăgășani, and Podgoria Aradului.
+Castles, fortifications, or strongholds as well as preserved medieval Transylvanian cities or towns such as Timișoara, Cluj-Napoca, Sibiu, Brașov, Alba Iulia, Baia Mare, Bistrița, Mediaș, Cisnădie, Sebeș, or Sighișoara also attract a large number of tourists. Bran Castle, near Brașov, is one of the most famous attractions in Romania, drawing hundreds of thousands of tourists every year as it is often (falsely) advertised as being Dracula's Castle. Other attractions include the Danube Delta or the Sculptural Ensemble of Constantin Brâncuși at Târgu Jiu.
+Rural tourism, focusing on getting visitors acquainted with local folklore and customs, has become an important alternative, and is targeted to promote such sites as Bran and its Dracula's Castle, the painted churches of northern Moldavia, and the wooden churches of Maramureș, or the villages with fortified churches in Transylvania. The Via Transilvanica long-distance hiking and cycling trail, which crosses 10 counties in the Transylvania, Banat and Bukovina regions of the country further promotes rural slow tourism.
+In 2014, Romania had 32,500 companies active in the hotel and restaurant industry, with a total turnover of €2.6 billion. More than 1.9 million foreign tourists visited Romania in 2014, 12% more than in 2013. According to the country's National Statistics Institute, some 77% came from Europe (particularly from Germany, Italy, and France), 12% from Asia, and less than 7% from North America.
+
+Science and technology
+Historically, Romanian researchers and inventors have made notable contributions to several fields. In the history of flight, Traian Vuia built the first aeroplane to take off under its own power and Aurel Vlaicu built and flew some of the earliest successful aircraft, while Henri Coandă discovered the Coandă effect of fluidics. Victor Babeș discovered more than 50 types of bacteria; biologist Nicolae Paulescu developed an extract of the pancreas and showed that it lowers blood sugar in diabetic dogs, thus being significant in the history of insulin; while Emil Palade received the Nobel Prize for his contributions to cell biology. Lazăr Edeleanu was the first chemist to synthesise amphetamine, and he also invented the procedure of separating valuable petroleum components with selective solvents.
+During the 1990s and 2000s, the development of research was hampered by several factors, including corruption, low funding, and a considerable brain drain. In recent years, Romania has ranked the lowest or second-lowest in the EU by research and development spending as a percentage of GDP, standing at roughly 0.5% in 2016 and 2017, substantially below the EU average of just over 2%. The country joined the European Space Agency (ESA) in 2011, and CERN in 2016. In 2018, however, Romania lost its voting rights in the ESA due to a failure to pay €56.8 million in membership contributions to the agency.
+In the early 2010s, the situation for science in Romania was characterised as "rapidly improving" albeit from a low base. In January 2011, Parliament passed a law that enforces "strict quality control on universities and introduces tough rules for funding evaluation and peer review". Romania was ranked 49th in the Global Innovation Index in 2025.
+The nuclear physics facility of the EU's proposed Extreme Light Infrastructure (ELI) laser will be built in Romania. In early 2012, Romania launched its first satellite from the Centre Spatial Guyanais in French Guiana. Starting in December 2014, Romania became a co-owner of the International Space Station.
+
+Demographics
+According to the 2021 Romanian census, Romania's population was 19,053,815. Like other countries in the region, its population is expected to decline gradually as a result of sub-replacement fertility rates and negative net migration rate. According to the 2021 Romanian census, Romanians made up 89.33% of the population, Hungarians 6.05% and the Roma 3.44% of the population, but many ethnicities are not recorded, as they do not have ID cards. International sources give higher figures for Roma than the official census. According to the Council of Europe, the Roma make up 8.32% of the population; this figure is difficult to verify due to the mobility of Roma and the reluctance of some of them to disclose their ethnicity. Hungarians constitute a majority in the counties of Harghita and Covasna. Other minorities include Ukrainians, Germans, Turks, Lipovans, Aromanians, Tatars, and Serbs. In 1930, there were 745,421 Germans living in Romania, but only about 36,000 remained in the country to this day. As of 2009, there were also approximately 133,000 immigrants living in Romania, primarily from Moldova and China.
+The total fertility rate (TFR) in 2018 was estimated at 1.36 children born per woman, which is below the replacement rate of 2.1, and one of the lowest in the world; it remains considerably below the high of 5.82 children born per woman in 1912. In 2014, 31.2% of births were to unmarried women.
+The birth rate (9.49‰, 2012) is much lower than the mortality rate (11.84‰, 2012), resulting in a shrinking (−0.26% per year, 2012) and aging population (median age: 41.6 years, 2018), one of the oldest populations in the world, with approximately 16.8% of total population aged 65 years and over. The life expectancy in 2015 was estimated at 74.92 years (71.46 years male, 78.59 years female).
+The number of Romanians and individuals with ancestors born in Romania living abroad is estimated at 12 million. After the Romanian Revolution of 1989, a significant number of Romanians emigrated to other European countries, North America or Australia. For example, in 1990, 96,919 Romanians permanently settled abroad.
+
+Urbanisation
+Although 54.0% of the population lived in urban areas in 2011, this percentage has been declining since 1996. Counties with over 2⁄3 urban population are Hunedoara, Brașov and Constanța, while those with less than a third are Dâmbovița (30.06%) and Giurgiu and Teleorman. Bucharest is the capital and the largest city in Romania, with a population of over 1.7 million in 2021. Its larger urban zone has a population of almost 2.2 million, which are planned to be included into a metropolitan area up to 20 times the area of the city proper.
+Another 17 cities have a population of over 100,000, with Cluj-Napoca, Iași, Constanța and Timișoara having more than 250,000 inhabitants, and Craiova, Brașov and Galați with over 200,000 inhabitants. Metropolitan areas have been constituted for most of these cities.
+
+Languages
+The official language is Romanian, a Romance language (the most widely spoken of the Eastern Romance branch), which presents a consistent degree of similarity to Aromanian, Megleno-Romanian, and Istro-Romanian, but shares many features equally with the rest of the Western Romance languages, specifically Italian, French, Spanish, Portuguese, and Catalan. The Romanian alphabet contains the same 26 letters of the standard Latin alphabet, as well as five additional ones (namely ă, â, î, ț, and ș), totalling 31.
+Romanian is spoken as a first language by 91.55% of the entire population, while Hungarian and Vlax Romani are spoken by 6.28% and 1.20% of the population, respectively. There are also 40,861 native speakers of Ukrainian (concentrated in some compact regions near the border, where they form local majorities), 17,101 native speakers of Turkish, 15,943 native speakers of German, and 14,414 native speakers of Russian living in Romania.
+According to the Constitution, local councils ensure linguistic rights to all minorities. In localities with ethnic minorities of over 20%, that minority's language can be used in the public administration, justice system, and education. Foreign citizens and stateless persons who live in Romania have access to justice and education in their own language. English and French are the main foreign languages taught in schools. In 2010, the Organisation internationale de la Francophonie identified 4,756,100 French speakers in the country. According to the 2012 Eurobarometer, English is spoken by 31% of Romanians, French is spoken by 17%, and Italian and German, each by 7%.
+
+Religion
+Romania is a secular state and has no state religion. An overwhelming majority of the population identify themselves as Christians. At the country's 2021 census, 73.60% of respondents identified as Orthodox Christians, with 73.42% belonging to the Romanian Orthodox Church. Other denominations include Protestantism (6.22%), Roman Catholicism (3.89%), and Greek Catholicism (0.61%). From the remaining population 128,291 people belong to other Christian denominations or have another religion, which includes 58,347 Muslims (mostly of Turkish and Tatar ethnicity) and 2,708 Jewish (Jews once constituted 4% of the Romanian population—728,115 persons in the 1930 census). Additionally, 71,430 people are irreligious, 57,229 are atheist, 25,485 are agnostic, and 2,658,165 people chose to not declare their religion.
+The Romanian Orthodox Church is an autocephalous Eastern Orthodox Church in full communion with other Orthodox churches, with a Patriarch as its leader. It is the third-largest Eastern Orthodox Church in the world, and unlike other Orthodox churches, it functions within a Latin culture and uses a Romance liturgical language. Its canonical jurisdiction covers the territories of Romania and Moldova. Romania has the world's third-largest Eastern Orthodox population.
+
+Education
+Since the Romanian revolution of 1989, the Romanian educational system has been in a continuous process of reform that has received mixed criticism. In 2004, some 4.4 million individuals were enrolled in school. Of these, 650,000 were in kindergarten (three-six years), 3.11 million in primary and secondary level, and 650,000 in tertiary level (universities). In 2018, the adult literacy rate was 98.8%. Kindergarten is optional between three and five years. Since 2020, compulsory schooling starts at age 5 with the last year of kindergarten (grupa mare) and is compulsory until twelfth grade. Primary and secondary education is divided into 12 or 13 grades. There is also a semi-legal, informal private tutoring system used mostly during secondary school, which prospered during the Communist regime.
+As of 2025, Babeș-Bolyai University of Cluj-Napoca and the University of Bucharest are included in the QS World University Rankings' top 800.
+Romania ranks fifth in the all-time medal count at the International Mathematical Olympiad with 316 total medals, dating back to 1959. Ciprian Manolescu managed to write a perfect paper (42 points) for a gold medal more times than anybody else in the history of the competition, in 1995, 1996 and 1997. Romania has achieved the highest team score in the competition, after China, Russia, the United States and Hungary. Romania also ranks sixth in the all-time medal count at the International Olympiad in Informatics with 107 total medals, dating back to 1989.
+
+Health
+Healthcare in Romania is mainly provided by the public sector, which runs most hospitals and offers national health insurance to nearly all citizens. In 2021, healthcare costs were US$16. 7 billion, or US$2,385 per person, making up €5.69 of GDP. Government spending is higher than in markets like Bulgaria but lower than Hungary. Spending is expected to rise by 7. US$5 billion (+37. 68%) from 2024 to 2028, reaching 27. US$3 billion by 2028.
+The Romanian National Institute of Statistics reports over 65,000 health units in Romania, with 53,000 in urban areas and 12,000 in rural areas. There are 543 hospitals, including 488 in urban and 55 in rural areas, along with 160 other hospital-like establishments. Nearly 50% of these are large facilities with over 100 beds, while 39% are small with fewer than 50 beds. The total number of inpatient beds is 135,085, allocated mainly to psychiatry, surgery, and internal medicine among other specialties.
+
+Culture
+Holidays and traditions
+There are 12 non-working public holidays, including the Great Union Day, celebrated on 1 December in commemoration of the 1918 union of Transylvania with Romania. Winter holidays include the Christmas and New Year festivities during which various unique folklore dances and games are common: plugușorul, sorcova, ursul, and capra. The traditional Romanian dress that otherwise has largely fallen out of use during the 20th century, is a popular ceremonial vestment worn on these festivities, especially in rural areas. There are sacrifices of live pigs during Christmas and lambs during Easter that has required a special exemption from EU law after 2007. In the Easter, traditions such as painting the eggs are very common. On 1 March mărțișor gifting is featured, which is a tradition whereby females are gifted with a type of talisman that is given for good luck.
+
+Arts and monuments
+Architecture
+The topic of the origin of Romanian culture began to be discussed by the end of the 18th century among the Transylvanian School scholars. Several writers rose to prominence in the 19th century, including: George Coșbuc, Ioan Slavici, Mihail Kogălniceanu, Vasile Alecsandri, Nicolae Bălcescu, Ion Luca Caragiale, Ion Creangă, and Mihai Eminescu, the later being considered the greatest and most influential Romanian poet, particularly for the poem Luceafărul.
+In the 20th century, a number of Romanian artists and writers achieved international acclaim, including: Tristan Tzara, Marcel Janco, Mircea Eliade, Nicolae Grigorescu, Marin Preda, Liviu Rebreanu, Eugène Ionesco, Emil Cioran, and Constantin Brâncuși. Brâncuși has a sculptural ensemble in Târgu Jiu, while his sculpture Bird in Space, was auctioned in 2005 for $27.5 million. Romanian-born Holocaust survivor Elie Wiesel received the Nobel Peace Prize in 1986, while Banat Swabian writer Herta Müller received the 2009 Nobel Prize in Literature.
+
+Prominent Romanian painters include: Nicolae Grigorescu, Ștefan Luchian, Ion Andreescu Nicolae Tonitza, and Theodor Aman. Notable Romanian classical composers of the 19th and 20th centuries include: Ciprian Porumbescu, Anton Pann, Eduard Caudella, Mihail Jora, Dinu Lipatti, and especially George Enescu. The annual George Enescu Festival is held in Bucharest in honour of the 20th-century composer.
+Contemporary musicians like Angela Gheorghiu, Gheorghe Zamfir, Inna, Alexandra Stan, and many others have achieved various levels of international acclaim. From the late 2000s through the early 2010s, the Romanian popcorn music style had established itself in the international mainstream. At the Eurovision Song Contest Romanian singers achieved third place in 2005 and 2010.
+In cinema, several movies of the Romanian New Wave have achieved international acclaim. At the Cannes Film Festival, The Death of Mr. Lazarescu by Cristi Puiu won the Prix Un Certain Regard in 2005, while 4 Months, 3 Weeks and 2 Days by Cristian Mungiu won the festival's top prize, the Palme d'Or, in 2007. At the Berlin International Film Festival, Child's Pose by Călin Peter Netzer won the Golden Bear in 2013.
+The list of World Heritage Sites includes six cultural sites located within Romania, including eight painted churches of northern Moldavia, eight wooden churches of Maramureș, seven villages with fortified churches in Transylvania, the Horezu Monastery, and the Historic Centre of Sighișoara. The city of Sibiu, with its Brukenthal National Museum, was selected as the 2007 European Capital of Culture and the 2019 European Region of Gastronomy. Multiple castles exist in Romania, including the popular tourist attractions of Peleș Castle, Corvin Castle, and Bran Castle or "Dracula's Castle".
+
+Media
+Cuisine
+Romanian cuisine has been influenced by Austrian and German cuisine (especially in the historical regions that had been formerly administered by the Habsburg monarchy), but also shares some similarities with other cuisines in the Balkan region such as Greek, Bulgarian, and Serbian cuisine. Ciorbă includes a wide range of sour soups, while mititei, mămăligă (similar to polenta), and sarmale are featured commonly in main courses.
+Pork, chicken, and beef are the preferred types of meat, but lamb and fish are also quite popular. Certain traditional recipes are made in direct connection with the holidays: chiftele, tobă and tochitură at Christmas; drob, pască and cozonac at Easter and other Romanian holidays. Țuică is a strong plum brandy reaching a 70% alcohol content which is the country's traditional alcoholic beverage, taking as much as 75% of the national crop (Romania is one of the largest plum producers in the world). Traditional alcoholic beverages also include wine, rachiu, palincă and vișinată, but beer consumption has increased dramatically over recent years. In 2019, Romania became the country with the highest alcohol consumption per capita.
+
+Sports
+Football is the most popular sport in Romania with over 219,000 registered players as of 2018. The market for professional football in Romania was roughly €740 million in 2018 according to UEFA.
+The governing body is the Romanian Football Federation, which belongs to UEFA. The Romania national football team played its first match in 1922 and is one of only four national teams to have taken part in the first three FIFA World Cups, the other three being Brazil, France, and Belgium. Overall, it has played in seven World Cups and had its most successful period during the 1990s, when it finished 6th at the 1994 FIFA World Cup, eventually being ranked 3rd by FIFA in 1997.
+The most successful club is Steaua București, who were the first Eastern European team to win the UEFA Champions League in 1986, and were runners-up in 1989. Dinamo București reached the UEFA Champions League semi-final in 1984 and the UEFA Cup Winners' Cup semi-final in 1990. Other important Romanian football clubs are Rapid București, UTA Arad, Universitatea Craiova, Petrolul Ploiești, CFR Cluj, Astra Giurgiu, and Viitorul Constanța (the latter having recently merged with FCV Farul Constanța).
+Tennis is the second most popular sport. Romania reached the Davis Cup finals three times in 1969, 1971 and 1972. The second most popular team sport is handball. The men's team won the handball world championship in 1961, 1964, 1970, 1974 making them the third most successful nation ever in the tournament. The women's team won the world championship in 1962 and have enjoyed more success than their male counterparts in recent years. In the club competition Romanian teams have won the EHF Champions League a total of three times, Steaua București won in 1968 as well as 1977 and Dinamo București won in 1965. In women's handball, powerhouse CSM București lifted the EHF Champions League trophy in 2016.
+Popular individual sports include combat sports, martial arts, and swimming. In professional boxing, Romania has produced many world champions across the weight divisions internationally recognised by governing bodies. Another popular combat sport is professional kickboxing, which has produced prominent practitioners including.
+Romania's 306 all-time Summer Olympics medals would rank 12th most among all countries, while its 89 gold medals would be 14th most. The 1984 Summer Olympics was their most successful run, where they won 53 medals in total, 20 of them gold, ultimately placing 2nd to the hosts United States in the medal rankings. Amongst countries who have never hosted the event themselves, they are second in the total number of medals earned. Gymnastics is the country's major medal-producing sport.
+
+See also
+Outline of Romania
+
+Notes
+References
+Sources
+External links
+
+Country Profile from BBC News.
+Romania Article and Country Profile from Encyclopædia Britannica
+Romania Profile from Balkan Insight.
+România Un Secol de Istorie – statistical data from INS
+Romania. The World Factbook. Central Intelligence Agency.
+Government
+
+Romanian Presidency
+Romanian Parliament Archived 28 December 2006 at the Wayback Machine
+Culture and history
+
+Treasures of the national library of Romania
+Historic Houses of Romania
+
+## Tourism in Romania
+In December 2024, Romania's tourism sector had a 6.8% increase in arrivals at accommodation facilities, including hotels, apartments, and rental rooms, compared to December 2023. in authorized lodging facilities, marking increases of 4.5% over 2023 Overnight stays also rose by 4.9% during the same period. At border crossing points, Romania recorded 916,100 foreign visitor arrivals, while the number of Romanian residents traveling abroad reached 1,007,600.
+In 2024, the National Institute of Statistics reported that Romania recorded over 14 million arrivals in authorized lodging facilities, marking increases of 4.5% over 2023 and 7.7% compared to 2019, with overnight stays reaching 30.2 million. Early trends for 2025 continue to reflect strong domestic interest, particularly along the Romanian Black Sea resorts and in emerging sectors such as Ecotourism.
+The most visited cities are Bucharest, Constanța, Brașov, Timișoara, Sibiu, Alba-Iulia, Cluj-Napoca, Sighișoara, Iași and Oradea. Natural touristic attractions include the Danube, the Carpathian Mountains, and the Black Sea. The most popular destinations for tourists are the capital city Bucharest, Brașov County, Cluj County, Prahova County, Constanța County, Bihor County, Sibiu County, Timiș County and Iași County.
+
+UNESCO World Heritage Sites in Romania
+Churches of Moldavia – The eight Romanian Orthodox Churches of Moldavia are located in Suceava County, northern Moldavia, (Bukovina) and were built approximately between 1487 and 1583.
+Dacian Fortresses of the Orăștie Mountains – The six fortresses (Sarmizegetusa Regia, Costești-Cetățuie, Costești-Blidaru, Piatra Roșie, Bănița and Căpâlna) that formed the defensive system of Decebalus were created in the 1st centuries BC and AD as protection against Roman conquest, and played an important role during the Roman-Dacian wars.
+Historic Centre of Sighișoara –  It is an inhabited medieval citadel that was built in the 12th century by Saxon colonists under the Latin name Castrum Sex and it is the birthplace of Vlad III the Impaler also known by the name of Count Dracula.
+Danube Delta – It is the second largest river delta in Europe and best preserved on the continent.
+Monastery of Horezu – It was founded in 1690 by Prince Constantin Brâncoveanu in the town of Horezu, Vâlcea County, Wallachia, Romania and it is considered to be a masterpiece of "Brâncovenesc style", known for its architectural purity and balance, the richness of its sculpted detail, its treatment of religious compositions, its votive portraits, and its painted decorative works.
+Villages with fortified churches in Transylvania – They are seven villages (six Saxon and one Székely) founded by the Transylvanian Saxons. They are dominated by fortified churches and characterized by a specific settlement pattern that has been preserved since the late Middle Ages.
+Wooden Churches of Maramureș – They are high timber constructions with characteristic tall, slim bell towers at the western end of the building. They are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania. These churches are: Bârsana, Budești, Desești, Ieud, Plopiș, Poienile Izei, Rogoz, Șurdești.
+Primeval Beech Forests of the Carpathians and Other Regions of Europe
+
+Activities
+Swimming at the Black Sea resorts (from North to South): Gura Portiței, Năvodari, Mamaia, Constanța, Eforie Nord, Eforie Sud, Tuzla, Costinești, Olimp, Neptun, Jupiter, Cap Aurora, Venus, Saturn, Mangalia, 2 Mai and Vama Veche.
+Skiing in the mountain resorts: Muntele Mic, Sinaia, Bușteni, Semenic, Azuga, Straja, Păltiniș, Rânca, Cavnic, Arieșeni, Predeal and Poiana Brașov.
+Cultural cities of Bucharest, Timișoara, Sibiu, Brașov, Cluj-Napoca, Oradea, Arad, Alba Iulia, Sighișoara, Târgu Mureș, and Iași.
+Rural tourism, which mainly revolves around the folklore and traditions of Banat, Maramureș and Bukovina. Given their more isolated, mountainous character and diversity of the population, the inhabitants of these two northern Romanian regions have kept old traditions such as painting Easter eggs, painting houses and in some parts have even kept the old local architecture alive.
+Rural tourism in Transylvania along the Via Transilvanica, a long-distance hiking and cycling trail which includes attractions such as the villages with fortified churches or the Dacian Fortresses of the Orăștie Mountains.
+Hiking in the Carpathian Mountains with many Mountain huts available
+Spas and health resorts: Băile Herculane, Băile Felix, Buziaș, Băile Călacea, Lipova, Sovata, Călimănești, Moneasa and Techirghiol.
+Museums
+Travel with Mocănița steam-powered locomotive trains in the mountainous areas of Banat, Maramureș, Transylvania, and Bukovina.
+Travel the water channels of the Danube Delta, stay in traditional villages that can only be reached by boats such as Sfântu Gheorghe.
+
+Major tourist attractions
+Many medieval castles and fortifications
+Fortified Transylvanian Saxon medieval cities: Brașov, Râșnov, Rupea, Sighișoara, Sibiu, Cisnădie, Mediaș, Sebeș, Bistrița
+Scărișoara Cave and Bears' Cave, both located in Apuseni Mountains
+Sphinx and Babele, both situated in Bucegi Mountains
+Cheile Nerei-Beușnița National Park, Domogled-Valea Cernei National Park, Semenic-Caraș Gorge National Park, Iron Gates in Caraș-Severin County
+Ceahlău Massif and Vânători-Neamț Natural Park in Neamț County
+Cheile Bicazului-Hășmaș National Park
+Piatra Craiului Mountains
+Berca Mud Volcanoes, in Buzău County
+Merry Cemetery, in Săpânța, Maramureș County
+Palace of the Parliament, Bucharest, one of the largest buildings in the world
+Lipscani street, in the old town of Bucharest, the most important commercial area of the city and of the Principality of Wallachia from the Middle Ages to the early 19th century
+Transfăgărășan road
+Transalpina road
+Via Transilvanica
+Turda Gorge (Cheile Turzii)
+Turda Salt Mine
+Praid Salt Mines
+Iron Gates (Danube Gorge)
+Hațeg Island, Hunedoara County
+Sighișoara, a medieval fortified city in southeastern Transylvania (also the birthplace of Vlad Țepeș)
+The old town of Timișoara
+Bigăr Waterfall: according to The World Geography, Bigăr waterfall is a unique waterfall worldwide.
+Cozia National Park, with mountains, ancient ruins, and medieval castles
+Danube Delta
+Romanian Black Sea resorts
+Ancient ruins, Murfatlar Cave Complex, Măcin Mountains in Dobrogea
+
+Festivals
+George Enescu Festival, in Bucharest
+EUROPAfest Jazz festival in Bucharest
+Gărâna Jazz Festival in Caraș-Severin
+Revolution Festival in Timișoara
+Peninsula / Félsziget Festival in Târgu Mureș
+Golden Stag Festival, in Brașov
+Callatis Festival, in Mangalia
+Electric Castle Festival, in Bonțida Bánffy Castle near Cluj-Napoca
+Transilvania International Film Festival in Cluj-Napoca
+Untold Festival, in Cluj-Napoca – Romania's biggest music festival
+Rockstadt Extreme Fest, in Râșnov largest metal festival in Romania
+Neversea Festival, in Constanta
+SAGA Festival, in Bucharest
+International Theatre Festival in Sibiu
+Sighișoara Medieval Festival
+
+Statistics
+Foreign visitors by country
+Most visitors arriving to Romania in 2022 and 2024 were from the following countries:
+
+Facilities for disabled travellers
+Facilities for disabled travellers in Romania range from patchy to nonexistent. Anyone with mobility problems should go prepared and ideally have local contacts. 
+Although it has made some slow strides towards disabled access since then, and new buildings need to be wheelchair-accessible, implementation has been very poor. In practice Romania remains by and large off-limits to disabled travellers.
+
+Industrial and creative tourism
+Industrial tourism, as a niche of tourism in Romania and as a solution to the restructuring and disappearance of former large industrial sites (mining, metallurgy, heavy industry), takes on interest in the country still slowly, despite the country's join to the European Union in 2007. Even if presently the country is confronted with a long and difficult economic transition, it has a rich industrial and scientific history with many of the world's priorities and still has surviving authentic traditional crafts and rural communities. Limited to some geographic areas and not yet on a large scale, by the means of European funds and projects, a sustainable revival of the traditional sector is supported, which also implies creative tourism participatory activities.
+Against this big potential, there are relatively few entities, the majority being state owned, that are organizing, providing or permitting public visits, a main cause of this still being the weak implication and support of many public authorities. Meanwhile, the tourism stakeholders pay a relatively weak attention to the hard core of this niche (industrial heritage, technique, science and living industry), and practically there are not many package offers of this kind on the market, with some notable exceptions: ethnographic and wine tourism, also some rehabilitated industrial and forest narrow railways and steam engines still operating.
+
+Primary attractions
+According, an industrial and creative tourism attractions web directory for Romania and some neighbouring countries, providing photos and short English descriptions of each objective, the main attractions open to the public are:
+
+the national and regional technical and ethnographic museums: the Dimitrie Leonida National Technical Museum and the Aviation Museum in Bucharest, the mining museums in Brad, Petrosani, Rosia Montana, a technical museum in Iasi, the tram museum in Timișoara, the Oil Museum in Ploiesti, the astronomic observatories in Bucharest and Bacau, the village museums from Bucharest, Pitesti, Sibiu, Cluj, Timișoara, Valcea, Suceava;
+the railway tourism on the recently rehabilitated narrow gauges from Brad, Abrud, Covasna, Moldovita, Agnita, Vaser, the Oravita – Anina mountain railway opened in 1864;
+the power plant museums from Cernavoda (nuclear), Iron Gates (hydro, on the Danube, 2200 MW, the biggest in European Union), Sadu (hydro, built in 1896), Sinaia (hydro, built in 1899), Grebla – Resita (hydro, built in 1904);
+factory tours: exception making some food (chocolate, soft drinks, yogurt) factories which provide visits for school children, there are no important companies (car, manufacturing, porcelain, textile, high technology, etc.) to promote such tourist visits. However, some reference enterprises may accept visits at special requests (the Resita Works, metallurgy, heavy machinery, founded in 1771, having a very interesting museum too, The Ruschita Marble Exploitation). A remarkable visit program, started in October 2013, offers the Timisoreana brewery, a factory founded in 1718, with very valuable heritage;
+industrial heritage: even if valuable, a large majority of the monuments are still abandoned by their owners. However, a few exceptions could be mentioned;
+motorsports: despite the missing of an international standard infrastructure like raceways, there are national federations organizing events for many categories and racing schools offering participatory courses;
+the salt mines from: Turda, Praid, Cacica, Slanic Prahova, Ocnele Mari, Ocna Sibiului (salt lakes) are equally famous for their tourism interest (museums, underground entertainment parks) as well as therapeutic exploitation (respiratory diseases)
+traditional crafts: wood carving, weaving, pottery, glass, embroidery. Many craftsmen preserved the traditions in some village areas from Moldavia, Transylvania and Oltenia. The majority are only selling their products on local markets, but they begin to organize and a few open their workshops to the tourists too;
+wineries: some vineyards have incredible landscapes and the wines produced here have a well established and long tradition. Wine tourism provides presentations of the technologies and the storage caves, and is well developed in Romania. Famous big wineries: Murfatlar, Cotnari, Dragasani, Recaș, Prahova Valley, Odobesti, Husi, Cricova (near Chisinau, in the Republic of Moldova, is huge, with about 80 kilometres of tunnels and caves)
+
+Infrastructure
+There are 16 international commercial airports in service today. Overall, airports in the country were transited in 2016 by 16.4 million passengers. The largest number of passengers was attracted by Bucharest's Henri Coandă International Airport, which closed the year with a traffic of almost 11 million passengers.
+Romania also has a large network of railways, CIA World Factbook lists Romania with the 22nd largest railway network in the world. The railway network is significantly interconnected with other European railway networks.
+
+See also
+UNESCO World Heritage Sites in Romania
+Castles in Romania
+Protected areas of Romania
+Transportation in Romania
+Aviation in Romania
+Seven Natural Wonders of Romania
+Seven Manmade Wonders of Romania
+
+References
+Further reading
+External links
+
+Official Tourism Site of Romania
+
+## Culture of Romania
+The culture of Romania is an umbrella term used to encapsulate the ideas, customs and social behaviours of the people of Romania that developed due to the country's distinct geopolitical history and evolution. It is theorized that Romanians and related peoples (Aromanians, Megleno-Romanians, and Istro-Romanians) were formed through the admixture of the descendants of Roman colonists and the indigenous Daco-Thracian people who were subsequently Romanized.
+
+Background
+Romania's history has been full of rebounds: the culturally productive epochs were those of stability when the people proved quite an impressive resourcefulness in the making up for less propitious periods and were able to rejoin the mainstream of European culture. This stands true for the years after the Phanariote-Ottoman period, at the beginning of the 19th century, when Romanians had a historical context and Romania started to become westernized, mainly with French influences, which they pursued steadily and at a very fast pace. From the end of the 18th century, the sons of the upper classes started having their education in Paris, and French became (and was until the communist years) a genuine second language of culture for Romanians.
+The modeling role of France, especially in the fields of political ideas, administration, and law, as well as in literature, was paralleled, from the mid-19th century down to World War I, by German culture as well, which also triggered constant relationships with the German world not only at a cultural level but in daily life as well.
+
+History
+Middle Ages
+Until the 14th century, small states (Romanian: voievodate) were spread across the territory of Transylvania, Wallachia, and Moldavia. The medieval principalities of Wallachia and Moldavia arose in the mid 1300s, in the areas south and east of the Carpathian Mountains respectively.
+Moldavia and Wallachia were both situated on important commercial routes often crossed by Polish, Saxon, Greek, Armenian, Genovese, and Venetian merchants, connecting them well to the evolving culture of medieval Europe. Grigore Ureche's chronicle, Letopisețul Țărîi Moldovei (The Chronicles of the land of Moldavia), covering the period from 1359 to 1594, is a very important source of information about life, events, and personalities in Moldavia. It is among the first non-religious Romanian literary texts; due to its size and the information that it contains, it is arguably the most important Romanian document from the 17th century.
+The first printed book, a prayer book in Slavonic, was produced in Wallachia in 1508, and the first book in Romanian, a catechism, was printed in Transylvania, in 1544. At the end of the 17th and the beginning of the 18th century, European humanism influenced the works of Miron Costin and Ion Neculce, the Moldavian chroniclers who continued Ureche's work. Constantin Brâncoveanu, prince of Wallachia, was a great patron of the arts and was a local Renaissance figure. During Șerban Cantacuzino's reign, the monks at the monastery of Snagov, near Bucharest, published in 1688 the first translated and printed Romanian Bible (Biblia de la București – The Bucharest Bible). The first successful attempts at written Romanian-language poetry were made in 1673 when Dosoftei, a Moldavian metropolitan in Iași, published a Romanian metrical psalter.
+Dimitrie Cantemir, a Moldavian prince, was an important personality of the medieval period in Moldavia. His interests included philosophy, history, music, linguistics, ethnography, and geography. His most important works containing information about the Romanian regions were Descriptio Moldaviae, published in 1769, and Hronicul vechimii a romano-moldo-valahilor (roughly, Chronicle of the Antiquity of the Romano-Moldavo-Wallachians), the first critical history of Romania. His works were also known in western Europe, as he authored writings in Latin: Descriptio Moldaviae (commissioned by the Academy of Berlin, the member of which he became in 1714) and Incrementa atque decrementa aulae othomanicae, which was printed in English between 1734–1735 (second edition in 1756), in French in 1743 and in German in 1745; the latter was a major reference work in European science and culture up until the 19th century.
+
+Classical Age
+In Transylvania, although they formed the majority of the population, Romanians were merely seen as a "tolerated nation" by the Austrian leadership of the province, and were not proportionally represented in political life and the Transylvanian Diet. At the end of the 18th century an emancipation movement known as the Transylvanian School (Școala Ardeleană) was formed, emphasizing the Roman element of the Romanian people, and making significant strides in the formation of a modern Latin-based Romanian alphabet (which eventually supplanted an earlier Cyrillic script). It formed following the Act of Union of 1698, which declared the full communion with the See of Rome of the Romanian Transylvanian church under Metropolitan Atanasie Anghel. Thus, the Romanian Greek-Catholic Church was formed, formalized by a synod of bishops on September 4, 1700. The links with Rome brought to the Romanian Transylvanians the ideas of the Age of Enlightenment. In 1791 the Transylvanian School issued a petition to Emperor Leopold II of Austria, named Supplex Libellus Valachorum based on the French Declaration of the Rights of Man and of the Citizen, demanding equal political rights with the other ethnicities for the Romanians in Transylvania. This movement, however, leaned more towards westernization in general, when in fact, the origin of the Romanian people is complex, intertwining elements from the peoples of the former Roman Empire with those of the ancient Dacians, and with the addition of 17th and 19th Eastern influences as emphasized through the Ottomans.
+The period from 1711 to 1821 was marked in Wallachia and Moldavia by the reigns of appointed Phanariote Hospodars; thus, the two principalities were heavily influenced by the Ottoman and Greek world. Greek schools appeared in the principalities, and in 1818, the first Romanian School was founded in Bucharest by Gheorghe Lazăr and Ion Heliade Rădulescu. Figures such as Anton Pann, a successful novelist, emerged in that time, with Ienăchiță Văcărescu writing the first Romanian grammar, and his nephew Iancu Văcărescu becoming what is considered to be the first important Romanian poet. In 1821, an uprising in Wallachia took place against Phanariote rule. This uprising was led by the Romanian revolutionary and militia leader Tudor Vladimirescu, and would eventually lead to the restoration of Romanian princes on the thrones of the Danubian Principalities.
+The revolutionary year 1848 had its echoes also in Wallachia, Moldavia and Transylvania, and a new elite had emerged from the revolutions represented by figures such as: Mihail Kogălniceanu (writer, politician, and the first prime minister of Romania), Vasile Alecsandri (politician, playwright, and poet), Andrei Mureșanu (publicist and the writer of the current Romanian National Anthem) and Nicolae Bălcescu (historian, writer and revolutionary).
+The union between Moldavia and Wallachia in 1859 brought a growing consolidation of Romanian life and culture. Universities were opened in Iași and in Bucharest, and the number of new cultural establishments grew significantly. The new prince from 1866 and then King of Romania, Carol I, was a devoted king, and he and his wife Elisabeth were among the main patrons of arts. Of great impact in Romanian literature was the literary society Junimea, founded in 1863 by the circle of literary critic Titu Maiorescu. It published its cultural journal Convorbiri Literare where, among others, Mihai Eminescu, Romania's greatest poet, Ion Creangă, a storyteller of genius, and Ion Luca Caragiale, novelist and Romania's greatest playwright, published most of their groundbreaking works. During the same period, Nicolae Grigorescu and Ștefan Luchian founded modern Romanian painting; celebrated composer Ciprian Porumbescu was also from this time.
+
+In Transylvania, the emancipation movement became better organized, and in 1861, an important cultural organization by the name of ASTRA (The Transylvanian Association for Romanian Literature and the Culture of the Romanian People) was founded in Sibiu under the close supervision of the Romanian Orthodox Metropolitan Andrei Șaguna. It helped publish a great number of Romanian language books and newspapers, and between 1898 and 1904, it published a Romanian Encyclopedia. Among the greatest personalities from this period are the novelist and publicist Ioan Slavici, the prose writer Panait Istrati, the poet and writer Barbu Ștefănescu Delavrancea, the poet and publicist George Coșbuc, the poet Ștefan Octavian Iosif, the historian and founder of Romanian press in Transylvania George Barițiu and Badea Cârțan, a simple peasant shepherd from Southern Transylvania who, through his actions became a symbol of the emancipation movement.
+
+Golden Age
+The first half of the 20th century is regarded by many as the golden age of Romanian culture, and it is the period when it reached its main level of international affirmation and a strong connection to European cultural trends. The most important artist who had a great influence on the world culture was the sculptor Constantin Brâncuși (1876–1957), a central figure of the modern movement and a pioneer of abstraction, an innovator of world sculpture by immersion in the primordial sources of folk creation.
+The relationship between traditional and Western European trends was a subject of heated polemics, and outstanding personalities sustained the debates. The playwright, expressionist poet, and philosopher Lucian Blaga can be cited as a member of the traditionalist group and the literary critic founder of the literary circle and cultural journal Sburătorul, Eugen Lovinescu, represents the so-called Westernizing group, which sought to bring Romanian culture closer to Western European culture. Also, George Călinescu was a more complex writer who, among different literary creations, produced the monumental "History of the Romanian literature, from its origins till present day".
+The beginning of the 20th century was also a prolific period for Romanian prose, with personalities such as the novelist Liviu Rebreanu, who described the struggles in the traditional society and the horrors of war, Mihail Sadoveanu, a writer of novels of epic proportions with inspiration from the medieval history of Moldavia, and Camil Petrescu, a more modern writer distinguishing himself through his analytical prose writing. In dramaturgy, Mihail Sebastian was an influential writer, and as the number of theaters grew, also did the number of actors, Lucia Sturdza Bulandra being an actress representative of this period.
+Alongside the prominent poet George Topîrceanu, a poet of equal importance was Tudor Arghezi, who was the first to revolutionize poetry in the last 50 years. One should not neglect the poems of George Bacovia, a symbolist poet of neurosis, and despair and those of Ion Barbu, a brilliant mathematician who wrote a series of very successful cryptic poems. Tristan Tzara and Marcel Janco, founders of the Dadaist movement, were also of Romanian origin.
+Also during the golden age came the epoch of Romanian philosophy with such figures as Mircea Vulcănescu, Dimitrie Gusti, Alexandru Dragomir, and Vasile Conta. The period was dominated by the overwhelming personality of the historian and politician Nicolae Iorga, who, during his lifetime, published over 1,250 books and wrote more than 25,000 articles. In music, the composers George Enescu and Constantin Dimitrescu and the pianist Dinu Lipatti became world-famous. The number of important Romanian painters also grew, and the most significant ones were: Nicolae Tonitza, Camil Ressu, Francisc Șirato, Ignat Bednarik, Lucian Grigorescu, and Theodor Pallady. In medicine, a great contribution to human society was the discovery of insulin by the Romanian scientist Nicolae Paulescu. Gheorghe Marinescu was an important neurologist and Victor Babeș was one of the earliest bacteriologists. In mathematics, Gheorghe Țițeica was one of Romania's greatest mathematicians, and also an important personality was the mathematician/poet Dan Barbilian.
+
+Post-war period
+In Romania, the communist regime imposed heavy censorship on almost all elements of life, and they used the cultural world as a means to better control the population. The freedom of expression was constantly restricted in various ways: the Sovietization period was an attempt at building up a new cultural identity on the basis of socialist realism and lending legitimacy to the new order by rejecting traditional values. Two currents appeared: one that glorified the regime and another that tried to avoid censorship. The first is probably of no lasting cultural value, but the second managed to create valuable works, successfully avoiding censorship and being very well received by the general public. From this period, the most outstanding personalities are those of the writer Marin Preda, the poets Nichita Stănescu and Marin Sorescu, and the literary critics Nicolae Manolescu and Eugen Simion. Most dissidents who chose not to emigrate lived a life closely watched by the regime, either in "house arrest" or in "forced domicile"; some chose to retreat to remote monasteries. Most of their work was published after the 1989 Revolution. Among the most notable examples are the philosophers Constantin Noica, Petre Țuțea, and Nicolae Steinhardt.
+There was a chasm between the official, communist culture and genuine culture. On the one hand, against the authorities' intentions, the outstanding works were perceived as a realm of moral truths, and the significant representatives of genuine cultural achievement were held in very high esteem by the public opinion. On the other hand, the slogans disseminated nationwide through the forms of official culture helped spread simplistic views, which were relatively successful among some ranks of the population. The tension between these two directions can still be perceived at the level of society as a whole.
+
+Culture inside communist Romania
+A strong editorial activity took place during the Communist regime. With the purpose of educating the large masses of peoples, a huge number of books were published. Large-scale editing houses such as Cartea Românească, Editura Eminescu, and others appeared, which published huge collections of books, such as the Biblioteca pentru Toţi ("The Library for Everyone") with over 5,000 titles. Generally, a book was never published in an edition of less than 50,000 copies. Libraries appeared in every village, and almost all were kept up to date with the newest books published. Also, due to low prices, almost everyone could afford to have their own collection of books at home. The negative part was that all the books were heavily censored. Also, due to rationing in every aspect of life, the quality of the printing and the paper also was very low, and the books, therefore, degraded easily.
+During this period, there was a significant increase in the number of theatres, as they appeared even in the smallest towns. Many new establishments were built, and in the big cities they became important landmarks, such as the building of the National Theatre of Bucharest, situated right in the middle of the city, immediately adjacent to Romania's kilometre zero. In the smaller towns, there existed the so-called "Worker's Theatre", a semi-professional institution. Partly due to the lack of other entertainment venues, the theatre was highly popular, and the number of actors increased. All of the theatres had a stable, state-funded budget. Again, however, the drawback was the heavy control imposed on them by the regime: censorship was ever-present, and only ideologically-accepted plays were allowed. More progressive theatres managed to survive in some remote cities that became favorite destinations for young actors, but they generally had only a local audience.
+Cinemas evolved the same way as the theatres; sometimes, the same establishment served both purposes. Movies were very popular, and from the 1960s, foreign films started becoming quite widespread. Western films, when shown, were heavily censored: entire sections were cut, and dialogue was translated only using ideologically accepted words. Domestic or "friendly" foreign productions constituted the bulk of films in cinemas. During this period, cinematography started to develop in Romania, and the first successful short films were made based on Caragiale's plays. Financed by the government, during the 1960s, a whole industry developed at Buftea, a town close to Bucharest, and some films, especially gangster, Western-genre, and historical movies, were very well received by the public. The most prolific director was Sergiu Nicolaescu, and probably the most-acclaimed actor from that period was Amza Pellea.
+
+Romanians in exile
+A consequence of the communist attitude towards the bourgeoisie elites in general, was the creation, for the first time in Romania's history, of a diaspora. Three individuals emerged as the most important Romanians abroad: playwright Eugen Ionescu (1909–1994) (who became known in France as Eugène Ionesco), creator of the Theatre of the Absurd and eventual member of the Académie française; religious historian and writer Mircea Eliade (1907–1986); and the essayist and philosopher Emil Cioran (1911–1996), the greatest French-writing master of style after Pascal. Fellow Romanian Ioan Petre Culianu continued Eliade's work with great success, in the United States. Another member of the diaspora who distinguished himself was the philosopher and logician Stephane Lupasco.
+The communist rule in Romania, unlike most of the other countries of the Eastern bloc, permanently repudiated the Romanians who had left their country and labeled them as traitors to the Fatherland. So, neither Mircea Eliade, nor Eugène Ionesco, nor Emil Cioran, whose works would be published in this country sporadically after 1960, could see their native land again. It was only after 1989 that the process of regaining the values of the diaspora and of reintegrating its personalities into this country's culture could be started seriously, a process marked in its turn by tension and disagreements.
+Well-known Romanian musicians outside of Romania during this period include conductors Sergiu Celibidache—the main conductor at the Berlin Philharmonic Orchestra and later of Munich Philharmonic Orchestra—and Constantin Silvestri, main conductor at the Bournemouth Symphony Orchestra. Gheorghe Zamfir was a virtuoso of the pan pipes and made this instrument known to a modern worldwide audience, and was also a composer or interpreter for a great number of movies. Composer and architect Iannis Xenakis was born in Romania and spent his childhood there.
+George Emil Palade, a cell biologist and a teacher, became the first Romanian to receive the Nobel Prize, winning the 1974 Nobel Prize in Physiology or Medicine for describing the structure and function of organelles in cells. Elie Wiesel, who received the Nobel Peace Prize in 1986, was born in the Romanian town of Sighetu Marmaţiei.
+
+Evolutions after 1989
+The fall of soviet-style communism in 1989 elated the cultural world, but the experience hasn't been an easy one due to problems in the transition period and the adoption of a free market economy. The discontinuation of state and political control of culture brought about the long dreamt freedom of expression, but, at the same time, the state subsidies also stopped, and Romania's culture was seriously affected by the side-effects of the incipient, still very imperfect, free-market economy and by inadequate material resources. Culture has had to cope with a variety of problems, one of them being a shift in people's interest towards other areas such as the press and television. The search for a new cultural policy, relying on decentralization, seems to prevail now. People speak about a crisis of culture in this country, but if there is a crisis of culture, it is only at an institutional level.
+
+After the fall of communism in 1989, there was an almost immediate explosion of publication of books previously censored by the regime. Books were published in huge numbers per edition, sales were high, and a great number of publishing houses appeared. However, this soon reached a saturation point, and publishing houses began to decline due to a combination of bad management, a rapid drop in sales, and the absence of subsidies. Many closed after publishing only a few titles; some changed their profile and started printing commercial literature – mainly translations – and the state-owned publishers entered a "state of lethargy". The latter survived due to state financing, but their publishing activity diminished. Despite this, some publishing houses managed to survive and develop by implementing market-oriented policies, and by improving the quality and overall appearance of the books they published. Among the most notable contemporary Romanian publishers are Humanitas in Bucharest, Polirom in Iași, and Teora, which specializes in technical topics and dictionaries. Some publishing houses developed their own chains or bookstores, and also other new, privately owned bookstore chains opened, replacing the old state-owned ones.
+Culturally oriented newsprint periodicals followed a similar trajectory of boom and bust. A few have survived and managed to raise their quality and to maintain a critical spirit despite the hardships they encountered. Dilema Veche (Old Dilemma) and Revista 22 (Magazine 22) remain respected forces in Romanian culture, with Observator Cultural a lesser, but also respected, weekly paper. Also, a state-financed radio (Radio România Cultural) and a television channel (TVR Cultural) with a cultural programme exist, but they are not highly popular.
+Many new young writers appeared, but due to financial constraints, only those who have gained a strong reputation could get the financial backing to publish their works. The Writers's Union, which should, in principle, support these writers' efforts, hasn't undergone much change since 1989, and there is much controversy surrounding its activity and purpose. The most successful writers, like Mircea Cărtărescu, Gabriela Adamesteanu, Mircea Dinescu, Ana Blandiana, Doina Ruști, Radu Aldulescu, Claudiu Komartin etc
+Horia-Roman Patapievici, Andrei Pleşu, Gabriel Liiceanu, and Herta Müller, are respected personalities in Romanian life, but they have to devote some of their would-be writing time to other activities, mainly journalism. The ties with the Romanian diaspora are now very strong, and even foreign-language Romanian writers like Andrei Codrescu (who now writes primarily in English) are very popular.
+
+Romanian theatre also suffered from economic hardships, and its popularity decreased drastically due to the increased popularity of television and other entertainment channels. Some theatres survived due to their prestige (and some continued subsidies); others survived through good management, investing in themselves, and earning a steady audience through the high quality of their productions. Experimental or independent theatres appeared and are quite popular in university cities. Uniter – The Romanian Theatres Association – gives yearly awards to the best performances. Some of the most critically acclaimed directors in contemporary Romania are Andrei Șerban, Silviu Purcărete, Mihai Măniuțiu, Gábor Tompa, Alexandru Dabija, Victor Ioan Frunză, Radu Afrim and Alexandru Darie. Also, among the most appreciated actors, both from the new and old generation, one can name Ștefan Iordache, Victor Rebengiuc, Maia Morgenstern, Marcel Iureș, Horațiu Mălăele, Ion Caramitru, Mircea Diaconu, Marius Chivu and others.
+
+Due to the lack of funds, Romanian film-making suffered heavily in the 1990s; even now, as of 2005, a lot of controversy surrounds state aid for movies. Well-known directors such as Dan Piţa and Lucian Pintilie have had a certain degree of continued success, and younger directors such as Cristian Mungiu, Nae Caranfil, Cristi Puiu, Corneliu Porumboiu, Radu Jude and Radu Muntean have become highly respected. Caranfil's film Filantropica and Puiu's The Death of Mr. Lazarescu were extremely well received and gained awards at international festivals in Paris and Cannes. Besides domestic production, Romania became a favorite destination for international producers due to the low cost of filming there, and big investments have been made in large studios.
+
+The number of cultural events held yearly in Romania has increased over the past few years. Some sporadic events like the "2005 Bucharest CowParade" have been well received, and yearly events and festivals have continually attracted interest. Medieval festivals held in cities in Transylvania, which combine street theatre with music and battle reenactments to create a very lively atmosphere, are some of the most popular events. In theatre, a yearly National Festival takes place, and one of the most important international theatre festivals is "The Sibiu Theatre Festival", while in filmmaking, the "TIFF" Film Festival in Cluj, the "Dakino" Film Festival in Bucharest and the "Anonimul" Film Festival in the Danube Delta have an ever-stronger international presence. In music, the most important event is the "George Enescu" Classical Music Festival, but festivals like "Jeunesses Musicales" International Festival and Jazz festivals in Sibiu, Cluj and Bucharest are also appreciated. An important event took place in 2007 when the city of Sibiu was, along with Luxembourg, the European Capital of Culture.
+
+Mythology
+Romanians have had, from time immemorial, a myriad of customs, tales, and poems about love, faith, kings, princesses, and witches. The ethnologists, poets, writers, and historians have tried in recent centuries to collect and to preserve tales, poems, ballads and have tried to describe as well as possible the customs and habits related to different events and times of the year. Customs related to certain times of year are the colinde, Romanian Christmas carols, sorcova on New Year's Eve, or the Mărțișor custom on the first day of March, marking the spring. Other customs are presumably of pre-Christian pagan origin, like the Paparuda rain enchanting custom in the summer, or the masked folk theatre or Ursul (the bear) and Capra (the goat) in winter.
+Perhaps the most successful collector of folk tales was the novelist and storyteller Ion Creangă, who in very picturesque language, shaped into their now-classic form stories like Harap Alb ("The White Moor") or Fata babei și fata moșului (roughly, "The old woman's daughter and the old man's daughter").
+Also, the poet Vasile Alecsandri published the most successful version of the ballad Miorița (The Little Ewe), a sad, philosophical poem, centered on a simple action: the plot by two shepherds to kill a third shepherd because they envied his wealth. Another prolific editor of folk tales was Petre Ispirescu, who, in the 19th century, published an impressive number of volumes containing a large number of short novels and tales from popular mythology. They are centered on popular characters like the prince Făt-Frumos (the Romanian "Prince Charming"), the princess Ileana Cosânzeana, the villain or monster Zmeu or Căpcăun, the dragon Balaur, or fantastic superbeings like the good Zână and the evil Muma Pădurii.
+
+Spirituality and religion
+Romanian spirituality is greatly influenced by its strong connections with the Eastern Christian world. The modern national mythology contends Romanians are An island of Latinity in a Slavic sea and The only Orthodox Christian Latin people. There are only a few Romanian Catholics (of both the Roman and Greek rites) and a small number of Protestants, the vast majority of Romanians being Romanian Orthodox (over 81%). Despite the diminishing importance of the church in recent generations, it remains the most trusted institution in Romania. Church attendance is high in rural communities and among the elders in the cities. Also, despite accusations of collaborationism with the communist regime, which continue to plague the Romanian Church, some clerics such as Dumitru Stăniloae and Richard Wurmbrand openly protested against political interventions in religious business. There are also some Muslims living in the country.
+
+Romanian Orthodox monasteries and churches exist throughout Romania, but traditionally, few are constructed on a monumental scale. A great number of wooden churches are still intact in the Carpathian Mountains villages, but by far, the most impressive is the Wooden Churches of Maramureș, which push wood building technique to its limits. Byzantine influences can be found in most Romanian church buildings, but domestic styles have evolved in different periods of time and in different regions. In Moldavia, a particular style was used in the construction of the monasteries, of which some of the most important are the churches of northern Moldavia – UNESCO World Heritage Sites, such as those of Moldovița, Putna, Sucevița, or Voroneț. In Wallachia, Curtea de Argeș Cathedral was built in a Byzantine style with Moorish influences, and a great number of churches show Greek influences, especially those built in the 18th century, such as Stavropoleos Church in central Bucharest. Romania also evolved the distinctive Brâncovenesc style: the monasteries of Snagov and of Sâmbăta de Sus in Transylvania are classic examples.
+Beyond formal religious practice, Romanian spirituality often blends Orthodox Christian belief with folk traditions, ancestral customs, and seasonal rituals. In many rural communities, faith is closely tied to the agricultural calendar and family life, with blessings, icons, and prayers integrated into daily routines. Spiritual observances such as the blessing of homes at Epiphany or lighting candles for the dead at Easter remain widespread, reflecting a deep-rooted, lived religiosity.
+
+Cuisine
+The cuisine of Romania has the same influences as the rest of Romanian culture; from Roman times, there still exists the simple pie called, in Romanian, plăcintă and keeping the initial meaning of the Latin word placenta. The Turks brought meatballs (fried mititei or perişoare in a soup called ciorbă); from the Greeks, there is the musaca (moussaka) and covrigi (hot pretzels); from the Bulgarians, a wide variety of vegetable dishes like zacuscă; from the Austrians there is the şniţel (schnitzel); from the Hungarians, their ornate pastries; and the list could go on.
+Without a doubt, one of the most popular dishes in Romania, and perhaps can be called the national dish, is Sarmale, or Sarma in other cultures of the Balkans, and the Caucasus; a mixture of pork, beef, and lamb, or just plain pork, with onions and rice, wrapped in semi-sour cabbage or grape leaves, and then placed usually in a porcelain pot with tomato paste and pork cuts. This dish is then slow-cooked, and commonly served with cornmeal (mămăligă, which is a type of polenta). One of the most common meals is the mămăligă, a cornmeal mush, for a long time considered the "poor man's meal" (N-are nici o mămăligă pe masă – "He hasn't even a mămăligă on the table"), but it has become very appreciated in recent times. Pork is the main meat used in Romanian cuisine, but also beef is consumed and a good lamb or fish dish is never to be refused. In conjunction with special events or periods, different recipes are prepared.
+During Christmas, nearly every family slaughters a pig and cooks it using a wide variety of traditional recipes like cârnați – a type of long sausage with meat; caltaboși – sausages made with liver and other internal organs; piftie – a jelly made from parts like the feet, head and ears; tochitură (a kind of stew) – served along with mămăligă and wine ("so that the pork can swim"); and tobă (head cheese). The meal is sweetened with the traditional cozonac (sweet bread with nuts, poppy seeds or lokum – rahat in Romanian, known in English as Turkish delight).
+Lamb is traditional for Easter; the main dishes are borș de miel (lamb sour soup), roast lamb, and drob – a cooked mix of offal, meat and fresh vegetables, which is quite similar to Scottish haggis, served with pască (a pie made with cottage cheese) as a sweetener.
+Wine is the main drink and has been a tradition for over three millennia. Romania is currently the world's ninth-largest wine producer, and exports have increased in recent years. A wide variety of domestic (Grasă, Tămâioasă) and worldwide (Italian Riesling, Merlot, Sauvignon blanc, Cabernet Sauvignon, Chardonnay, Muscat Ottonel) varieties are produced. Romania is the world's second-largest grower of plums, and almost all of those plums become either the famous țuică (a once-refined plum brandy) or palincă (twice-or-more-refined plum brandy). Beer is also highly appreciated, generally blonde pilsener beer, after the German style.
+A great number of proverbs and sayings have developed around the activity of eating. From the innocent child's thank you: Săru-mâna pentru masă, c-a fost bună şi gustoasă, și bucătăreasa frumoasa ("Thank you for the meal, it was good and tasty, and the cook was beautiful"), to the more philosophical Mulțumescu-ți ție Doamne, c-am mâncat și iar mi-e foame ("Thank you Lord, for I have eaten, but I am hungry again"), Dragostea trece prin stomac ("Love passes through the stomach"), the simple Pofta vine mâncănd ("Appetite comes while eating"), the sarcastic Porcul mănâncă orice, dar se-ngrașă pentru alții ("The pig would eat anything but it gets fat for others"), or the expression of total fulfillment, Mâncat bine, băut bine, dimineața sculat mort ("Ate well, drank well, in the morning woke up dead").
+
+Romanian script
+During the 16th century, Romanian first appeared in writing, usually in religious texts and other written documents. A letter dating from 1521, from Neacșu of Câmpulung to the mayor of Brașov, is considered to be the earliest known text written in Romanian. The letter was written in a script which was used mainly in Wallachia and Moldavia until the year 1859. This script was a version of the Old Church Slavonic alphabet, a version of the Cyrillic alphabet.
+A version of the Cyrillic alphabet was used in the Moldavian Soviet Socialist Republic until 1991, when they switched to the Romanian version of the Latin alphabet.
+
+Contribution of the minorities
+Minorities have made a major cultural contribution to Romania. Influences came from, most notably, minority groups such as Germans, Greeks, Italians, and Hungarians. The Székely and the Saxons living in Transylvania, Hungarians in the Partium and Banat regions, and the Jasz people and Csángos in Western Moldavia, made many important architectural contributions to the region, including numerous churches, fortifications, and town centers. Also, they figured in some landmarks in the development of ethnic Romanian culture: the first letter written in Romanian was addressed to the mayor of Kronstadt (Romanian: Brașov), and the first book printed in Romanian was in Hermannstadt (Romanian: Sibiu). Romania was once also the cradle of Yiddish theatre, and to this day, Bucharest is home to a State Jewish Theater, despite the small number of Jews remaining in the country.
+
+Architecture and engineering
+In the technical domain, one can note the achievements in the field of aviation made by Traian Vuia, Aurel Vlaicu, Aurel Persu, and Henri Coandă and also the works of George Constantinescu in the fields of engineering and sonics. Also, many achievements have been made in the architectural and engineering domain; thus, Bucharest became known as the small Paris. The longest bridge in Europe was constructed by Anghel Saligny, linking Dobruja with the rest of Romania; the Peleș Castle became one of the most beautiful and modern castles in Europe.
+
+Media and television
+Music
+Folk music is the oldest form of Romanian musical creation, characterized by great vitality; it is the defining source of the cultured musical creation, both religious and lay. Conservation of Romanian folk music has been aided by a large and enduring audience, and by numerous performers who helped propagate and further develop the folk sound. Two of them, Vasile Pandelescu, and Dumnitru Zamfira are some of the most famous examples of Romanian folk musicians.
+Before the major incorporation of more modern instruments that found their way into Romanian folk music, older instruments such as the Tobă (double-headed drum, also known as the Tabul or Davul), Surlă (also known as the Zurna in other parts of the Balkans), Caval (ancient shepherd's pipe), Cobza (an ancient instrument related to the Arabic Oud), Vioară (violin), Cimpoi (Balkan bagpipe), and the Tamburină (tambourine, more commonly used during the times under Phanariote and Ottoman influence), were also commonly used in folk music before the introduction on some slightly more modern elements such as the widely used accordion, and clarinet. Folk music, often is accentuated with clapping, yells of tongue rolling, shouts, and whistles.
+The religious musical creation, born under the influence of Byzantine music adjusted to the intonations of the local folk music, saw a period of glory between the 15th-17th centuries, when reputed schools of liturgical music developed within Romanian monasteries. Russian and Western influences brought about the introduction of polyphony in religious music in the 18th century, a genre developed by a series of Romanian composers in the 19th and 20th centuries.
+Manele is the most popular genre in Romania.
+
+See also
+References
+External links
+
+Sibiu International Theatre Festival: https://www.youtube.com/watch?v=VSfSH16tFXU
+
+cIMeC – The Institute For Cultural Memory, a key Romanian cultural institution.
+https://web.archive.org/web/20071231125142/http://www.itcnet.ro/folk_festival/culture.htm Romania -Culture on itcnet.ro
+Constantin Brâncuși biographical notes on brancusi.com
+Cultural aspects, an extensive site on ici.ro about Romanian culture.
+Official Romanian Travel and Tourism Information website
+Sibiul.ro, an extensive site about Sibiu (in Romanian)
+Onlinegallery.ro News, events, venues and extensive coverage of Romanian cultural acts
+Manuela Preoteasa, Televiziunea din Romania – dominata de divertisment si non-stiri ("Television in Romania – domination by entertainment and non-news"), 30 November 2005, in a mix of Romanian and English.
+Romanian spirituality (mostly in Romanian, some portions translated into English)
+Calusul in Lista Capodoperelor Omenirii ("The calus dance in the list of Masterpieces of the Oral and Intangible Heritages of Humanity") (in Romanian)
+Trust in the Church and the Army (in Romanian)
+Romanian recipes
+SOS Romania News
+Romanian folk costumes
+Traditional costume in Romania Archived 2013-09-26 at the Wayback Machine
+Lost Trails web site has free downloads of Romanian folk music and Photography of many Romanian villages
+Romania – cultural and regional differences
+Rolandia – Travel agency that blogs about Romania's culture and traditions
+
+## Cuisine of Romania
+Romanian cuisine (Romanian: bucătăria românească) is the traditional cuisine of Romania, shaped by the country's varied geography, pastoral traditions, and agricultural heritage. Rooted in the landscapes of the Carpathian Mountains, it combines locally developed dishes with culinary influences acquired through centuries of cultural contact. Its foundations reflect the culinary practices of the region since antiquity, including the legacy of the Roman period, with influences from Balkan, Central European, Ottoman and French cuisines.
+Romanian cuisine includes numerous holiday dishes arranged according to the mentioned season and holiday since the country has its religious roots in Eastern Orthodoxy. Romanian dishes consist of vegetables, cereals, fruits, honey, milk, dairy products, meat and game.
+Various kinds of dishes are available, which are sometimes included under a generic term; for example, the category ciorbă includes a wide range of soups with a characteristic sour taste. Variations include meat and vegetable soup, tripe (ciorbă de burtă) and calf foot soup, or fish soup, all of which are soured by lemon juice, sauerkraut juice (zeamă de varză), vinegar, or borș (traditionally made from bran). The category țuică (plum brandy) is a name for a strong alcoholic spirit in Romania.
+With the cuisine of Romania being shared by another country, namely Moldova, there are similarities between the cuisines of the two Romanian-speaking countries.
+
+History
+In the history of Romanian culinary literature, Costache Negruzzi and Mihail Kogălniceanu were the compilers of a cookbook 200 Proven Recipes for Dishes, Pastries and Other Household Works (Romanian: 200 rețete cercate de bucate, prăjituri și alte trebi gospodărești), printed in 1841. Also, Negruzzi writes in "Alexandru Lăpușneanu", "In Moldavia, at this time, fine food wasn't fashioned. The greatest feast only offered a few types of dishes. After the borș, Greek dishes would follow, boiled with herbs floating in butter, and finally cosmopolitan steaks".
+Cheese has been a part of Romanian cuisine since the beginning of its history. Brânză is the generic term for cheese in Romanian.
+Maize and potatoes became staples of Romanian cuisine after their introduction to Europe. Maize, in particular, contributed to health and nutrition improvements of Romanians in the 16th and 17th centuries, resulting in a population boom.
+For about three centuries, Wallachia and Moldavia, two of the three medieval Romanian principalities, were mildly influenced by their various neighbors, like the Ottoman Empire. Ottoman cuisine changed the Romanian table with appetizers made from various vegetables, such as eggplant and bell peppers, as well as various meat preparations, such as chiftele (deep-fried meatballs, a variation of kofta). The various kinds of ciorbă  and meat-and-vegetable stews, such as iahnie de fasole (beans), ardei umpluți (stuffed peppers), and sarmale (stuffed cabbage) are influenced by Turkish cuisine.
+
+Description
+Romanian recipes bear the same influences as the rest of Romanian culture. The Turks brought meatballs (perișoare in a meatball soup), from the Greeks there is musaca, from the Austrians there is the șnițel, and the list continues. The Romanians share many foods with the Balkan area  and former Austria-Hungary. Some others are original or can be traced to the Romans, as well as other ancient civilizations. The lack of written sources in Eastern Europe makes it impossible to determine today the exact origin for most of them.
+One of the most common meals is the mămăligă (polenta), served on its own or as an accompaniment. Pork is the main meat used in Romanian cuisine, but beef is also consumed, along with mutton and fish.
+Before Christmas, on December 20 (Ignat's Day or Ignatul in Romanian), a pig is traditionally slaughtered by every rural family. A variety of foods for Christmas are prepared from the slaughtered pig, such as:
+
+Cârnați – garlicky pork sausages, which may be smoked or dry-cured;
+Lebăr – an emulsified sausage based on liver with the consistency of the filling ranging from fine (pâté) to coarse;
+Sângerete (black pudding) – an emulsified sausage obtained from a mixture of pig's blood with fat and meat, breadcrumbs or other grains, and spices;
+Tobă (head cheese) – based on pig's feet, ears, and meat from the head suspended in aspic and stuffed in the pig's stomach;
+Tochitură – a stew made with pork, smoked and fresh sausage simmered in a tomato sauce and served with mămăligă and wine ("so that the pork can swim"). There are many variations of this stew throughout Romania, with some versions combining different meats, including chicken, lamb, beef, pork and sometimes even offal;
+Pomana porcului—pan-fried cubed pork served right after the pig's sacrifice to thank the relatives and friends who helped with the process;
+Piftie/răcitură – inferior parts of the pig, mainly the tail, feet, and ears, spiced with garlic and served in aspic;
+Jumări – dried pork remaining from rendering of the fat and tumbled through various spices
+The Christmas meal is sweetened with the traditional cozonac, a sweet bread made with nuts, poppy seeds, or rahat (Turkish delight).
+At Easter, lamb is served: the main dishes are borș de miel (lamb sour soup), roast lamb, and drob de miel – a Romanian dish similar to haggis made from minced offal (heart, liver, lungs), lamb meat and spring onions with spices, wrapped in a caul and roasted. The traditional Easter cake is pască, a pie made from yeast dough with a sweet cottage cheese filling at the center.
+Romanian pancakes, called clătite, are thin (like the French crêpe) and can be prepared with savory or sweet fillings: ground meat, cheese, or jam. Different recipes are prepared depending on the season or the occasion.
+Wine is the preferred drink, and Romanian wine has a tradition of over three millennia. Romania is currently the world's ninth largest wine producer, and recently the export market has started to grow. Romania produces a wide selection of domestic varieties (Fetească, Grasă, Tămâioasă, Busuioacă, and Băbească), as well as varieties from across the world (Italian Riesling, Merlot, Sauvignon blanc, Cabernet Sauvignon, Chardonnay, and Muscat Ottonel). Beer is also highly regarded, generally blonde pilsener beer, made with German influences. There are also Romanian breweries with a long tradition.
+According to the 2009 data of FAOSTAT, Romania is the world's second largest plum producer (after the United States), and as much as 75% of Romania's plum production is processed into the famous țuică, a plum brandy obtained through one or more distillation steps.
+
+Vegetarianism and veganism
+Followers of the Romanian Orthodox Church fast during several periods throughout the ecclesiastical calendar amounting to a majority of the year. In the Romanian Orthodox tradition, devotees keep to a diet without any animal products during these times. As a result, vegan foods are abundant in stores and restaurants; however, Romanians may not be familiar with a vegan or vegetarian diet as a full-time lifestyle choice. Many recipes below have vegan versions, and the vegetables section below contains many common fasting foods.
+
+List of dishes
+Soups
+Borș is fermented wheat bran, a souring agent for ciorbă. Borș is also used today as a synonym for ciorbă, but in the past, a distinction was made between borș and ciorbă (acritură), the souring agent for the latter being the juice of unripe fruits, such as grapes, mirabelle, or wood sorrel leaves.
+Borș de burechiușe
+Ciorbă is the traditional Romanian sour soup
+Ciorbă de burtă (tripe soup), with sour cream, egg yolks, garlic and soured with vinegar
+Ciorbă de perișoare (meatball soup)
+Ciorbă de fasole cu afumătură (bean and smoked meat soup)
+Ciorbă de legume (vegetable soup)
+Ciorbă de pește "ca-n Deltă" (fish soup prepared in the style of the Danube Delta; traditionally water directly from the Danube River is used)
+Ciorbă de praz is a leek soup
+Ciorbă de pui is a chicken soup
+Ciorbă de lobodă is a red orach soup
+Ciorbă de salată cu afumătură (green lettuce and smoked meat soup) with sour milk
+Ciorbă de sfeclă, also called borș de sfeclă or borș rusesc (similar to borscht)
+Ciorbă de urechiușe, wild mushroom sour soup
+Ciorbă moldovenească de găină is a hen sour soup
+Ciorbă țărănească (peasant soup), made from a variety of vegetables and any kind of meat (beef, pork, mutton, chicken, fish)
+Storceag, fish soup with sour cream and egg, soured with vinegar or lemon juice.
+Supă (generic name for sweet (usually clear) soups, made from vegetables alone or combined with poultry and beef). The difference between supă and ciorbă is that the meat and most of the vegetables are removed, the resulting liquid being served with dumplings or noodles. There are also a number of sour soups which use lemon juice as a souring agent, called supe a la grec (Greek soups).
+Supă (de pui) cu găluște (clear dumpling soup with chicken broth)
+Supă (de pui) cu tăiței (clear noodle soup with chicken broth)
+
+Meat
+Caltaboș / chișcă - a cooked sausage made from minced pork organs mainly liver, rice, onions, herbs (parsley, dill) and spices, stuffed in a pig's bowel casing
+Cârnați - a garlicky sausage, mostly smoked, stuffed in clean, blanched small bowel as in Fasole cu cârnați
+Cevapcici - grilled dish of minced meat eaten in areas populated by Serbian minority, mostly in the Romanian part of Banat
+Chiftele - a type of small meatball made of ground pork, beef, lamb mixed with breadcrumbs and egg, onions, garlic and parsley.
+Ciulama de vițel - veal ciulama white thick flour and sour cream sauce
+Ciulama de pui - chicken ciulama
+Drob de miel - a lamb haggis made from minced organs wrapped in a caul and roasted like a meatloaf; a traditional Easter dish, usually with encased boiled eggs
+Frigărui - Romanian-style shish-kebab, made with pork or a mixture of ground pork and chicken , similar to the Iranian kubideh, but with different herbs and spices.
+Limbă cu măsline - cow tongue with olives
+Mititei (mici) - grilled minced meat rolls, traditionally made from lamb meat, or from mixed meats (pork, veal, lamb) with lots of spices (garlic, thyme, pepper, paprika, and others)
+Grătar (usually made together with "mici") - grilled pork/beef, thinly sliced with condiments
+Musaca - an eggplant, potato, and meat pie
+Ostropel - method of cooking chicken or duck or any meat. It is a slow-cooked fried meat in tomato sauce.
+Papricaș - Chicken paprikash made with bell pepper and paprika, originating from Hungary
+Gulaș - Goulash, a stew made with potato and beef, originating from Hungary
+Jumări - kind of pork cracklings, with fat thermally extracted from the lard
+Pastramă - a food originating from Romania usually made from beef brisket, or from lamb, pork, chicken or turkey. The raw meat is brined, partially dried, seasoned with herbs and spices, then smoked and steamed. Like corned beef, pastrami was originally created as a way to preserve meat before the invention of refrigeration.
+Pârjoale - a type of meatball bigger than chiftele, originating in Moldova, with breadcrumbs and parsley
+Piftie - the preparation of this dish is similar to the French demi-glace. Pork stock is reduced by simmering, which is placed in containers, and spiced with garlic and sweet paprika powder. The boiled pork meat is then added, and left to cool. The cooled liquid has a gelatinous consistency, salty, garlicky and peppery. It is eaten cold.
+Plescavița - hamburger type meat consisted of spiced minced pork, beef and lamb meat, originating from Serbia
+Pleșcoi sausages - registered as a Romanian protected geographical indication (PGI) product in the European Union
+Rasol - slowly stewed beef at low fire, usually served with a garlic paste (mujdei)
+Salam de Sibiu - a variety of salami registered as a Romanian protected geographical indication (PGI) product in the European Union
+Sarmale - stuffed sour cabbage or grape leaves with ground meat with rice, onions, herbs. It is  boiled for a few hours traditionally in ceramic pots. In Transylvania smoked pig feet or pork skins are placed in the pot between the stuffed cabbages. There are also many vegan varieties stuffed with rice and herbs.
+Slănină - pork fat, often smoked with paprika, herbs and pepper
+Shawarma - locally known as șaormă, it is one of the most popular street foods in the country.
+Șnițel - a chicken, pork, veal, or beef breaded cutlet (a variety of Viennese schnitzel)
+Cordon bleu șnițel - breaded pork tenderloin stuffed with ham and cheese
+Mozaic șnițel - a specialty of Western Romania, which is two thin layers of different meats with a mushroom filling. Other vegetable fillings may be used instead of mushrooms.
+Șnițel de pui - breaded chicken breast cutlet
+Stufat - lamb, onion, and garlic stew
+Tobă - pork sausage (usually pig's stomach, stuffed with pork jelly, snout, ears and skin)
+Tocană/tocăniță - meat stew
+Tocăniță vânătorească - venison stew
+Tochitură - pan-fried cubed pork, fresh salty cheese (brânză de burduf or telemea), fried eggs, sausages served with mămăligă and wine
+Varză călită - fried or sauteed cabbage with pork ribs, duck, or sausages
+Virșli - a type of sausage made from a mixture of goat or lamb with pork
+
+Fish
+Chiftele de pește - fish meatballs
+Crap pane - breaded carp fillet
+Ghiveci cu pește - fish stew with vegetables
+Macrou afumat - smoked mackerel fillet
+Novac afumat din Țara Bârsei - smoked carp fillet, registered as a Romanian protected geographical indication (PGI) product in the European Union
+Pană de somn rasol - catfish in brine with garlic
+Plachie din pește - ragout of river fish with vegetables
+Papricaș de pește - fish papricaș
+Salată de icre - roe salad, traditionally made from carp, pike, or various marine fish species, called tarama, with onion
+Salată cu icre de știucă de Tulcea - a variety of salată de icre registered as a Romanian protected geographical indication (PGI) product in the European Union
+Salata tradițională cu icre de crap - another variety of salată de icre registered as a Romanian protected geographical indication (PGI) product in the European Union
+Saramură de crap - carp in brine
+Scrumbie de Dunăre afumată - smoked pontic shad, registered as a Romanian protected geographical indication (PGI) product in the European Union
+
+Vegetables
+Ardei umpluți - stuffed bell peppers with meat, rice, onions
+Dovlecei umpluți - stuffed zucchini
+Gulii umplute - stuffed kohlrabi
+Găluște - boiled dumplings; similar to knedle or knödel in Central European cuisines
+Vinete umplute - stuffed eggplant
+Sarmale - stuffed cabbage rolls, also made from grape or dock leaves similar to Dolma
+Ghiveci - a vegetable stew similar to the Bulgarian gjuvec and the Hungarian lecsó
+Ghiveci călugăresc - vegetable stew prepared by the nuns in the monasteries
+Fasole batută - bean paste made from Romanian refried beans, uses white or cannellini beans, with the addition of olive or sunflower oil and minced garlic. The dish is traditionally served with fried onions as a garnish.
+Mămăligă - cornmeal mush, also known as Romanian-style polenta. Mămăligă can be served as a side dish or form the basis of further dishes, such as mămăligă cu lapte (polenta with hot milk), bulz (baked polenta with Romanian sheep cheese and sour cream), mămăliguță cu brânză și smântănă (polenta with telemea (Romanian cheese similar to feta) and sour cream), and others.
+Mâncare de mazăre - pea stew
+Mâncare de praz - leek stew
+Pilaf - a dish of rice, vegetables, and pieces of meat (optional). The meat is usually the offal, wings, and organs of chicken, pork, or lamb. The cooking method is very similar to risotto.
+Chifteluțe de ciuperci - chiftele made from mushrooms instead of meat
+Șnițel de ciuperci - mushroom fritter (șnițel is the Romanian spelling of the German word schnitzel (breaded boneless cutlet), but it may be used to mean any sort of fritter)
+Tocană de ciuperci - mushroom stew made with fried mushrooms, garlic and dill (sometimes sour cream is added)
+Tocăniță de gălbiori - chanterelle stew
+Zacuscă - vegetable spread consisting of roasted eggplant, sauteed onions, tomato paste, and roasted red peppers cooked for a long time at a low temperature
+
+List of salads
+Ardei copți - roasted pepper salad, with vinegar and sunflower
+Murături - method of pickling different fruits and vegetables
+Castraveți murați - pickled small cucumbers with dill, garlic and parsley root
+Gogonele murate - pickled green tomatoes, which is the simple version of murături asortate
+Varză murată - cabbage pickled in brine, flavored with dill stalks and beetroots for red colour.
+Murături asortate - pickled mixed vegetables; a combination of any of the following: onions, garlic, green tomatoes, peppers, cucumbers, kohlrabi, beets, carrots, celery, parsley roots, cauliflower, apples, quince, unripe plums, small unripe watermelons, small zucchini, and red cabbage. It is most often cured in brine (Turkish version), though it can also be cured in vinegar (German version).
+Mujdei - crushed garlic sauce, made from garlic, salt, oil and water (for a mild taste, lemon or tomatoes may be added)
+Salată de boeuf - minced boiled meat with boiled vegetables, mayonnaise, and pickles
+Salată de vinete - roasted and peeled eggplant, chopped onions, and salt mixed with oil or mayonnaise
+Salată grecească - pieces of tomatoes, cucumbers, onion, feta cheese, olives, salt and olive oil
+Salată orientală - potato salad with eggs, onions, and olives
+Salată de sfeclă - beet salad
+Salată de roșii - tomato salad, with sliced onions, bell peppers, and cucumber. Flavored with dill or parsley.
+Shopska salad - known locally as Bulgarian salad, it is made from tomatoes, cucumbers, onion/scallions, raw or roasted peppers, telemea, and parsley. The vegetables are usually diced and salted, followed by a light dressing of sunflower/olive oil complemented with vinegar
+
+List of cheeses
+The generic name for cheese in Romania is brânză, and it is considered to be of Dacian origin. Most of the cheeses are made from cow's or sheep's milk. Goat's milk is rarely used. Sheep cheese is considered "the real cheese", although in modern times, some people refrain from consuming it due to its higher fat content and specific smell.
+
+Brânză de burduf is a kneaded cheese prepared from sheep's milk and traditionally stuffed into a sheep's stomach; it has a strong taste and semi-soft texture
+Brânză topită is a melted cheese and a generic name for processed cheese, industrial product
+Brânză în coșuleț is a sheep's milk, kneaded cheese with a strong taste and semi-soft texture, stuffed into bellows of fir tree bark instead of pig bladder, very lightly smoked, traditional product
+Caș is a semi-soft fresh white cheese, unsalted or lightly salted, stored in brine, which is eaten fresh (cannot be preserved), traditional, seasonal product
+Cașcaval is a semi-hard cheese made from sheep's or cow's milk, traditional product. The Cașcaval de Săveni is a type of cașcaval published as a Romanian protected geographical indication (PGI) product in the European Union.
+Penteleu, a type of cașcaval, traditional product
+Năsal cheese is a type of cheese with a pungent aroma, traditional product
+Șvaițer, industrial product ("Schweizer Käse")
+Telemea, cow's or sheep's milk white cheese, vaguely similar to feta. The traditional "Telemea de Ibănești" is a type of telemea registered as a Romanian protected designation of origin (PDO) product in the European Union, while the "Telemea de Sibiu" is registered as a Romanian protected geographical indication (PGI) product in the European Union. Notably the "Telemea de Covurlui" is spiced with Nigella damascena seeds, which gives it a unique flavor.
+Urdă - made by boiling the whey drained from cow's or ewe's milk until the remaining proteins precipitate and can be collected, traditional product
+Zămătișe - a type of cottage cheese.
+
+List of desserts
+Alivenci, corn and cheese pie in sweet and salted variants. Traditional dessert in Eastern Romania and Moldova.
+Amandine - chocolate sponge cake with almond and chocolate filling, glazed in chocolate
+Baclava 
+Brânzoaice (Poale-n brâu moldovenești) - traditional Moldavian soft cakes filled with sweet cheese
+Carpați - Cake made with layers of sponge cake with chocolate and caramel cream, shaped in the form of a triangular prism, inspired by the Carpathian mountains.
+Cataife
+Chec - pound cake
+Clătite (crepes) with sweet filling -  (literally: pancakes)
+Colivă - boiled wheat, mixed with sugar and walnuts (often decorated with candy and icing sugar; distributed at funerals and memorial ceremonies)
+Colțunași
+Cozonac secuiesc - spit cake rolled in granulated sugar and melted butter (Hungarian: Kürtőskalács)
+Cremă de zahăr ars - Crème brûlée
+Cremșnit - also known as vanilla slice or custard slice, is cream cake dessert commonly associated with the former Austro-Hungarian Monarchy.
+Doboș - sponge cake layered with chocolate buttercream and topped with caramel
+Gogoși - literally "doughnuts", but more akin to fried dough. In the Romanian part of Banat doughnuts are known by the name crofne
+Gomboți (Găluști cu prune) - dumplings with plums, a dessert made of mashed potatoes and flour dough and filled with fresh plums
+Griș cu lapte
+Halva
+Joffre cake - invented at the Casa Capșa restaurant in Bucharest
+Lapte de pasăre - literally "bird's milk", vanilla custard garnished with "floating islands" of whipped egg whites
+Magiun of Topoloveni - a type of plum jam, registered as a Romanian protected geographical indication (PGI) product in the European Union
+Mucenici/sfințișori - sweet pastries (shaped like "8", made from boiled or baked dough, garnished with walnuts, sugar, or honey, eaten on a single day of the year, on 9 March)
+Orez cu lapte - Rice pudding
+Pandișpan - Sponge cake
+Papanași - a kind of doughnut made from a mixture of sweet cheese, eggs, and semolina, boiled or fried and served with fruit syrup or jam and light sour cream
+Pelincile Domnului - a Moldavian type of pie made of honey-flavoured thin wheat cakes and hemp seed cream. Less and less exposure because of the confusion between Cannabis sativa (traditionally cultivated in Romania) and Cannabis indica (the THC-rich variety)
+Pișcoturi - thin, light, sweet delicate, crispy cookie
+Prăjituri - assorted pastries
+Rahat - Turkish delight
+Chocolate salami - salam de biscuiți (literally „salami of biscuits"), made from biscuits, chocolate, and rum essence. The cylindrical shape resembles a sausage, hence the name.
+Savarine - savarina
+Scovergi - flat fried dough. It is eaten with honey, jam or cheese.
+Șarlotă - a custard made from milk, eggs, sugar, whipped cream, gelatin, fruits, and ladyfingers; from the French Charlotte
+Ștrudel - is a type of layered pastry with a filling that is usually sweet, but savoury fillings are also common
+Tort - cake
+Tulumba
+Turtă dulce - gingerbread
+
+List of pastries
+Cornuri - bread roll that is rolled and formed into a crescent
+Cornulețe - pastries filled  jam, chocolate, cinnamon sugar, walnuts, or raisins, with the shape representing a crescent
+Covrig - circular bread, typically encrusted with sesame seeds
+Covrigi - pretzel
+Cozonac - a kind of Stollen made from leavened dough, into which milk, eggs, sugar, butter, and other ingredients are mixed together before baking
+Pogace - corn cake baked in the oven; wheat flour dough cake, usually made with pork gizzards or cheese
+Plăcintă - traditional pastry
+Plăcintă dobrogeană - a type of plăcintă registered as a Romanian protected geographical indication (PGI) product in the European Union
+Burec - it is a three-cornered filo pie composed of thin sheets and filled with either walnuts, crushed almonds, cheese or minced meat
+Prăjituri - assorted pastries
+
+List of drinks
+Afinată - a liqueur made from afine (aka. bilberry in English), which are similar to the North American blueberry.
+Ayran - cold savory yogurt-based beverage that is consumed mostly in Dobrogea
+Bere - locally produced beer brands from local breweries and craft beers
+Cafea - Turkish coffee prepared in a cezve using very finely ground coffee beans without filtering
+Ceai - prepared in the form of either various plant tisanes (chamomile, mint, tilly flower, etc.) or common black tea, called ceai rusesc in Romanian, which is Russian tea usually served during breakfast.
+Chefir - fermented milk drink similar to a thin yogurt that is made from kefir grains, a specific type of mesophilic symbiotic culture.
+Horincă is a plum or apple brandy, produced in the northern part of the country (Maramureș)
+Lapte bătut - buttermilk
+Must - the grape juice in the fermentation process that hasn't become wine yet.
+Pălincă is a strong, double-distilled fruit brandy (especially plum, but also apple, apricots, peach, pear etc.) produced in Transylvania
+Pelin de mai is a wine specialty, usually produced in the spring, flavored with Artemisia dried plants
+Rachiu/Rachie is a fruit brandy. Generic "răchiu" can be made from any fruit (except plums), "țuică" is reserved exclusively for the variety of brandy made from plums.
+Rachiu de tescovină is a pomace brandy produced from grapes that have been used in wine production, very similar to the Italian grappa
+Rachia de Banat is a fermented and distilled fruit brandy (made especially from plums), produced in Banat.
+Sana is a kind of a drinkable yogurt
+Secărică is a caraway fruit-flavored vodka, similar to the German kümmel
+Sirop - prepared with syrup made from fir tree, pine, buckthorn, blueberry, raspberry, or strawberry, with different types of honey or sugar
+Socată is a non-alcoholic beverage made from fermented elderflower (Sambucus nigra)
+Șliboviță is a plum brandy, produced in the Banat region.
+Turț is a strong, double-distilled plum brandy, named after the village of Turț in northwestern Romania
+Țuică is a plum brandy
+Vin
+Vișinată is a sour cherry liqueur
+Vodcă
+Zmeurată is a raspberry liqueur
+
+See also
+Moldovan cuisine
+Transylvanian Saxon cuisine
+
+Notes and references
+Other sources
+Nicolae Klepper, Taste of Romania, Hippocrene, New York, 1999, ISBN 978-0-7818-0766-1, ISBN 0-7818-0766-2
+
+## List of museums in Romania
+This is an incomplete list of museums located in Romania:
+
+In Wallachia
+Bucharest
+Other
+Vergu-Mănăilă House – Buzău
+Craiova Art Museum – Craiova
+Museum of Oltenia – Craiova
+Luminiș – Sinaia
+Iron Gates Region Museum – Drobeta-Turnu Severin
+Reșița Steam Locomotive Museum - Reșița
+
+In Dobruja
+Aegyssus Citadel - Tulcea [ro]
+"Casa Avramide" Museum of Art Collections - Tulcea
+Danube Delta Natural History Museum - Tulcea
+Danube Delta Ecotouristic Center - Tulcea
+Enisala Citadel - Enisala [ro]
+Halmyris Citadel - near Murighiol
+Museum of Ethnography and Popular Art - Tulcea
+Museum of History and Archaeology - Tulcea
+Museum of Oriental Art (Babadag) - Babadag [ro]
+Nava Republica Museum - Tulcea [ro]
+Old Lighthouse Museum (Sulina) - Sulina [ro]
+Panait Cerna House Museum - Cerna
+Paleo-Christian Basilica (Niculițel) - Niculițel [ro]
+Peasant Farmhouse Museum - Enisala
+Tulcea Art Museum – Tulcea
+
+In Moldavia
+Iaşi
+Moldova National Museum Complex
+Muzeul de Istorie a Moldovei
+Union Museum
+Mihail Kogălniceanu Memorial Museum
+Alexandru Ioan Cuza Memorial Museum (in Ruginoasa)
+Cucuteni Neolithic Archeological Site Museum
+Ethnographic Museum of Moldavia
+Museum of Vineyard and Wine (in Hârlău)
+Art Museum of Moldavia
+Ștefan Procopiu Science and Technology Museum
+Poni - Cernătescu Memorial Museum
+National Museum of Romanian Literature in Iași
+Ion Creangă Museum
+Dosoftei Museum
+Mihai Codreanu Museum
+Vasile Pogor Museum
+Otilia Cazimir Museum
+History of Romanian Theatre Collection
+Mihail Sadoveanu Museum
+George Topîrceanu Museum
+Mihai Eminescu Museum
+Nicolae Gane Museum
+House of Museums
+Romanian Literature Museum
+Museum of Poetry
+Museum of the Jewish Theatre in Romania
+Museum of Iași Pogrom
+Museum of Childhood under Communism
+Vasile Alecsandri Museum (in Mircești)
+Constantin Negruzzi Museum (in Hermeziu)
+Garabet Ibrăileanu museum point (in Târgu Frumos)
+Ionel Teodoreanu museum point (in Golăiești)
+Natural History Museum
+Iași Municipal Museum
+Alexandru Ioan Cuza University Museum
+Metropolitan Museum of Iași
+Cotnari Princely Court
+Cotnari Archaeological Reserve
+
+Piatra Neamț
+Archaeology Museum Piatra Neamț (Muzeului de Istorie și Arheologie)
+Cucuteni Neolithic Art Museum (Muzeul de Artă Eneolitică Cucuteni Piatra-Neamţ)
+Museum of Natural Sciences (Muzeul De Ştiinţe Naturale)
+Museum of Ethnography (Muzeul de Etnografie)
+
+Other
+"Hanul Domnesc" (The Princely Inn) Ethnographic Museum – Suceava
+Wooden Spoons Museum, Câmpulung Moldovenesc
+Museum of Romanian History (Muzeul de Istorie Roman) – Roman
+Ion Creangă Memorial Museum – Târgu-Neamţ
+Neamt Citadel Museum (Muzeul Cetatea Neamţ) – Târgu-Neamţ
+
+In Transylvania
+Cluj-Napoca
+Transylvanian History Museum
+Ethnographic Museum of Transylvania
+Cluj-Napoca Bánffy Palace
+Art Museum of Cluj-Napoca
+Hintz House (Pharmacy Museum)
+
+Sibiu
+Brukenthal National Museum
+ASTRA National Museum Complex
+Sibiu Steam Locomotives Museum
+
+Other
+Museum of Dacian and Roman Civilisation – Deva
+Teleki Library – Târgu-Mureş
+Crișeni – Museum of Straw Hats
+Baia Mare Artistic Center Museum of Art – Baia Mare
+
+See also
+Culture of Romania
+National Register of Historic Monuments in Romania
+List of historical monuments in Romania
+
+External links
+Museums and Collections in Romania
+Museums and Collections in Romania (Romanian version)
+Museums in Romania
+Museums from Romanian Regions
