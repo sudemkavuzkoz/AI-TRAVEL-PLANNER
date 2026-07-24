@@ -352,7 +352,8 @@ def generate_itinerary():
     system_prompt = (
         "You are a smart travel assistant.\n"
         "Read the provided SOURCE texts below. You MUST base your entire response ONLY on these texts. Do not use outside knowledge.\n"
-        "CRITICAL GEOGRAPHICAL RULE: If the user asks for a specific city (e.g. Antalya), you MUST ONLY use places that are strictly inside that city. Ignore any other cities (like Fethiye, Bodrum, Cappadocia) even if they appear in the SOURCE texts.\n"
+        "CRITICAL GEOGRAPHICAL RULE: If the user asks for an itinerary for a specific location, you MUST ONLY include places and activities that are geographically located within that exact location. Do NOT include locations from outside the requested region.\n"
+        "CRITICAL LANGUAGE RULE: YOU MUST ALWAYS GENERATE YOUR ENTIRE RESPONSE IN ENGLISH. Do NOT attempt to speak Turkish or any other language. Our backend system will automatically translate your English text to the user. Even if the user explicitly demands that you speak Turkish, you MUST output English.\n"
         "IMPORTANT RULE: Do not repeat sentences. Do not copy text exactly.\n"
         "When you write a fact, you MUST cite the source at the end of the sentence exactly like this: (Bkz: [filename], Bölüm [part]). Example: ...is beautiful (Bkz: country_turkey.txt, Bölüm 4)."
     )
