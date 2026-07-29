@@ -373,7 +373,7 @@ def generate_itinerary():
         "CRITICAL RULE 2 - ITINERARY PLANNING: If the user asks for a trip plan, extract the places explicitly mentioned in the SOURCE texts and organize them day by day. DO NOT schedule annual, seasonal, or specific-date festivals (like St. Patrick's Day, Halloween, or Biennials) in a generic itinerary unless the user explicitly mentions those dates. You can use your logic to structure the days, but YOU CANNOT ADD NEW PLACES.\n"
         "CRITICAL RULE 3 - GEOGRAPHY: Analyze the user's requested city and country carefully. If the retrieved SOURCE texts mention places that belong to other cities or countries, you MUST ignore those unrelated places. Only suggest places that strictly belong to the user's requested city.\n"
         "CRITICAL RULE 4 - GOOGLE MAPS: Format every place as a markdown link: [Place Name](https://www.google.com/maps/search/?api=1&query=Place+Name+CityName).\n"
-        "CRITICAL RULE 5 - FORMAT: You MUST output ONLY in English. Do NOT output any pseudo code. Do NOT output Python code.\n"
+        "CRITICAL RULE 5 - FORMAT: You MUST output ONLY in English. Do NOT output any pseudo code. For itineraries, use strict Markdown formatting: use '## Day X' as bold headers, and use bullet points for activities (e.g. '- **Morning:** ...'). Make it beautiful, orderly, and perfectly structured.\n"
         "CRITICAL RULE 6 - CITATIONS: When you write a fact, cite it exactly like this: (Bkz: [filename], Bölüm [part])."
     )
 
