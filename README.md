@@ -2,7 +2,7 @@
 
 Bu proje, **Microsoft Staj Programı - Aşama 1 (Microsoft Foundry Local ile Yerel RAG Uygulaması)** kapsamında geliştirilmiş, tamamen yerel bilgisayar üzerinde (offline) çalışan bir **RAG (Retrieval-Augmented Generation)** belge soru-cevap ve seyahat asistanıdır.
 
-Proje, internet bağlantısına ihtiyaç duymadan, sağlanan seyahat, Wikipedia ve TripAdvis verilerini analiz eder ve kullanıcı sorularına akıllı, bağlam tabanlı (context-aware) yanıtlar üretir.
+Proje, internet bağlantısına ihtiyaç duymadan, sağlanan Wikipedia verilerini analiz eder, zenginleştirilmiş veri enjeksiyonlarıyla birleştirir ve kullanıcı sorularına akıllı, bağlam tabanlı (context-aware) yanıtlar üretir.
 
 ---
 
@@ -10,19 +10,27 @@ Proje, internet bağlantısına ihtiyaç duymadan, sağlanan seyahat, Wikipedia 
 
 Bu proje, staj programının Aşama 1 gereksinimlerini %100 karşılayacak şekilde tasarlanmıştır:
 1. **Offline Soru-Cevap Uygulaması:** Önceden belirlenmiş Wikipedia seyahat veri seti (chunking + embedding ile) SQLite üzerinde tutulmakta ve tamamen yerel Foundry sunucusu üzerinden internetsiz (offline) çalışmaktadır.
-2. **Kaynak Gösterme ve "Bilmiyorum" Kuralı:** Sistem özel bir prompt (istem) mühendisliği ile korunmaktadır. LLM her cümlesinin sonuna kaynak dosya ve bölüm eklemek zorundadır (Örn: `Bkz: country_istanbul.txt, Bölüm 152`). Eğer bağlamda kesinlikle hiçbir veri yoksa sistem "Veritabanında bu konu hakkında yeterli bilgi yok" (bilmiyorum) yanıtı verecek şekilde katı kurallara tabidir.
-3. **Temiz Kod ve README:** Projede modüler (database, embedding, app) bir mimari kullanılmış ve bu belge kurulum için detaylı olarak hazırlanmıştır.
-4. **Google Maps Entegrasyonu:** (Ekstra) Sistem, ürettiği lokasyon isimlerini otomatik olarak tıklanabilir Google Maps butonlarına çevirir.
+2. **Sıfır Halüsinasyon (Uydurma Koruması):** İleri düzey Prompt Mühendisliği ile korunan sistem, kendisine verilen veri tabanında yer almayan tek bir kelimeyi bile uydurmaz. Sorunun cevabı bağlamda (context) yoksa kesinlikle "Veritabanında bu konu hakkında yeterli bilgi yok" diyerek sınırlarını bilir.
+3. **Kaynak Gösterme Şartı (Citations):** Yapay zekanın sunduğu her türlü bilgi, kaynağıyla birlikte belirtilir (Örn: `Bkz: country_istanbul.txt, Bölüm 152`).
+4. **Coğrafi ve Mantıksal Sınırlar:** Sistem, 5 günlük bir plan yapması istendiğinde "St. Patrick's Day" veya "İstanbul Bienali" gibi yılda bir kez olan etkinlikleri (özel olarak o tarihler sorulmadıkça) sıradan planlara eklemez. Ayrıca coğrafi sınır ihlali yapmaz.
+
+---
+
+## ✨ Öne Çıkan Gelişmiş Özellikler (Yeni!)
+
+- **Tıklanabilir Google Haritalar Entegrasyonu:** RAG sisteminin önerdiği her bir spesifik mekan ve plaj, otomatik olarak **Google Haritalar** arama bağlantısına dönüştürülür ve tıklanınca yeni bir sekmede açılır.
+- **Veri Zenginleştirme (Data Injection):** Wikipedia verileri sadece tarihsel ve coğrafi olduğundan, asistanın daha turistik ve büyüleyici cevaplar verebilmesi için sisteme `inject_beaches.py` ve `inject_istanbul.py` scriptleri aracılığıyla spesifik turistik mekan (Ayasofya, Yerebatan Sarnıcı) ve plaj (Kaputaş, Lara Beach vb.) verileri İngilizce olarak enjekte edilmiştir.
+- **Nizami Markdown Seyahat Formatı:** Asistan, seyahat planlarını düz bir metin olarak değil; gün gün kalın başlıklar (`## Day 1`) ve temiz madde işaretleriyle tam bir turizm acentesi profesyonelliğinde formatlayarak sunar.
 
 ---
 
 ## 🛠️ Temel Teknolojiler ve Mimari
 
-- **Microsoft Foundry Local**: Dil modelini (LLM) cihaz üzerinde çalıştıran, bulut veya GPU API aboneliği gerektirmeyen yerel AI çalışma zamanı (Phi-4-mini veya Qwen2.5-1.5B gibi modellerle uyumlu).
+- **Microsoft Foundry Local**: Dil modelini (LLM) cihaz üzerinde çalıştıran, bulut veya GPU API aboneliği gerektirmeyen yerel AI çalışma zamanı.
 - **Sentence-Transformers (PyTorch & CUDA)**: Metnin anlamını sayısal vektörlerle (embedding) temsil etme ve RAG bellek aramasını sağlama.
 - **SQLite**: Belge metinlerini ve yüksek boyutlu embedding vektörlerini saklayan hafif, yerel veritabanı.
 - **Flask**: Modern, estetik ve kullanıcı dostu bir web sohbet arayüzü sunan Python kütüphanesi.
-- **Deep-Translator & LangDetect**: İngilizce çalışan LLM çıktılarını anlık olarak kullanıcının diline çeviren stream (akış) tampon sistemi.
+- **Deep-Translator**: İngilizce çalışan LLM çıktılarını anlık olarak (HTML ve Markdown etiketlerini bozmadan) kullanıcının diline çeviren stream (akış) tampon sistemi.
 
 ---
 
@@ -38,12 +46,14 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-### 2. Veritabanının Doldurulması (Embedding İşlemi)
-Projedeki verileri (Wikipedia metinleri) parçalara (chunks) bölmek, GPU üzerinden vektörleştirmek ve SQLite veritabanına kaydetmek için aşağıdaki komutu çalıştırın:
+### 2. Veritabanının Hazırlanması ve Zenginleştirilmesi
+Projedeki verileri (Wikipedia metinleri) parçalara (chunks) bölmek, GPU üzerinden vektörleştirmek ve ardından özel turistik veri yamalarını eklemek için şu komutları sırasıyla çalıştırın:
 ```powershell
 python enrich_with_wikipedia.py
+python inject_beaches.py
+python inject_istanbul.py
 ```
-> Bu işlem veritabanını baştan oluşturur. Ekran kartınızın hızına bağlı olarak birkaç dakika sürebilir.
+> Bu işlemler veritabanını baştan oluşturur ve turistik yamaları (plajlar, müzeler) sisteme gömer. Ekran kartınızın hızına bağlı olarak ilk adım birkaç dakika sürebilir.
 
 ### 3. Uygulamanın Başlatılması
 Veritabanı hazırlandıktan sonra, görsel arayüzü başlatmak için Flask sunucusunu başlatan script'i kullanın:
@@ -54,13 +64,6 @@ Komut çalıştıktan sonra tarayıcınızda otomatik olarak **http://127.0.0.1:
 
 ---
 
-## 🧠 Nasıl Çalışır? (Prompt & RAG Mantığı)
-Sistem halüsinasyonları (uydurma cevapları) önlemek için katı bir sistem komutuyla çalışır:
-- Kullanıcı sorusu anlık olarak embedding vektörüne çevrilir.
-- Veritabanında kosinüs benzerliği (cosine similarity) hesaplanarak soruya **en yakın 6 ila 10 belge parçası (chunk)** bulunur.
-- Bu parçalar bağlam olarak Foundry Local üzerinden LLM'e beslenir.
-- **Seyahat Planı Kuralı:** Eğer kullanıcı "4 günlük gezi planla" gibi bir şey isterse, yapay zeka metinlerdeki turistik mekanları analiz eder ve bu mekanları kullanarak mantıklı bir seyahat programı tasarlar (veritabanı dışına çıkmasına asla izin verilmez).
-
 ## 👥 Geliştirici
-- Geliştirici: Sudem
-- Kapsam: Microsoft Staj Programı - Aşama 1 Projesi
+- **Geliştirici:** Sudem Kavuzkoz
+- **Kapsam:** Microsoft Staj Programı - Aşama 1 Projesi
