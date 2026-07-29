@@ -53,6 +53,11 @@ def translate_stream_en_to_tr(generator):
                 if text_to_translate.strip():
                     try:
                         translated = translator.translate(text_to_translate)
+                        
+                        # Google Translate markdown yapılarını bozabilir, boşlukları temizleyelim
+                        translated = re.sub(r'\]\s+\(', '](', translated)
+                        translated = re.sub(r'\(\s+(http.*?)\s+\)', r'(\1)', translated)
+                        
                         if text_to_translate.endswith('\n'):
                             translated += '\n'
                         else:

@@ -987,3 +987,24 @@ Tourism in Croatia
 
 
 == References ==
+
+## Famous Holiday Destinations
+- Dubrovnik
+- Split
+- Zadar
+- Hvar
+- Korčula
+
+## Famous Museums
+- National Museum of Art
+- Museum of Natural History
+- Museum of Contemporary Art
+- Archaeological Museum of Split
+- Archaeological Museum of Dubrovnik
+
+## Local Desserts
+- Palačinke (Croatian pancakes)
+- Burek (Croatian pastry)
+- Fritule (small fried dough balls)
+- Pašticada (beef stew dessert)
+- Turrón (sweet almond nougat)

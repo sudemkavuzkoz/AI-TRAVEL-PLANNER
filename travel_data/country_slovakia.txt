@@ -645,3 +645,24 @@ List of museums
 Tourism in Slovakia
 Culture of Slovakia
 Museum of Vojvodina Slovaks
+
+## Famous Holiday Destinations
+- Karlovy Vary
+- Spišská Kapitula
+- Bardejov
+- Hranice
+- Považská Bystrica
+
+## Famous Museums
+- Slovak National Museum, Bratislava
+- Slovak National Gallery, Bratislava
+- Slovak Museum of National Uprising, Prešov
+- National Museum of Slovak Folk Art, Prešov
+- Slovak Museum of Military History, Nitra
+
+## Local Desserts
+- Medovník (Cinnamon Roll)
+- Kremšnica (Poppy Seed Roll)
+- Strudel (Apple Strudel)
+- Trdel (Spiral Waffle)
+- Vanilkové knedlíky (Vanilla Knedlíky)

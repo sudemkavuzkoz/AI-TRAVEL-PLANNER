@@ -516,3 +516,24 @@ No information available from web search.
 ## List of museums in Dominican Republic (Web Search Fallback)
 
 No information available from web search.
+
+## Famous Holiday Destinations
+- Punta Cana
+- Sosua
+- Punta Cana Beach
+- Boca Chica Beach
+- Sosua Beach
+
+## Famous Museums
+- National Museum of Dominican Republic
+- Casa de la Cultura Dominicana
+- Museo del Hombre Dominicano
+- Museo de Arte Contemporáneo
+- Museo del Hombre
+
+## Local Desserts
+- Flan
+- Tres Leches
+- Cacholí
+- Churros
+- Pastel de Coco

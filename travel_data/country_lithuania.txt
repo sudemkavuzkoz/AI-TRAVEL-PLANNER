@@ -883,3 +883,24 @@ List of museums
 Tourism in Lithuania
 Culture of Lithuania
  Lithuania portal
+
+## Famous Holiday Destinations
+- Kaunas Old Town
+- Nida Beach
+- Klaipėda Old Town
+- Curonian Spit National Park
+- Siauliai Old Town
+
+## Famous Museums
+- National Museum of Lithuania
+- Lithuanian Museum of Contemporary Art
+- Vilnius Cathedral Museum
+- Šiluos National Park Museum
+- Old Town Museum in Kaunas
+
+## Local Desserts
+- Šakotis (a traditional honey cake)
+- Ropė (a type of cake with fruit filling)
+- Žemaitėliai (a pastry with jam)
+- Šaltibarščiai (a cold beet soup with sour cream)
+- Paprastieji prieskoniai (simple butter cookies)

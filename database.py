@@ -85,7 +85,7 @@ def cosine_similarity(v1, v2):
     return float(dot_product / (norm_v1 * norm_v2))
 
 
-def search_similar_chunks(conn, query_embedding, top_k=3):
+def search_similar_chunks(conn, query_embedding, top_k=3, threshold=0.0):
     cursor = conn.cursor()
     cursor.execute("SELECT id, source, text, embedding FROM documents")
     rows = cursor.fetchall()
@@ -96,12 +96,13 @@ def search_similar_chunks(conn, query_embedding, top_k=3):
         try:
             embedding = json.loads(emb_str)
             score = cosine_similarity(query_embedding, embedding)
-            results.append({
-                "id": doc_id,
-                "source": source if source else "Bilinmeyen Kaynak",
-                "text": text,
-                "score": score
-            })
+            if score >= threshold:
+                results.append({
+                    "id": doc_id,
+                    "source": source if source else "Bilinmeyen Kaynak",
+                    "text": text,
+                    "score": score
+                })
         except Exception:
             continue
 

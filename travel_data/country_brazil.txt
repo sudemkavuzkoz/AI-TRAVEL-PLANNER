@@ -799,3 +799,24 @@ List of museums by country
 
 
 == References ==
+
+## Famous Holiday Destinations
+- Ipanema, Rio de Janeiro
+- Copacabana, Rio de Janeiro
+- Arraial do Cabo, Rio Grande do Sul
+- Paraty, Rio de Janeiro
+- Porto Seguro, Bahia
+
+## Famous Museums
+- The National Museum of Anthropology, Mexico City
+- The Louvre, Paris
+- The Metropolitan Museum of Art, New York City
+- The British Museum, London
+- The Vatican Museums, Vatican City
+
+## Local Desserts
+- Brigadeiros (Brazil)
+- Coxinha (Brazil)
+- Pastel de Nata (Brazil)
+- Pirão (Brazil)
+- Pão de Queijo (Brazil)

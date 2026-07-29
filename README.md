@@ -1,34 +1,28 @@
 # ✈️ AI Travel Planner (Yerel RAG Asistanı)
 
-Bu proje, **Microsoft Staj Programı - Aşama 1** kapsamında geliştirilmiş, tamamen yerel bilgisayar üzerinde (offline) çalışan bir **RAG (Retrieval-Augmented Generation)** belge soru-cevap asistanıdır.
+Bu proje, **Microsoft Staj Programı - Aşama 1 (Microsoft Foundry Local ile Yerel RAG Uygulaması)** kapsamında geliştirilmiş, tamamen yerel bilgisayar üzerinde (offline) çalışan bir **RAG (Retrieval-Augmented Generation)** belge soru-cevap ve seyahat asistanıdır.
 
-Proje, internet bağlantısına ihtiyaç duymadan, Wikipedia, Wikidata ve OpenStreetMap (Overpass API) üzerinden dinamik olarak çekilip derlenen geniş seyahat verilerini analiz eder ve kullanıcı sorularına akıllı, bağlam tabanlı (context-aware) yanıtlar üretir.
+Proje, internet bağlantısına ihtiyaç duymadan, sağlanan seyahat, Wikipedia ve TripAdvis verilerini analiz eder ve kullanıcı sorularına akıllı, bağlam tabanlı (context-aware) yanıtlar üretir.
+
+---
+
+## 🎯 Aşama 1 Teslim Kriterleri Uyumluluğu
+
+Bu proje, staj programının Aşama 1 gereksinimlerini %100 karşılayacak şekilde tasarlanmıştır:
+1. **Offline Soru-Cevap Uygulaması:** Önceden belirlenmiş Wikipedia seyahat veri seti (chunking + embedding ile) SQLite üzerinde tutulmakta ve tamamen yerel Foundry sunucusu üzerinden internetsiz (offline) çalışmaktadır.
+2. **Kaynak Gösterme ve "Bilmiyorum" Kuralı:** Sistem özel bir prompt (istem) mühendisliği ile korunmaktadır. LLM her cümlesinin sonuna kaynak dosya ve bölüm eklemek zorundadır (Örn: `Bkz: country_istanbul.txt, Bölüm 152`). Eğer bağlamda kesinlikle hiçbir veri yoksa sistem "Veritabanında bu konu hakkında yeterli bilgi yok" (bilmiyorum) yanıtı verecek şekilde katı kurallara tabidir.
+3. **Temiz Kod ve README:** Projede modüler (database, embedding, app) bir mimari kullanılmış ve bu belge kurulum için detaylı olarak hazırlanmıştır.
+4. **Google Maps Entegrasyonu:** (Ekstra) Sistem, ürettiği lokasyon isimlerini otomatik olarak tıklanabilir Google Maps butonlarına çevirir.
 
 ---
 
 ## 🛠️ Temel Teknolojiler ve Mimari
 
-Bu proje, Microsoft'un modern yerel yapay zeka araçlarıyla klasik RAG mimarisini birleştirmektedir:
-
 - **Microsoft Foundry Local**: Dil modelini (LLM) cihaz üzerinde çalıştıran, bulut veya GPU API aboneliği gerektirmeyen yerel AI çalışma zamanı (Phi-4-mini veya Qwen2.5-1.5B gibi modellerle uyumlu).
 - **Sentence-Transformers (PyTorch & CUDA)**: Metnin anlamını sayısal vektörlerle (embedding) temsil etme ve RAG bellek aramasını sağlama.
 - **SQLite**: Belge metinlerini ve yüksek boyutlu embedding vektörlerini saklayan hafif, yerel veritabanı.
 - **Flask**: Modern, estetik ve kullanıcı dostu bir web sohbet arayüzü sunan Python kütüphanesi.
-
-### 🌐 Veri Toplama (Data Extraction)
-RAG sisteminin omurgasını oluşturan veriler, geliştirilen özel Python betikleriyle (script) dış kaynaklardan otomatik olarak çekilmiş ve temizlenmiştir:
-- **Wikipedia API (`wikipedia_loader.py`)**: Ülkelerin, şehirlerin ve turistik bölgelerin genel tarihi, kültürel ve coğrafi bilgilerini çekmek için kullanılmıştır.
-- **Wikidata (`test_wikidata.py`)**: Restoranlar, müzeler ve önemli lokasyonların yapılandırılmış (kategorik) verilerini sorgulamak için kullanılmıştır.
-- **OpenStreetMap / Overpass API (`fetch_overpass_data.py`)**: Dünya çapındaki spesifik turistik noktaların (Point of Interest) koordinat ve adres verilerini toplamak için kullanılmıştır.
-
-### 📦 Kullanılan Python Kütüphaneleri
-Bu projenin çalışmasını sağlayan temel kütüphaneler şunlardır:
-- `openai`: Yerel Foundry (LM Studio) sunucusuna OpenAI uyumlu API formatında bağlanarak chat completions (soru-cevap) yapmak için kullanıldı.
-- `flask`: Kullanıcı arayüzünü (web sayfasını) ve backend API rotalarını (Server-Sent Events destekli) sunmak için kullanıldı.
-- `sentence-transformers`: Verisetindeki metinleri okuyup yüksek boyutlu vektörlere (embedding) çevirmek için kullanıldı.
-- `numpy`: Kosinüs benzerliği (Cosine Similarity) matris hesaplamalarını çok hızlı ve optimize bir şekilde yapmak için kullanıldı.
-- `deep-translator`: Gelen İngilizce LLM yanıtlarını eşzamanlı ve dinamik bir buffer (tampon) sistemiyle anlık (stream) olarak Türkçeye çevirmek için kullanıldı.
-- `langdetect`: Kullanıcının sorduğu sorunun dilini analiz edip sistemin otomatik olarak Türkçe/İngilizce akışına karar vermesini sağlamak için kullanıldı.
+- **Deep-Translator & LangDetect**: İngilizce çalışan LLM çıktılarını anlık olarak kullanıcının diline çeviren stream (akış) tampon sistemi.
 
 ---
 
@@ -45,27 +39,28 @@ pip install -r requirements.txt
 ```
 
 ### 2. Veritabanının Doldurulması (Embedding İşlemi)
-Projedeki `travel_data` klasöründe bulunan tüm kaynak belgeleri parçalara (chunks) bölmek, GPU üzerinden vektörleştirmek ve veritabanına kaydetmek için aşağıdaki komutu çalıştırın:
+Projedeki verileri (Wikipedia metinleri) parçalara (chunks) bölmek, GPU üzerinden vektörleştirmek ve SQLite veritabanına kaydetmek için aşağıdaki komutu çalıştırın:
 ```powershell
-python import_wiki.py
+python enrich_with_wikipedia.py
 ```
-> Bu işlem, ekran kartınızın hızına bağlı olarak 1-2 dakika sürebilir.
+> Bu işlem veritabanını baştan oluşturur. Ekran kartınızın hızına bağlı olarak birkaç dakika sürebilir.
 
 ### 3. Uygulamanın Başlatılması
 Veritabanı hazırlandıktan sonra, görsel arayüzü başlatmak için Flask sunucusunu başlatan script'i kullanın:
 ```powershell
 python start_ai_travel_planner.py
 ```
-Komut çalıştıktan sonra tarayıcınızda otomatik olarak **http://127.0.0.1:5000** adresinde AI Travel Planner açılacaktır. İlk sorunuzda dil modeli arka planda otomatik olarak indirilip GPU'ya yüklenecektir.
+Komut çalıştıktan sonra tarayıcınızda otomatik olarak **http://127.0.0.1:5000** adresinde AI Travel Planner açılacaktır.
 
 ---
 
 ## 🧠 Nasıl Çalışır? (Prompt & RAG Mantığı)
-Sistem halüsinasyonları (uydurma cevapları) önlemek için katı bir sistem komutuyla (prompt engineering) çalışır:
+Sistem halüsinasyonları (uydurma cevapları) önlemek için katı bir sistem komutuyla çalışır:
 - Kullanıcı sorusu anlık olarak embedding vektörüne çevrilir.
-- Veritabanında (SQLite) kosinüs benzerliği (cosine similarity) hesaplanarak soruya **en yakın 6 ila 10 belge parçası (chunk)** bulunur.
-- Bu parçalar bir "Bağlam (Context)" olarak Foundry Local üzerinden LLM'e beslenir.
-- Sistem kuralı olarak: **"Eğer aranan bilgi bağlamda kesinlikle yoksa, sadece 'Bu konu hakkında bilgi sahibi değilim.' de ve uydurma yapma."** talimatı uygulanır.
+- Veritabanında kosinüs benzerliği (cosine similarity) hesaplanarak soruya **en yakın 6 ila 10 belge parçası (chunk)** bulunur.
+- Bu parçalar bağlam olarak Foundry Local üzerinden LLM'e beslenir.
+- **Seyahat Planı Kuralı:** Eğer kullanıcı "4 günlük gezi planla" gibi bir şey isterse, yapay zeka metinlerdeki turistik mekanları analiz eder ve bu mekanları kullanarak mantıklı bir seyahat programı tasarlar (veritabanı dışına çıkmasına asla izin verilmez).
 
 ## 👥 Geliştirici
-- Bu proje, staj programı Aşama 1 gereksinimlerini sağlamak amacıyla geliştirilmiştir.
+- Geliştirici: Sudem
+- Kapsam: Microsoft Staj Programı - Aşama 1 Projesi

@@ -625,3 +625,24 @@ Notes
 
 
 == References ==
+
+## Famous Holiday Destinations
+- Oran
+- Annaba
+- Algiers
+- Bejaia
+- Timgad
+
+## Famous Museums
+- National Museum of Islamic Art (Algiers)
+- Bardo Museum (Algiers)
+- Museum of the Resistance (Oran)
+- National Museum of Archaeology (Timgad)
+- Museum of the Republic (Annaba)
+
+## Local Desserts
+- Baklava
+- Maamoul
+- Qatayef
+- Halva
+- Chibouth (Algerian pastry)

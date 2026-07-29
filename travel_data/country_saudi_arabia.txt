@@ -747,3 +747,24 @@ List of museums
 Tourism in Saudi Arabia
 Museums in Saudi Arabia
 Museums in Riyadh
+
+## Famous Holiday Destinations
+- Jeddah
+- Al Ula
+- Al Madinah
+- Dubaï
+- Al Bahah
+
+## Famous Museums
+- Museum of Islamic Art, Doha
+- Museum of Saudi Arabia, Riyadh
+- Museum of the Prophet's Mosque, Madinah
+- National Museum of Qatar, Doha
+- Museum of Modern Art, Jeddah
+
+## Local Desserts
+- Qatayef
+- Ma'amoul
+- Baklava
+- Knafeh
+- Halawa (Halwa)

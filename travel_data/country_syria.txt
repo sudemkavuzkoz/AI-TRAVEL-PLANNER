@@ -464,3 +464,24 @@ List of museums
 
 
 == References ==
+
+## Famous Holiday Destinations
+- Baalbek, Lebanon
+- Amarna, Egypt
+- Petra, Jordan
+- Petra, Jordan
+- Jerash, Jordan
+
+## Famous Museums
+- The Louvre, Paris, France
+- The British Museum, London, England
+- The Metropolitan Museum of Art, New York, USA
+- The Vatican Museums, Vatican City
+- The Hermitage Museum, Saint Petersburg, Russia
+
+## Local Desserts
+- Ma'amoul (Sweet Dumplings)
+- Kanafeh (Cheese Pie)
+- Halawa (Sweet Semolina Cake)
+- Baklava (Filled with Nuts and Honey)
+- Maamoul with Rose Water (Sweet Dumplings with Rose Water)

@@ -707,3 +707,24 @@ See also
 List of museums
 Tourism in Sweden
 Culture of Sweden
+
+## Famous Holiday Destinations
+- Stockholm
+- Gothenburg
+- Malmo
+- Visby
+- Kiruna
+
+## Famous Museums
+- The Louvre (Paris)
+- The British Museum (London)
+- The Metropolitan Museum of Art (New York)
+- The Vatican Museums (Vatican City)
+- The State Hermitage Museum (St. Petersburg)
+
+## Local Desserts
+- Semla (Swedish coffee cake)
+- Kanelbullar (cinnamon buns)
+- Fyllkaka (chocolate-filled cookies)
+- Grädde (cream-filled cookies)
+- Risfrös (rice pudding)

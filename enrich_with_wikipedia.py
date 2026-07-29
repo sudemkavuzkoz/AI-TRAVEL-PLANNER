@@ -26,6 +26,15 @@ DATA_DIR = "travel_data"
 # Dictionary mapping country file names to English Wikipedia page titles.
 # We are also directing English file names to the correct Wikipedia page.
 COUNTRY_NAME_MAP = {
+    # Turkish Tourist Cities
+    "antalya": "Antalya",
+    "istanbul": "Istanbul",
+    "izmir": "İzmir",
+    "bodrum": "Bodrum",
+    "fethiye": "Fethiye",
+    "cappadocia": "Cappadocia",
+    "marmaris": "Marmaris",
+    "alanya": "Alanya",
     # Türkçe dosya adları
     "turkiye": "Türkiye",
     "almanya": "Almanya",

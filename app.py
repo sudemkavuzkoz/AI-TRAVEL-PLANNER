@@ -264,8 +264,8 @@ def generate_itinerary():
     query_lower = user_query.lower()
     is_plan_request = any(w in query_lower for w in ["plan", "program", "rota", "günlük", "tur", "gezilecek"])
     
-    # Eşik değerini iyice düşürüyoruz ki veri bulamama (boş dönme) sorunu olmasın
-    current_threshold = 0.01 if is_plan_request else 0.10
+    # Eşik değerini eski mantıklı seviyesine getiriyoruz
+    current_threshold = 0.20 if is_plan_request else 0.25
     
     # KAPSAMLI RAG VE HIZ DENGESİ: 20 çok yavaştı, 5 çok az veri veriyordu.
     # En ideal denge olarak 10 parça (yaklaşık 1500 kelime) veriyoruz. 
@@ -275,6 +275,13 @@ def generate_itinerary():
     vec_start = time.time()
     query_vector = embedding_model.encode(english_query, normalize_embeddings=True).astype(np.float32)
     print(f"[{time.time() - vec_start:.2f}s] Vektörleştirme tamamlandı.")
+
+    # Keyword boosting için hem orijinal (Türkçe) hem de çevrilmiş (İngilizce) sorgulardan kelimeleri çıkarıyoruz.
+    # 3 harften büyük kelimeleri alıp noktalama işaretlerini temizliyoruz
+    import re
+    user_words = [re.sub(r'[^\w\s]', '', w).lower() for w in user_query.split() if len(w) > 3]
+    eng_words = [re.sub(r'[^\w\s]', '', w).lower() for w in english_query.split() if len(w) > 3]
+    query_words = list(set(user_words + eng_words))
 
     db_start = time.time()
     conn = get_db_connection()
@@ -286,8 +293,18 @@ def generate_itinerary():
     for row in rows:
         vector = np.frombuffer(row["embedding"], dtype=np.float32)
         similarity = float(np.dot(vector, query_vector))
-        if similarity >= current_threshold:
-            scored_chunks.append((similarity, row["chunk_text"], row["source"], row["chunk_index"]))
+        
+        # --- Keyword Boosting (Hibrit Arama) ---
+        chunk_text_lower = row["chunk_text"].lower()
+        boost = 0.0
+        for word in query_words:
+            if word in chunk_text_lower:
+                boost += 0.15 # Kelime eşleşmesi başına bonus puan
+                
+        final_score = similarity + boost
+        
+        if final_score >= current_threshold:
+            scored_chunks.append((final_score, row["chunk_text"], row["source"], row["chunk_index"]))
             
     conn.close()
     print(f"[{time.time() - db_start:.2f}s] Veritabanı Vektör araması tamamlandı.")
@@ -351,11 +368,13 @@ def generate_itinerary():
 
     system_prompt = (
         "You are a smart travel assistant.\n"
-        "Read the provided SOURCE texts below. You MUST base your entire response ONLY on these texts. Do not use outside knowledge.\n"
-        "CRITICAL GEOGRAPHICAL RULE: If the user asks for an itinerary for a specific location, you MUST ONLY include places and activities that are geographically located within that exact location. Do NOT include locations from outside the requested region.\n"
-        "CRITICAL LANGUAGE RULE: YOU MUST ALWAYS GENERATE YOUR ENTIRE RESPONSE IN ENGLISH. Do NOT attempt to speak Turkish or any other language. Our backend system will automatically translate your English text to the user. Even if the user explicitly demands that you speak Turkish, you MUST output English.\n"
-        "IMPORTANT RULE: Do not repeat sentences. Do not copy text exactly.\n"
-        "When you write a fact, you MUST cite the source at the end of the sentence exactly like this: (Bkz: [filename], Bölüm [part]). Example: ...is beautiful (Bkz: country_turkey.txt, Bölüm 4)."
+        "Read the provided SOURCE texts below. You MUST base your entire response ONLY on these texts.\n"
+        "CRITICAL RULE 1 - NO HALLUCINATIONS: DO NOT invent, guess, or add any places, beaches, hotels, or tourist attractions from your own memory. EVERY place you mention MUST exist in the provided SOURCE texts. If the texts do not have the answer, say 'Veritabanında bu konu hakkında yeterli bilgi yok.'\n"
+        "CRITICAL RULE 2 - ITINERARY PLANNING: If the user asks for a trip plan, extract the places explicitly mentioned in the SOURCE texts and organize them day by day. You can use your logic to structure the days, but YOU CANNOT ADD NEW PLACES.\n"
+        "CRITICAL RULE 3 - GEOGRAPHY: Analyze the user's requested city and country carefully. If the retrieved SOURCE texts mention places that belong to other cities or countries, you MUST ignore those unrelated places. Only suggest places that strictly belong to the user's requested city.\n"
+        "CRITICAL RULE 4 - GOOGLE MAPS: Format every place as a markdown link: [Place Name](https://www.google.com/maps/search/?api=1&query=Place+Name+CityName).\n"
+        "CRITICAL RULE 5 - FORMAT: You MUST output ONLY in English. Do NOT output any pseudo code. Do NOT output Python code.\n"
+        "CRITICAL RULE 6 - CITATIONS: When you write a fact, cite it exactly like this: (Bkz: [filename], Bölüm [part])."
     )
 
     user_prompt = f"Context:\n{context_str}\n\nUser Question:\n{english_query}"
@@ -532,6 +551,23 @@ HTML_TEMPLATE = """
     </div>
 
     <script>
+        // Markdown parser konfigürasyonu (Linkleri yeni sekmede açmak için)
+        const renderer = new marked.Renderer();
+        renderer.link = function(arg1, arg2, arg3) {
+            let href, title, text;
+            if (typeof arg1 === 'object' && arg1 !== null) {
+                // Marked v8+ (token nesnesi)
+                href = arg1.href;
+                title = arg1.title;
+                text = arg1.text || arg1.raw; // Fallback to raw if text is undefined
+            } else {
+                // Eski sürüm Marked
+                href = arg1; title = arg2; text = arg3;
+            }
+            return `<a target="_blank" rel="noopener noreferrer" href="${href}" title="${title || ''}">${text}</a>`;
+        };
+        marked.setOptions({ renderer: renderer });
+
         let map;
         let selectedCountryId = null;
         let selectedCountryName = "";

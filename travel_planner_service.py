@@ -2,14 +2,14 @@ import os
 from typing import List, Dict, Any
 
 from embedding import create_embedding
-from database import search_similar_chunks
+from database import search_similar_chunks, save_trip_plan
 from model import generate_response
 from travel_planner_utils import get_places_for_country, build_google_maps_url
 
 
-def _build_rag_context(conn, query: str, country: str, top_k: int = 20):
+def _build_rag_context(conn, query: str, country: str, top_k: int = 20, threshold: float = 0.40):
     query_embedding = create_embedding(query)
-    retrieved_chunks = search_similar_chunks(conn, query_embedding, top_k=top_k)
+    retrieved_chunks = search_similar_chunks(conn, query_embedding, top_k=top_k, threshold=threshold)
 
     context_parts: List[str] = []
     for i, chunk in enumerate(retrieved_chunks, start=1):
@@ -39,7 +39,7 @@ def build_trip_plan(conn, country: str, days: int, request: str, favorites: List
         f"{request} {favorite_context}".strip()
     )
 
-    context_text, retrieved_chunks = _build_rag_context(conn, query, country=country, top_k=20)
+    context_text, retrieved_chunks = _build_rag_context(conn, query, country=country, top_k=20, threshold=0.40)
 
     prompt = f"""Sen profesyonel bir seyahat asistanısın. Aşağıdaki bağlamı (CONTEXT) kullanarak kullanıcı için {days} günlük ÇOK KAPSAMLI ve detaylı bir plan üret.
 
@@ -49,7 +49,7 @@ KURALLAR:
 3. Planı Sabah / Öğle / Akşam şeklinde düzenle.
 4. Müzeler, yemek, tatlı, kahve, alışveriş gibi deneyimleri SADECE bağlamda geçiyorsa ekle.
 5. Her önerinin sonuna Google Maps bağlantısı formatında [📍 İsim](https://www.google.com/maps/search/?api=1&query=İsim) ekle.
-6. Eğer kullanıcının istediği spesifik bir bilgi bağlamda (CONTEXT) yoksa, bunu açıkça ve dürüstçe belirt. Yalan mekan isimleri (örn. "Kafeler", "Künefe" adlı restoran) türetme.
+6. Eğer sağlanan kaynaklarda (CONTEXT) kullanıcının istediği şehir veya spesifik konu hakkında yeterli bilgi yoksa, bunu açıkça ve dürüstçe belirt (Örn: "Bu şehir hakkında yeterli bilgim yok"). Asla başka şehirlerden mekanları o şehirdeymiş gibi gösterme ve yalan mekan isimleri (örn. "Kafeler", "Künefe" adlı restoran) türetme.
 
 BAĞLAM:
 {context_text}
@@ -65,4 +65,7 @@ CEVAP:"""
         for place in places
     )
 
-    return response + "\n\n" + maps_section, retrieved_chunks, places
+    final_response = response + "\n\n" + maps_section
+    save_trip_plan(conn, country, days, request, final_response)
+
+    return final_response, retrieved_chunks, places

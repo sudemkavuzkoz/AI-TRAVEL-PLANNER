@@ -351,3 +351,24 @@ No information available from web search.
 ## List of museums in Czech Republic (Web Search Fallback)
 
 No information available from web search.
+
+## Famous Holiday Destinations
+- Karlovy Vary
+- Plzeň
+- Mariánské Lázně
+- Karlovy Vary
+- Františkovy Lázne
+
+## Famous Museums
+- National Museum
+- National Gallery
+- Moravské Krumlov Castle Museum
+- Pilsen Beer Museum
+- Prague Astronomical Clock Museum
+
+## Local Desserts
+- Koláče (Czech pastries)
+- Trdelník (Czech pastry)
+- Pannkocky (Czech pancakes)
+- Medvědí hrušky (Czech bear's paw)
+- Krekulky (Czech cookies)

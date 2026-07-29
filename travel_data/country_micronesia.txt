@@ -427,3 +427,24 @@ No information available from web search.
 ## List of museums in Micronesia (Web Search Fallback)
 
 No information available from web search.
+
+## Famous Holiday Destinations
+- Palau
+- Yap
+- Chuuk
+- Kosrae
+- Pohnpei
+
+## Famous Museums
+- National Museum of Fine Arts, Manila, Philippines
+- Louvre Museum, Paris, France
+- British Museum, London, United Kingdom
+- The Metropolitan Museum of Art, New York City, USA
+- Museum of Modern Art, New York City, USA
+
+## Local Desserts
+- Red Rice Cake (Kusam)
+- Coconut Cream Pie (Kakaw)
+- Pandan Rice Cake (Kusog)
+- Mango Pudding (Kokowa)
+- Papaya Pie (Kawaw)

@@ -815,3 +815,24 @@ Museums and Collections in Romania
 Museums and Collections in Romania (Romanian version)
 Museums in Romania
 Museums from Romanian Regions
+
+## Famous Holiday Destinations
+- Burgenland, Austria
+- Amalfi Coast, Italy
+- Santorini, Greece
+- Mykonos, Greece
+- Dubrovnik, Croatia
+
+## Famous Museums
+- The Louvre, France
+- The British Museum, UK
+- The Metropolitan Museum of Art, USA
+- The Hermitage Museum, Russia
+- The Vatican Museums, Vatican City
+
+## Local Desserts
+- Sărbătoarea (Romanian Easter cake)
+- Cozonac (sweet Easter bread)
+- Mămăligă cu mămăligă (cornmeal porridge with a sweet topping)
+- Mărar (a type of honey cake)
+- Papanici (a sweet bread filled with cheese and raisins)

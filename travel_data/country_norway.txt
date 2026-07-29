@@ -804,3 +804,24 @@ List of museums
 List of museums in Svalbard
 Tourism in Norway
 Culture of Norway
+
+## Famous Holiday Destinations
+- Bergen
+- Tromsø
+- Ålesund
+- Bergen
+- Svalbard
+
+## Famous Museums
+- The Viking Ship Museum, Oslo
+- The Munch Museum, Oslo
+- The Norwegian Museum of Cultural History, Oslo
+- The National Gallery, Oslo
+- The Sami Parliament, Kautokeino
+
+## Local Desserts
+- Krumkake
+- Lefse
+- Rømmegrød
+- Kakerpotter
+- Marzipan

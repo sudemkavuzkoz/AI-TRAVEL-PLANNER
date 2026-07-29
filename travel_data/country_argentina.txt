@@ -625,3 +625,24 @@ References
 
 Museos Argentinos (in Spanish)
 Welcome to Argentina: Museums
+
+## Famous Holiday Destinations
+- Ushuaia, Tierra del Fuego
+- Mar del Plata, Buenos Aires Province
+- Tandil, Buenos Aires Province
+- Esquel, Chubut Province
+- Los Glaciares National Park, Patagonia
+
+## Famous Museums
+- Museo Nacional de Bellas Artes (National Fine Arts Museum), Buenos Aires
+- Museo del Sauzal, Buenos Aires
+- Museo de Arte Contemporáneo (MACBA), Barcelona (Spain)
+- Museo de la Memoria y Tolerancia, Buenos Aires
+- Museo del Ejército, Buenos Aires
+
+## Local Desserts
+- Alfajores
+- Pastel de Choclo
+- Choclo con Mango
+- Alfajores de Milho
+- Pastel de Naranja

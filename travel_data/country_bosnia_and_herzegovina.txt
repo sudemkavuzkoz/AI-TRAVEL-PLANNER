@@ -642,3 +642,24 @@ List of World Heritage Sites in Bosnia and Herzegovina
 List of archives in Bosnia and Herzegovina
 List of libraries in Bosnia and Herzegovina
 Architecture of Bosnia and Herzegovina
+
+## Famous Holiday Destinations
+- Dubrovnik, Croatia
+- Split, Croatia
+- Zadar, Croatia
+- Trogir, Croatia
+- Hvar, Croatia
+
+## Famous Museums
+- National Museum of Bosnia and Herzegovina, Sarajevo
+- Museum of Modern Art, Sarajevo
+- Gazi Husrev-bey Library, Sarajevo
+- National Museum of Islamic Art, Sarajevo
+- Museum of Natural History, Sarajevo
+
+## Local Desserts
+- Baklava
+- Krem outer
+- Krem inner
+- Burek
+- Baklava with pistachios

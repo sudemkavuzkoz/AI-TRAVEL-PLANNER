@@ -26,7 +26,7 @@ def enrich_file(filepath):
         # Already enriched
         return False
         
-    prompt = f"List 5 famous real museums, 5 famous real restaurants, and 5 famous real local desserts in {country}. Use bullet points and group them under '## Famous Museums', '## Famous Restaurants', and '## Local Desserts'. Do not add conversational intro/outro text."
+    prompt = f"List 5 famous real holiday destinations or coastal towns, 5 famous real museums, and 5 famous real local desserts in {country}. Use bullet points and group them under '## Famous Holiday Destinations', '## Famous Museums', and '## Local Desserts'. Do not add conversational intro/outro text. Write ONLY the requested sections in English."
     sys_prompt = "You are a helpful travel data assistant. Give concise bullet points. Output only the requested sections."
     
     print(f"Generating data for {country}...")
